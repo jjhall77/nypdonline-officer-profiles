@@ -1,0 +1,12 @@
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.DS_Store*
+
+nypd-profiles-*-training-*.json
+*.csv
+
+node_modules/
+
+.yarn/*
+!.yarn/patches

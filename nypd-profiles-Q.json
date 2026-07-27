@@ -1,0 +1,8519 @@
+[
+	{
+		"taxid": 969306,
+		"full_name": "QADEER, SHAMSUDDIN",
+		"first_name": "SHAMSUDDIN",
+		"last_name": "QADEER",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "27846",
+		"appt_date": "1/6/2020",
+		"recognition_count": 0,
+		"arrest_count": 3,
+		"reports": {
+			"summary": {
+				"command": "TRANSIT DISTRICT 23",
+				"assignment_date": "12/18/2023",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "27846",
+				"appt_date": "1/6/2020"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/6/2020",
+					"shield_no": "27846"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"misdemeanor": 3
+			},
+			"awards": []
+		},
+		"command": "TRANSIT DISTRICT 23"
+	},
+	{
+		"taxid": 980124,
+		"full_name": "QADRI, HAMIZ A",
+		"first_name": "HAMIZ",
+		"last_name": "QADRI",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "4258",
+		"appt_date": "7/3/2024",
+		"recognition_count": 1,
+		"arrest_count": 24,
+		"reports": {
+			"summary": {
+				"command": "034 PRECINCT",
+				"assignment_date": "4/7/2025",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "4258",
+				"appt_date": "7/3/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/3/2024",
+					"shield_no": "4258"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 8,
+				"misdemeanor": 16
+			},
+			"awards": [
+				{
+					"date": "5/11/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "034 PRECINCT"
+	},
+	{
+		"taxid": 985966,
+		"full_name": "QELIQI, YUKON",
+		"first_name": "YUKON",
+		"last_name": "QELIQI",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "14192",
+		"appt_date": "4/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "14192",
+				"appt_date": "4/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "14192"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
+		"taxid": 970106,
+		"full_name": "QIN, CARMEN",
+		"first_name": "CARMEN",
+		"last_name": "QIN",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "12666",
+		"appt_date": "11/2/2020",
+		"recognition_count": 0,
+		"arrest_count": 121,
+		"reports": {
+			"summary": {
+				"command": "014 PCT-MIDTOWN SO. PCT",
+				"assignment_date": "5/10/2021",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "12666",
+				"appt_date": "11/2/2020"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "11/2/2020",
+					"shield_no": "12666"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 44,
+				"misdemeanor": 77
+			},
+			"awards": []
+		},
+		"command": "014 PCT-MIDTOWN SO. PCT"
+	},
+	{
+		"taxid": 962030,
+		"full_name": "QOSJA, LABEAT",
+		"first_name": "LABEAT",
+		"last_name": "QOSJA",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "8520",
+		"appt_date": "7/13/2016",
+		"recognition_count": 2,
+		"arrest_count": 39,
+		"reports": {
+			"summary": {
+				"command": "TB SUBWAY SAFETY TASK FORCE",
+				"assignment_date": "1/22/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "8520",
+				"appt_date": "7/13/2016"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/13/2016",
+					"shield_no": "8520"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 5,
+				"misdemeanor": 30,
+				"violation": 4
+			},
+			"awards": [
+				{
+					"date": "10/28/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/27/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "TB SUBWAY SAFETY TASK FORCE"
+	},
+	{
+		"taxid": 962031,
+		"full_name": "QU, JASON",
+		"first_name": "JASON",
+		"last_name": "QU",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "10957",
+		"appt_date": "7/13/2016",
+		"recognition_count": 2,
+		"arrest_count": 29,
+		"reports": {
+			"summary": {
+				"command": "WORLD TRADE CENTER COMMAND",
+				"assignment_date": "5/26/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10957",
+				"appt_date": "7/13/2016"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/13/2016",
+					"shield_no": "10957"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"misdemeanor": 25,
+				"violation": 4
+			},
+			"awards": [
+				{
+					"date": "6/1/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/23/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "WORLD TRADE CENTER COMMAND"
+	},
+	{
+		"taxid": 964714,
+		"full_name": "QU, JENNY",
+		"first_name": "JENNY",
+		"last_name": "QU",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "1687",
+		"appt_date": "10/18/2017",
+		"recognition_count": 0,
+		"arrest_count": 52,
+		"reports": {
+			"summary": {
+				"command": "102 PRECINCT",
+				"assignment_date": "1/9/2019",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "1687",
+				"appt_date": "10/18/2017"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/18/2017",
+					"shield_no": "1687"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 22,
+				"misdemeanor": 30
+			},
+			"awards": []
+		},
+		"command": "102 PRECINCT"
+	},
+	{
+		"taxid": 973142,
+		"full_name": "QU, SU",
+		"first_name": "SU",
+		"last_name": "QU",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "9334",
+		"appt_date": "10/15/2021",
+		"recognition_count": 1,
+		"arrest_count": 39,
+		"reports": {
+			"summary": {
+				"command": "TB ANTI TERRORISM UNIT",
+				"assignment_date": "1/5/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "9334",
+				"appt_date": "10/15/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/15/2021",
+					"shield_no": "9334"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"misdemeanor": 27,
+				"violation": 12
+			},
+			"awards": [
+				{
+					"date": "2/12/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "TB ANTI TERRORISM UNIT"
+	},
+	{
+		"taxid": 984789,
+		"full_name": "QUACH, ANDREW L",
+		"first_name": "ANDREW",
+		"last_name": "QUACH",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "6895",
+		"appt_date": "12/17/2025",
+		"recognition_count": 0,
+		"arrest_count": 1,
+		"reports": {
+			"summary": {
+				"command": "032 PRECINCT",
+				"assignment_date": "7/1/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "6895",
+				"appt_date": "12/17/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/17/2025",
+					"shield_no": "6895"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"misdemeanor": 1
+			},
+			"awards": []
+		},
+		"command": "032 PRECINCT"
+	},
+	{
+		"taxid": 979422,
+		"full_name": "QUACH, KEVIN",
+		"first_name": "KEVIN",
+		"last_name": "QUACH",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "19828",
+		"appt_date": "4/24/2024",
+		"recognition_count": 0,
+		"arrest_count": 22,
+		"reports": {
+			"summary": {
+				"command": "005 PRECINCT",
+				"assignment_date": "8/18/2025",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "19828",
+				"appt_date": "4/24/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/24/2024",
+					"shield_no": "19828"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 20
+			},
+			"awards": []
+		},
+		"command": "005 PRECINCT"
+	},
+	{
+		"taxid": 948265,
+		"full_name": "QUACH, VICTOR",
+		"first_name": "VICTOR",
+		"last_name": "QUACH",
+		"middle_initial": "",
+		"rank": "LIEUTENANT",
+		"shield_no": "",
+		"appt_date": "7/14/2009",
+		"recognition_count": 2,
+		"arrest_count": 101,
+		"reports": {
+			"summary": {
+				"command": "TIMES SQUARE UNIT",
+				"assignment_date": "2/27/2023",
+				"ethnicity": "ASIAN",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
+				"appt_date": "7/14/2009"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/14/2009",
+					"shield_no": "27558"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "9/30/2016",
+					"shield_no": "2641"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "7/21/2022",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 10,
+				"misdemeanor": 91
+			},
+			"awards": [
+				{
+					"date": "3/7/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/23/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "TIMES SQUARE UNIT"
+	},
+	{
+		"taxid": 959097,
+		"full_name": "QUACKENBUSH, MICHAEL J",
+		"first_name": "MICHAEL",
+		"last_name": "QUACKENBUSH",
+		"middle_initial": "J",
+		"rank": "SERGEANT",
+		"shield_no": "2732",
+		"appt_date": "7/8/2015",
+		"recognition_count": 8,
+		"arrest_count": 41,
+		"reports": {
+			"summary": {
+				"command": "070 PRECINCT",
+				"assignment_date": "9/8/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "SERGEANT",
+				"shield_no": "2732",
+				"appt_date": "7/8/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2015",
+					"shield_no": "17883"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "11/27/2024",
+					"shield_no": "2732"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 7,
+				"misdemeanor": 31,
+				"violation": 3
+			},
+			"awards": [
+				{
+					"date": "11/4/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/20/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/29/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/8/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/6/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/8/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/8/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/13/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "070 PRECINCT"
+	},
+	{
+		"taxid": 982584,
+		"full_name": "QUADER, JUMMAN",
+		"first_name": "JUMMAN",
+		"last_name": "QUADER",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "22910",
+		"appt_date": "4/30/2025",
+		"recognition_count": 0,
+		"arrest_count": 12,
+		"reports": {
+			"summary": {
+				"command": "043 PCT FIELD TRAINING UNIT",
+				"assignment_date": "2/3/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "22910",
+				"appt_date": "4/30/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/30/2025",
+					"shield_no": "22910"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 8,
+				"misdemeanor": 4
+			},
+			"awards": []
+		},
+		"command": "043 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 948266,
+		"full_name": "QUADER, MOHAMMED A",
+		"first_name": "MOHAMMED",
+		"last_name": "QUADER",
+		"middle_initial": "A",
+		"rank": "SERGEANT",
+		"shield_no": "5593",
+		"appt_date": "7/14/2009",
+		"recognition_count": 3,
+		"arrest_count": 87,
+		"reports": {
+			"summary": {
+				"command": "DATA ANALYSIS & MAPPING SEC",
+				"assignment_date": "9/27/2023",
+				"ethnicity": "ASIAN",
+				"rank_desc": "SERGEANT",
+				"shield_no": "5593",
+				"appt_date": "7/14/2009"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/14/2009",
+					"shield_no": "26008"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "8/30/2019",
+					"shield_no": "5593"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 10,
+				"misdemeanor": 66,
+				"violation": 11
+			},
+			"awards": [
+				{
+					"date": "12/24/2013",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/26/2011",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/12/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "DATA ANALYSIS & MAPPING SEC"
+	},
+	{
+		"taxid": 958649,
+		"full_name": "QUADRI, AZEEZ",
+		"first_name": "AZEEZ",
+		"last_name": "QUADRI",
+		"middle_initial": "",
+		"rank": "DETECTIVE SPECIALIST",
+		"shield_no": "410",
+		"appt_date": "7/8/2015",
+		"recognition_count": 1,
+		"arrest_count": 23,
+		"reports": {
+			"summary": {
+				"command": "CRITICAL RESPONSE COMMAND",
+				"assignment_date": "10/7/2019",
+				"ethnicity": "ASIAN",
+				"rank_desc": "DETECTIVE SPECIALIST",
+				"shield_no": "410",
+				"appt_date": "7/8/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "11/18/2017",
+					"shield_no": "1104"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "10/7/2019",
+					"shield_no": "410"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 10,
+				"misdemeanor": 12,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "7/28/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "CRITICAL RESPONSE COMMAND"
+	},
+	{
+		"taxid": 961130,
+		"full_name": "QUAGLIANO, DEBORAH L",
+		"first_name": "DEBORAH",
+		"last_name": "QUAGLIANO",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "8033",
+		"appt_date": "1/6/2016",
+		"recognition_count": 3,
+		"arrest_count": 39,
+		"reports": {
+			"summary": {
+				"command": "069 PRECINCT",
+				"assignment_date": "9/9/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "8033",
+				"appt_date": "1/6/2016"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/6/2016",
+					"shield_no": "8033"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 3,
+				"misdemeanor": 35,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "7/26/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/13/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/30/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "069 PRECINCT"
+	},
+	{
+		"taxid": 953279,
+		"full_name": "QUAGLIATA, MARCHELO",
+		"first_name": "MARCHELO",
+		"last_name": "QUAGLIATA",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "10644",
+		"appt_date": "7/11/2012",
+		"recognition_count": 5,
+		"arrest_count": 201,
+		"reports": {
+			"summary": {
+				"command": "123 PRECINCT",
+				"assignment_date": "5/6/2014",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10644",
+				"appt_date": "7/11/2012"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2012",
+					"shield_no": "10644"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 11,
+				"felony": 37,
+				"misdemeanor": 148,
+				"violation": 5
+			},
+			"awards": [
+				{
+					"date": "9/9/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/4/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/1/2023",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "2/28/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/22/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "123 PRECINCT"
+	},
+	{
+		"taxid": 949516,
+		"full_name": "QUALLIS, CAMEEL S",
+		"first_name": "CAMEEL",
+		"last_name": "QUALLIS",
+		"middle_initial": "S",
+		"rank": "SGT DET SQUAD",
+		"shield_no": "2158",
+		"appt_date": "7/6/2010",
+		"recognition_count": 7,
+		"arrest_count": 216,
+		"reports": {
+			"summary": {
+				"command": "BROOKLYN ADULT SEX CRIMES SQUAD",
+				"assignment_date": "6/6/2022",
+				"ethnicity": "BLACK",
+				"rank_desc": "SGT DET SQUAD",
+				"shield_no": "2158",
+				"appt_date": "7/6/2010"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2010",
+					"shield_no": "13823"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "12/22/2017",
+					"shield_no": "825"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "10/30/2019",
+					"shield_no": "2158"
+				},
+				{
+					"rank": "SGT DET SQUAD",
+					"date": "5/31/2024",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 70,
+				"misdemeanor": 129,
+				"violation": 17
+			},
+			"awards": [
+				{
+					"date": "4/13/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/31/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/26/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/13/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/9/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/10/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/10/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "BROOKLYN ADULT SEX CRIMES SQUAD"
+	},
+	{
+		"taxid": 968075,
+		"full_name": "QUARSHIE, ISAAC D",
+		"first_name": "ISAAC",
+		"last_name": "QUARSHIE",
+		"middle_initial": "D",
+		"rank": "POLICE OFFICER",
+		"shield_no": "21243",
+		"appt_date": "7/1/2019",
+		"recognition_count": 7,
+		"arrest_count": 116,
+		"reports": {
+			"summary": {
+				"command": "079 PRECINCT",
+				"assignment_date": "10/22/2020",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "21243",
+				"appt_date": "7/1/2019"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2019",
+					"shield_no": "21243"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 60,
+				"misdemeanor": 54,
+				"other": 1,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "9/6/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/16/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/23/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/22/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/15/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/17/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/14/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "079 PRECINCT"
+	},
+	{
+		"taxid": 981746,
+		"full_name": "QUASHIE, LIKAY D",
+		"first_name": "LIKAY",
+		"last_name": "QUASHIE",
+		"middle_initial": "D",
+		"rank": "POLICE OFFICER",
+		"shield_no": "10480",
+		"appt_date": "1/29/2025",
+		"recognition_count": 0,
+		"arrest_count": 2,
+		"reports": {
+			"summary": {
+				"command": "023 PRECINCT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10480",
+				"appt_date": "1/29/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/29/2025",
+					"shield_no": "10480"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"misdemeanor": 2
+			},
+			"awards": []
+		},
+		"command": "023 PRECINCT"
+	},
+	{
+		"taxid": 972186,
+		"full_name": "QUASHIESMITH, TYRIQUE K",
+		"first_name": "TYRIQUE",
+		"last_name": "QUASHIESMITH",
+		"middle_initial": "K",
+		"rank": "POLICE OFFICER",
+		"shield_no": "25566",
+		"appt_date": "7/7/2021",
+		"recognition_count": 0,
+		"arrest_count": 59,
+		"reports": {
+			"summary": {
+				"command": "103 PRECINCT",
+				"assignment_date": "12/30/2021",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "25566",
+				"appt_date": "7/7/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/7/2021",
+					"shield_no": "25566"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 20,
+				"misdemeanor": 39
+			},
+			"awards": []
+		},
+		"command": "103 PRECINCT"
+	},
+	{
+		"taxid": 953280,
+		"full_name": "QUATRALE, PETER D",
+		"first_name": "PETER",
+		"last_name": "QUATRALE",
+		"middle_initial": "D",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "6409",
+		"appt_date": "7/11/2012",
+		"recognition_count": 8,
+		"arrest_count": 235,
+		"reports": {
+			"summary": {
+				"command": "GUN VIOLENCE REDUCTION SQUAD Z2",
+				"assignment_date": "5/14/2021",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "6409",
+				"appt_date": "7/11/2012"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2012",
+					"shield_no": "31215"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "12/22/2017",
+					"shield_no": "6409"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 72,
+				"misdemeanor": 161,
+				"other": 1
+			},
+			"awards": [
+				{
+					"date": "2/9/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/5/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/4/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/4/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/1/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/30/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/15/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/21/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "GUN VIOLENCE REDUCTION SQUAD Z2"
+	},
+	{
+		"taxid": 952133,
+		"full_name": "QUATTROCCHI, DAVID J",
+		"first_name": "DAVID",
+		"last_name": "QUATTROCCHI",
+		"middle_initial": "J",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "4905",
+		"appt_date": "1/9/2012",
+		"recognition_count": 14,
+		"arrest_count": 370,
+		"reports": {
+			"summary": {
+				"command": "075 DET SQUAD",
+				"assignment_date": "7/5/2017",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "4905",
+				"appt_date": "1/9/2012"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/9/2012",
+					"shield_no": "15010"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "10/26/2018",
+					"shield_no": "4905"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 176,
+				"misdemeanor": 181,
+				"violation": 12
+			},
+			"awards": [
+				{
+					"date": "3/3/2022",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "11/26/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/21/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/11/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/17/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/15/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/10/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/13/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/30/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/29/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/24/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/18/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/11/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/17/2014",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "075 DET SQUAD"
+	},
+	{
+		"taxid": 959098,
+		"full_name": "QUATTROCK, ROBERT B",
+		"first_name": "ROBERT",
+		"last_name": "QUATTROCK",
+		"middle_initial": "B",
+		"rank": "POLICE OFFICER",
+		"shield_no": "19905",
+		"appt_date": "7/8/2015",
+		"recognition_count": 6,
+		"arrest_count": 61,
+		"reports": {
+			"summary": {
+				"command": "SCUBA UNIT",
+				"assignment_date": "10/5/2018",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "19905",
+				"appt_date": "7/8/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2015",
+					"shield_no": "19905"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 6,
+				"misdemeanor": 52,
+				"violation": 3
+			},
+			"awards": [
+				{
+					"date": "6/29/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/18/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/16/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/28/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/1/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/22/2016",
+					"name": "COMMENDATION"
+				}
+			]
+		},
+		"command": "SCUBA UNIT"
+	},
+	{
+		"taxid": 942388,
+		"full_name": "QUAYLE, FRANCO E",
+		"first_name": "FRANCO",
+		"last_name": "QUAYLE",
+		"middle_initial": "E",
+		"rank": "POLICE OFFICER",
+		"shield_no": "8306",
+		"appt_date": "7/10/2006",
+		"recognition_count": 2,
+		"arrest_count": 95,
+		"reports": {
+			"summary": {
+				"command": "108 PRECINCT",
+				"assignment_date": "11/25/2023",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "8306",
+				"appt_date": "7/10/2006"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/10/2006",
+					"shield_no": "8306"
+				}
+			],
+			"documents": [
+				{
+					"date": "9/9/2025",
+					"url": "https://nypdonline.org/files/942388_09092025_2025037.pdf",
+					"type": "Trial Decision"
+				}
+			],
+			"disciplineHistory": [
+				{
+					"entry": "12/14/2018 12:00:00 AM",
+					"charges_count": 3
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "GUILTY",
+							"description": "Violated confidential informant procedures.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "Wrongfully accessed confidential Department information.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "Gambling.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )"
+						}
+					]
+				}
+			],
+			"arrests": {
+				"felony": 24,
+				"misdemeanor": 67,
+				"violation": 4
+			},
+			"awards": [
+				{
+					"date": "7/25/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/2/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "108 PRECINCT"
+	},
+	{
+		"taxid": 965432,
+		"full_name": "QUEALY, PETER D",
+		"first_name": "PETER",
+		"last_name": "QUEALY",
+		"middle_initial": "D",
+		"rank": "POLICE OFFICER",
+		"shield_no": "16991",
+		"appt_date": "1/10/2018",
+		"recognition_count": 0,
+		"arrest_count": 34,
+		"reports": {
+			"summary": {
+				"command": "PBQN COMMUNITY AFFAIRS SECTION",
+				"assignment_date": "2/11/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "16991",
+				"appt_date": "1/10/2018"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2018",
+					"shield_no": "16991"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 9,
+				"misdemeanor": 25
+			},
+			"awards": []
+		},
+		"command": "PBQN COMMUNITY AFFAIRS SECTION"
+	},
+	{
+		"taxid": 947370,
+		"full_name": "QUEALY, SEAN J",
+		"first_name": "SEAN",
+		"last_name": "QUEALY",
+		"middle_initial": "J",
+		"rank": "DETECTIVE 2ND GRADE",
+		"shield_no": "2033",
+		"appt_date": "7/8/2008",
+		"recognition_count": 11,
+		"arrest_count": 529,
+		"reports": {
+			"summary": {
+				"command": "JOINT TERRORIST TASK FORCE",
+				"assignment_date": "9/14/2018",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 2ND GRADE",
+				"shield_no": "2033",
+				"appt_date": "7/8/2008"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2008",
+					"shield_no": "24465"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "1/30/2015",
+					"shield_no": "2033"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 2,
+				"felony": 114,
+				"misdemeanor": 393,
+				"other": 1,
+				"violation": 19
+			},
+			"awards": [
+				{
+					"date": "8/4/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/8/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/25/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/1/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/19/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/30/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/21/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/20/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/10/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/16/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/14/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "JOINT TERRORIST TASK FORCE"
+	},
+	{
+		"taxid": 978724,
+		"full_name": "QUEBE, RAOUL M",
+		"first_name": "RAOUL",
+		"last_name": "QUEBE",
+		"middle_initial": "M",
+		"rank": "POLICE OFFICER",
+		"shield_no": "20613",
+		"appt_date": "1/3/2024",
+		"recognition_count": 0,
+		"arrest_count": 16,
+		"reports": {
+			"summary": {
+				"command": "107 PRECINCT",
+				"assignment_date": "7/16/2024",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "20613",
+				"appt_date": "1/3/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/3/2024",
+					"shield_no": "21232"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/25/2024",
+					"shield_no": "20613"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 4,
+				"misdemeanor": 12
+			},
+			"awards": []
+		},
+		"command": "107 PRECINCT"
+	},
+	{
+		"taxid": 984790,
+		"full_name": "QUEIJO, GABRIELLE L",
+		"first_name": "GABRIELLE",
+		"last_name": "QUEIJO",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "1135",
+		"appt_date": "12/17/2025",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "114 PRECINCT",
+				"assignment_date": "7/1/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "1135",
+				"appt_date": "12/17/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/17/2025",
+					"shield_no": "1135"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "114 PRECINCT"
+	},
+	{
+		"taxid": 985967,
+		"full_name": "QUEIROLO, GIANLUCA V",
+		"first_name": "GIANLUCA",
+		"last_name": "QUEIROLO",
+		"middle_initial": "V",
+		"rank": "POLICE OFFICER",
+		"shield_no": "20022",
+		"appt_date": "4/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "20022",
+				"appt_date": "4/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "20022"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
+		"taxid": 984791,
+		"full_name": "QUELIXTAVAREZ, JOHN F",
+		"first_name": "JOHN",
+		"last_name": "QUELIXTAVAREZ",
+		"middle_initial": "F",
+		"rank": "POLICE OFFICER",
+		"shield_no": "7461",
+		"appt_date": "12/17/2025",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "048 PRECINCT",
+				"assignment_date": "7/1/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "7461",
+				"appt_date": "12/17/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/17/2025",
+					"shield_no": "7461"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "048 PRECINCT"
+	},
+	{
+		"taxid": 984792,
+		"full_name": "QUEREN, MICHAEL J",
+		"first_name": "MICHAEL",
+		"last_name": "QUEREN",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "25308",
+		"appt_date": "12/17/2025",
+		"recognition_count": 0,
+		"arrest_count": 1,
+		"reports": {
+			"summary": {
+				"command": "069 PRECINCT",
+				"assignment_date": "7/1/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "25308",
+				"appt_date": "12/17/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/17/2025",
+					"shield_no": "25308"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"misdemeanor": 1
+			},
+			"awards": []
+		},
+		"command": "069 PRECINCT"
+	},
+	{
+		"taxid": 970786,
+		"full_name": "QUERO, MICHAEL A",
+		"first_name": "MICHAEL",
+		"last_name": "QUERO",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "12535",
+		"appt_date": "12/29/2020",
+		"recognition_count": 1,
+		"arrest_count": 45,
+		"reports": {
+			"summary": {
+				"command": "QUEENS COURT SECTION",
+				"assignment_date": "4/15/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "12535",
+				"appt_date": "12/29/2020"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/29/2020",
+					"shield_no": "12535"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 8,
+				"misdemeanor": 37
+			},
+			"awards": [
+				{
+					"date": "1/9/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "QUEENS COURT SECTION"
+	},
+	{
+		"taxid": 954251,
+		"full_name": "QUERVALU, ELIJAH",
+		"first_name": "ELIJAH",
+		"last_name": "QUERVALU",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "26589",
+		"appt_date": "1/9/2013",
+		"recognition_count": 0,
+		"arrest_count": 43,
+		"reports": {
+			"summary": {
+				"command": "HOUSING PSA 9",
+				"assignment_date": "12/17/2018",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "26589",
+				"appt_date": "1/9/2013"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/9/2013",
+					"shield_no": "26598"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "9/7/2023",
+					"shield_no": "26589"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 4,
+				"felony": 11,
+				"misdemeanor": 24,
+				"violation": 4
+			},
+			"awards": []
+		},
+		"command": "HOUSING PSA 9"
+	},
+	{
+		"taxid": 937315,
+		"full_name": "QUERY, BRIAN",
+		"first_name": "BRIAN",
+		"last_name": "QUERY",
+		"middle_initial": "",
+		"rank": "LT SPECIAL ASSIGN",
+		"shield_no": "",
+		"appt_date": "1/10/2005",
+		"recognition_count": 8,
+		"arrest_count": 175,
+		"reports": {
+			"summary": {
+				"command": "028 PRECINCT",
+				"assignment_date": "8/18/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "LT SPECIAL ASSIGN",
+				"shield_no": "",
+				"appt_date": "1/10/2005"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2005",
+					"shield_no": "6987"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "9/28/2011",
+					"shield_no": "5001"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "5/29/2020",
+					"shield_no": ""
+				},
+				{
+					"rank": "LT SPECIAL ASSIGN",
+					"date": "12/22/2023",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 28,
+				"misdemeanor": 143,
+				"violation": 3
+			},
+			"awards": [
+				{
+					"date": "9/19/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/22/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/20/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/4/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/27/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/24/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/27/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/25/2005",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "028 PRECINCT"
+	},
+	{
+		"taxid": 978975,
+		"full_name": "QUESADA, KYLE D",
+		"first_name": "KYLE",
+		"last_name": "QUESADA",
+		"middle_initial": "D",
+		"rank": "POLICE OFFICER",
+		"shield_no": "28799",
+		"appt_date": "1/17/2024",
+		"recognition_count": 1,
+		"arrest_count": 26,
+		"reports": {
+			"summary": {
+				"command": "123 PRECINCT",
+				"assignment_date": "7/16/2024",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "28799",
+				"appt_date": "1/17/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/17/2024",
+					"shield_no": "28799"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 6,
+				"misdemeanor": 19
+			},
+			"awards": [
+				{
+					"date": "3/7/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "123 PRECINCT"
+	},
+	{
+		"taxid": 951094,
+		"full_name": "QUEVEDO, THOMAS W",
+		"first_name": "THOMAS",
+		"last_name": "QUEVEDO",
+		"middle_initial": "W",
+		"rank": "SERGEANT",
+		"shield_no": "2770",
+		"appt_date": "7/6/2011",
+		"recognition_count": 24,
+		"arrest_count": 127,
+		"reports": {
+			"summary": {
+				"command": "TB BUS ENFORCEMENT UNIT",
+				"assignment_date": "10/23/2023",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "SERGEANT",
+				"shield_no": "2770",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "5154"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "2/9/2022",
+					"shield_no": "2770"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 38,
+				"misdemeanor": 84,
+				"violation": 5
+			},
+			"awards": [
+				{
+					"date": "8/19/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/18/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/7/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/15/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/1/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/10/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/9/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/17/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/16/2021",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "11/16/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/11/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/13/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/13/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/28/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/27/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/29/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/26/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/26/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/5/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/13/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/18/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/12/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/22/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/19/2014",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "TB BUS ENFORCEMENT UNIT"
+	},
+	{
+		"taxid": 942389,
+		"full_name": "QUEY, RINGO H",
+		"first_name": "RINGO",
+		"last_name": "QUEY",
+		"middle_initial": "H",
+		"rank": "POLICE OFFICER",
+		"shield_no": "26104",
+		"appt_date": "7/10/2006",
+		"recognition_count": 2,
+		"arrest_count": 89,
+		"reports": {
+			"summary": {
+				"command": "HOUSING PSA 6",
+				"assignment_date": "1/22/2024",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "26104",
+				"appt_date": "7/10/2006"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/10/2006",
+					"shield_no": "26104"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 8,
+				"misdemeanor": 68,
+				"violation": 13
+			},
+			"awards": [
+				{
+					"date": "12/23/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/27/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "HOUSING PSA 6"
+	},
+	{
+		"taxid": 946137,
+		"full_name": "QUEZADA, CHRISTIAN A",
+		"first_name": "CHRISTIAN",
+		"last_name": "QUEZADA",
+		"middle_initial": "A",
+		"rank": "DETECTIVE 2ND GRADE",
+		"shield_no": "4000",
+		"appt_date": "1/7/2008",
+		"recognition_count": 2,
+		"arrest_count": 428,
+		"reports": {
+			"summary": {
+				"command": "COD DISCOVERY LIAISON UNIT",
+				"assignment_date": "8/25/2021",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE 2ND GRADE",
+				"shield_no": "4000",
+				"appt_date": "1/7/2008"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/7/2008",
+					"shield_no": "15834"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "4/24/2015",
+					"shield_no": "4000"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 111,
+				"misdemeanor": 304,
+				"violation": 13
+			},
+			"awards": [
+				{
+					"date": "7/6/2012",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/8/2009",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "COD DISCOVERY LIAISON UNIT"
+	},
+	{
+		"taxid": 948407,
+		"full_name": "QUEZADA, CHRISTIAN A",
+		"first_name": "CHRISTIAN",
+		"last_name": "QUEZADA",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "26968",
+		"appt_date": "7/14/2009",
+		"recognition_count": 0,
+		"arrest_count": 101,
+		"reports": {
+			"summary": {
+				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"assignment_date": "11/17/2016",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "26968",
+				"appt_date": "7/14/2009"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/14/2009",
+					"shield_no": "26968"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 4,
+				"felony": 21,
+				"misdemeanor": 76
+			},
+			"awards": []
+		},
+		"command": "MILITARY & EXTENDED LEAVE DESK"
+	},
+	{
+		"taxid": 970788,
+		"full_name": "QUEZADA, ERIK J",
+		"first_name": "ERIK",
+		"last_name": "QUEZADA",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "8956",
+		"appt_date": "12/29/2020",
+		"recognition_count": 0,
+		"arrest_count": 69,
+		"reports": {
+			"summary": {
+				"command": "046 PRECINCT",
+				"assignment_date": "7/1/2021",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "8956",
+				"appt_date": "12/29/2020"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/29/2020",
+					"shield_no": "8956"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 23,
+				"misdemeanor": 46
+			},
+			"awards": []
+		},
+		"command": "046 PRECINCT"
+	},
+	{
+		"taxid": 962032,
+		"full_name": "QUEZADA, ILIANA",
+		"first_name": "ILIANA",
+		"last_name": "QUEZADA",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "10967",
+		"appt_date": "7/13/2016",
+		"recognition_count": 0,
+		"arrest_count": 28,
+		"reports": {
+			"summary": {
+				"command": "TB ANTI TERRORISM UNIT",
+				"assignment_date": "1/5/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10967",
+				"appt_date": "7/13/2016"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/13/2016",
+					"shield_no": "10967"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 10,
+				"misdemeanor": 17,
+				"violation": 1
+			},
+			"awards": []
+		},
+		"command": "TB ANTI TERRORISM UNIT"
+	},
+	{
+		"taxid": 975104,
+		"full_name": "QUEZADA, JORDY",
+		"first_name": "JORDY",
+		"last_name": "QUEZADA",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "701",
+		"appt_date": "7/13/2022",
+		"recognition_count": 0,
+		"arrest_count": 75,
+		"reports": {
+			"summary": {
+				"command": "050 PRECINCT",
+				"assignment_date": "9/29/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "701",
+				"appt_date": "7/13/2022"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/13/2022",
+					"shield_no": "25426"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2025",
+					"shield_no": "701"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 23,
+				"misdemeanor": 50,
+				"violation": 2
+			},
+			"awards": []
+		},
+		"command": "050 PRECINCT"
+	},
+	{
+		"taxid": 963220,
+		"full_name": "QUEZADA, LUIS R",
+		"first_name": "LUIS",
+		"last_name": "QUEZADA",
+		"middle_initial": "R",
+		"rank": "POLICE OFFICER",
+		"shield_no": "25130",
+		"appt_date": "1/4/2017",
+		"recognition_count": 4,
+		"arrest_count": 108,
+		"reports": {
+			"summary": {
+				"command": "019 PRECINCT",
+				"assignment_date": "2/7/2018",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "25130",
+				"appt_date": "1/4/2017"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/4/2017",
+					"shield_no": "25130"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 32,
+				"misdemeanor": 76
+			},
+			"awards": [
+				{
+					"date": "10/16/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/26/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/22/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/14/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "019 PRECINCT"
+	},
+	{
+		"taxid": 937317,
+		"full_name": "QUEZADA, NILDA C",
+		"first_name": "NILDA",
+		"last_name": "QUEZADA",
+		"middle_initial": "C",
+		"rank": "POLICE OFFICER",
+		"shield_no": "4316",
+		"appt_date": "1/10/2005",
+		"recognition_count": 2,
+		"arrest_count": 110,
+		"reports": {
+			"summary": {
+				"command": "024 PRECINCT",
+				"assignment_date": "2/2/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "4316",
+				"appt_date": "1/10/2005"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2005",
+					"shield_no": "4316"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 31,
+				"misdemeanor": 75,
+				"violation": 4
+			},
+			"awards": [
+				{
+					"date": "3/7/2026",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "5/25/2006",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "024 PRECINCT"
+	},
+	{
+		"taxid": 946138,
+		"full_name": "QUEZADA, ORSY A",
+		"first_name": "ORSY",
+		"last_name": "QUEZADA",
+		"middle_initial": "A",
+		"rank": "SERGEANT",
+		"shield_no": "652",
+		"appt_date": "1/7/2008",
+		"recognition_count": 12,
+		"arrest_count": 215,
+		"reports": {
+			"summary": {
+				"command": "CSO INVESTIGATIONS UNIT",
+				"assignment_date": "6/23/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "SERGEANT",
+				"shield_no": "652",
+				"appt_date": "1/7/2008"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/7/2008",
+					"shield_no": "17340"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "3/18/2021",
+					"shield_no": "652"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 70,
+				"misdemeanor": 134,
+				"violation": 11
+			},
+			"awards": [
+				{
+					"date": "4/13/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/7/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/12/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/7/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/21/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/20/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/19/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/8/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/6/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/27/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/1/2010",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/10/2010",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "CSO INVESTIGATIONS UNIT"
+	},
+	{
+		"taxid": 978139,
+		"full_name": "QUEZADA, PATRIC S",
+		"first_name": "PATRIC",
+		"last_name": "QUEZADA",
+		"middle_initial": "S",
+		"rank": "POLICE OFFICER",
+		"shield_no": "30357",
+		"appt_date": "10/25/2023",
+		"recognition_count": 0,
+		"arrest_count": 36,
+		"reports": {
+			"summary": {
+				"command": "TRANSIT DISTRICT 11",
+				"assignment_date": "5/7/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "30357",
+				"appt_date": "10/25/2023"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/25/2023",
+					"shield_no": "28379"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/11/2024",
+					"shield_no": "30357"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 6,
+				"misdemeanor": 27,
+				"violation": 3
+			},
+			"awards": []
+		},
+		"command": "TRANSIT DISTRICT 11"
+	},
+	{
+		"taxid": 983689,
+		"full_name": "QUEZADA, SCARLETT",
+		"first_name": "SCARLETT",
+		"last_name": "QUEZADA",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "23194",
+		"appt_date": "8/20/2025",
+		"recognition_count": 0,
+		"arrest_count": 7,
+		"reports": {
+			"summary": {
+				"command": "047 PCT FIELD TRAINING UNIT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "23194",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "23194"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 5
+			},
+			"awards": []
+		},
+		"command": "047 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 952135,
+		"full_name": "QUEZADA, WILSEY A",
+		"first_name": "WILSEY",
+		"last_name": "QUEZADA",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "2392",
+		"appt_date": "1/9/2012",
+		"recognition_count": 1,
+		"arrest_count": 63,
+		"reports": {
+			"summary": {
+				"command": "CRITICAL RESPONSE COMMAND",
+				"assignment_date": "11/14/2015",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "2392",
+				"appt_date": "1/9/2012"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/9/2012",
+					"shield_no": "2392"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 24,
+				"misdemeanor": 39
+			},
+			"awards": [
+				{
+					"date": "10/5/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "CRITICAL RESPONSE COMMAND"
+	},
+	{
+		"taxid": 970107,
+		"full_name": "QUEZADA, YAMILEX",
+		"first_name": "YAMILEX",
+		"last_name": "QUEZADA",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "24587",
+		"appt_date": "11/2/2020",
+		"recognition_count": 0,
+		"arrest_count": 43,
+		"reports": {
+			"summary": {
+				"command": "SSD YOUTH RESPONSE TEAM",
+				"assignment_date": "7/21/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "24587",
+				"appt_date": "11/2/2020"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "11/2/2020",
+					"shield_no": "24587"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 18,
+				"misdemeanor": 24,
+				"violation": 1
+			},
+			"awards": []
+		},
+		"command": "SSD YOUTH RESPONSE TEAM"
+	},
+	{
+		"taxid": 985968,
+		"full_name": "QUEZADA, YUDELKIS A",
+		"first_name": "YUDELKIS",
+		"last_name": "QUEZADA",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "12819",
+		"appt_date": "4/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "12819",
+				"appt_date": "4/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "12819"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
+		"taxid": 976342,
+		"full_name": "QUEZADATORRES, CAROLINA P",
+		"first_name": "CAROLINA",
+		"last_name": "QUEZADATORRES",
+		"middle_initial": "P",
+		"rank": "POLICE OFFICER",
+		"shield_no": "7898",
+		"appt_date": "1/17/2023",
+		"recognition_count": 0,
+		"arrest_count": 23,
+		"reports": {
+			"summary": {
+				"command": "HOUSING PSA 8",
+				"assignment_date": "7/26/2023",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "7898",
+				"appt_date": "1/17/2023"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/17/2023",
+					"shield_no": "7898"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 7,
+				"misdemeanor": 15,
+				"violation": 1
+			},
+			"awards": []
+		},
+		"command": "HOUSING PSA 8"
+	},
+	{
+		"taxid": 970108,
+		"full_name": "QUICK, DIANDRA L",
+		"first_name": "DIANDRA",
+		"last_name": "QUICK",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "16979",
+		"appt_date": "11/2/2020",
+		"recognition_count": 0,
+		"arrest_count": 23,
+		"reports": {
+			"summary": {
+				"command": "023 PRECINCT",
+				"assignment_date": "5/10/2021",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "16979",
+				"appt_date": "11/2/2020"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "11/2/2020",
+					"shield_no": "16979"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 9,
+				"misdemeanor": 14
+			},
+			"awards": []
+		},
+		"command": "023 PRECINCT"
+	},
+	{
+		"taxid": 966053,
+		"full_name": "QUICK, GENESIS",
+		"first_name": "GENESIS",
+		"last_name": "QUICK",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "15264",
+		"appt_date": "7/2/2018",
+		"recognition_count": 0,
+		"arrest_count": 57,
+		"reports": {
+			"summary": {
+				"command": "EMER SERV SQ 03",
+				"assignment_date": "7/18/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "15264",
+				"appt_date": "7/2/2018"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/2/2018",
+					"shield_no": "15264"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 23,
+				"misdemeanor": 34
+			},
+			"awards": []
+		},
+		"command": "EMER SERV SQ 03"
+	},
+	{
+		"taxid": 954252,
+		"full_name": "QUIGLEY, NICKOLAS T",
+		"first_name": "NICKOLAS",
+		"last_name": "QUIGLEY",
+		"middle_initial": "T",
+		"rank": "POLICE OFFICER",
+		"shield_no": "6161",
+		"appt_date": "1/9/2013",
+		"recognition_count": 1,
+		"arrest_count": 43,
+		"reports": {
+			"summary": {
+				"command": "CRITICAL RESPONSE COMMAND",
+				"assignment_date": "9/19/2016",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "6161",
+				"appt_date": "1/9/2013"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/9/2013",
+					"shield_no": "6161"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 33,
+				"violation": 8
+			},
+			"awards": [
+				{
+					"date": "7/28/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "CRITICAL RESPONSE COMMAND"
+	},
+	{
+		"taxid": 934081,
+		"full_name": "QUIGLEY, PATRICK E",
+		"first_name": "PATRICK",
+		"last_name": "QUIGLEY",
+		"middle_initial": "E",
+		"rank": "SGT SPECIAL ASSIGN",
+		"shield_no": "5",
+		"appt_date": "1/20/2004",
+		"recognition_count": 50,
+		"arrest_count": 111,
+		"reports": {
+			"summary": {
+				"command": "CT OPERATIONAL SUPPORT SECTION",
+				"assignment_date": "6/7/2021",
+				"ethnicity": "WHITE",
+				"rank_desc": "SGT SPECIAL ASSIGN",
+				"shield_no": "5",
+				"appt_date": "1/20/2004"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/20/2004",
+					"shield_no": "10451"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "2/27/2009",
+					"shield_no": "5"
+				},
+				{
+					"rank": "SGT DET SQUAD",
+					"date": "11/22/2016",
+					"shield_no": ""
+				}
+			],
+			"documents": [
+				{
+					"date": "2/26/2015",
+					"url": "https://nypdonline.org/files/934081_02262015_2015154.pdf",
+					"type": "Trial Decision"
+				}
+			],
+			"disciplineHistory": [
+				{
+					"entry": "11/1/2017 12:00:00 AM",
+					"charges_count": 2
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "GUILTY",
+							"description": "FAILED TO SUPERVISE MEMBERS OF THE SERVICE BY LEAVING MEMBERS ALONE DURING THE EXECUTION OF A SEARCH WARRANT.",
+							"group_id": "1",
+							"penalty": "VACATION DAYS (20 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "CONDUCTED AN IMPROPER SEARCH INSIDE A BEDROOM BY OPENING A BLACK BOX CONTAINING A PISTOL WITHUT LEGAL AUTHORITY.",
+							"group_id": "1",
+							"penalty": "VACATION DAYS (20 day(s) )"
+						}
+					]
+				}
+			],
+			"arrests": {
+				"felony": 47,
+				"misdemeanor": 61,
+				"violation": 3
+			},
+			"awards": [
+				{
+					"date": "11/21/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/6/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/29/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/27/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/1/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/16/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/17/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/28/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/21/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/5/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/12/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/10/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/11/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/19/2014",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "8/13/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/20/2012",
+					"name": "HONORABLE MENTION"
+				},
+				{
+					"date": "9/20/2012",
+					"name": "MEDAL FOR VALOR"
+				},
+				{
+					"date": "9/9/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/9/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/31/2012",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/13/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/28/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/28/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/28/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/24/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/14/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/22/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/29/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/17/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/31/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/7/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/18/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/2/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/23/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/7/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/18/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/18/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/3/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/2/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/28/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/31/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/22/2010",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/1/2007",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/17/2007",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/15/2007",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/5/2007",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/27/2007",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/21/2007",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/25/2007",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/21/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "CT OPERATIONAL SUPPORT SECTION"
+	},
+	{
+		"taxid": 972187,
+		"full_name": "QUIGLEY, VANESSA L",
+		"first_name": "VANESSA",
+		"last_name": "QUIGLEY",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "26805",
+		"appt_date": "7/7/2021",
+		"recognition_count": 0,
+		"arrest_count": 100,
+		"reports": {
+			"summary": {
+				"command": "120 PRECINCT",
+				"assignment_date": "12/30/2021",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "26805",
+				"appt_date": "7/7/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/7/2021",
+					"shield_no": "26805"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 38,
+				"misdemeanor": 64
+			},
+			"awards": []
+		},
+		"command": "120 PRECINCT"
+	},
+	{
+		"taxid": 951095,
+		"full_name": "QUIJADA, JORGE L",
+		"first_name": "JORGE",
+		"last_name": "QUIJADA",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "24015",
+		"appt_date": "7/6/2011",
+		"recognition_count": 2,
+		"arrest_count": 167,
+		"reports": {
+			"summary": {
+				"command": "TRANSIT DISTRICT 1",
+				"assignment_date": "5/24/2023",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "24015",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "24015"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 3,
+				"misdemeanor": 155,
+				"other": 1,
+				"violation": 8
+			},
+			"awards": [
+				{
+					"date": "12/13/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/9/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "TRANSIT DISTRICT 1"
+	},
+	{
+		"taxid": 981747,
+		"full_name": "QUIJIJEDELGADO, RANDY J",
+		"first_name": "RANDY",
+		"last_name": "QUIJIJEDELGADO",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "11647",
+		"appt_date": "1/29/2025",
+		"recognition_count": 0,
+		"arrest_count": 15,
+		"reports": {
+			"summary": {
+				"command": "041 PRECINCT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "11647",
+				"appt_date": "1/29/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/29/2025",
+					"shield_no": "11647"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 5,
+				"misdemeanor": 10
+			},
+			"awards": []
+		},
+		"command": "041 PRECINCT"
+	},
+	{
+		"taxid": 946657,
+		"full_name": "QUILES, ADAM J",
+		"first_name": "ADAM",
+		"last_name": "QUILES",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "13313",
+		"appt_date": "7/8/2008",
+		"recognition_count": 0,
+		"arrest_count": 87,
+		"reports": {
+			"summary": {
+				"command": "MEDICAL DIVISION",
+				"assignment_date": "8/21/2023",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "13313",
+				"appt_date": "7/8/2008"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/22/2008",
+					"shield_no": "13313"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 9,
+				"misdemeanor": 76,
+				"violation": 2
+			},
+			"awards": []
+		},
+		"command": "MEDICAL DIVISION"
+	},
+	{
+		"taxid": 967656,
+		"full_name": "QUILES, BRANDON",
+		"first_name": "BRANDON",
+		"last_name": "QUILES",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "13921",
+		"appt_date": "4/15/2019",
+		"recognition_count": 15,
+		"arrest_count": 152,
+		"reports": {
+			"summary": {
+				"command": "HOUSING PSA 7",
+				"assignment_date": "7/1/2020",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "13921",
+				"appt_date": "4/15/2019"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/15/2019",
+					"shield_no": "13921"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 49,
+				"misdemeanor": 100,
+				"violation": 3
+			},
+			"awards": [
+				{
+					"date": "6/13/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/30/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/28/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/4/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/30/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/28/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/26/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/19/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/19/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/24/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/1/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/4/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/4/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/26/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/19/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "HOUSING PSA 7"
+	},
+	{
+		"taxid": 940599,
+		"full_name": "QUILES, CARMELO",
+		"first_name": "CARMELO",
+		"last_name": "QUILES",
+		"middle_initial": "",
+		"rank": "LT SPECIAL ASSIGN",
+		"shield_no": "",
+		"appt_date": "1/9/2006",
+		"recognition_count": 6,
+		"arrest_count": 130,
+		"reports": {
+			"summary": {
+				"command": "TRANSIT DISTRICT 12",
+				"assignment_date": "12/19/2022",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "LT SPECIAL ASSIGN",
+				"shield_no": "",
+				"appt_date": "1/9/2006"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/9/2006",
+					"shield_no": "27566"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "3/30/2012",
+					"shield_no": "3862"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "8/30/2019",
+					"shield_no": ""
+				},
+				{
+					"rank": "LT SPECIAL ASSIGN",
+					"date": "11/25/2025",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 15,
+				"misdemeanor": 114,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "2/22/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/28/2012",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/17/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/13/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/20/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/17/2010",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "TRANSIT DISTRICT 12"
+	},
+	{
+		"taxid": 978140,
+		"full_name": "QUILES, CHRISTOPHER",
+		"first_name": "CHRISTOPHER",
+		"last_name": "QUILES",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "16268",
+		"appt_date": "10/25/2023",
+		"recognition_count": 1,
+		"arrest_count": 63,
+		"reports": {
+			"summary": {
+				"command": "HOUSING PSA 5",
+				"assignment_date": "5/7/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "16268",
+				"appt_date": "10/25/2023"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/25/2023",
+					"shield_no": "322"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/19/2023",
+					"shield_no": "16268"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 20,
+				"misdemeanor": 41,
+				"violation": 2
+			},
+			"awards": [
+				{
+					"date": "3/10/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "HOUSING PSA 5"
+	},
+	{
+		"taxid": 975105,
+		"full_name": "QUILES, ILIANA",
+		"first_name": "ILIANA",
+		"last_name": "QUILES",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "26530",
+		"appt_date": "7/13/2022",
+		"recognition_count": 0,
+		"arrest_count": 25,
+		"reports": {
+			"summary": {
+				"command": "050 PRECINCT",
+				"assignment_date": "2/27/2023",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "26530",
+				"appt_date": "7/13/2022"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/13/2022",
+					"shield_no": "26530"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 7,
+				"misdemeanor": 18
+			},
+			"awards": []
+		},
+		"command": "050 PRECINCT"
+	},
+	{
+		"taxid": 939256,
+		"full_name": "QUILES, JASON D",
+		"first_name": "JASON",
+		"last_name": "QUILES",
+		"middle_initial": "D",
+		"rank": "SERGEANT",
+		"shield_no": "5261",
+		"appt_date": "7/11/2005",
+		"recognition_count": 0,
+		"arrest_count": 111,
+		"reports": {
+			"summary": {
+				"command": "LOWER MANHATTAN SECURITY INITIATIVE",
+				"assignment_date": "3/27/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "SERGEANT",
+				"shield_no": "5261",
+				"appt_date": "7/11/2005"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2005",
+					"shield_no": "11445"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "1/29/2021",
+					"shield_no": "5261"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 22,
+				"misdemeanor": 86,
+				"violation": 2
+			},
+			"awards": []
+		},
+		"command": "LOWER MANHATTAN SECURITY INITIATIVE"
+	},
+	{
+		"taxid": 966288,
+		"full_name": "QUILES, JORGE L",
+		"first_name": "JORGE",
+		"last_name": "QUILES",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "7970",
+		"appt_date": "7/2/2018",
+		"recognition_count": 1,
+		"arrest_count": 100,
+		"reports": {
+			"summary": {
+				"command": "061 PRECINCT",
+				"assignment_date": "10/7/2019",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "7970",
+				"appt_date": "7/2/2018"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/2/2018",
+					"shield_no": "7970"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 21,
+				"misdemeanor": 78,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "2/5/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "061 PRECINCT"
+	},
+	{
+		"taxid": 978141,
+		"full_name": "QUILES, JOSE A",
+		"first_name": "JOSE",
+		"last_name": "QUILES",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "4964",
+		"appt_date": "10/25/2023",
+		"recognition_count": 0,
+		"arrest_count": 24,
+		"reports": {
+			"summary": {
+				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"assignment_date": "6/10/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "4964",
+				"appt_date": "10/25/2023"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/25/2023",
+					"shield_no": "4964"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 11,
+				"misdemeanor": 12,
+				"violation": 1
+			},
+			"awards": []
+		},
+		"command": "MILITARY & EXTENDED LEAVE DESK"
+	},
+	{
+		"taxid": 968076,
+		"full_name": "QUILES, QUILS S",
+		"first_name": "QUILS",
+		"last_name": "QUILES",
+		"middle_initial": "S",
+		"rank": "POLICE OFFICER",
+		"shield_no": "19884",
+		"appt_date": "7/1/2019",
+		"recognition_count": 0,
+		"arrest_count": 12,
+		"reports": {
+			"summary": {
+				"command": "073 PRECINCT",
+				"assignment_date": "1/25/2023",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "19884",
+				"appt_date": "7/1/2019"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2019",
+					"shield_no": "19884"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [
+				{
+					"entry": "3/29/2023 12:00:00 AM",
+					"charges_count": 7
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Operated a motor vehicle while intoxicated.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Operated a motor vehicle while impaired by alcohol.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Criminal mischief.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Refused to submit to a breathalyzer test.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Unfit for duty.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Unfit for duty while armed.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Failed to safeguard a firearm.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						}
+					]
+				}
+			],
+			"arrests": {
+				"felony": 7,
+				"misdemeanor": 5
+			},
+			"awards": []
+		},
+		"command": "073 PRECINCT"
+	},
+	{
+		"taxid": 974443,
+		"full_name": "QUILES, TYANNA I",
+		"first_name": "TYANNA",
+		"last_name": "QUILES",
+		"middle_initial": "I",
+		"rank": "POLICE OFFICER",
+		"shield_no": "6642",
+		"appt_date": "4/13/2022",
+		"recognition_count": 0,
+		"arrest_count": 31,
+		"reports": {
+			"summary": {
+				"command": "024 PRECINCT",
+				"assignment_date": "4/6/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "6642",
+				"appt_date": "4/13/2022"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/13/2022",
+					"shield_no": "6642"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 4,
+				"misdemeanor": 27
+			},
+			"awards": []
+		},
+		"command": "024 PRECINCT"
+	},
+	{
+		"taxid": 952136,
+		"full_name": "QUILESMORALES, SAUL D",
+		"first_name": "SAUL",
+		"last_name": "QUILESMORALES",
+		"middle_initial": "D",
+		"rank": "SERGEANT",
+		"shield_no": "368",
+		"appt_date": "1/9/2012",
+		"recognition_count": 56,
+		"arrest_count": 281,
+		"reports": {
+			"summary": {
+				"command": "046 PRECINCT",
+				"assignment_date": "8/19/2022",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "SERGEANT",
+				"shield_no": "368",
+				"appt_date": "1/9/2012"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/9/2012",
+					"shield_no": "5235"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "11/20/2018",
+					"shield_no": "1591"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "7/21/2022",
+					"shield_no": "368"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 138,
+				"misdemeanor": 139,
+				"other": 1,
+				"violation": 3
+			},
+			"awards": [
+				{
+					"date": "8/19/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/1/2023",
+					"name": "COMMENDATION - COMMUNITY SERVICE"
+				},
+				{
+					"date": "1/11/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/1/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/3/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/26/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/11/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/25/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/6/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/24/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/1/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/18/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/24/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/14/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/3/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/9/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/14/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/28/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/27/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/12/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/4/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/14/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/8/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/8/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/30/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/29/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/19/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/7/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/2/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/29/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/26/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/21/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/4/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/2/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/26/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/8/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/23/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/7/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/16/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/5/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/2/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/9/2016",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "1/9/2016",
+					"name": "EXCEPTIONAL MERIT"
+				},
+				{
+					"date": "1/1/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/1/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/28/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/16/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/6/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/15/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/27/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/12/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/22/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/13/2014",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/11/2014",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/12/2014",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/13/2014",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "046 PRECINCT"
+	},
+	{
+		"taxid": 959429,
+		"full_name": "QUILTY, RICHARD D",
+		"first_name": "RICHARD",
+		"last_name": "QUILTY",
+		"middle_initial": "D",
+		"rank": "POLICE OFFICER",
+		"shield_no": "20740",
+		"appt_date": "7/8/2015",
+		"recognition_count": 3,
+		"arrest_count": 56,
+		"reports": {
+			"summary": {
+				"command": "OPERATIONS UNIT",
+				"assignment_date": "5/6/2024",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "20740",
+				"appt_date": "7/8/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2015",
+					"shield_no": "20740"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 2,
+				"felony": 21,
+				"misdemeanor": 26,
+				"violation": 7
+			},
+			"awards": [
+				{
+					"date": "6/7/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/10/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/13/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "OPERATIONS UNIT"
+	},
+	{
+		"taxid": 966790,
+		"full_name": "QUIMIZCHAVEZ, JOSE W",
+		"first_name": "JOSE",
+		"last_name": "QUIMIZCHAVEZ",
+		"middle_initial": "W",
+		"rank": "POLICE OFFICER",
+		"shield_no": "1840",
+		"appt_date": "10/24/2018",
+		"recognition_count": 15,
+		"arrest_count": 206,
+		"reports": {
+			"summary": {
+				"command": "TRANSIT DISTRICT 1",
+				"assignment_date": "6/26/2020",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "1840",
+				"appt_date": "10/24/2018"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/24/2018",
+					"shield_no": "1840"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 29,
+				"misdemeanor": 170,
+				"other": 1,
+				"violation": 6
+			},
+			"awards": [
+				{
+					"date": "10/2/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/29/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/1/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/28/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/15/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/24/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/1/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/16/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/30/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/19/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/18/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/12/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/14/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/18/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/8/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "TRANSIT DISTRICT 1"
+	},
+	{
+		"taxid": 947371,
+		"full_name": "QUINCOSES, PERRY R",
+		"first_name": "PERRY",
+		"last_name": "QUINCOSES",
+		"middle_initial": "R",
+		"rank": "SERGEANT",
+		"shield_no": "5441",
+		"appt_date": "7/8/2008",
+		"recognition_count": 1,
+		"arrest_count": 162,
+		"reports": {
+			"summary": {
+				"command": "TRANSIT DISTRICT 3",
+				"assignment_date": "3/11/2019",
+				"ethnicity": "WHITE",
+				"rank_desc": "SERGEANT",
+				"shield_no": "5441",
+				"appt_date": "7/8/2008"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2008",
+					"shield_no": "20255"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "8/31/2015",
+					"shield_no": "5441"
+				}
+			],
+			"documents": [
+				{
+					"date": "1/7/2025",
+					"url": "https://nypdonline.org/files/947371_01072025_2025001.pdf",
+					"type": "Trial Decision"
+				}
+			],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 12,
+				"misdemeanor": 145,
+				"other": 1,
+				"violation": 3
+			},
+			"awards": [
+				{
+					"date": "3/4/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "TRANSIT DISTRICT 3"
+	},
+	{
+		"taxid": 985969,
+		"full_name": "QUINDELLIGUIPUMA, ANTHONY S",
+		"first_name": "ANTHONY",
+		"last_name": "QUINDELLIGUIPUMA",
+		"middle_initial": "S",
+		"rank": "POLICE OFFICER",
+		"shield_no": "12139",
+		"appt_date": "4/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "12139",
+				"appt_date": "4/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "12139"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
+		"taxid": 984793,
+		"full_name": "QUINLAN, NICHOLAS A",
+		"first_name": "NICHOLAS",
+		"last_name": "QUINLAN",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "19868",
+		"appt_date": "12/17/2025",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "110 PRECINCT",
+				"assignment_date": "7/1/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "19868",
+				"appt_date": "12/17/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/17/2025",
+					"shield_no": "19868"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "110 PRECINCT"
+	},
+	{
+		"taxid": 973683,
+		"full_name": "QUINN, BENJAMIN J",
+		"first_name": "BENJAMIN",
+		"last_name": "QUINN",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "21203",
+		"appt_date": "12/29/2021",
+		"recognition_count": 1,
+		"arrest_count": 87,
+		"reports": {
+			"summary": {
+				"command": "018 PCT-MIDTOWN NO. PCT",
+				"assignment_date": "12/21/2022",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "21203",
+				"appt_date": "12/29/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/29/2021",
+					"shield_no": "28718"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/1/2022",
+					"shield_no": "21203"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 28,
+				"misdemeanor": 58,
+				"other": 1
+			},
+			"awards": [
+				{
+					"date": "2/23/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "018 PCT-MIDTOWN NO. PCT"
+	},
+	{
+		"taxid": 944911,
+		"full_name": "QUINN, BRYAN P",
+		"first_name": "BRYAN",
+		"last_name": "QUINN",
+		"middle_initial": "P",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "6052",
+		"appt_date": "7/9/2007",
+		"recognition_count": 14,
+		"arrest_count": 309,
+		"reports": {
+			"summary": {
+				"command": "SIU COMPUTER CRIMES",
+				"assignment_date": "8/16/2021",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "6052",
+				"appt_date": "7/9/2007"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/9/2007",
+					"shield_no": "19275"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "12/23/2013",
+					"shield_no": "6052"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 101,
+				"misdemeanor": 193,
+				"other": 11,
+				"violation": 3
+			},
+			"awards": [
+				{
+					"date": "1/4/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/27/2013",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/20/2013",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/20/2013",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/4/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/26/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/28/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/13/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/1/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/7/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/29/2011",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/9/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/26/2010",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/29/2008",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "SIU COMPUTER CRIMES"
+	},
+	{
+		"taxid": 951097,
+		"full_name": "QUINN, JOHN J",
+		"first_name": "JOHN",
+		"last_name": "QUINN",
+		"middle_initial": "J",
+		"rank": "DETECTIVE SPECIALIST",
+		"shield_no": "5202",
+		"appt_date": "7/6/2011",
+		"recognition_count": 37,
+		"arrest_count": 119,
+		"reports": {
+			"summary": {
+				"command": "EMER SERV SQ 09",
+				"assignment_date": "1/20/2022",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE SPECIALIST",
+				"shield_no": "5202",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "15271"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "2/23/2024",
+					"shield_no": "5202"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 58,
+				"misdemeanor": 55,
+				"violation": 6
+			},
+			"awards": [
+				{
+					"date": "9/12/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/15/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/29/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/10/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/4/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/7/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/3/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/28/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/8/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/21/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/1/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/25/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/24/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/22/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/18/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/8/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/7/2016",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "12/7/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/12/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/31/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/10/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/31/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/15/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/22/2015",
+					"name": "HONORABLE MENTION"
+				},
+				{
+					"date": "4/22/2015",
+					"name": "POLICE COMBAT CROSS"
+				},
+				{
+					"date": "11/16/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/8/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/3/2014",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/31/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/21/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/30/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/29/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/23/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/26/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/27/2013",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/3/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/31/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "EMER SERV SQ 09"
+	},
+	{
+		"taxid": 959403,
+		"full_name": "QUINN, JOHN H",
+		"first_name": "JOHN",
+		"last_name": "QUINN",
+		"middle_initial": "H",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "2826",
+		"appt_date": "7/8/2015",
+		"recognition_count": 0,
+		"arrest_count": 254,
+		"reports": {
+			"summary": {
+				"command": "JUVENILE CRIME SECTION",
+				"assignment_date": "3/28/2024",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "2826",
+				"appt_date": "7/8/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2015",
+					"shield_no": "18776"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "1/26/2024",
+					"shield_no": "2826"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 159,
+				"misdemeanor": 83,
+				"other": 1,
+				"violation": 11
+			},
+			"awards": []
+		},
+		"command": "JUVENILE CRIME SECTION"
+	},
+	{
+		"taxid": 944912,
+		"full_name": "QUINN, KELLY H",
+		"first_name": "KELLY",
+		"last_name": "QUINN",
+		"middle_initial": "H",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "2901",
+		"appt_date": "7/9/2007",
+		"recognition_count": 8,
+		"arrest_count": 343,
+		"reports": {
+			"summary": {
+				"command": "075 DET SQUAD",
+				"assignment_date": "12/6/2016",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "2901",
+				"appt_date": "7/9/2007"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/9/2007",
+					"shield_no": "14097"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/24/2007",
+					"shield_no": "14019"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "11/21/2017",
+					"shield_no": "2901"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 3,
+				"felony": 166,
+				"misdemeanor": 163,
+				"other": 1,
+				"violation": 10
+			},
+			"awards": [
+				{
+					"date": "5/14/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/24/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/24/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/16/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/16/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/26/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/29/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/23/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "075 DET SQUAD"
+	},
+	{
+		"taxid": 954746,
+		"full_name": "QUINN, KERIN E",
+		"first_name": "KERIN",
+		"last_name": "QUINN",
+		"middle_initial": "E",
+		"rank": "LIEUTENANT",
+		"shield_no": "",
+		"appt_date": "7/9/2013",
+		"recognition_count": 1,
+		"arrest_count": 129,
+		"reports": {
+			"summary": {
+				"command": "AVIATION UNIT",
+				"assignment_date": "10/13/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
+				"appt_date": "7/9/2013"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/9/2013",
+					"shield_no": "10307"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "12/21/2018",
+					"shield_no": "2406"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "2/23/2024",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 25,
+				"misdemeanor": 71,
+				"violation": 33
+			},
+			"awards": [
+				{
+					"date": "2/4/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "AVIATION UNIT"
+	},
+	{
+		"taxid": 957977,
+		"full_name": "QUINN, KYLE J",
+		"first_name": "KYLE",
+		"last_name": "QUINN",
+		"middle_initial": "J",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "7749",
+		"appt_date": "1/7/2015",
+		"recognition_count": 1,
+		"arrest_count": 33,
+		"reports": {
+			"summary": {
+				"command": "FIREARMS INVESTIGATION UNIT",
+				"assignment_date": "2/26/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "7749",
+				"appt_date": "1/7/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/7/2015",
+					"shield_no": "13766"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "4/28/2023",
+					"shield_no": "7749"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 6,
+				"misdemeanor": 25,
+				"violation": 2
+			},
+			"awards": [
+				{
+					"date": "9/27/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "FIREARMS INVESTIGATION UNIT"
+	},
+	{
+		"taxid": 957061,
+		"full_name": "QUINN, MICHAEL P",
+		"first_name": "MICHAEL",
+		"last_name": "QUINN",
+		"middle_initial": "P",
+		"rank": "POLICE OFFICER",
+		"shield_no": "10941",
+		"appt_date": "7/9/2014",
+		"recognition_count": 0,
+		"arrest_count": 68,
+		"reports": {
+			"summary": {
+				"command": "CT OPERATIONAL SUPPORT SECTION",
+				"assignment_date": "3/26/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10941",
+				"appt_date": "7/9/2014"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/9/2014",
+					"shield_no": "10941"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 4,
+				"misdemeanor": 55,
+				"violation": 9
+			},
+			"awards": []
+		},
+		"command": "CT OPERATIONAL SUPPORT SECTION"
+	},
+	{
+		"taxid": 949519,
+		"full_name": "QUINN, RASHEED",
+		"first_name": "RASHEED",
+		"last_name": "QUINN",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "3214",
+		"appt_date": "7/6/2010",
+		"recognition_count": 0,
+		"arrest_count": 31,
+		"reports": {
+			"summary": {
+				"command": "PBMS SCOOTER TASK FORCE",
+				"assignment_date": "1/28/2016",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "3214",
+				"appt_date": "7/6/2010"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2010",
+					"shield_no": "3214"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"misdemeanor": 27,
+				"violation": 4
+			},
+			"awards": []
+		},
+		"command": "PBMS SCOOTER TASK FORCE"
+	},
+	{
+		"taxid": 912044,
+		"full_name": "QUINN, TIMOTHY P",
+		"first_name": "TIMOTHY",
+		"last_name": "QUINN",
+		"middle_initial": "P",
+		"rank": "DETECTIVE 1ST GRADE",
+		"shield_no": "4572",
+		"appt_date": "2/28/1994",
+		"recognition_count": 0,
+		"arrest_count": 2,
+		"reports": {
+			"summary": {
+				"command": "OPERATIONS & ANALYSIS SECTION",
+				"assignment_date": "7/10/2009",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 1ST GRADE",
+				"shield_no": "4572",
+				"appt_date": "2/28/1994"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/1/1995",
+					"shield_no": "10324"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "10/31/2008",
+					"shield_no": "4572"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2
+			},
+			"awards": []
+		},
+		"command": "OPERATIONS & ANALYSIS SECTION"
+	},
+	{
+		"taxid": 983690,
+		"full_name": "QUINN, TIMOTHY J",
+		"first_name": "TIMOTHY",
+		"last_name": "QUINN",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "10324",
+		"appt_date": "8/20/2025",
+		"recognition_count": 0,
+		"arrest_count": 9,
+		"reports": {
+			"summary": {
+				"command": "109 PCT FIELD TRAINING UNIT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10324",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "17919"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/28/2026",
+					"shield_no": "10324"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 3,
+				"misdemeanor": 6
+			},
+			"awards": []
+		},
+		"command": "109 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 953281,
+		"full_name": "QUINN, WILLIAM J",
+		"first_name": "WILLIAM",
+		"last_name": "QUINN",
+		"middle_initial": "J",
+		"rank": "SERGEANT",
+		"shield_no": "664",
+		"appt_date": "7/11/2012",
+		"recognition_count": 1,
+		"arrest_count": 146,
+		"reports": {
+			"summary": {
+				"command": "078 PRECINCT",
+				"assignment_date": "4/16/2021",
+				"ethnicity": "WHITE",
+				"rank_desc": "SERGEANT",
+				"shield_no": "664",
+				"appt_date": "7/11/2012"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2012",
+					"shield_no": "29620"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "3/18/2021",
+					"shield_no": "664"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 62,
+				"misdemeanor": 77,
+				"other": 1,
+				"violation": 6
+			},
+			"awards": [
+				{
+					"date": "11/27/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "078 PRECINCT"
+	},
+	{
+		"taxid": 977345,
+		"full_name": "QUINONES, ANTHONY",
+		"first_name": "ANTHONY",
+		"last_name": "QUINONES",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "14890",
+		"appt_date": "7/5/2023",
+		"recognition_count": 0,
+		"arrest_count": 111,
+		"reports": {
+			"summary": {
+				"command": "032 PRECINCT",
+				"assignment_date": "1/1/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "14890",
+				"appt_date": "7/5/2023"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/5/2023",
+					"shield_no": "14890"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 58,
+				"misdemeanor": 52,
+				"other": 1
+			},
+			"awards": []
+		},
+		"command": "032 PRECINCT"
+	},
+	{
+		"taxid": 947372,
+		"full_name": "QUINONES, ARLENE B",
+		"first_name": "ARLENE",
+		"last_name": "QUINONES",
+		"middle_initial": "B",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "252",
+		"appt_date": "7/8/2008",
+		"recognition_count": 3,
+		"arrest_count": 219,
+		"reports": {
+			"summary": {
+				"command": "QUEENS CHILD ABUSE SQUAD",
+				"assignment_date": "1/16/2021",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "252",
+				"appt_date": "7/8/2008"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2008",
+					"shield_no": "22710"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "6/24/2022",
+					"shield_no": "252"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 57,
+				"misdemeanor": 154,
+				"violation": 8
+			},
+			"awards": [
+				{
+					"date": "12/12/2011",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/6/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/14/2009",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "QUEENS CHILD ABUSE SQUAD"
+	},
+	{
+		"taxid": 981748,
+		"full_name": "QUINONES, CHRISTOPHER J",
+		"first_name": "CHRISTOPHER",
+		"last_name": "QUINONES",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "12762",
+		"appt_date": "1/29/2025",
+		"recognition_count": 0,
+		"arrest_count": 11,
+		"reports": {
+			"summary": {
+				"command": "018 PCT-MIDTOWN NO. PCT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "12762",
+				"appt_date": "1/29/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/29/2025",
+					"shield_no": "12762"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 9
+			},
+			"awards": []
+		},
+		"command": "018 PCT-MIDTOWN NO. PCT"
+	},
+	{
+		"taxid": 949901,
+		"full_name": "QUINONES, CLAIRE",
+		"first_name": "CLAIRE",
+		"last_name": "QUINONES",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "12272",
+		"appt_date": "7/6/2011",
+		"recognition_count": 1,
+		"arrest_count": 93,
+		"reports": {
+			"summary": {
+				"command": "028 PRECINCT",
+				"assignment_date": "12/8/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "12272",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "12272"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 10,
+				"misdemeanor": 81,
+				"violation": 2
+			},
+			"awards": [
+				{
+					"date": "7/27/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "028 PRECINCT"
+	},
+	{
+		"taxid": 983691,
+		"full_name": "QUINONES, JARED L",
+		"first_name": "JARED",
+		"last_name": "QUINONES",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "17578",
+		"appt_date": "8/20/2025",
+		"recognition_count": 0,
+		"arrest_count": 5,
+		"reports": {
+			"summary": {
+				"command": "034 PCT FIELD TRAINING UNIT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "17578",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "17578"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 3
+			},
+			"awards": []
+		},
+		"command": "034 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 959100,
+		"full_name": "QUINONES, JIMMY R",
+		"first_name": "JIMMY",
+		"last_name": "QUINONES",
+		"middle_initial": "R",
+		"rank": "SERGEANT",
+		"shield_no": "1565",
+		"appt_date": "7/8/2015",
+		"recognition_count": 1,
+		"arrest_count": 55,
+		"reports": {
+			"summary": {
+				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"assignment_date": "2/3/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "SERGEANT",
+				"shield_no": "1565",
+				"appt_date": "7/8/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2015",
+					"shield_no": "19304"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "7/28/2023",
+					"shield_no": "1565"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 5,
+				"misdemeanor": 50
+			},
+			"awards": [
+				{
+					"date": "2/14/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "MILITARY & EXTENDED LEAVE DESK"
+	},
+	{
+		"taxid": 975746,
+		"full_name": "QUINONES, JONATHAN",
+		"first_name": "JONATHAN",
+		"last_name": "QUINONES",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "15973",
+		"appt_date": "10/19/2022",
+		"recognition_count": 0,
+		"arrest_count": 78,
+		"reports": {
+			"summary": {
+				"command": "HOUSING PSA 5",
+				"assignment_date": "4/25/2023",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "15973",
+				"appt_date": "10/19/2022"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/19/2022",
+					"shield_no": "15973"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 34,
+				"misdemeanor": 44
+			},
+			"awards": []
+		},
+		"command": "HOUSING PSA 5"
+	},
+	{
+		"taxid": 980815,
+		"full_name": "QUINONES, JOSHUA J",
+		"first_name": "JOSHUA",
+		"last_name": "QUINONES",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "6464",
+		"appt_date": "10/30/2024",
+		"recognition_count": 0,
+		"arrest_count": 15,
+		"reports": {
+			"summary": {
+				"command": "034 PRECINCT",
+				"assignment_date": "2/3/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "6464",
+				"appt_date": "10/30/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/30/2024",
+					"shield_no": "6464"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 5,
+				"misdemeanor": 10
+			},
+			"awards": []
+		},
+		"command": "034 PRECINCT"
+	},
+	{
+		"taxid": 983692,
+		"full_name": "QUINONES, JOSHUA T",
+		"first_name": "JOSHUA",
+		"last_name": "QUINONES",
+		"middle_initial": "T",
+		"rank": "POLICE OFFICER",
+		"shield_no": "27608",
+		"appt_date": "8/20/2025",
+		"recognition_count": 0,
+		"arrest_count": 2,
+		"reports": {
+			"summary": {
+				"command": "034 PCT FIELD TRAINING UNIT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "27608",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "27608"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"misdemeanor": 2
+			},
+			"awards": []
+		},
+		"command": "034 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 959101,
+		"full_name": "QUINONES, JULIUS X",
+		"first_name": "JULIUS",
+		"last_name": "QUINONES",
+		"middle_initial": "X",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "7249",
+		"appt_date": "7/8/2015",
+		"recognition_count": 19,
+		"arrest_count": 110,
+		"reports": {
+			"summary": {
+				"command": "BROOKLYN ADULT SEX CRIMES SQUAD",
+				"assignment_date": "3/3/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "7249",
+				"appt_date": "7/8/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2015",
+					"shield_no": "5541"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "6/27/2025",
+					"shield_no": "7249"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 43,
+				"misdemeanor": 65,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "7/6/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/16/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/6/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/15/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/7/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/18/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/7/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/19/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/15/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/18/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/22/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/15/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/17/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/26/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/1/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/4/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/27/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/12/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/29/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "BROOKLYN ADULT SEX CRIMES SQUAD"
+	},
+	{
+		"taxid": 968723,
+		"full_name": "QUINONES, JUSTIN J",
+		"first_name": "JUSTIN",
+		"last_name": "QUINONES",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "24710",
+		"appt_date": "10/7/2019",
+		"recognition_count": 1,
+		"arrest_count": 87,
+		"reports": {
+			"summary": {
+				"command": "066 PRECINCT",
+				"assignment_date": "3/10/2021",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "24710",
+				"appt_date": "10/7/2019"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/7/2019",
+					"shield_no": "24710"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 30,
+				"misdemeanor": 57
+			},
+			"awards": [
+				{
+					"date": "7/5/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "066 PRECINCT"
+	},
+	{
+		"taxid": 962704,
+		"full_name": "QUINONES, KENNETH J",
+		"first_name": "KENNETH",
+		"last_name": "QUINONES",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "19350",
+		"appt_date": "10/11/2016",
+		"recognition_count": 1,
+		"arrest_count": 61,
+		"reports": {
+			"summary": {
+				"command": "034 PRECINCT",
+				"assignment_date": "12/13/2017",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "19350",
+				"appt_date": "10/11/2016"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/11/2016",
+					"shield_no": "19350"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 19,
+				"misdemeanor": 42
+			},
+			"awards": [
+				{
+					"date": "5/19/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "034 PRECINCT"
+	},
+	{
+		"taxid": 955352,
+		"full_name": "QUINONES, MARICELA",
+		"first_name": "MARICELA",
+		"last_name": "QUINONES",
+		"middle_initial": "",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "1855",
+		"appt_date": "7/9/2013",
+		"recognition_count": 0,
+		"arrest_count": 365,
+		"reports": {
+			"summary": {
+				"command": "SVU NYPD/HL SEC SEX TRAF TF",
+				"assignment_date": "12/26/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "1855",
+				"appt_date": "7/9/2013"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/9/2013",
+					"shield_no": "10648"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "7/29/2019",
+					"shield_no": "1855"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 165,
+				"misdemeanor": 185,
+				"other": 3,
+				"violation": 12
+			},
+			"awards": []
+		},
+		"command": "SVU NYPD/HL SEC SEX TRAF TF"
+	},
+	{
+		"taxid": 981749,
+		"full_name": "QUINONES, MATTHEW J",
+		"first_name": "MATTHEW",
+		"last_name": "QUINONES",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "13375",
+		"appt_date": "1/29/2025",
+		"recognition_count": 0,
+		"arrest_count": 12,
+		"reports": {
+			"summary": {
+				"command": "041 PRECINCT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "13375",
+				"appt_date": "1/29/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/29/2025",
+					"shield_no": "13375"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 10
+			},
+			"awards": []
+		},
+		"command": "041 PRECINCT"
+	},
+	{
+		"taxid": 953282,
+		"full_name": "QUINONES, MICHAEL",
+		"first_name": "MICHAEL",
+		"last_name": "QUINONES",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "29678",
+		"appt_date": "7/11/2012",
+		"recognition_count": 5,
+		"arrest_count": 201,
+		"reports": {
+			"summary": {
+				"command": "034 PRECINCT",
+				"assignment_date": "7/20/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "29678",
+				"appt_date": "7/11/2012"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2012",
+					"shield_no": "29678"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 61,
+				"misdemeanor": 131,
+				"violation": 9
+			},
+			"awards": [
+				{
+					"date": "8/30/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/14/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/13/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/9/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/9/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "034 PRECINCT"
+	},
+	{
+		"taxid": 943705,
+		"full_name": "QUINONES, NELSON",
+		"first_name": "NELSON",
+		"last_name": "QUINONES",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "14652",
+		"appt_date": "1/10/2007",
+		"recognition_count": 3,
+		"arrest_count": 116,
+		"reports": {
+			"summary": {
+				"command": "025 PRECINCT",
+				"assignment_date": "7/21/2008",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "14652",
+				"appt_date": "1/10/2007"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2007",
+					"shield_no": "14652"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 31,
+				"misdemeanor": 83,
+				"violation": 2
+			},
+			"awards": [
+				{
+					"date": "6/19/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/1/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/25/2009",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "025 PRECINCT"
+	},
+	{
+		"taxid": 955353,
+		"full_name": "QUINONES, NICOLE A",
+		"first_name": "NICOLE",
+		"last_name": "QUINONES",
+		"middle_initial": "A",
+		"rank": "SERGEANT",
+		"shield_no": "4268",
+		"appt_date": "7/9/2013",
+		"recognition_count": 0,
+		"arrest_count": 85,
+		"reports": {
+			"summary": {
+				"command": "PATROL BORO BRONX NORTH",
+				"assignment_date": "5/19/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "SERGEANT",
+				"shield_no": "4268",
+				"appt_date": "7/9/2013"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/9/2013",
+					"shield_no": "14544"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "12/23/2022",
+					"shield_no": "4268"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 13,
+				"misdemeanor": 72
+			},
+			"awards": []
+		},
+		"command": "PATROL BORO BRONX NORTH"
+	},
+	{
+		"taxid": 970789,
+		"full_name": "QUINONES, NILDA I",
+		"first_name": "NILDA",
+		"last_name": "QUINONES",
+		"middle_initial": "I",
+		"rank": "POLICE OFFICER",
+		"shield_no": "9663",
+		"appt_date": "12/29/2020",
+		"recognition_count": 2,
+		"arrest_count": 52,
+		"reports": {
+			"summary": {
+				"command": "048 PRECINCT",
+				"assignment_date": "7/1/2021",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "9663",
+				"appt_date": "12/29/2020"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/29/2020",
+					"shield_no": "9663"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 22,
+				"misdemeanor": 30
+			},
+			"awards": [
+				{
+					"date": "7/22/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/10/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "048 PRECINCT"
+	},
+	{
+		"taxid": 949335,
+		"full_name": "QUINONES, ORLANDO R",
+		"first_name": "ORLANDO",
+		"last_name": "QUINONES",
+		"middle_initial": "R",
+		"rank": "POLICE OFFICER",
+		"shield_no": "11593",
+		"appt_date": "7/6/2010",
+		"recognition_count": 0,
+		"arrest_count": 90,
+		"reports": {
+			"summary": {
+				"command": "WORLD TRADE CENTER COMMAND",
+				"assignment_date": "2/24/2014",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "11593",
+				"appt_date": "7/6/2010"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2010",
+					"shield_no": "11593"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 12,
+				"misdemeanor": 68,
+				"violation": 10
+			},
+			"awards": []
+		},
+		"command": "WORLD TRADE CENTER COMMAND"
+	},
+	{
+		"taxid": 979423,
+		"full_name": "QUINTANA, ANA G",
+		"first_name": "ANA",
+		"last_name": "QUINTANA",
+		"middle_initial": "G",
+		"rank": "POLICE OFFICER",
+		"shield_no": "4990",
+		"appt_date": "4/24/2024",
+		"recognition_count": 0,
+		"arrest_count": 86,
+		"reports": {
+			"summary": {
+				"command": "014 PCT-MIDTOWN SO. PCT",
+				"assignment_date": "11/1/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "4990",
+				"appt_date": "4/24/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/24/2024",
+					"shield_no": "4990"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 20,
+				"misdemeanor": 66
+			},
+			"awards": []
+		},
+		"command": "014 PCT-MIDTOWN SO. PCT"
+	},
+	{
+		"taxid": 959908,
+		"full_name": "QUINTANA, JOSHUA",
+		"first_name": "JOSHUA",
+		"last_name": "QUINTANA",
+		"middle_initial": "",
+		"rank": "SERGEANT",
+		"shield_no": "4987",
+		"appt_date": "10/7/2015",
+		"recognition_count": 2,
+		"arrest_count": 63,
+		"reports": {
+			"summary": {
+				"command": "SCHOOL SAFETY DIVISION",
+				"assignment_date": "6/29/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "SERGEANT",
+				"shield_no": "4987",
+				"appt_date": "10/7/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/7/2015",
+					"shield_no": "16391"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "6/28/2024",
+					"shield_no": "4987"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 13,
+				"misdemeanor": 50
+			},
+			"awards": [
+				{
+					"date": "1/21/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/9/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "SCHOOL SAFETY DIVISION"
+	},
+	{
+		"taxid": 951098,
+		"full_name": "QUINTANILLA, FERNANDO L",
+		"first_name": "FERNANDO",
+		"last_name": "QUINTANILLA",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "10757",
+		"appt_date": "7/6/2011",
+		"recognition_count": 3,
+		"arrest_count": 103,
+		"reports": {
+			"summary": {
+				"command": "104 PRECINCT",
+				"assignment_date": "11/19/2012",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10757",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "10757"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 18,
+				"misdemeanor": 78,
+				"violation": 6
+			},
+			"awards": [
+				{
+					"date": "11/1/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/4/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/15/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "104 PRECINCT"
+	},
+	{
+		"taxid": 959103,
+		"full_name": "QUINTANILLA, JASON A",
+		"first_name": "JASON",
+		"last_name": "QUINTANILLA",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "6123",
+		"appt_date": "7/8/2015",
+		"recognition_count": 9,
+		"arrest_count": 98,
+		"reports": {
+			"summary": {
+				"command": "105 PRECINCT",
+				"assignment_date": "12/30/2015",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "6123",
+				"appt_date": "7/8/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2015",
+					"shield_no": "6123"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 32,
+				"misdemeanor": 65,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "4/30/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/24/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/23/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/24/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/10/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/24/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/31/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/21/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/28/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "105 PRECINCT"
+	},
+	{
+		"taxid": 980816,
+		"full_name": "QUINTERO, CARLOS J",
+		"first_name": "CARLOS",
+		"last_name": "QUINTERO",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "10825",
+		"appt_date": "10/30/2024",
+		"recognition_count": 0,
+		"arrest_count": 2,
+		"reports": {
+			"summary": {
+				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"assignment_date": "1/29/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10825",
+				"appt_date": "10/30/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/30/2024",
+					"shield_no": "10825"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 1,
+				"misdemeanor": 1
+			},
+			"awards": []
+		},
+		"command": "MILITARY & EXTENDED LEAVE DESK"
+	},
+	{
+		"taxid": 982585,
+		"full_name": "QUINTERO, HAILEY D",
+		"first_name": "HAILEY",
+		"last_name": "QUINTERO",
+		"middle_initial": "D",
+		"rank": "POLICE OFFICER",
+		"shield_no": "23357",
+		"appt_date": "4/30/2025",
+		"recognition_count": 0,
+		"arrest_count": 16,
+		"reports": {
+			"summary": {
+				"command": "047 PCT FIELD TRAINING UNIT",
+				"assignment_date": "2/3/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "23357",
+				"appt_date": "4/30/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/30/2025",
+					"shield_no": "23357"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 6,
+				"misdemeanor": 10
+			},
+			"awards": []
+		},
+		"command": "047 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 985970,
+		"full_name": "QUINTERO, JONATHAN A",
+		"first_name": "JONATHAN",
+		"last_name": "QUINTERO",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "14767",
+		"appt_date": "4/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "14767",
+				"appt_date": "4/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "14767"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
+		"taxid": 961133,
+		"full_name": "QUINTERO, JUSTIN K",
+		"first_name": "JUSTIN",
+		"last_name": "QUINTERO",
+		"middle_initial": "K",
+		"rank": "POLICE OFFICER",
+		"shield_no": "13526",
+		"appt_date": "1/6/2016",
+		"recognition_count": 0,
+		"arrest_count": 78,
+		"reports": {
+			"summary": {
+				"command": "AUTO POUNDS",
+				"assignment_date": "3/3/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "13526",
+				"appt_date": "1/6/2016"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/6/2016",
+					"shield_no": "13526"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 25,
+				"misdemeanor": 52,
+				"violation": 1
+			},
+			"awards": []
+		},
+		"command": "AUTO POUNDS"
+	},
+	{
+		"taxid": 962705,
+		"full_name": "QUINTERO, NIKOLAS E",
+		"first_name": "NIKOLAS",
+		"last_name": "QUINTERO",
+		"middle_initial": "E",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "5960",
+		"appt_date": "10/11/2016",
+		"recognition_count": 7,
+		"arrest_count": 80,
+		"reports": {
+			"summary": {
+				"command": "WARRANT SECTION",
+				"assignment_date": "7/24/2022",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "5960",
+				"appt_date": "10/11/2016"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/11/2016",
+					"shield_no": "22114"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "11/21/2023",
+					"shield_no": "5960"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 38,
+				"misdemeanor": 41
+			},
+			"awards": [
+				{
+					"date": "6/30/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/27/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/24/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/8/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/28/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/6/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/18/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "WARRANT SECTION"
+	},
+	{
+		"taxid": 943706,
+		"full_name": "QUINTERO, ROGER",
+		"first_name": "ROGER",
+		"last_name": "QUINTERO",
+		"middle_initial": "",
+		"rank": "LIEUTENANT",
+		"shield_no": "",
+		"appt_date": "1/10/2007",
+		"recognition_count": 5,
+		"arrest_count": 103,
+		"reports": {
+			"summary": {
+				"command": "QUEENS COURT SECTION",
+				"assignment_date": "2/18/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
+				"appt_date": "1/10/2007"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2007",
+					"shield_no": "17497"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "3/27/2015",
+					"shield_no": "5330"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "7/30/2021",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 23,
+				"misdemeanor": 78,
+				"violation": 2
+			},
+			"awards": [
+				{
+					"date": "4/22/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/13/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/6/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/29/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/10/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "QUEENS COURT SECTION"
+	},
+	{
+		"taxid": 983693,
+		"full_name": "QUINTERO, WILSON A",
+		"first_name": "WILSON",
+		"last_name": "QUINTERO",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "20255",
+		"appt_date": "8/20/2025",
+		"recognition_count": 0,
+		"arrest_count": 5,
+		"reports": {
+			"summary": {
+				"command": "114 PCT FIELD TRAINING UNIT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "20255",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "20255"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 3
+			},
+			"awards": []
+		},
+		"command": "114 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 961134,
+		"full_name": "QUINTERO, YAHAIRA",
+		"first_name": "YAHAIRA",
+		"last_name": "QUINTERO",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "9904",
+		"appt_date": "1/6/2016",
+		"recognition_count": 0,
+		"arrest_count": 33,
+		"reports": {
+			"summary": {
+				"command": "SSD YOUTH RESPONSE TEAM",
+				"assignment_date": "7/16/2023",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "9904",
+				"appt_date": "1/6/2016"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/6/2016",
+					"shield_no": "9904"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 3,
+				"misdemeanor": 30
+			},
+			"awards": []
+		},
+		"command": "SSD YOUTH RESPONSE TEAM"
+	},
+	{
+		"taxid": 972461,
+		"full_name": "QUINTEROSAYALA, MONICA G",
+		"first_name": "MONICA",
+		"last_name": "QUINTEROSAYALA",
+		"middle_initial": "G",
+		"rank": "POLICE OFFICER",
+		"shield_no": "26999",
+		"appt_date": "7/16/2021",
+		"recognition_count": 0,
+		"arrest_count": 22,
+		"reports": {
+			"summary": {
+				"command": "078 PRECINCT",
+				"assignment_date": "9/9/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "26999",
+				"appt_date": "7/16/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/16/2021",
+					"shield_no": "26999"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 8,
+				"misdemeanor": 14
+			},
+			"awards": []
+		},
+		"command": "078 PRECINCT"
+	},
+	{
+		"taxid": 985971,
+		"full_name": "QUINTO, EDUARDO",
+		"first_name": "EDUARDO",
+		"last_name": "QUINTO",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "20698",
+		"appt_date": "4/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "20698",
+				"appt_date": "4/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "20698"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
+		"taxid": 942394,
+		"full_name": "QUINTO, JONATHAN E",
+		"first_name": "JONATHAN",
+		"last_name": "QUINTO",
+		"middle_initial": "E",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "5232",
+		"appt_date": "7/10/2006",
+		"recognition_count": 7,
+		"arrest_count": 460,
+		"reports": {
+			"summary": {
+				"command": "DBBN VIDEO COLLECTION TEAM",
+				"assignment_date": "1/12/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "5232",
+				"appt_date": "7/10/2006"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/10/2006",
+					"shield_no": "8307"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "1/28/2016",
+					"shield_no": "5232"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 159,
+				"misdemeanor": 271,
+				"violation": 30
+			},
+			"awards": [
+				{
+					"date": "8/17/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/22/2014",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/30/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/13/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/20/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/15/2009",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/8/2008",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "DBBN VIDEO COLLECTION TEAM"
+	},
+	{
+		"taxid": 953283,
+		"full_name": "QUINTO, MICHAEL P",
+		"first_name": "MICHAEL",
+		"last_name": "QUINTO",
+		"middle_initial": "P",
+		"rank": "LIEUTENANT",
+		"shield_no": "",
+		"appt_date": "7/11/2012",
+		"recognition_count": 7,
+		"arrest_count": 89,
+		"reports": {
+			"summary": {
+				"command": "STATEN ISLAND STANDARDS & ASSESSMENTS UNIT",
+				"assignment_date": "6/14/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
+				"appt_date": "7/11/2012"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2012",
+					"shield_no": "13851"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "1/30/2018",
+					"shield_no": "4259"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "2/23/2024",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 4,
+				"misdemeanor": 66,
+				"violation": 19
+			},
+			"awards": [
+				{
+					"date": "1/23/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/25/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/23/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/11/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/4/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/5/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/22/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "STATEN ISLAND STANDARDS & ASSESSMENTS UNIT"
+	},
+	{
+		"taxid": 951099,
+		"full_name": "QUINTUNA, DARWIN O",
+		"first_name": "DARWIN",
+		"last_name": "QUINTUNA",
+		"middle_initial": "O",
+		"rank": "POLICE OFFICER",
+		"shield_no": "7960",
+		"appt_date": "7/6/2011",
+		"recognition_count": 0,
+		"arrest_count": 51,
+		"reports": {
+			"summary": {
+				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"assignment_date": "11/4/2019",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "7960",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "7960"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 41,
+				"violation": 8
+			},
+			"awards": []
+		},
+		"command": "MILITARY & EXTENDED LEAVE DESK"
+	},
+	{
+		"taxid": 977347,
+		"full_name": "QUINTUNA, JOHN M",
+		"first_name": "JOHN",
+		"last_name": "QUINTUNA",
+		"middle_initial": "M",
+		"rank": "POLICE OFFICER",
+		"shield_no": "16429",
+		"appt_date": "7/5/2023",
+		"recognition_count": 1,
+		"arrest_count": 105,
+		"reports": {
+			"summary": {
+				"command": "071 PRECINCT",
+				"assignment_date": "1/1/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "16429",
+				"appt_date": "7/5/2023"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/5/2023",
+					"shield_no": "16429"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 29,
+				"misdemeanor": 76
+			},
+			"awards": [
+				{
+					"date": "8/4/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "071 PRECINCT"
+	},
+	{
+		"taxid": 974444,
+		"full_name": "QUINTUNAGUAMAN, JOSE A",
+		"first_name": "JOSE",
+		"last_name": "QUINTUNAGUAMAN",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "7157",
+		"appt_date": "4/13/2022",
+		"recognition_count": 0,
+		"arrest_count": 65,
+		"reports": {
+			"summary": {
+				"command": "010 PRECINCT",
+				"assignment_date": "12/26/2022",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "7157",
+				"appt_date": "4/13/2022"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/13/2022",
+					"shield_no": "7157"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 23,
+				"misdemeanor": 42
+			},
+			"awards": []
+		},
+		"command": "010 PRECINCT"
+	},
+	{
+		"taxid": 971623,
+		"full_name": "QUINTUNAPINA, GABRIEL",
+		"first_name": "GABRIEL",
+		"last_name": "QUINTUNAPINA",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "13591",
+		"appt_date": "4/28/2021",
+		"recognition_count": 0,
+		"arrest_count": 100,
+		"reports": {
+			"summary": {
+				"command": "032 PRECINCT",
+				"assignment_date": "10/28/2021",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "13591",
+				"appt_date": "4/28/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/28/2021",
+					"shield_no": "13591"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 34,
+				"misdemeanor": 66
+			},
+			"awards": []
+		},
+		"command": "032 PRECINCT"
+	},
+	{
+		"taxid": 983694,
+		"full_name": "QUINTYNE, JHYHEIM L",
+		"first_name": "JHYHEIM",
+		"last_name": "QUINTYNE",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "11307",
+		"appt_date": "8/20/2025",
+		"recognition_count": 0,
+		"arrest_count": 6,
+		"reports": {
+			"summary": {
+				"command": "075 PCT FIELD TRAINING UNIT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "11307",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "11307"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"misdemeanor": 5,
+				"violation": 1
+			},
+			"awards": []
+		},
+		"command": "075 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 937320,
+		"full_name": "QUINZI, VINCENZO",
+		"first_name": "VINCENZO",
+		"last_name": "QUINZI",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "12560",
+		"appt_date": "1/10/2005",
+		"recognition_count": 8,
+		"arrest_count": 99,
+		"reports": {
+			"summary": {
+				"command": "060 PRECINCT",
+				"assignment_date": "9/12/2011",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "12560",
+				"appt_date": "1/10/2005"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2005",
+					"shield_no": "12560"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 17,
+				"misdemeanor": 74,
+				"violation": 7
+			},
+			"awards": [
+				{
+					"date": "1/10/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/19/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/3/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/21/2009",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/26/2008",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/4/2008",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/23/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/11/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "060 PRECINCT"
+	},
+	{
+		"taxid": 972883,
+		"full_name": "QUIRINDONGO, MICHAEL A",
+		"first_name": "MICHAEL",
+		"last_name": "QUIRINDONGO",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "4408",
+		"appt_date": "10/12/2021",
+		"recognition_count": 0,
+		"arrest_count": 13,
+		"reports": {
+			"summary": {
+				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"assignment_date": "7/3/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "4408",
+				"appt_date": "10/12/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/12/2021",
+					"shield_no": "4408"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 3,
+				"misdemeanor": 10
+			},
+			"awards": []
+		},
+		"command": "MILITARY & EXTENDED LEAVE DESK"
+	},
+	{
+		"taxid": 951100,
+		"full_name": "QUIRK, JAMES J",
+		"first_name": "JAMES",
+		"last_name": "QUIRK",
+		"middle_initial": "J",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "6955",
+		"appt_date": "7/6/2011",
+		"recognition_count": 1,
+		"arrest_count": 55,
+		"reports": {
+			"summary": {
+				"command": "WARRANT SECTION",
+				"assignment_date": "4/6/2016",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "6955",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "20048"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "8/22/2017",
+					"shield_no": "6955"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 2,
+				"felony": 13,
+				"misdemeanor": 34,
+				"other": 1,
+				"violation": 5
+			},
+			"awards": [
+				{
+					"date": "2/22/2013",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "WARRANT SECTION"
+	},
+	{
+		"taxid": 957978,
+		"full_name": "QUIRK, JOSEPH W",
+		"first_name": "JOSEPH",
+		"last_name": "QUIRK",
+		"middle_initial": "W",
+		"rank": "DETECTIVE 2ND GRADE",
+		"shield_no": "3477",
+		"appt_date": "1/7/2015",
+		"recognition_count": 2,
+		"arrest_count": 228,
+		"reports": {
+			"summary": {
+				"command": "STATEN ISLAND OPER HOMICIDE SQD",
+				"assignment_date": "3/31/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 2ND GRADE",
+				"shield_no": "3477",
+				"appt_date": "1/7/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/7/2015",
+					"shield_no": "15806"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "6/3/2015",
+					"shield_no": "1132"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "6/10/2021",
+					"shield_no": "3477"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 136,
+				"misdemeanor": 90,
+				"violation": 2
+			},
+			"awards": [
+				{
+					"date": "11/21/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/13/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "STATEN ISLAND OPER HOMICIDE SQD"
+	},
+	{
+		"taxid": 978725,
+		"full_name": "QUIROGA, KAREN M",
+		"first_name": "KAREN",
+		"last_name": "QUIROGA",
+		"middle_initial": "M",
+		"rank": "POLICE OFFICER",
+		"shield_no": "6280",
+		"appt_date": "1/3/2024",
+		"recognition_count": 0,
+		"arrest_count": 11,
+		"reports": {
+			"summary": {
+				"command": "081 PRECINCT",
+				"assignment_date": "7/16/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "6280",
+				"appt_date": "1/3/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/3/2024",
+					"shield_no": "22344"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "2/20/2024",
+					"shield_no": "6280"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 5,
+				"misdemeanor": 6
+			},
+			"awards": []
+		},
+		"command": "081 PRECINCT"
+	},
+	{
+		"taxid": 974445,
+		"full_name": "QUIROS, DESTINY E",
+		"first_name": "DESTINY",
+		"last_name": "QUIROS",
+		"middle_initial": "E",
+		"rank": "POLICE OFFICER",
+		"shield_no": "8085",
+		"appt_date": "4/13/2022",
+		"recognition_count": 0,
+		"arrest_count": 10,
+		"reports": {
+			"summary": {
+				"command": "MANHATTAN WARRANT SQD",
+				"assignment_date": "12/29/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "8085",
+				"appt_date": "4/13/2022"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/13/2022",
+					"shield_no": "8085"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 3,
+				"misdemeanor": 7
+			},
+			"awards": []
+		},
+		"command": "MANHATTAN WARRANT SQD"
+	},
+	{
+		"taxid": 951101,
+		"full_name": "QUIROS, JESSICA",
+		"first_name": "JESSICA",
+		"last_name": "QUIROS",
+		"middle_initial": "",
+		"rank": "SERGEANT",
+		"shield_no": "2624",
+		"appt_date": "7/6/2011",
+		"recognition_count": 4,
+		"arrest_count": 115,
+		"reports": {
+			"summary": {
+				"command": "MANHATTAN STANDARDS & ASSESSMENTS UNIT",
+				"assignment_date": "4/30/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "SERGEANT",
+				"shield_no": "2624",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "24054"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "2/23/2024",
+					"shield_no": "2624"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 35,
+				"misdemeanor": 78,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "2/15/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/18/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/4/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/18/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "MANHATTAN STANDARDS & ASSESSMENTS UNIT"
+	},
+	{
+		"taxid": 985972,
+		"full_name": "QUIROZ, BRYAN M",
+		"first_name": "BRYAN",
+		"last_name": "QUIROZ",
+		"middle_initial": "M",
+		"rank": "POLICE OFFICER",
+		"shield_no": "11901",
+		"appt_date": "4/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "11901",
+				"appt_date": "4/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "11901"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
+		"taxid": 975106,
+		"full_name": "QUIROZ, DANIEL L",
+		"first_name": "DANIEL",
+		"last_name": "QUIROZ",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "27458",
+		"appt_date": "7/13/2022",
+		"recognition_count": 1,
+		"arrest_count": 17,
+		"reports": {
+			"summary": {
+				"command": "088 PRECINCT",
+				"assignment_date": "2/24/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "27458",
+				"appt_date": "7/13/2022"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/13/2022",
+					"shield_no": "27458"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 1,
+				"misdemeanor": 16
+			},
+			"awards": [
+				{
+					"date": "8/16/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "088 PRECINCT"
+	},
+	{
+		"taxid": 939263,
+		"full_name": "QUIROZ, JUAN C",
+		"first_name": "JUAN",
+		"last_name": "QUIROZ",
+		"middle_initial": "C",
+		"rank": "LIEUTENANT",
+		"shield_no": "",
+		"appt_date": "7/11/2005",
+		"recognition_count": 13,
+		"arrest_count": 319,
+		"reports": {
+			"summary": {
+				"command": "STRATEGIC RESP GRP 1 MANHATTAN",
+				"assignment_date": "2/12/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
+				"appt_date": "7/11/2005"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2005",
+					"shield_no": "9868"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "12/19/2014",
+					"shield_no": "5215"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "1/6/2015",
+					"shield_no": "3694"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "9/30/2022",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 83,
+				"misdemeanor": 178,
+				"violation": 58
+			},
+			"awards": [
+				{
+					"date": "5/28/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/1/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/28/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/13/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/18/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/5/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/8/2012",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/21/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/25/2009",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/9/2009",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/7/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/7/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/16/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "STRATEGIC RESP GRP 1 MANHATTAN"
+	},
+	{
+		"taxid": 971624,
+		"full_name": "QUIROZ, SUZETH G",
+		"first_name": "SUZETH",
+		"last_name": "QUIROZ",
+		"middle_initial": "G",
+		"rank": "POLICE OFFICER",
+		"shield_no": "19410",
+		"appt_date": "4/28/2021",
+		"recognition_count": 1,
+		"arrest_count": 42,
+		"reports": {
+			"summary": {
+				"command": "009 PRECINCT",
+				"assignment_date": "10/28/2021",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "19410",
+				"appt_date": "4/28/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/28/2021",
+					"shield_no": "19410"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 13,
+				"misdemeanor": 29
+			},
+			"awards": [
+				{
+					"date": "1/9/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "009 PRECINCT"
+	},
+	{
+		"taxid": 931962,
+		"full_name": "QUISENBERRY, FARAH M",
+		"first_name": "FARAH",
+		"last_name": "QUISENBERRY",
+		"middle_initial": "M",
+		"rank": "SERGEANT",
+		"shield_no": "5137",
+		"appt_date": "7/22/2002",
+		"recognition_count": 0,
+		"arrest_count": 130,
+		"reports": {
+			"summary": {
+				"command": "POLICE ACADEMY",
+				"assignment_date": "10/24/2022",
+				"ethnicity": "BLACK",
+				"rank_desc": "SERGEANT",
+				"shield_no": "5137",
+				"appt_date": "7/22/2002"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2002",
+					"shield_no": "21203"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "12/19/2019",
+					"shield_no": "5137"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 6,
+				"felony": 32,
+				"misdemeanor": 90,
+				"violation": 2
+			},
+			"awards": []
+		},
+		"command": "POLICE ACADEMY"
+	},
+	{
+		"taxid": 978976,
+		"full_name": "QUISER, BILAL",
+		"first_name": "BILAL",
+		"last_name": "QUISER",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "24716",
+		"appt_date": "1/17/2024",
+		"recognition_count": 0,
+		"arrest_count": 30,
+		"reports": {
+			"summary": {
+				"command": "090 PRECINCT",
+				"assignment_date": "7/16/2024",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "24716",
+				"appt_date": "1/17/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/17/2024",
+					"shield_no": "24716"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 19,
+				"misdemeanor": 11
+			},
+			"awards": []
+		},
+		"command": "090 PRECINCT"
+	},
+	{
+		"taxid": 964715,
+		"full_name": "QUISPE, PERCY B",
+		"first_name": "PERCY",
+		"last_name": "QUISPE",
+		"middle_initial": "B",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "5552",
+		"appt_date": "10/18/2017",
+		"recognition_count": 37,
+		"arrest_count": 148,
+		"reports": {
+			"summary": {
+				"command": "NARC BORO MANHATTAN NORTH",
+				"assignment_date": "4/23/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "5552",
+				"appt_date": "10/18/2017"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/18/2017",
+					"shield_no": "9875"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "8/30/2024",
+					"shield_no": "5552"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 80,
+				"misdemeanor": 67,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "1/1/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/2/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/16/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/2/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/11/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/29/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/18/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/14/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/27/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/11/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/10/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/5/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/14/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/17/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/11/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/3/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/21/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/14/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/30/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/28/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/19/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/10/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/23/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/11/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/13/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/2/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/1/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/22/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/6/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/25/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/22/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/22/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/9/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/2/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/24/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/17/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/13/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "NARC BORO MANHATTAN NORTH"
+	},
+	{
+		"taxid": 948119,
+		"full_name": "QUIZHPI, FAVIO R",
+		"first_name": "FAVIO",
+		"last_name": "QUIZHPI",
+		"middle_initial": "R",
+		"rank": "CAPTAIN",
+		"shield_no": "",
+		"appt_date": "1/14/2009",
+		"recognition_count": 27,
+		"arrest_count": 119,
+		"reports": {
+			"summary": {
+				"command": "PATROL BORO MAN NORTH",
+				"assignment_date": "11/12/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "CAPTAIN",
+				"shield_no": "",
+				"appt_date": "1/14/2009"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/14/2009",
+					"shield_no": "8682"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "5/2/2016",
+					"shield_no": "2078"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "6/5/2018",
+					"shield_no": ""
+				},
+				{
+					"rank": "LT SPECIAL ASSIGN",
+					"date": "3/18/2021",
+					"shield_no": ""
+				},
+				{
+					"rank": "CAPTAIN",
+					"date": "10/31/2023",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 23,
+				"misdemeanor": 83,
+				"violation": 13
+			},
+			"awards": [
+				{
+					"date": "8/28/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/21/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/22/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/27/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/18/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/13/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/13/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/25/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/22/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/21/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/24/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/30/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/7/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/25/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/19/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/26/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/14/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/9/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/19/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/31/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/13/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/16/2013",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/7/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/12/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/5/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/22/2012",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/27/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "PATROL BORO MAN NORTH"
+	},
+	{
+		"taxid": 948120,
+		"full_name": "QUIZHPI, GLORIA",
+		"first_name": "GLORIA",
+		"last_name": "QUIZHPI",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "11049",
+		"appt_date": "1/14/2009",
+		"recognition_count": 1,
+		"arrest_count": 73,
+		"reports": {
+			"summary": {
+				"command": "PSAC I SECURITY",
+				"assignment_date": "6/20/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "11049",
+				"appt_date": "1/14/2009"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/14/2009",
+					"shield_no": "11049"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 9,
+				"misdemeanor": 56,
+				"violation": 8
+			},
+			"awards": [
+				{
+					"date": "7/16/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "PSAC I SECURITY"
+	},
+	{
+		"taxid": 965833,
+		"full_name": "QUIZHPI, MICHAEL P",
+		"first_name": "MICHAEL",
+		"last_name": "QUIZHPI",
+		"middle_initial": "P",
+		"rank": "POLICE OFFICER",
+		"shield_no": "5496",
+		"appt_date": "4/25/2018",
+		"recognition_count": 12,
+		"arrest_count": 89,
+		"reports": {
+			"summary": {
+				"command": "077 PRECINCT",
+				"assignment_date": "11/13/2024",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "5496",
+				"appt_date": "4/25/2018"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/25/2018",
+					"shield_no": "5496"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 54,
+				"misdemeanor": 35
+			},
+			"awards": [
+				{
+					"date": "1/25/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/24/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/1/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/31/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/26/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/26/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/22/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/29/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/8/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/1/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/27/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/2/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "077 PRECINCT"
+	},
+	{
+		"taxid": 983695,
+		"full_name": "QUIZHPILEMA, LILY E",
+		"first_name": "LILY",
+		"last_name": "QUIZHPILEMA",
+		"middle_initial": "E",
+		"rank": "POLICE OFFICER",
+		"shield_no": "13885",
+		"appt_date": "8/20/2025",
+		"recognition_count": 0,
+		"arrest_count": 5,
+		"reports": {
+			"summary": {
+				"command": "048 PCT FIELD TRAINING UNIT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "13885",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "13885"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 1,
+				"misdemeanor": 4
+			},
+			"awards": []
+		},
+		"command": "048 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 978726,
+		"full_name": "QURESHI, AHMED S",
+		"first_name": "AHMED",
+		"last_name": "QURESHI",
+		"middle_initial": "S",
+		"rank": "POLICE OFFICER",
+		"shield_no": "24864",
+		"appt_date": "1/3/2024",
+		"recognition_count": 0,
+		"arrest_count": 15,
+		"reports": {
+			"summary": {
+				"command": "069 PRECINCT",
+				"assignment_date": "7/16/2024",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "24864",
+				"appt_date": "1/3/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/3/2024",
+					"shield_no": "24864"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 6,
+				"misdemeanor": 9
+			},
+			"awards": []
+		},
+		"command": "069 PRECINCT"
+	},
+	{
+		"taxid": 968724,
+		"full_name": "QURESHI, ALI",
+		"first_name": "ALI",
+		"last_name": "QURESHI",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "26418",
+		"appt_date": "10/7/2019",
+		"recognition_count": 0,
+		"arrest_count": 44,
+		"reports": {
+			"summary": {
+				"command": "109 PRECINCT",
+				"assignment_date": "9/27/2025",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "26418",
+				"appt_date": "10/7/2019"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/7/2019",
+					"shield_no": "26418"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 7,
+				"misdemeanor": 37
+			},
+			"awards": []
+		},
+		"command": "109 PRECINCT"
+	},
+	{
+		"taxid": 939264,
+		"full_name": "QURESHI, MOHAMMED M",
+		"first_name": "MOHAMMED",
+		"last_name": "QURESHI",
+		"middle_initial": "M",
+		"rank": "SERGEANT",
+		"shield_no": "5342",
+		"appt_date": "7/11/2005",
+		"recognition_count": 3,
+		"arrest_count": 230,
+		"reports": {
+			"summary": {
+				"command": "INTEL CIS FIO PROGRAM",
+				"assignment_date": "3/24/2023",
+				"ethnicity": "ASIAN",
+				"rank_desc": "SERGEANT",
+				"shield_no": "5342",
+				"appt_date": "7/11/2005"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "INTEL CIS FIO PROGRAM"
+	},
+	{
+		"taxid": 976343,
+		"full_name": "QURESHI, QASIM",
+		"first_name": "QASIM",
+		"last_name": "QURESHI",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "6302",
+		"appt_date": "1/17/2023",
+		"recognition_count": 2,
+		"arrest_count": 84,
+		"reports": {
+			"summary": {
+				"command": "075 PRECINCT",
+				"assignment_date": "7/26/2023",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "6302",
+				"appt_date": "1/17/2023"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/17/2023",
+					"shield_no": "6302"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 34,
+				"misdemeanor": 50
+			},
+			"awards": [
+				{
+					"date": "1/28/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/22/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "075 PRECINCT"
+	},
+	{
+		"taxid": 972190,
+		"full_name": "QURESHI, UZAIR",
+		"first_name": "UZAIR",
+		"last_name": "QURESHI",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "27959",
+		"appt_date": "7/7/2021",
+		"recognition_count": 0,
+		"arrest_count": 14,
+		"reports": {
+			"summary": {
+				"command": "HOUSING PSA 9",
+				"assignment_date": "9/20/2024",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "27959",
+				"appt_date": "7/7/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/7/2021",
+					"shield_no": "27959"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 5,
+				"misdemeanor": 9
+			},
+			"awards": []
+		},
+		"command": "HOUSING PSA 9"
+	},
+	{
+		"taxid": 970791,
+		"full_name": "QURESHI, ZOHAIB A",
+		"first_name": "ZOHAIB",
+		"last_name": "QURESHI",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "4605",
+		"appt_date": "12/29/2020",
+		"recognition_count": 5,
+		"arrest_count": 65,
+		"reports": {
+			"summary": {
+				"command": "034 PRECINCT",
+				"assignment_date": "7/1/2021",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "4605",
+				"appt_date": "12/29/2020"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/29/2020",
+					"shield_no": "4605"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 13,
+				"misdemeanor": 52
+			},
+			"awards": [
+				{
+					"date": "1/11/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/29/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/24/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/11/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/17/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "034 PRECINCT"
+	}
+]
