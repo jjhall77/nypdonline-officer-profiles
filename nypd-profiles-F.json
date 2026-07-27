@@ -7773,8 +7773,8 @@
 		"arrest_count": 98,
 		"reports": {
 			"summary": {
-				"command": "010 DET SQUAD",
-				"assignment_date": "7/24/2026",
+				"command": "010 PRECINCT",
+				"assignment_date": "7/18/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "13392",
@@ -7796,7 +7796,7 @@
 			},
 			"awards": []
 		},
-		"command": "010 DET SQUAD"
+		"command": "010 PRECINCT"
 	},
 	{
 		"taxid": 943219,
@@ -18940,8 +18940,8 @@
 		"arrest_count": 47,
 		"reports": {
 			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
-				"assignment_date": "5/26/2026",
+				"command": "113 PRECINCT",
+				"assignment_date": "9/9/2025",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "14831",
@@ -18963,7 +18963,7 @@
 			},
 			"awards": []
 		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+		"command": "113 PRECINCT"
 	},
 	{
 		"taxid": 970352,
@@ -70733,26 +70733,8 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 22,
-				"misdemeanor": 102,
-				"violation": 1
-			},
-			"awards": [
-				{
-					"date": "12/7/2013",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "4/27/2010",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "8/23/2009",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"arrests": {},
+			"awards": []
 		},
 		"command": "CRC CANINE UNIT"
 	},

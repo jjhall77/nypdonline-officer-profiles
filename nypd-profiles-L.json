@@ -777,7 +777,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 223,
+				"felony": 224,
 				"misdemeanor": 99,
 				"violation": 2
 			},
@@ -28047,7 +28047,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 27,
+				"felony": 28,
 				"misdemeanor": 119,
 				"violation": 4
 			},
@@ -44607,7 +44607,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 5
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -83397,7 +83397,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 127,
-				"misdemeanor": 179,
+				"misdemeanor": 181,
 				"violation": 5
 			},
 			"awards": [
@@ -88811,8 +88811,8 @@
 		"arrest_count": 49,
 		"reports": {
 			"summary": {
-				"command": "YOUTH STRATEGIES DIVISION",
-				"assignment_date": "7/22/2026",
+				"command": "007 PRECINCT",
+				"assignment_date": "5/10/2021",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "19066",
@@ -88855,7 +88855,7 @@
 				}
 			]
 		},
-		"command": "YOUTH STRATEGIES DIVISION"
+		"command": "007 PRECINCT"
 	},
 	{
 		"taxid": 904394,

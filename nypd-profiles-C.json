@@ -57397,7 +57397,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 7
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -92952,7 +92952,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 68,
-				"misdemeanor": 99,
+				"misdemeanor": 101,
 				"other": 1
 			},
 			"awards": [
@@ -106769,8 +106769,8 @@
 		"arrest_count": 156,
 		"reports": {
 			"summary": {
-				"command": "OPERATIONS DIVISION",
-				"assignment_date": "6/6/2026",
+				"command": "BROOKLYN COURT SECTION",
+				"assignment_date": "7/21/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "23830",
@@ -106819,7 +106819,7 @@
 				}
 			]
 		},
-		"command": "OPERATIONS DIVISION"
+		"command": "BROOKLYN COURT SECTION"
 	},
 	{
 		"taxid": 967814,
@@ -114202,7 +114202,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 23,
+				"felony": 24,
 				"misdemeanor": 52
 			},
 			"awards": []
@@ -122554,8 +122554,8 @@
 		"arrest_count": 25,
 		"reports": {
 			"summary": {
-				"command": "TRANSIT BORO MAN TASK FORCE",
-				"assignment_date": "1/19/2026",
+				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"assignment_date": "4/9/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "21826",
@@ -122577,7 +122577,7 @@
 			},
 			"awards": []
 		},
-		"command": "TRANSIT BORO MAN TASK FORCE"
+		"command": "MILITARY & EXTENDED LEAVE DESK"
 	},
 	{
 		"taxid": 982201,

@@ -7509,13 +7509,7 @@
 				"shield_no": "626",
 				"appt_date": "7/3/2024"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/3/2024",
-					"shield_no": "626"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -21548,7 +21542,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 27,
+				"felony": 28,
 				"misdemeanor": 42,
 				"violation": 6
 			},
@@ -45249,6 +45243,11 @@
 					"rank": "DETECTIVE",
 					"date": "9/29/2023",
 					"shield_no": "7652"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/23/2026",
+					"shield_no": "7974"
 				}
 			],
 			"documents": [],

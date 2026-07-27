@@ -41914,7 +41914,7 @@
 				"assignment_date": "4/22/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
-				"shield_no": "21141",
+				"shield_no": "",
 				"appt_date": "4/22/2026"
 			},
 			"ranks": [
@@ -46624,7 +46624,7 @@
 				"assignment_date": "4/22/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
-				"shield_no": "",
+				"shield_no": "13417",
 				"appt_date": "4/22/2026"
 			},
 			"ranks": [
@@ -48656,8 +48656,8 @@
 		"arrest_count": 278,
 		"reports": {
 			"summary": {
-				"command": "DET BORO QUEENS NORTH",
-				"assignment_date": "7/21/2026",
+				"command": "OPERATIONS DIVISION",
+				"assignment_date": "6/6/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "7118",
@@ -48704,7 +48704,7 @@
 				}
 			]
 		},
-		"command": "DET BORO QUEENS NORTH"
+		"command": "OPERATIONS DIVISION"
 	},
 	{
 		"taxid": 946916,
@@ -70928,8 +70928,7 @@
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "STATEN ISLAND SPECIAL VICTIMS SQUAD"
+		}
 	},
 	{
 		"taxid": 952684,
@@ -74970,6 +74969,14 @@
 		"recognition_count": 3,
 		"arrest_count": 505,
 		"reports": {
+			"summary": {
+				"command": "PATROL BORO STATEN ISLAND",
+				"assignment_date": "12/17/2024",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE SPECIALIST",
+				"shield_no": "4610",
+				"appt_date": "7/10/2006"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],

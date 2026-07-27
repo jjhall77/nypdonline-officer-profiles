@@ -45206,7 +45206,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 335,
+				"felony": 339,
 				"misdemeanor": 579,
 				"violation": 113
 			},
@@ -56631,7 +56631,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 33,
-				"misdemeanor": 29
+				"misdemeanor": 30
 			},
 			"awards": []
 		},
@@ -63576,6 +63576,14 @@
 		"recognition_count": 2,
 		"arrest_count": 120,
 		"reports": {
+			"summary": {
+				"command": "HOUSING PSA 9",
+				"assignment_date": "11/19/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "12905",
+				"appt_date": "7/20/2006"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
