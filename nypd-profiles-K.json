@@ -10289,12 +10289,7 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 112,
-				"misdemeanor": 113,
-				"other": 1,
-				"violation": 21
-			},
+			"arrests": {},
 			"awards": [
 				{
 					"date": "1/15/2009",
@@ -35215,8 +35210,8 @@
 		"arrest_count": 33,
 		"reports": {
 			"summary": {
-				"command": "TRAINING SUPPORT SECTION",
-				"assignment_date": "7/21/2026",
+				"command": "OPERATIONS DIVISION",
+				"assignment_date": "6/6/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3932",
@@ -35243,7 +35238,7 @@
 			},
 			"awards": []
 		},
-		"command": "TRAINING SUPPORT SECTION"
+		"command": "OPERATIONS DIVISION"
 	},
 	{
 		"taxid": 964593,
@@ -35637,7 +35632,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 3,
+				"felony": 4,
 				"misdemeanor": 4
 			},
 			"awards": []
@@ -37737,6 +37732,14 @@
 		"recognition_count": 17,
 		"arrest_count": 253,
 		"reports": {
+			"summary": {
+				"command": "112 PRECINCT",
+				"assignment_date": "3/27/2020",
+				"ethnicity": "ASIAN",
+				"rank_desc": "SERGEANT",
+				"shield_no": "3601",
+				"appt_date": "7/10/2006"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -62310,7 +62313,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 4,
-				"felony": 332,
+				"felony": 331,
 				"misdemeanor": 306,
 				"violation": 2
 			},

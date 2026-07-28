@@ -22020,7 +22020,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 73,
+				"felony": 72,
 				"misdemeanor": 52,
 				"other": 1,
 				"violation": 3
@@ -29383,8 +29383,8 @@
 		"arrest_count": 68,
 		"reports": {
 			"summary": {
-				"command": "075 PRECINCT",
-				"assignment_date": "4/25/2023",
+				"command": "YOUTH STRATEGIES DIVISION",
+				"assignment_date": "7/22/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "4322",
@@ -29417,7 +29417,7 @@
 				}
 			]
 		},
-		"command": "075 PRECINCT"
+		"command": "YOUTH STRATEGIES DIVISION"
 	},
 	{
 		"taxid": 974264,
@@ -30954,8 +30954,8 @@
 		"arrest_count": 232,
 		"reports": {
 			"summary": {
-				"command": "CRIMINAL INTELLIGENCE SECTION",
-				"assignment_date": "7/21/2026",
+				"command": "OPERATIONS DIVISION",
+				"assignment_date": "6/6/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "880",
@@ -31033,7 +31033,7 @@
 				}
 			]
 		},
-		"command": "CRIMINAL INTELLIGENCE SECTION"
+		"command": "OPERATIONS DIVISION"
 	},
 	{
 		"taxid": 984545,
@@ -44607,7 +44607,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 7
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -73546,7 +73546,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 223,
+				"felony": 224,
 				"misdemeanor": 214,
 				"violation": 27
 			},
@@ -82148,7 +82148,8 @@
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		}
+		},
+		"command": "TRANSIT BORO MAN TASK FORCE"
 	},
 	{
 		"taxid": 974286,
@@ -83397,7 +83398,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 127,
-				"misdemeanor": 181,
+				"misdemeanor": 179,
 				"violation": 5
 			},
 			"awards": [

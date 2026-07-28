@@ -3167,8 +3167,8 @@
 		"arrest_count": 42,
 		"reports": {
 			"summary": {
-				"command": "FIFA WORLD CUP DETAIL",
-				"assignment_date": "7/21/2026",
+				"command": "PATROL SERVICES BUREAU",
+				"assignment_date": "7/27/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "SERGEANT",
 				"shield_no": "4094",
@@ -3195,7 +3195,7 @@
 			},
 			"awards": []
 		},
-		"command": "FIFA WORLD CUP DETAIL"
+		"command": "PATROL SERVICES BUREAU"
 	},
 	{
 		"taxid": 980516,
@@ -70734,7 +70734,20 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
-			"awards": []
+			"awards": [
+				{
+					"date": "12/7/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/27/2010",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/23/2009",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "CRC CANINE UNIT"
 	},

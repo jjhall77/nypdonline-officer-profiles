@@ -100399,7 +100399,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 23,
-				"misdemeanor": 59,
+				"misdemeanor": 60,
 				"violation": 3
 			},
 			"awards": [
@@ -106940,22 +106940,13 @@
 		"recognition_count": 0,
 		"arrest_count": 43,
 		"reports": {
-			"summary": {
-				"command": "TRAFFIC MANAGEMENT CENTER",
-				"assignment_date": "9/8/2018",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "28580",
-				"appt_date": "7/20/2006"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "TRAFFIC MANAGEMENT CENTER"
+		}
 	},
 	{
 		"taxid": 965991,
@@ -119700,26 +119691,11 @@
 				"shield_no": "3838",
 				"appt_date": "7/10/2006"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/10/2006",
-					"shield_no": "15700"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "5/2/2016",
-					"shield_no": "3838"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 183,
-				"misdemeanor": 129,
-				"violation": 5
-			},
+			"arrests": {},
 			"awards": [
 				{
 					"date": "3/8/2009",
@@ -180179,8 +180155,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 3,
-				"felony": 126,
-				"misdemeanor": 314,
+				"felony": 127,
+				"misdemeanor": 315,
 				"violation": 16
 			},
 			"awards": [

@@ -221,14 +221,17 @@
 				"shield_no": "21954",
 				"appt_date": "10/25/2023"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/25/2023",
+					"shield_no": "21954"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 20,
-				"misdemeanor": 19
-			},
+			"arrests": {},
 			"awards": [
 				{
 					"date": "8/12/2024",
@@ -37586,7 +37589,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 23,
+				"misdemeanor": 22,
 				"other": 1
 			},
 			"awards": []
@@ -70945,7 +70948,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 18
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -158535,11 +158538,11 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"infraction": 2,
-				"felony": 12,
-				"misdemeanor": 76,
-				"other": 2,
-				"violation": 10
+				"infraction": 1,
+				"felony": 6,
+				"misdemeanor": 38,
+				"other": 1,
+				"violation": 5
 			},
 			"awards": []
 		},

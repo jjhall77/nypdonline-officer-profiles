@@ -10256,14 +10256,6 @@
 		"recognition_count": 1,
 		"arrest_count": 432,
 		"reports": {
-			"summary": {
-				"command": "DB TRAINING UNIT",
-				"assignment_date": "11/20/2023",
-				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE 3RD GRADE",
-				"shield_no": "6322",
-				"appt_date": "7/10/2006"
-			},
 			"ranks": [
 				{
 					"rank": "POLICE OFFICER",
@@ -10281,8 +10273,7 @@
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "DB TRAINING UNIT"
+		}
 	},
 	{
 		"taxid": 978884,
@@ -15919,7 +15910,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 16
+				"misdemeanor": 17
 			},
 			"awards": []
 		},
@@ -46624,7 +46615,7 @@
 				"assignment_date": "4/22/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
-				"shield_no": "13417",
+				"shield_no": "",
 				"appt_date": "4/22/2026"
 			},
 			"ranks": [
@@ -74969,14 +74960,6 @@
 		"recognition_count": 3,
 		"arrest_count": 505,
 		"reports": {
-			"summary": {
-				"command": "PATROL BORO STATEN ISLAND",
-				"assignment_date": "12/17/2024",
-				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE SPECIALIST",
-				"shield_no": "4610",
-				"appt_date": "7/10/2006"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -82572,6 +82555,10 @@
 				{
 					"date": "2/25/2026",
 					"name": "COMMENDATION"
+				},
+				{
+					"date": "1/22/2026",
+					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "10/1/2025",
@@ -109808,7 +109795,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 27,
+				"felony": 28,
 				"misdemeanor": 95
 			},
 			"awards": [

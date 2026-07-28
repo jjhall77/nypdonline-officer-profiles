@@ -10766,8 +10766,8 @@
 		"arrest_count": 36,
 		"reports": {
 			"summary": {
-				"command": "PATROL BORO BRONX SOUTH",
-				"assignment_date": "7/21/2026",
+				"command": "OPERATIONS DIVISION",
+				"assignment_date": "6/6/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "10969",
@@ -10789,7 +10789,7 @@
 			},
 			"awards": []
 		},
-		"command": "PATROL BORO BRONX SOUTH"
+		"command": "OPERATIONS DIVISION"
 	},
 	{
 		"taxid": 950938,

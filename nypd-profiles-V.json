@@ -6897,7 +6897,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 20
+				"misdemeanor": 19
 			},
 			"awards": []
 		},
@@ -50164,10 +50164,6 @@
 				"violation": 16
 			},
 			"awards": [
-				{
-					"date": "10/7/2025",
-					"name": "EXCELLENT POLICE DUTY"
-				},
 				{
 					"date": "9/25/2020",
 					"name": "MERITORIOUS POLICE DUTY"
