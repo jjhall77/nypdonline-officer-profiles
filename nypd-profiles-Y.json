@@ -3061,17 +3061,17 @@
 		"first_name": "RICHARD",
 		"last_name": "YARUSSO",
 		"middle_initial": "A",
-		"rank": "DETECTIVE SPECIALIST",
+		"rank": "DETECTIVE 3RD GRADE",
 		"shield_no": "1768",
 		"appt_date": "12/29/2021",
 		"recognition_count": 2,
 		"arrest_count": 180,
 		"reports": {
 			"summary": {
-				"command": "115 PRECINCT",
-				"assignment_date": "7/17/2026",
+				"command": "115TH DET SQUAD",
+				"assignment_date": "7/24/2026",
 				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE SPECIALIST",
+				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "1768",
 				"appt_date": "12/29/2021"
 			},
@@ -3106,7 +3106,7 @@
 				}
 			]
 		},
-		"command": "115 PRECINCT"
+		"command": "115TH DET SQUAD"
 	},
 	{
 		"taxid": 980274,
@@ -4069,7 +4069,7 @@
 		"shield_no": "31924",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 43,
+		"arrest_count": 45,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
@@ -4229,7 +4229,7 @@
 		"shield_no": "1965",
 		"appt_date": "1/7/2008",
 		"recognition_count": 5,
-		"arrest_count": 621,
+		"arrest_count": 622,
 		"reports": {
 			"summary": {
 				"command": "103RD DETECTIVE SQUAD",
@@ -4257,7 +4257,7 @@
 			"arrests": {
 				"infraction": 4,
 				"felony": 304,
-				"misdemeanor": 294,
+				"misdemeanor": 295,
 				"other": 3,
 				"violation": 16
 			},
@@ -6012,8 +6012,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "21840",
 		"appt_date": "7/7/2021",
-		"recognition_count": 6,
-		"arrest_count": 269,
+		"recognition_count": 9,
+		"arrest_count": 270,
 		"reports": {
 			"summary": {
 				"command": "110 PRECINCT",
@@ -12160,7 +12160,7 @@
 		"shield_no": "6139",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 11,
+		"arrest_count": 13,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 3",
