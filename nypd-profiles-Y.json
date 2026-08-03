@@ -1716,7 +1716,7 @@
 		"shield_no": "2092",
 		"appt_date": "4/13/2022",
 		"recognition_count": 3,
-		"arrest_count": 50,
+		"arrest_count": 47,
 		"reports": {
 			"summary": {
 				"command": "112 PRECINCT",
@@ -1766,7 +1766,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "20180",
 		"appt_date": "10/11/2016",
-		"recognition_count": 2,
+		"recognition_count": 1,
 		"arrest_count": 36,
 		"reports": {
 			"summary": {
@@ -3133,7 +3133,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
+				"felony": 6,
 				"misdemeanor": 14
 			},
 			"awards": []
@@ -5460,7 +5460,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 11
+				"misdemeanor": 12
 			},
 			"awards": []
 		},
@@ -5864,7 +5864,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 28,
-				"misdemeanor": 124
+				"misdemeanor": 126
 			},
 			"awards": [
 				{
@@ -6029,7 +6029,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 96,
+				"felony": 97,
 				"misdemeanor": 173,
 				"other": 1
 			},
@@ -8816,7 +8816,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 38,
+				"misdemeanor": 39,
 				"violation": 10
 			},
 			"awards": []
@@ -10220,7 +10220,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 19,
+				"misdemeanor": 20,
 				"violation": 1
 			},
 			"awards": []
@@ -12206,7 +12206,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 10
+				"misdemeanor": 11
 			},
 			"awards": []
 		},

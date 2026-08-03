@@ -1147,7 +1147,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 48
+				"misdemeanor": 49
 			},
 			"awards": []
 		},
@@ -11606,7 +11606,8 @@
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		}
+		},
+		"command": "IAB GROUP 54"
 	},
 	{
 		"taxid": 981267,
@@ -12741,8 +12742,8 @@
 		"arrest_count": 84,
 		"reports": {
 			"summary": {
-				"command": "070 PRECINCT",
-				"assignment_date": "10/22/2020",
+				"command": "AUTO POUNDS",
+				"assignment_date": "7/27/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "18849",
@@ -12769,7 +12770,7 @@
 				}
 			]
 		},
-		"command": "070 PRECINCT"
+		"command": "AUTO POUNDS"
 	},
 	{
 		"taxid": 982259,
@@ -15666,7 +15667,7 @@
 				"command": "TRAFFIC ENFORCEMENT DISTRICT",
 				"assignment_date": "2/18/2021",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "LIEUTENANT",
+				"rank_desc": "LT SPECIAL ASSIGN",
 				"shield_no": "",
 				"appt_date": "1/10/2007"
 			},
@@ -18086,8 +18087,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 10,
-				"misdemeanor": 21
+				"felony": 5,
+				"misdemeanor": 11
 			},
 			"awards": [
 				{

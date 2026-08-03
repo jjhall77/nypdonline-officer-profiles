@@ -846,7 +846,12 @@
 				"misdemeanor": 34,
 				"violation": 4
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "12/31/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "TRANSIT DISTRICT 1"
 	},
@@ -9587,6 +9592,10 @@
 			"awards": [
 				{
 					"date": "7/28/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/11/2024",
 					"name": "EXCELLENT POLICE DUTY"
 				}
 			]
@@ -34496,13 +34505,22 @@
 		"recognition_count": 4,
 		"arrest_count": 473,
 		"reports": {
+			"summary": {
+				"command": "041 DET SQUAD",
+				"assignment_date": "9/27/2015",
+				"ethnicity": "BLACK",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "6996",
+				"appt_date": "7/10/2006"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		}
+		},
+		"command": "041 DET SQUAD"
 	},
 	{
 		"taxid": 978936,
@@ -47873,6 +47891,14 @@
 		"recognition_count": 0,
 		"arrest_count": 466,
 		"reports": {
+			"summary": {
+				"command": "QUEENS CHILD ABUSE SQUAD",
+				"assignment_date": "11/2/2021",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "4958",
+				"appt_date": "7/10/2006"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -49230,7 +49256,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 14
+				"misdemeanor": 15
 			},
 			"awards": []
 		},
@@ -60241,14 +60267,6 @@
 		"recognition_count": 2,
 		"arrest_count": 80,
 		"reports": {
-			"summary": {
-				"command": "066 PRECINCT",
-				"assignment_date": "7/18/2007",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "4095",
-				"appt_date": "7/10/2006"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -86615,7 +86633,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 20
+				"misdemeanor": 21
 			},
 			"awards": []
 		},
@@ -91952,7 +91970,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 27,
-				"misdemeanor": 50
+				"misdemeanor": 51
 			},
 			"awards": []
 		},

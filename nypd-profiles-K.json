@@ -8516,7 +8516,7 @@
 				"command": "IAB GROUP 32",
 				"assignment_date": "11/24/2025",
 				"ethnicity": "WHITE",
-				"rank_desc": "CAPTAIN",
+				"rank_desc": "DEPUTY INSPECTOR",
 				"shield_no": "",
 				"appt_date": "7/9/2007"
 			},
@@ -14308,7 +14308,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 359,
-				"misdemeanor": 244,
+				"misdemeanor": 245,
 				"violation": 12
 			},
 			"awards": [
@@ -29389,7 +29389,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 14,
+				"misdemeanor": 15,
 				"violation": 1
 			},
 			"awards": []
@@ -30860,7 +30860,12 @@
 				"misdemeanor": 10,
 				"violation": 1
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "12/1/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "TRANSIT DISTRICT 1"
 	},
@@ -39094,13 +39099,22 @@
 		"recognition_count": 0,
 		"arrest_count": 86,
 		"reports": {
+			"summary": {
+				"command": "023 PRECINCT",
+				"assignment_date": "12/27/2006",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "26847",
+				"appt_date": "7/10/2006"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		}
+		},
+		"command": "023 PRECINCT"
 	},
 	{
 		"taxid": 925544,
@@ -45102,22 +45116,13 @@
 		"recognition_count": 0,
 		"arrest_count": 101,
 		"reports": {
-			"summary": {
-				"command": "POL LAB FIREARMS ANALYSIS SEC",
-				"assignment_date": "8/13/2023",
-				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE 3RD GRADE",
-				"shield_no": "2598",
-				"appt_date": "7/11/2005"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "POL LAB FIREARMS ANALYSIS SEC"
+		}
 	},
 	{
 		"taxid": 936876,
@@ -54366,7 +54371,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 8,
-				"misdemeanor": 21
+				"misdemeanor": 22
 			},
 			"awards": []
 		},

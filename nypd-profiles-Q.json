@@ -3150,7 +3150,20 @@
 				"felony": 38,
 				"misdemeanor": 64
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "7/17/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/25/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/7/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "120 PRECINCT"
 	},

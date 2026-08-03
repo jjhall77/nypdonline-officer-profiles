@@ -3411,7 +3411,13 @@
 				"shield_no": "4356",
 				"appt_date": "4/24/2024"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/24/2024",
+					"shield_no": "4356"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -3846,7 +3852,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "21916",
 		"appt_date": "10/7/2015",
-		"recognition_count": 0,
+		"recognition_count": 1,
 		"arrest_count": 78,
 		"reports": {
 			"summary": {
@@ -13251,48 +13257,7 @@
 				"other": 10,
 				"violation": 69
 			},
-			"awards": [
-				{
-					"date": "10/29/2022",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/26/2017",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "8/11/2016",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "1/13/2016",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "4/8/2015",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "4/1/2014",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "6/29/2012",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "9/18/2008",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "9/4/2007",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/13/2006",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
+			"awards": []
 		},
 		"command": "CEIS JOINT ORGANIZED CRIME TASK FORCE"
 	},
@@ -13302,7 +13267,7 @@
 		"first_name": "NILKA",
 		"last_name": "VARGAS",
 		"middle_initial": "D",
-		"rank": "DETECTIVE 2ND GRADE",
+		"rank": "DETECTIVE 1ST GRADE",
 		"shield_no": "7770",
 		"appt_date": "1/10/2007",
 		"recognition_count": 1,
@@ -13312,7 +13277,7 @@
 				"command": "BRONX TRANSIT CRIMES SQUAD",
 				"assignment_date": "9/21/2016",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "DETECTIVE 2ND GRADE",
+				"rank_desc": "DETECTIVE 1ST GRADE",
 				"shield_no": "7770",
 				"appt_date": "1/10/2007"
 			},
@@ -14076,7 +14041,7 @@
 		"shield_no": "30790",
 		"appt_date": "1/3/2019",
 		"recognition_count": 3,
-		"arrest_count": 97,
+		"arrest_count": 98,
 		"reports": {
 			"summary": {
 				"command": "MANHATTAN CHILD ABUSE SQUAD",
@@ -15084,7 +15049,7 @@
 		"shield_no": "27703",
 		"appt_date": "10/7/2019",
 		"recognition_count": 1,
-		"arrest_count": 166,
+		"arrest_count": 167,
 		"reports": {
 			"summary": {
 				"command": "114 PRECINCT",
@@ -19697,35 +19662,6 @@
 		"command": "RTCC SOCIAL MEDIA ANALYSIS & RESEARCH TEAM"
 	},
 	{
-		"taxid": 922970,
-		"full_name": "VASQUEZ, SAMUEL",
-		"first_name": "SAMUEL",
-		"last_name": "VASQUEZ",
-		"middle_initial": "",
-		"rank": "POLICE OFFICER",
-		"shield_no": "14914",
-		"appt_date": "9/10/1998",
-		"recognition_count": 34,
-		"arrest_count": 158,
-		"reports": {
-			"summary": {
-				"command": "DBMN EVIDENCE COLLECTION TEAM",
-				"assignment_date": "8/15/2025",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "14914",
-				"appt_date": "9/10/1998"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "DBMN EVIDENCE COLLECTION TEAM"
-	},
-	{
 		"taxid": 967380,
 		"full_name": "VASQUEZ, SILVERIO",
 		"first_name": "SILVERIO",
@@ -19735,7 +19671,7 @@
 		"shield_no": "26600",
 		"appt_date": "1/3/2019",
 		"recognition_count": 5,
-		"arrest_count": 36,
+		"arrest_count": 37,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 34",
@@ -20045,7 +19981,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "18133",
 		"appt_date": "7/19/2024",
-		"recognition_count": 0,
+		"recognition_count": 1,
 		"arrest_count": 16,
 		"reports": {
 			"summary": {
@@ -24135,6 +24071,44 @@
 		"command": "PATROL BORO BRONX SOUTH"
 	},
 	{
+		"taxid": 977444,
+		"full_name": "VEGA, ALEX",
+		"first_name": "ALEX",
+		"last_name": "VEGA",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "27035",
+		"appt_date": "7/5/2023",
+		"recognition_count": 0,
+		"arrest_count": 97,
+		"reports": {
+			"summary": {
+				"command": "019 DOMESTIC VIOLENCE SQUAD",
+				"assignment_date": "7/17/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "27035",
+				"appt_date": "7/5/2023"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/5/2023",
+					"shield_no": "27035"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 39,
+				"misdemeanor": 58
+			},
+			"awards": []
+		},
+		"command": "019 DOMESTIC VIOLENCE SQUAD"
+	},
+	{
 		"taxid": 973180,
 		"full_name": "VEGA, AMANDA M",
 		"first_name": "AMANDA",
@@ -25559,7 +25533,7 @@
 		"shield_no": "741",
 		"appt_date": "1/17/2024",
 		"recognition_count": 0,
-		"arrest_count": 55,
+		"arrest_count": 56,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",
@@ -25952,10 +25926,15 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 58,
+				"felony": 68,
 				"misdemeanor": 41
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "2/10/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "STATEN ISLAND GRAND LARCENY SQD"
 	},
@@ -30562,61 +30541,6 @@
 			"awards": []
 		},
 		"command": "042 PRECINCT"
-	},
-	{
-		"taxid": 934448,
-		"full_name": "VELEZ, RAMON",
-		"first_name": "RAMON",
-		"last_name": "VELEZ",
-		"middle_initial": "",
-		"rank": "SGT DET SQUAD",
-		"shield_no": "794",
-		"appt_date": "7/1/2004",
-		"recognition_count": 0,
-		"arrest_count": 941,
-		"reports": {
-			"summary": {
-				"command": "FORCE INVESTIGATION DIVISION",
-				"assignment_date": "2/9/2022",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "SGT DET SQUAD",
-				"shield_no": "794",
-				"appt_date": "7/1/2004"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/1/2004",
-					"shield_no": "2591"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "6/2/2014",
-					"shield_no": "4964"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "3/18/2021",
-					"shield_no": "794"
-				},
-				{
-					"rank": "SGT DET SQUAD",
-					"date": "5/28/2026",
-					"shield_no": ""
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 2,
-				"felony": 237,
-				"misdemeanor": 685,
-				"violation": 17
-			},
-			"awards": []
-		},
-		"command": "FORCE INVESTIGATION DIVISION"
 	},
 	{
 		"taxid": 951384,
@@ -53052,7 +52976,18 @@
 				"shield_no": "6366",
 				"appt_date": "7/1/2002"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2002",
+					"shield_no": "4506"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "10/18/2021",
+					"shield_no": "6366"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -55170,7 +55105,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "7991",
 		"appt_date": "1/17/2023",
-		"recognition_count": 0,
+		"recognition_count": 1,
 		"arrest_count": 115,
 		"reports": {
 			"summary": {

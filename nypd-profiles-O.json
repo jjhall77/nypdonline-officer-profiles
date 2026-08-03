@@ -24724,7 +24724,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 20,
+				"felony": 21,
 				"misdemeanor": 63
 			},
 			"awards": []
@@ -25519,7 +25519,12 @@
 				"felony": 9,
 				"misdemeanor": 24
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "8/7/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "041 PRECINCT"
 	},
@@ -27340,14 +27345,6 @@
 		"recognition_count": 3,
 		"arrest_count": 802,
 		"reports": {
-			"summary": {
-				"command": "DRUG ENFORCEMENT TASK FORCE",
-				"assignment_date": "2/22/2021",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "SGT DET SQUAD",
-				"shield_no": "3659",
-				"appt_date": "7/1/2004"
-			},
 			"ranks": [
 				{
 					"rank": "POLICE OFFICER",
@@ -27373,11 +27370,7 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 301,
-				"misdemeanor": 500,
-				"violation": 1
-			},
+			"arrests": {},
 			"awards": [
 				{
 					"date": "9/4/2020",
@@ -27392,8 +27385,7 @@
 					"name": "EXCELLENT POLICE DUTY"
 				}
 			]
-		},
-		"command": "DRUG ENFORCEMENT TASK FORCE"
+		}
 	},
 	{
 		"taxid": 933580,
@@ -37006,12 +36998,7 @@
 				"felony": 11,
 				"misdemeanor": 10
 			},
-			"awards": [
-				{
-					"date": "6/5/1999",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"awards": []
 		},
 		"command": "047 PRECINCT"
 	},

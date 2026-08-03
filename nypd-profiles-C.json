@@ -20581,6 +20581,16 @@
 			},
 			"ranks": [
 				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2003",
+					"shield_no": "5906"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "3/26/2010",
+					"shield_no": "1442"
+				},
+				{
 					"rank": "SGT DET SQUAD",
 					"date": "7/30/2021",
 					"shield_no": ""
@@ -38427,7 +38437,12 @@
 				"felony": 6,
 				"misdemeanor": 11
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "8/30/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "121 PRECINCT"
 	},
@@ -56778,7 +56793,13 @@
 				"shield_no": "985",
 				"appt_date": "4/25/2018"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/25/2018",
+					"shield_no": "985"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -64832,7 +64853,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 53,
-				"misdemeanor": 73
+				"misdemeanor": 74
 			},
 			"awards": [
 				{
@@ -96879,14 +96900,6 @@
 		"recognition_count": 5,
 		"arrest_count": 464,
 		"reports": {
-			"summary": {
-				"command": "094 PRECINCT",
-				"assignment_date": "7/13/2020",
-				"ethnicity": "ASIAN",
-				"rank_desc": "DETECTIVE SPECIALIST",
-				"shield_no": "5447",
-				"appt_date": "7/10/2006"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -112145,7 +112158,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 33
+				"misdemeanor": 34
 			},
 			"awards": []
 		},
@@ -120471,22 +120484,13 @@
 		"recognition_count": 2,
 		"arrest_count": 191,
 		"reports": {
-			"summary": {
-				"command": "061 PRECINCT",
-				"assignment_date": "5/16/2022",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "16653",
-				"appt_date": "7/11/2005"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "061 PRECINCT"
+		}
 	},
 	{
 		"taxid": 951625,
@@ -132907,7 +132911,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 2
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -139751,8 +139755,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 42,
-				"misdemeanor": 62
+				"felony": 21,
+				"misdemeanor": 31
 			},
 			"awards": []
 		},
@@ -151505,20 +151509,7 @@
 				"misdemeanor": 146,
 				"violation": 3
 			},
-			"awards": [
-				{
-					"date": "9/17/2016",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "2/17/2015",
-					"name": "COMMENDATION"
-				},
-				{
-					"date": "12/17/2009",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"awards": []
 		},
 		"command": "LOWER MANHATTAN SECURITY INITIATIVE"
 	},
@@ -155334,7 +155325,16 @@
 				"misdemeanor": 59,
 				"violation": 3
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "4/30/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/27/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "041 PRECINCT"
 	},
@@ -176408,14 +176408,6 @@
 		"recognition_count": 34,
 		"arrest_count": 246,
 		"reports": {
-			"summary": {
-				"command": "DRUG ENFORCEMENT TASK FORCE",
-				"assignment_date": "10/5/2022",
-				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE 3RD GRADE",
-				"shield_no": "3472",
-				"appt_date": "7/11/2005"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -184023,8 +184015,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 16,
-				"misdemeanor": 32
+				"felony": 8,
+				"misdemeanor": 16
 			},
 			"awards": []
 		},
@@ -186184,8 +186176,8 @@
 		"arrest_count": 92,
 		"reports": {
 			"summary": {
-				"command": "026 PRECINCT",
-				"assignment_date": "12/1/2025",
+				"command": "034 PRECINCT",
+				"assignment_date": "7/27/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "CAPTAIN",
 				"shield_no": "",
@@ -186229,6 +186221,6 @@
 				}
 			]
 		},
-		"command": "026 PRECINCT"
+		"command": "034 PRECINCT"
 	}
 ]

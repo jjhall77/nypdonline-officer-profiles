@@ -1455,6 +1455,11 @@
 					"rank": "LIEUTENANT",
 					"date": "9/28/2018",
 					"shield_no": ""
+				},
+				{
+					"rank": "LT SPECIAL ASSIGN",
+					"date": "7/31/2026",
+					"shield_no": ""
 				}
 			],
 			"documents": [],
@@ -2715,7 +2720,7 @@
 		"shield_no": "14389",
 		"appt_date": "4/13/2022",
 		"recognition_count": 3,
-		"arrest_count": 190,
+		"arrest_count": 191,
 		"reports": {
 			"summary": {
 				"command": "CITYWIDE COMMUNITY RESPONSE TEAM",
@@ -6807,7 +6812,7 @@
 		"shield_no": "4808",
 		"appt_date": "10/18/2017",
 		"recognition_count": 4,
-		"arrest_count": 157,
+		"arrest_count": 158,
 		"reports": {
 			"summary": {
 				"command": "BRONX ADULT SEX CRIMES SQUAD",
@@ -13165,7 +13170,7 @@
 		"shield_no": "16638",
 		"appt_date": "4/28/2021",
 		"recognition_count": 0,
-		"arrest_count": 52,
+		"arrest_count": 54,
 		"reports": {
 			"summary": {
 				"command": "078 PRECINCT",
@@ -13318,7 +13323,7 @@
 		"shield_no": "11955",
 		"appt_date": "10/7/2019",
 		"recognition_count": 2,
-		"arrest_count": 39,
+		"arrest_count": 40,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -18166,9 +18171,9 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 7,
-				"misdemeanor": 16,
-				"violation": 4
+				"felony": 14,
+				"misdemeanor": 32,
+				"violation": 8
 			},
 			"awards": []
 		},
@@ -18388,7 +18393,7 @@
 		"shield_no": "12807",
 		"appt_date": "11/2/2020",
 		"recognition_count": 0,
-		"arrest_count": 20,
+		"arrest_count": 21,
 		"reports": {
 			"summary": {
 				"command": "122 PRECINCT",
@@ -18712,35 +18717,6 @@
 			]
 		},
 		"command": "HIGHWAY UNIT 2"
-	},
-	{
-		"taxid": 939737,
-		"full_name": "ZITHS, DESHAWN",
-		"first_name": "DESHAWN",
-		"last_name": "ZITHS",
-		"middle_initial": "",
-		"rank": "SERGEANT",
-		"shield_no": "3364",
-		"appt_date": "7/11/2005",
-		"recognition_count": 0,
-		"arrest_count": 148,
-		"reports": {
-			"summary": {
-				"command": "113 PRECINCT",
-				"assignment_date": "1/17/2023",
-				"ethnicity": "BLACK",
-				"rank_desc": "SERGEANT",
-				"shield_no": "3364",
-				"appt_date": "7/11/2005"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "113 PRECINCT"
 	},
 	{
 		"taxid": 964853,
