@@ -2894,7 +2894,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 39,
+				"felony": 42,
 				"misdemeanor": 34
 			},
 			"awards": []
@@ -16685,7 +16685,12 @@
 				"misdemeanor": 12,
 				"violation": 1
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "9/7/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "TRANSIT DISTRICT 1"
 	},

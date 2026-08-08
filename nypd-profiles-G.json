@@ -18508,8 +18508,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 7,
-				"misdemeanor": 53,
+				"felony": 6,
+				"misdemeanor": 52,
 				"other": 8,
 				"violation": 7
 			},
@@ -25456,7 +25456,7 @@
 		"reports": {
 			"summary": {
 				"command": "076 DET SQUAD",
-				"assignment_date": "5/29/2026",
+				"assignment_date": "8/2/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "22072",
@@ -26537,6 +26537,10 @@
 				"violation": 1
 			},
 			"awards": [
+				{
+					"date": "2/16/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "6/6/2016",
 					"name": "EXCELLENT POLICE DUTY"
@@ -30427,7 +30431,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 13,
-				"misdemeanor": 114,
+				"misdemeanor": 115,
 				"violation": 13
 			},
 			"awards": [
@@ -42671,7 +42675,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 84,
+				"felony": 85,
 				"misdemeanor": 145
 			},
 			"awards": [
@@ -63776,7 +63780,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 7
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -103178,7 +103182,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 2,
 				"misdemeanor": 20
 			},
 			"awards": []
@@ -117341,8 +117345,24 @@
 				}
 			],
 			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "5/30/2020 12:00:00 AM",
+					"charges_count": 1
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "GUILTY",
+							"description": "Made or caused to be made false or inaccurate entries in Department records.",
+							"group_id": "1",
+							"penalty": "VACATION DAYS (30 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 1,
 				"felony": 113,
@@ -122555,7 +122575,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 40,
+				"misdemeanor": 39,
 				"violation": 4
 			},
 			"awards": [

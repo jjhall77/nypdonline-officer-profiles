@@ -10075,7 +10075,13 @@
 				"shield_no": "13881",
 				"appt_date": "7/5/2023"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/5/2023",
+					"shield_no": "13881"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -45378,7 +45384,7 @@
 		"reports": {
 			"summary": {
 				"command": "083 DET SQUAD",
-				"assignment_date": "5/8/2026",
+				"assignment_date": "8/2/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "27585",

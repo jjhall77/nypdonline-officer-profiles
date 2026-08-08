@@ -78321,7 +78321,13 @@
 				"shield_no": "22483",
 				"appt_date": "10/7/2019"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/7/2019",
+					"shield_no": "22483"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

@@ -19393,7 +19393,13 @@
 				"shield_no": "31360",
 				"appt_date": "12/29/2021"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/29/2021",
+					"shield_no": "31360"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -31063,7 +31069,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 13,
-				"misdemeanor": 13
+				"misdemeanor": 14
 			},
 			"awards": [
 				{

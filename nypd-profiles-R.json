@@ -4660,7 +4660,7 @@
 		"reports": {
 			"summary": {
 				"command": "INTEL CIS FIO PROGRAM",
-				"assignment_date": "5/9/2026",
+				"assignment_date": "8/5/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "SERGEANT",
 				"shield_no": "5270",
@@ -61648,7 +61648,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 22,
+				"felony": 23,
 				"misdemeanor": 22
 			},
 			"awards": [
@@ -66786,7 +66786,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 30,
+				"felony": 29,
 				"misdemeanor": 94
 			},
 			"awards": [
@@ -86078,7 +86078,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 107,
+				"felony": 108,
 				"misdemeanor": 125,
 				"violation": 1
 			},
@@ -109779,7 +109779,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 17,
+				"misdemeanor": 18,
 				"violation": 2
 			},
 			"awards": []
@@ -111814,7 +111814,12 @@
 				"misdemeanor": 33,
 				"violation": 4
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "6/18/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "041 PRECINCT"
 	},
@@ -113447,8 +113452,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 22,
-				"misdemeanor": 41,
+				"felony": 25,
+				"misdemeanor": 43,
 				"violation": 1
 			},
 			"awards": [
@@ -118998,7 +119003,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 106,
-				"misdemeanor": 107
+				"misdemeanor": 111
 			},
 			"awards": [
 				{

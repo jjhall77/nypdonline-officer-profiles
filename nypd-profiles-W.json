@@ -1338,9 +1338,14 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 21
+				"misdemeanor": 24
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "6/14/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "062 PRECINCT"
 	},
@@ -22509,7 +22514,13 @@
 				"shield_no": "18737",
 				"appt_date": "4/26/2023"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/26/2023",
+					"shield_no": "18737"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -36103,7 +36114,13 @@
 				"shield_no": "10256",
 				"appt_date": "10/7/2019"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/7/2019",
+					"shield_no": "10256"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -55195,7 +55212,13 @@
 				"shield_no": "11295",
 				"appt_date": "10/7/2019"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/7/2019",
+					"shield_no": "11295"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

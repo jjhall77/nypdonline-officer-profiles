@@ -2599,12 +2599,7 @@
 				"misdemeanor": 157,
 				"violation": 32
 			},
-			"awards": [
-				{
-					"date": "8/27/2014",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"awards": []
 		},
 		"command": "WORLD TRADE CENTER COMMAND"
 	},
@@ -13014,8 +13009,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 12,
-				"misdemeanor": 18
+				"felony": 13,
+				"misdemeanor": 19
 			},
 			"awards": []
 		},

@@ -23056,7 +23056,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 32,
-				"misdemeanor": 96,
+				"misdemeanor": 97,
 				"violation": 2
 			},
 			"awards": [
@@ -32686,7 +32686,7 @@
 		"reports": {
 			"summary": {
 				"command": "067 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "4/18/2026",
+				"assignment_date": "7/17/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "10363",
@@ -72719,6 +72719,34 @@
 			},
 			"awards": [
 				{
+					"date": "5/28/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/25/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/4/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/5/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/31/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/11/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/9/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "8/9/2021",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -79044,13 +79072,7 @@
 				"shield_no": "23737",
 				"appt_date": "8/20/2025"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "8/20/2025",
-					"shield_no": "23737"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

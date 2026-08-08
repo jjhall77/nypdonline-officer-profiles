@@ -6811,18 +6811,6 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "7/12/2014",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "7/12/2014",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "7/26/2012",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "7/26/2012",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -6831,19 +6819,7 @@
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
-					"date": "7/17/2012",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
 					"date": "7/7/2012",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "7/7/2012",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "2/24/2012",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -6855,19 +6831,7 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "2/3/2012",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "12/20/2011",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "12/20/2011",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "12/17/2011",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -6879,19 +6843,7 @@
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
-					"date": "10/12/2011",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
 					"date": "10/8/2011",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "10/8/2011",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "9/10/2011",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -6903,27 +6855,11 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "6/11/2011",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/3/2011",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "3/3/2011",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "10/23/2010",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "10/23/2010",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "10/8/2010",
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
@@ -6935,19 +6871,7 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "9/13/2009",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "7/17/2009",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "7/17/2009",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "5/24/2009",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -6959,20 +6883,8 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "1/6/2009",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "10/5/2008",
 					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "10/5/2008",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "9/11/2008",
-					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "9/11/2008",
@@ -6983,19 +6895,7 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "8/26/2008",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "12/22/2007",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "12/22/2007",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "8/30/2007",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -23872,7 +23772,13 @@
 				"shield_no": "2693",
 				"appt_date": "4/13/2022"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/13/2022",
+					"shield_no": "2693"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -29492,7 +29398,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 31,
+				"felony": 32,
 				"misdemeanor": 35,
 				"violation": 1
 			},
@@ -45488,7 +45394,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 12,
+				"felony": 13,
 				"misdemeanor": 35
 			},
 			"awards": [
@@ -61977,7 +61883,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 22,
-				"misdemeanor": 28,
+				"misdemeanor": 27,
 				"violation": 2
 			},
 			"awards": []

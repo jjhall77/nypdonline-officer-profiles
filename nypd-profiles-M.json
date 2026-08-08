@@ -2298,8 +2298,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 33,
-				"misdemeanor": 99
+				"felony": 66,
+				"misdemeanor": 198
 			},
 			"awards": [
 				{
@@ -5064,8 +5064,24 @@
 				}
 			],
 			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "2/24/2022 12:00:00 AM",
+					"charges_count": 1
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Failed to follow proper firearm handling procedures resulting in a discharge.",
+							"group_id": "1",
+							"penalty": "PRE-TRIAL SUSPENSION DAYS (15 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 2,
 				"felony": 19,
@@ -6240,7 +6256,23 @@
 				"shield_no": "2764",
 				"appt_date": "1/9/2012"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/9/2012",
+					"shield_no": "6103"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "8/31/2018",
+					"shield_no": "849"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "12/21/2018",
+					"shield_no": "2764"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -7669,7 +7701,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 31,
+				"felony": 32,
 				"misdemeanor": 22
 			},
 			"awards": []
@@ -11262,7 +11294,12 @@
 				"misdemeanor": 72,
 				"violation": 2
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "6/14/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "062 PRECINCT"
 	},
@@ -18839,8 +18876,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 309,
-				"misdemeanor": 204,
+				"felony": 314,
+				"misdemeanor": 209,
 				"violation": 64
 			},
 			"awards": [
@@ -42520,8 +42557,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 24,
-				"misdemeanor": 49,
+				"felony": 23,
+				"misdemeanor": 48,
 				"other": 1
 			},
 			"awards": [
@@ -69642,7 +69679,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 19,
-				"misdemeanor": 48,
+				"misdemeanor": 50,
 				"violation": 1
 			},
 			"awards": [
@@ -77538,7 +77575,7 @@
 			],
 			"arrests": {
 				"infraction": 8,
-				"felony": 83,
+				"felony": 84,
 				"misdemeanor": 362,
 				"other": 5,
 				"violation": 115
@@ -101759,7 +101796,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 17
+				"misdemeanor": 13
 			},
 			"awards": []
 		},
@@ -103438,7 +103475,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 17,
+				"felony": 18,
 				"misdemeanor": 40
 			},
 			"awards": [
@@ -114560,8 +114597,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 26,
-				"misdemeanor": 25
+				"felony": 27,
+				"misdemeanor": 26
 			},
 			"awards": [
 				{
@@ -131108,7 +131145,13 @@
 				"shield_no": "14249",
 				"appt_date": "4/13/2022"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/13/2022",
+					"shield_no": "14249"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -132283,12 +132326,23 @@
 				"shield_no": "18712",
 				"appt_date": "1/3/2024"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/3/2024",
+					"shield_no": "20944"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/25/2024",
+					"shield_no": "18712"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 31,
+				"felony": 29,
 				"misdemeanor": 53
 			},
 			"awards": []
@@ -150099,7 +150153,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 11
+				"misdemeanor": 12
 			},
 			"awards": []
 		},
@@ -178947,7 +179001,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 60,
+				"felony": 59,
 				"misdemeanor": 47
 			},
 			"awards": []
@@ -191087,7 +191141,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 4,
-				"misdemeanor": 17
+				"misdemeanor": 18
 			},
 			"awards": []
 		},

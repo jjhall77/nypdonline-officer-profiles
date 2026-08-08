@@ -22205,8 +22205,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 31,
-				"misdemeanor": 67
+				"felony": 32,
+				"misdemeanor": 68
 			},
 			"awards": [
 				{
@@ -33026,7 +33026,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 33,
-				"misdemeanor": 61,
+				"misdemeanor": 62,
 				"violation": 1
 			},
 			"awards": []
@@ -47990,7 +47990,12 @@
 				"felony": 12,
 				"misdemeanor": 10
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "3/4/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "070 PRECINCT"
 	},

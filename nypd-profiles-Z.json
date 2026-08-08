@@ -14052,7 +14052,13 @@
 				"shield_no": "23707",
 				"appt_date": "8/20/2025"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "23707"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
