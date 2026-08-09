@@ -485,7 +485,7 @@
 		"shield_no": "22882",
 		"appt_date": "10/25/2023",
 		"recognition_count": 0,
-		"arrest_count": 131,
+		"arrest_count": 133,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 11",
@@ -958,7 +958,7 @@
 		"shield_no": "18897",
 		"appt_date": "4/28/2021",
 		"recognition_count": 1,
-		"arrest_count": 113,
+		"arrest_count": 118,
 		"reports": {
 			"summary": {
 				"command": "072 DOMESTIC VIOLENCE SQUAD",
@@ -979,8 +979,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 63,
-				"misdemeanor": 50
+				"felony": 64,
+				"misdemeanor": 54
 			},
 			"awards": [
 				{
