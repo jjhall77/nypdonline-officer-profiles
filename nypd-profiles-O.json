@@ -2157,7 +2157,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "5895",
 		"appt_date": "12/29/2020",
-		"recognition_count": 2,
+		"recognition_count": 3,
 		"arrest_count": 28,
 		"reports": {
 			"summary": {
@@ -7349,7 +7349,7 @@
 		"shield_no": "21317",
 		"appt_date": "10/7/2015",
 		"recognition_count": 2,
-		"arrest_count": 83,
+		"arrest_count": 84,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -11826,54 +11826,6 @@
 		"command": "010 PRECINCT"
 	},
 	{
-		"taxid": 954184,
-		"full_name": "OLEARY, MATTHEW B",
-		"first_name": "MATTHEW",
-		"last_name": "OLEARY",
-		"middle_initial": "B",
-		"rank": "POLICE OFFICER",
-		"shield_no": "29221",
-		"appt_date": "1/9/2013",
-		"recognition_count": 2,
-		"arrest_count": 121,
-		"reports": {
-			"summary": {
-				"command": "CT OPERATIONAL SUPPORT SECTION",
-				"assignment_date": "4/10/2023",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "29221",
-				"appt_date": "1/9/2013"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/9/2013",
-					"shield_no": "29221"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 25,
-				"misdemeanor": 75,
-				"violation": 21
-			},
-			"awards": [
-				{
-					"date": "11/17/2018",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "2/11/2015",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
-		},
-		"command": "CT OPERATIONAL SUPPORT SECTION"
-	},
-	{
 		"taxid": 949415,
 		"full_name": "OLEARY, MICHAEL V",
 		"first_name": "MICHAEL",
@@ -12096,7 +12048,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 148,
+				"misdemeanor": 149,
 				"violation": 72
 			},
 			"awards": [
@@ -16619,7 +16571,7 @@
 		"shield_no": "3263",
 		"appt_date": "7/8/2015",
 		"recognition_count": 12,
-		"arrest_count": 330,
+		"arrest_count": 331,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 1 MANHATTAN",
@@ -35364,7 +35316,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 49,
-				"misdemeanor": 93
+				"misdemeanor": 95
 			},
 			"awards": [
 				{
@@ -36232,7 +36184,7 @@
 		"shield_no": "28444",
 		"appt_date": "7/8/2008",
 		"recognition_count": 0,
-		"arrest_count": 140,
+		"arrest_count": 141,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
