@@ -667,7 +667,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 26,
-				"misdemeanor": 32
+				"misdemeanor": 33
 			},
 			"awards": []
 		},
@@ -1480,6 +1480,35 @@
 		"command": "077 PRECINCT"
 	},
 	{
+		"taxid": 986590,
+		"full_name": "IBRAHIM, YOUNAN I",
+		"first_name": "YOUNAN",
+		"last_name": "IBRAHIM",
+		"middle_initial": "I",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 973480,
 		"full_name": "IBRAHIM, YOUSF A",
 		"first_name": "YOUSF",
@@ -1684,6 +1713,64 @@
 			"awards": []
 		},
 		"command": "010 PRECINCT"
+	},
+	{
+		"taxid": 986591,
+		"full_name": "IBRAHIMKHAIL, ZOBAIR",
+		"first_name": "ZOBAIR",
+		"last_name": "IBRAHIMKHAIL",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
+		"taxid": 986592,
+		"full_name": "IBRAR, MUHAMMAD",
+		"first_name": "MUHAMMAD",
+		"last_name": "IBRAR",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 982042,
@@ -4150,6 +4237,35 @@
 			]
 		},
 		"command": "DBQS EVIDENCE COLLECTION TEAM"
+	},
+	{
+		"taxid": 986593,
+		"full_name": "IMOMBERDIEV, RUSTAM",
+		"first_name": "RUSTAM",
+		"last_name": "IMOMBERDIEV",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 943386,
@@ -7763,7 +7879,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 2
+				"misdemeanor": 3
 			},
 			"awards": []
 		},
@@ -10137,7 +10253,7 @@
 		"shield_no": "8000",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 0,
+		"arrest_count": 3,
 		"reports": {
 			"summary": {
 				"command": "081 PRECINCT",
@@ -11185,6 +11301,35 @@
 			]
 		},
 		"command": "CENTRAL PARK PRECINCT"
+	},
+	{
+		"taxid": 986594,
+		"full_name": "ISAAC, CALVIN",
+		"first_name": "CALVIN",
+		"last_name": "ISAAC",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 954963,
@@ -13769,7 +13914,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 2
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -13806,8 +13951,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
-				"misdemeanor": 3
+				"felony": 4,
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -14316,7 +14461,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 2
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -14717,6 +14862,35 @@
 			"awards": []
 		},
 		"command": "083 PRECINCT"
+	},
+	{
+		"taxid": 986596,
+		"full_name": "ISLAM, NAJMUL",
+		"first_name": "NAJMUL",
+		"last_name": "ISLAM",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 980618,
@@ -16430,7 +16604,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 4
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -16952,7 +17126,7 @@
 		"shield_no": "23086",
 		"appt_date": "11/2/2020",
 		"recognition_count": 16,
-		"arrest_count": 73,
+		"arrest_count": 76,
 		"reports": {
 			"summary": {
 				"command": "PBSI COMMUNITY RESPONSE TEAM",
@@ -17200,6 +17374,35 @@
 			"awards": []
 		},
 		"command": "TRANSIT DISTRICT 12"
+	},
+	{
+		"taxid": 986597,
+		"full_name": "IZAGUIRREPAZ, JOSEPH R",
+		"first_name": "JOSEPH",
+		"last_name": "IZAGUIRREPAZ",
+		"middle_initial": "R",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 983335,

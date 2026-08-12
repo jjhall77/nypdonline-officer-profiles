@@ -60,6 +60,35 @@
 		"command": "040 PRECINCT"
 	},
 	{
+		"taxid": 986598,
+		"full_name": "JABER, ELIJAH M",
+		"first_name": "ELIJAH",
+		"last_name": "JABER",
+		"middle_initial": "M",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 941941,
 		"full_name": "JABLON, JONATHAN S",
 		"first_name": "JONATHAN",
@@ -2483,35 +2512,6 @@
 		"command": "MEDICAL DIVISION"
 	},
 	{
-		"taxid": 949135,
-		"full_name": "JACKSON, PAUL",
-		"first_name": "PAUL",
-		"last_name": "JACKSON",
-		"middle_initial": "",
-		"rank": "POLICE OFFICER",
-		"shield_no": "11920",
-		"appt_date": "7/6/2010",
-		"recognition_count": 5,
-		"arrest_count": 169,
-		"reports": {
-			"summary": {
-				"command": "103 PRECINCT",
-				"assignment_date": "10/12/2018",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "11920",
-				"appt_date": "7/6/2010"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "103 PRECINCT"
-	},
-	{
 		"taxid": 972017,
 		"full_name": "JACKSON, RAWSAN A",
 		"first_name": "RAWSAN",
@@ -3620,7 +3620,34 @@
 		"recognition_count": 0,
 		"arrest_count": 8,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "GUN VIOL SUPP UNIT Z2 (MAN,BX)",
+				"assignment_date": "7/15/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "7604",
+				"appt_date": "11/2/2020"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "11/2/2020",
+					"shield_no": "12295"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "9/29/2023",
+					"shield_no": "7604"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 6
+			},
+			"awards": []
 		},
 		"command": "GUN VIOL SUPP UNIT Z2 (MAN,BX)"
 	},
@@ -4143,7 +4170,13 @@
 				"shield_no": "23247",
 				"appt_date": "10/11/2016"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/11/2016",
+					"shield_no": "23247"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -4500,7 +4533,29 @@
 		"recognition_count": 0,
 		"arrest_count": 10,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "073 PRECINCT",
+				"assignment_date": "5/8/2019",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "19831",
+				"appt_date": "1/10/2018"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2018",
+					"shield_no": "19831"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 4,
+				"misdemeanor": 6
+			},
+			"awards": []
 		},
 		"command": "073 PRECINCT"
 	},
@@ -5666,7 +5721,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 11
+				"misdemeanor": 12
 			},
 			"awards": []
 		},
@@ -5684,9 +5739,60 @@
 		"recognition_count": 0,
 		"arrest_count": 10,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "073 PCT FIELD TRAINING UNIT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "5074",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "5074"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 4,
+				"misdemeanor": 6
+			},
+			"awards": []
 		},
 		"command": "073 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 986599,
+		"full_name": "JAHANGIR, SALMAN",
+		"first_name": "SALMAN",
+		"last_name": "JAHANGIR",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 964935,
@@ -7296,7 +7402,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 10
+				"misdemeanor": 11
 			},
 			"awards": []
 		},
@@ -7420,7 +7526,7 @@
 		"shield_no": "646",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 1,
+		"arrest_count": 4,
 		"reports": {
 			"summary": {
 				"command": "028 PRECINCT",
@@ -7485,6 +7591,35 @@
 			"awards": []
 		},
 		"command": "DET BORO BKLYN SOUTH"
+	},
+	{
+		"taxid": 986600,
+		"full_name": "JAMES, CJAY C",
+		"first_name": "CJAY",
+		"last_name": "JAMES",
+		"middle_initial": "C",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 978923,
@@ -9568,7 +9703,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 13,
+				"misdemeanor": 14,
 				"violation": 1
 			},
 			"awards": []
@@ -11137,6 +11272,35 @@
 		"command": "110 PRECINCT"
 	},
 	{
+		"taxid": 986601,
+		"full_name": "JAQUEZQUIROZ, ALEXANDER",
+		"first_name": "ALEXANDER",
+		"last_name": "JAQUEZQUIROZ",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 941948,
 		"full_name": "JARA, CHRISTIAN J",
 		"first_name": "CHRISTIAN",
@@ -11423,6 +11587,35 @@
 		"command": "090 PRECINCT"
 	},
 	{
+		"taxid": 986602,
+		"full_name": "JARAMATEPAN, JOHN J",
+		"first_name": "JOHN",
+		"last_name": "JARAMATEPAN",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 947103,
 		"full_name": "JARAMILLO, CARLOS E",
 		"first_name": "CARLOS",
@@ -11484,7 +11677,7 @@
 		"shield_no": "1528",
 		"appt_date": "7/6/2010",
 		"recognition_count": 1,
-		"arrest_count": 349,
+		"arrest_count": 350,
 		"reports": {
 			"summary": {
 				"command": "084 PRECINCT",
@@ -12143,7 +12336,30 @@
 		"recognition_count": 0,
 		"arrest_count": 6,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "032 PRECINCT",
+				"assignment_date": "4/7/2025",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "8609",
+				"appt_date": "7/3/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/3/2024",
+					"shield_no": "8609"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 3,
+				"misdemeanor": 2,
+				"violation": 1
+			},
+			"awards": []
 		},
 		"command": "032 PRECINCT"
 	},
@@ -13683,6 +13899,35 @@
 		"command": "040 PRECINCT"
 	},
 	{
+		"taxid": 986603,
+		"full_name": "JAVIER, KACEY N",
+		"first_name": "KACEY",
+		"last_name": "JAVIER",
+		"middle_initial": "N",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 983345,
 		"full_name": "JAVIER, MELVIN R",
 		"first_name": "MELVIN",
@@ -13781,8 +14026,30 @@
 		"recognition_count": 0,
 		"arrest_count": 2,
 		"reports": {
-			"discipline": []
-		}
+			"summary": {
+				"command": "044 PCT FIELD TRAINING UNIT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "607",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "607"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"misdemeanor": 4
+			},
+			"awards": []
+		},
+		"command": "044 PCT FIELD TRAINING UNIT"
 	},
 	{
 		"taxid": 954001,
@@ -13822,6 +14089,35 @@
 			"awards": []
 		},
 		"command": "048 PRECINCT"
+	},
+	{
+		"taxid": 986604,
+		"full_name": "JAVIERSANTANA, YESLIN S",
+		"first_name": "YESLIN",
+		"last_name": "JAVIERSANTANA",
+		"middle_initial": "S",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 957711,
@@ -14493,18 +14789,7 @@
 				"shield_no": "1292",
 				"appt_date": "7/1/2019"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/1/2019",
-					"shield_no": "17691"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "11/25/2025",
-					"shield_no": "1292"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -14976,8 +15261,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 44,
-				"misdemeanor": 69
+				"felony": 45,
+				"misdemeanor": 70
 			},
 			"awards": [
 				{
@@ -17103,7 +17388,7 @@
 		"shield_no": "7880",
 		"appt_date": "1/6/2016",
 		"recognition_count": 3,
-		"arrest_count": 74,
+		"arrest_count": 77,
 		"reports": {
 			"summary": {
 				"command": "001 DET SQUAD",
@@ -17125,7 +17410,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 3,
-				"felony": 21,
+				"felony": 24,
 				"misdemeanor": 44,
 				"other": 3,
 				"violation": 3
@@ -17537,7 +17822,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 7
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -17721,7 +18006,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 13
+				"misdemeanor": 14
 			},
 			"awards": []
 		},
@@ -20176,13 +20461,7 @@
 				"shield_no": "1893",
 				"appt_date": "8/20/2025"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "8/20/2025",
-					"shield_no": "1893"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -20193,6 +20472,35 @@
 			"awards": []
 		},
 		"command": "046 PCT FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 986605,
+		"full_name": "JENSEN, JAMES L",
+		"first_name": "JAMES",
+		"last_name": "JENSEN",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 948051,
@@ -21219,8 +21527,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
-				"misdemeanor": 2
+				"felony": 2,
+				"misdemeanor": 3
 			},
 			"awards": []
 		},
@@ -23229,6 +23537,35 @@
 		"command": "HOUSING PSA 8"
 	},
 	{
+		"taxid": 986606,
+		"full_name": "JIMENEZ, CHRISTIAN R",
+		"first_name": "CHRISTIAN",
+		"last_name": "JIMENEZ",
+		"middle_initial": "R",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 959711,
 		"full_name": "JIMENEZ, CHRISTOPHER J",
 		"first_name": "CHRISTOPHER",
@@ -23238,7 +23575,7 @@
 		"shield_no": "21970",
 		"appt_date": "10/7/2015",
 		"recognition_count": 4,
-		"arrest_count": 80,
+		"arrest_count": 81,
 		"reports": {
 			"summary": {
 				"command": "071 PRECINCT",
@@ -23646,7 +23983,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 65,
+				"felony": 67,
 				"misdemeanor": 83
 			},
 			"awards": []
@@ -25578,6 +25915,35 @@
 		"command": "HOUSING PSA 5"
 	},
 	{
+		"taxid": 986607,
+		"full_name": "JIMENEZ, LAUREN M",
+		"first_name": "LAUREN",
+		"last_name": "JIMENEZ",
+		"middle_initial": "M",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 981433,
 		"full_name": "JIMENEZ, LOREINNY R",
 		"first_name": "LOREINNY",
@@ -26036,6 +26402,35 @@
 		"command": "067 PRECINCT"
 	},
 	{
+		"taxid": 986608,
+		"full_name": "JIMENEZ, RANDY M",
+		"first_name": "RANDY",
+		"last_name": "JIMENEZ",
+		"middle_initial": "M",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 951850,
 		"full_name": "JIMENEZ, ROBERTO A",
 		"first_name": "ROBERTO",
@@ -26350,6 +26745,64 @@
 			"awards": []
 		},
 		"command": "062 PRECINCT"
+	},
+	{
+		"taxid": 986609,
+		"full_name": "JIMENEZARIAS, MOISES",
+		"first_name": "MOISES",
+		"last_name": "JIMENEZARIAS",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
+		"taxid": 986610,
+		"full_name": "JIMENEZCAMPOS, ADRIAN J",
+		"first_name": "ADRIAN",
+		"last_name": "JIMENEZCAMPOS",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 974219,
@@ -27041,6 +27494,64 @@
 			"awards": []
 		},
 		"command": "PSA 8 FIELD TRAINING UNIT"
+	},
+	{
+		"taxid": 986612,
+		"full_name": "JNPIERRE, STEFAN L",
+		"first_name": "STEFAN",
+		"last_name": "JNPIERRE",
+		"middle_initial": "L",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
+		"taxid": 986613,
+		"full_name": "JO, PHILIP S",
+		"first_name": "PHILIP",
+		"last_name": "JO",
+		"middle_initial": "S",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 969828,
@@ -27753,7 +28264,35 @@
 		"recognition_count": 0,
 		"arrest_count": 148,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "TB ANTI TERRORISM UNIT",
+				"assignment_date": "1/5/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "6665",
+				"appt_date": "1/11/2010"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/11/2010",
+					"shield_no": "6656"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/6/2023",
+					"shield_no": "6665"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 107,
+				"violation": 39
+			},
+			"awards": []
 		},
 		"command": "TB ANTI TERRORISM UNIT"
 	},
@@ -30825,7 +31364,7 @@
 		"shield_no": "15633",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 1,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "041 PRECINCT",
@@ -31011,8 +31550,41 @@
 		"recognition_count": 2,
 		"arrest_count": 208,
 		"reports": {
-			"discipline": []
-		}
+			"summary": {
+				"command": "CRITICAL RESPONSE COMMAND",
+				"assignment_date": "5/22/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "4455",
+				"appt_date": "7/6/2010"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2010",
+					"shield_no": "4455"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 45,
+				"misdemeanor": 155,
+				"violation": 8
+			},
+			"awards": [
+				{
+					"date": "2/12/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/30/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "CRITICAL RESPONSE COMMAND"
 	},
 	{
 		"taxid": 976204,
@@ -32487,7 +33059,7 @@
 		"shield_no": "25324",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 11,
+		"arrest_count": 12,
 		"reports": {
 			"summary": {
 				"command": "006 PRECINCT",
@@ -32768,7 +33340,29 @@
 		"recognition_count": 0,
 		"arrest_count": 48,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "TRAFFIC MANAGEMENT CENTER",
+				"assignment_date": "10/19/2017",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10422",
+				"appt_date": "7/1/2004"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2004",
+					"shield_no": "10422"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 7,
+				"misdemeanor": 41
+			},
+			"awards": []
 		},
 		"command": "TRAFFIC MANAGEMENT CENTER"
 	},
@@ -32872,7 +33466,7 @@
 		"shield_no": "7464",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 0,
+		"arrest_count": 1,
 		"reports": {
 			"summary": {
 				"command": "032 PRECINCT",
@@ -34607,6 +35201,35 @@
 		"command": "POLICE ACADEMY"
 	},
 	{
+		"taxid": 986614,
+		"full_name": "JONES, DIMITRI A",
+		"first_name": "DIMITRI",
+		"last_name": "JONES",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 985531,
 		"full_name": "JONES, GEORGE J",
 		"first_name": "GEORGE",
@@ -34679,6 +35302,35 @@
 			"awards": []
 		},
 		"command": "077 PRECINCT"
+	},
+	{
+		"taxid": 986615,
+		"full_name": "JONES, HAKEEM A",
+		"first_name": "HAKEEM",
+		"last_name": "JONES",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 967128,
@@ -34756,7 +35408,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 7
+				"misdemeanor": 9
 			},
 			"awards": []
 		},
@@ -36065,7 +36717,7 @@
 		"shield_no": "7690",
 		"appt_date": "7/13/2016",
 		"recognition_count": 20,
-		"arrest_count": 396,
+		"arrest_count": 398,
 		"reports": {
 			"summary": {
 				"command": "050 DET SQUAD",
@@ -36092,7 +36744,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 185,
+				"felony": 187,
 				"misdemeanor": 207,
 				"other": 2,
 				"violation": 1
@@ -38489,7 +39141,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 5
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -38999,7 +39651,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 97,
+				"misdemeanor": 100,
 				"violation": 20
 			},
 			"awards": [
@@ -39238,7 +39890,7 @@
 		"shield_no": "17085",
 		"appt_date": "1/7/2015",
 		"recognition_count": 4,
-		"arrest_count": 98,
+		"arrest_count": 99,
 		"reports": {
 			"summary": {
 				"command": "073 PRECINCT",
@@ -40728,6 +41380,35 @@
 		"command": "001 PRECINCT"
 	},
 	{
+		"taxid": 986616,
+		"full_name": "JOSEPH, SAMANTHA D",
+		"first_name": "SAMANTHA",
+		"last_name": "JOSEPH",
+		"middle_initial": "D",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 963082,
 		"full_name": "JOSEPH, SAMUEL",
 		"first_name": "SAMUEL",
@@ -41116,7 +41797,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 26,
-				"misdemeanor": 51,
+				"misdemeanor": 52,
 				"violation": 1
 			},
 			"awards": [
@@ -41428,6 +42109,35 @@
 			"awards": []
 		},
 		"command": "MILITARY & EXTENDED LEAVE DESK"
+	},
+	{
+		"taxid": 986617,
+		"full_name": "JOSLYN, OBRIAN S",
+		"first_name": "OBRIAN",
+		"last_name": "JOSLYN",
+		"middle_initial": "S",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 947925,
@@ -42649,6 +43359,35 @@
 			"awards": []
 		},
 		"command": "PATROL BORO QUEENS SOUTH"
+	},
+	{
+		"taxid": 986618,
+		"full_name": "JOYNER, TIERRA S",
+		"first_name": "TIERRA",
+		"last_name": "JOYNER",
+		"middle_initial": "S",
+		"rank": "POLICE OFFICER",
+		"shield_no": "",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 954984,
@@ -44047,7 +44786,7 @@
 		"shield_no": "14216",
 		"appt_date": "7/9/2013",
 		"recognition_count": 1,
-		"arrest_count": 66,
+		"arrest_count": 67,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 1",
@@ -44171,7 +44910,29 @@
 		"recognition_count": 0,
 		"arrest_count": 29,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "FLUSHING MEADOWS PK SUM DETAIL",
+				"assignment_date": "5/18/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "21775",
+				"appt_date": "7/13/2022"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/13/2022",
+					"shield_no": "21775"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 27
+			},
+			"awards": []
 		},
 		"command": "FLUSHING MEADOWS PK SUM DETAIL"
 	},
