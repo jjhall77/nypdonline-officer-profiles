@@ -6152,13 +6152,7 @@
 				"shield_no": "11304",
 				"appt_date": "10/25/2023"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/25/2023",
-					"shield_no": "11304"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -14800,13 +14794,7 @@
 				"shield_no": "8375",
 				"appt_date": "7/10/2006"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/10/2006",
-					"shield_no": "8375"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [
 				{
@@ -43387,8 +43375,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 50,
-				"misdemeanor": 144,
+				"felony": 51,
+				"misdemeanor": 146,
 				"violation": 2
 			},
 			"awards": [
@@ -80641,7 +80629,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 8,
+				"felony": 9,
 				"misdemeanor": 25,
 				"violation": 1
 			},
@@ -85353,7 +85341,13 @@
 				"shield_no": "9833",
 				"appt_date": "7/21/2008"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2008",
+					"shield_no": "9833"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -96187,7 +96181,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 66,
+				"felony": 67,
 				"misdemeanor": 66
 			},
 			"awards": []
@@ -98444,7 +98438,13 @@
 				"shield_no": "7657",
 				"appt_date": "4/6/2016"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/6/2016",
+					"shield_no": "7657"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -137085,7 +137085,18 @@
 				"shield_no": "1576",
 				"appt_date": "7/8/2015"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2015",
+					"shield_no": "17869"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "7/28/2023",
+					"shield_no": "1576"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

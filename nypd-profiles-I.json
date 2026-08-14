@@ -2154,13 +2154,7 @@
 				"shield_no": "14555",
 				"appt_date": "7/10/2006"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/10/2006",
-					"shield_no": "14555"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [
 				{
@@ -2168,41 +2162,9 @@
 					"charges_count": 3
 				}
 			],
-			"discipline": [
-				{
-					"charges": [
-						{
-							"disposition": "GUILTY",
-							"description": "WHILE ON-DUTY,  WAS DISRESPECTFUL IN THAT HE QUESTIONED A PERSON KNOWN TO THE DEPARTMENT, WITHOUT POLICE NECESSITY",
-							"group_id": "1",
-							"penalty": "VACATION DAYS (5 day(s) )"
-						},
-						{
-							"disposition": "GUILTY",
-							"description": "WHILE ON-DUTY, USED OFFENSIVE LANGUAGE REGARDING A PERSON KNOWN TO THE DEPARTMENT's ETHNICITY.",
-							"group_id": "1",
-							"penalty": "VACATION DAYS (5 day(s) )"
-						},
-						{
-							"disposition": "GUILTY",
-							"description": "WHILE ON-DUTY,  WAS DISCOURTEOUS TO A PERSON KNOWN TO THE DEPARTMENT.",
-							"group_id": "1",
-							"penalty": "VACATION DAYS (5 day(s) )"
-						}
-					]
-				}
-			],
-			"arrests": {
-				"felony": 6,
-				"misdemeanor": 31,
-				"violation": 7
-			},
-			"awards": [
-				{
-					"date": "11/12/2007",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
+			"discipline": [],
+			"arrests": {},
+			"awards": []
 		},
 		"command": "FIREARMS & TACTICS SECTION"
 	},
@@ -12227,16 +12189,6 @@
 			},
 			"ranks": [
 				{
-					"rank": "POLICE OFFICER",
-					"date": "1/9/2013",
-					"shield_no": "2717"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "6/28/2019",
-					"shield_no": "249"
-				},
-				{
 					"rank": "LIEUTENANT",
 					"date": "5/31/2024",
 					"shield_no": ""
@@ -17270,22 +17222,13 @@
 		"recognition_count": 0,
 		"arrest_count": 8,
 		"reports": {
-			"summary": {
-				"command": "077 PRECINCT",
-				"assignment_date": "2/3/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "14275",
-				"appt_date": "10/30/2024"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "077 PRECINCT"
+		}
 	},
 	{
 		"taxid": 984474,

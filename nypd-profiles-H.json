@@ -5668,7 +5668,13 @@
 				"shield_no": "16294",
 				"appt_date": "7/13/2022"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/13/2022",
+					"shield_no": "16294"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -9694,7 +9700,23 @@
 				"shield_no": "",
 				"appt_date": "1/17/2008"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/7/2008",
+					"shield_no": "24975"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "3/1/2013",
+					"shield_no": "2323"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "11/22/2016",
+					"shield_no": ""
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -35501,7 +35523,13 @@
 				"shield_no": "15496",
 				"appt_date": "1/7/2008"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/7/2008",
+					"shield_no": "15496"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -41475,7 +41503,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 11,
-				"misdemeanor": 17
+				"misdemeanor": 18
 			},
 			"awards": []
 		},
@@ -43527,7 +43555,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 13,
-				"misdemeanor": 68,
+				"misdemeanor": 69,
 				"violation": 3
 			},
 			"awards": [
@@ -44993,7 +45021,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 27
+				"misdemeanor": 28
 			},
 			"awards": []
 		},
@@ -47847,7 +47875,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 36,
-				"misdemeanor": 40
+				"misdemeanor": 41
 			},
 			"awards": []
 		},
@@ -48721,7 +48749,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 74,
+				"felony": 75,
 				"misdemeanor": 153,
 				"violation": 5
 			},
@@ -49316,7 +49344,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 9,
+				"felony": 10,
 				"misdemeanor": 17,
 				"violation": 1
 			},
@@ -66227,7 +66255,13 @@
 				"shield_no": "9467",
 				"appt_date": "7/6/2010"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2010",
+					"shield_no": "9467"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -70271,7 +70305,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 35,
-				"misdemeanor": 238,
+				"misdemeanor": 239,
 				"violation": 32
 			},
 			"awards": [
@@ -75364,7 +75398,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 34,
-				"misdemeanor": 96,
+				"misdemeanor": 102,
 				"violation": 14
 			},
 			"awards": [
