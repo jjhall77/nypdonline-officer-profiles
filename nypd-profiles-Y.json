@@ -104,46 +104,6 @@
 		"command": "PBMS THEATER DISTRICT UNIT"
 	},
 	{
-		"taxid": 951452,
-		"full_name": "YACOUB, JONATHAN",
-		"first_name": "JONATHAN",
-		"last_name": "YACOUB",
-		"middle_initial": "",
-		"rank": "DETECTIVE SPECIALIST",
-		"shield_no": "2627",
-		"appt_date": "7/6/2011",
-		"recognition_count": 9,
-		"arrest_count": 66,
-		"reports": {
-			"summary": {
-				"command": "AVIATION UNIT",
-				"assignment_date": "1/13/2016",
-				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE SPECIALIST",
-				"shield_no": "2627",
-				"appt_date": "7/6/2011"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/6/2011",
-					"shield_no": "18741"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "12/23/2024",
-					"shield_no": "2627"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "AVIATION UNIT"
-	},
-	{
 		"taxid": 935997,
 		"full_name": "YAFAI, MOHAMED S",
 		"first_name": "MOHAMED",
@@ -1970,7 +1930,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 11,
-				"misdemeanor": 24
+				"misdemeanor": 25
 			},
 			"awards": []
 		},
@@ -3014,7 +2974,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 126,
-				"misdemeanor": 43
+				"misdemeanor": 44
 			},
 			"awards": [
 				{
@@ -4445,7 +4405,13 @@
 				"shield_no": "29487",
 				"appt_date": "7/5/2023"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/5/2023",
+					"shield_no": "29487"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -5479,7 +5445,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 22,
-				"misdemeanor": 29
+				"misdemeanor": 30
 			},
 			"awards": []
 		},
@@ -5925,6 +5891,26 @@
 			},
 			"awards": [
 				{
+					"date": "6/6/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/14/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/9/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/9/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/6/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
 					"date": "1/8/2024",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -6088,8 +6074,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 97,
-				"misdemeanor": 173,
+				"felony": 98,
+				"misdemeanor": 174,
 				"other": 1
 			},
 			"awards": [
@@ -6273,7 +6259,7 @@
 		"shield_no": "21928",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 21,
+		"arrest_count": 25,
 		"reports": {
 			"summary": {
 				"command": "025 PCT FIELD TRAINING UNIT",
@@ -7263,7 +7249,7 @@
 		"shield_no": "8444",
 		"appt_date": "4/26/2023",
 		"recognition_count": 2,
-		"arrest_count": 64,
+		"arrest_count": 65,
 		"reports": {
 			"summary": {
 				"command": "050 PRECINCT",
@@ -8494,57 +8480,6 @@
 		"command": "090 PRECINCT"
 	},
 	{
-		"taxid": 921870,
-		"full_name": "YOUNG, CHUNNING R",
-		"first_name": "CHUNNING",
-		"last_name": "YOUNG",
-		"middle_initial": "R",
-		"rank": "POLICE OFFICER",
-		"shield_no": "19200",
-		"appt_date": "7/1/1998",
-		"recognition_count": 0,
-		"arrest_count": 77,
-		"reports": {
-			"summary": {
-				"command": "LAB EVIDENCE CTRL & SECURITY",
-				"assignment_date": "4/1/2024",
-				"ethnicity": "ASIAN",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "19200",
-				"appt_date": "7/1/1998"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/1/1998",
-					"shield_no": "19200"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [
-				{
-					"entry": "8/11/2016 12:00:00 AM",
-					"charges_count": 1
-				}
-			],
-			"discipline": [
-				{
-					"charges": [
-						{
-							"disposition": "GUILTY",
-							"description": "ENGAGED IN CONDUCT PREJUDICIAL TO THE GOOD ORDER, EFFICIENCY OR DISCIPLINE OF THE DEPARTMENT TO WIT: SAID POLICE OFFICER PATRONIZED AN UNLAWFUL LOCATION.",
-							"group_id": "1",
-							"penalty": "DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (10 day(s) ), VACATION DAYS (30 day(s) )"
-						}
-					]
-				}
-			],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "LAB EVIDENCE CTRL & SECURITY"
-	},
-	{
 		"taxid": 980277,
 		"full_name": "YOUNG, GRACE E",
 		"first_name": "GRACE",
@@ -8910,7 +8845,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 40,
+				"misdemeanor": 41,
 				"violation": 10
 			},
 			"awards": []
@@ -9243,49 +9178,13 @@
 		"recognition_count": 0,
 		"arrest_count": 42,
 		"reports": {
-			"summary": {
-				"command": "HOUSING PSA 3",
-				"assignment_date": "12/9/2020",
-				"ethnicity": "BLACK",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "8148",
-				"appt_date": "7/10/2006"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/10/2006",
-					"shield_no": "8148"
-				}
-			],
+			"ranks": [],
 			"documents": [],
-			"disciplineHistory": [
-				{
-					"entry": "4/6/2011 12:00:00 AM",
-					"charges_count": 1
-				}
-			],
-			"discipline": [
-				{
-					"charges": [
-						{
-							"disposition": "GUILTY",
-							"description": "WRONGFULLY ENGAGED IN A PHYSICAL ALTERCATION WITH AN INDIVIDUAL KNOWN TO THE DEPARTMENT.",
-							"group_id": "1",
-							"penalty": "COUNSELING, PRE-TRIAL SUSPENSION DAYS (30 day(s) )"
-						}
-					]
-				}
-			],
-			"arrests": {
-				"infraction": 1,
-				"felony": 4,
-				"misdemeanor": 24,
-				"violation": 13
-			},
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
 			"awards": []
-		},
-		"command": "HOUSING PSA 3"
+		}
 	},
 	{
 		"taxid": 976491,
@@ -10342,7 +10241,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
+				"felony": 7,
 				"misdemeanor": 20,
 				"violation": 1
 			},
@@ -12269,7 +12168,7 @@
 		"shield_no": "16036",
 		"appt_date": "10/19/2022",
 		"recognition_count": 0,
-		"arrest_count": 88,
+		"arrest_count": 89,
 		"reports": {
 			"summary": {
 				"command": "042 PRECINCT",
