@@ -104,6 +104,87 @@
 		"command": "PBMS THEATER DISTRICT UNIT"
 	},
 	{
+		"taxid": 951452,
+		"full_name": "YACOUB, JONATHAN",
+		"first_name": "JONATHAN",
+		"last_name": "YACOUB",
+		"middle_initial": "",
+		"rank": "DETECTIVE SPECIALIST",
+		"shield_no": "2627",
+		"appt_date": "7/6/2011",
+		"recognition_count": 9,
+		"arrest_count": 66,
+		"reports": {
+			"summary": {
+				"command": "AVIATION UNIT",
+				"assignment_date": "1/13/2016",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE SPECIALIST",
+				"shield_no": "2627",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "18741"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "12/23/2024",
+					"shield_no": "2627"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 7,
+				"misdemeanor": 54,
+				"violation": 5
+			},
+			"awards": [
+				{
+					"date": "6/15/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/29/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/10/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/19/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/16/2019",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "8/1/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/27/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/22/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/10/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "AVIATION UNIT"
+	},
+	{
 		"taxid": 935997,
 		"full_name": "YAFAI, MOHAMED S",
 		"first_name": "MOHAMED",
@@ -1908,7 +1989,7 @@
 		"shield_no": "16983",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 35,
+		"arrest_count": 36,
 		"reports": {
 			"summary": {
 				"command": "005 PRECINCT",
@@ -2952,7 +3033,7 @@
 		"shield_no": "13089",
 		"appt_date": "10/7/2019",
 		"recognition_count": 15,
-		"arrest_count": 169,
+		"arrest_count": 170,
 		"reports": {
 			"summary": {
 				"command": "PBMS NEIGHBORHOOD SAFETY TEAMS",
@@ -3575,7 +3656,7 @@
 		"shield_no": "20684",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 60,
+		"arrest_count": 61,
 		"reports": {
 			"summary": {
 				"command": "060 PRECINCT",
@@ -3957,7 +4038,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 51,
-				"misdemeanor": 163,
+				"misdemeanor": 164,
 				"violation": 13
 			},
 			"awards": [
@@ -5418,7 +5499,7 @@
 		"shield_no": "12868",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 51,
+		"arrest_count": 52,
 		"reports": {
 			"summary": {
 				"command": "076 DOMESTIC VIOLENCE SQUAD",
@@ -5864,7 +5945,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "20500",
 		"appt_date": "12/29/2021",
-		"recognition_count": 2,
+		"recognition_count": 7,
 		"arrest_count": 155,
 		"reports": {
 			"summary": {
@@ -6053,7 +6134,7 @@
 		"shield_no": "21840",
 		"appt_date": "7/7/2021",
 		"recognition_count": 9,
-		"arrest_count": 271,
+		"arrest_count": 273,
 		"reports": {
 			"summary": {
 				"command": "110 PRECINCT",
@@ -8022,7 +8103,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 184,
+				"felony": 187,
 				"misdemeanor": 235,
 				"violation": 29
 			},
@@ -8480,6 +8561,61 @@
 		"command": "090 PRECINCT"
 	},
 	{
+		"taxid": 921870,
+		"full_name": "YOUNG, CHUNNING R",
+		"first_name": "CHUNNING",
+		"last_name": "YOUNG",
+		"middle_initial": "R",
+		"rank": "POLICE OFFICER",
+		"shield_no": "19200",
+		"appt_date": "7/1/1998",
+		"recognition_count": 0,
+		"arrest_count": 77,
+		"reports": {
+			"summary": {
+				"command": "LAB EVIDENCE CTRL & SECURITY",
+				"assignment_date": "4/1/2024",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "19200",
+				"appt_date": "7/1/1998"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/1998",
+					"shield_no": "19200"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [
+				{
+					"entry": "8/11/2016 12:00:00 AM",
+					"charges_count": 1
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "GUILTY",
+							"description": "ENGAGED IN CONDUCT PREJUDICIAL TO THE GOOD ORDER, EFFICIENCY OR DISCIPLINE OF THE DEPARTMENT TO WIT: SAID POLICE OFFICER PATRONIZED AN UNLAWFUL LOCATION.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), SUSPENDED W/O PAY (10 day(s) ), VACATION DAYS (30 day(s) )"
+						}
+					]
+				}
+			],
+			"arrests": {
+				"infraction": 1,
+				"felony": 23,
+				"misdemeanor": 53
+			},
+			"awards": []
+		},
+		"command": "LAB EVIDENCE CTRL & SECURITY"
+	},
+	{
 		"taxid": 980277,
 		"full_name": "YOUNG, GRACE E",
 		"first_name": "GRACE",
@@ -8823,7 +8959,7 @@
 		"shield_no": "22663",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 53,
+		"arrest_count": 54,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 30",
@@ -9165,26 +9301,6 @@
 			]
 		},
 		"command": "081 PRECINCT"
-	},
-	{
-		"taxid": 942734,
-		"full_name": "YOUNGER, SHAKIR A",
-		"first_name": "SHAKIR",
-		"last_name": "YOUNGER",
-		"middle_initial": "A",
-		"rank": "POLICE OFFICER",
-		"shield_no": "8148",
-		"appt_date": "7/10/2006",
-		"recognition_count": 0,
-		"arrest_count": 42,
-		"reports": {
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		}
 	},
 	{
 		"taxid": 976491,
@@ -10220,7 +10336,7 @@
 		"shield_no": "18924",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 27,
+		"arrest_count": 28,
 		"reports": {
 			"summary": {
 				"command": "030 PRECINCT",

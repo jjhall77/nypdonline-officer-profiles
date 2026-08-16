@@ -1678,7 +1678,7 @@
 		"shield_no": "5516",
 		"appt_date": "10/12/2021",
 		"recognition_count": 4,
-		"arrest_count": 382,
+		"arrest_count": 383,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
@@ -1882,7 +1882,7 @@
 		"shield_no": "13659",
 		"appt_date": "10/25/2023",
 		"recognition_count": 1,
-		"arrest_count": 75,
+		"arrest_count": 77,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -2457,7 +2457,7 @@
 		"shield_no": "20513",
 		"appt_date": "7/1/2019",
 		"recognition_count": 0,
-		"arrest_count": 91,
+		"arrest_count": 93,
 		"reports": {
 			"summary": {
 				"command": "079 DOMESTIC VIOLENCE SQUAD",
@@ -6692,6 +6692,59 @@
 		"command": "047 PRECINCT"
 	},
 	{
+		"taxid": 951414,
+		"full_name": "WALSH, JAMES A",
+		"first_name": "JAMES",
+		"last_name": "WALSH",
+		"middle_initial": "A",
+		"rank": "SERGEANT",
+		"shield_no": "4503",
+		"appt_date": "7/6/2011",
+		"recognition_count": 2,
+		"arrest_count": 92,
+		"reports": {
+			"summary": {
+				"command": "023 PRECINCT",
+				"assignment_date": "6/26/2020",
+				"ethnicity": "WHITE",
+				"rank_desc": "SERGEANT",
+				"shield_no": "4503",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "8264"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "6/25/2020",
+					"shield_no": "4503"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 19,
+				"misdemeanor": 51,
+				"violation": 22
+			},
+			"awards": [
+				{
+					"date": "1/31/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/17/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "023 PRECINCT"
+	},
+	{
 		"taxid": 965701,
 		"full_name": "WALSH, JAMES A",
 		"first_name": "JAMES",
@@ -7957,6 +8010,50 @@
 		"command": "084 PRECINCT"
 	},
 	{
+		"taxid": 951415,
+		"full_name": "WALSHGUZMAN, KAITLYN F",
+		"first_name": "KAITLYN",
+		"last_name": "WALSHGUZMAN",
+		"middle_initial": "F",
+		"rank": "DETECTIVE 2ND GRADE",
+		"shield_no": "5035",
+		"appt_date": "7/6/2011",
+		"recognition_count": 0,
+		"arrest_count": 358,
+		"reports": {
+			"summary": {
+				"command": "DET BORO BROOKLYN NORTH",
+				"assignment_date": "7/13/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 2ND GRADE",
+				"shield_no": "5035",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "18722"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "10/26/2018",
+					"shield_no": "5035"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 166,
+				"misdemeanor": 182,
+				"violation": 10
+			},
+			"awards": []
+		},
+		"command": "DET BORO BROOKLYN NORTH"
+	},
+	{
 		"taxid": 956327,
 		"full_name": "WALTER, ELOISE K",
 		"first_name": "ELOISE",
@@ -8257,7 +8354,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 43,
-				"misdemeanor": 242
+				"misdemeanor": 243
 			},
 			"awards": [
 				{
@@ -8674,7 +8771,7 @@
 		"shield_no": "1100",
 		"appt_date": "10/15/2021",
 		"recognition_count": 0,
-		"arrest_count": 89,
+		"arrest_count": 92,
 		"reports": {
 			"summary": {
 				"command": "113 PRECINCT",
@@ -8713,7 +8810,7 @@
 		"shield_no": "7926",
 		"appt_date": "7/21/2008",
 		"recognition_count": 2,
-		"arrest_count": 98,
+		"arrest_count": 100,
 		"reports": {
 			"summary": {
 				"command": "CENTRAL PK DET SQ",
@@ -12004,7 +12101,7 @@
 		"shield_no": "2614",
 		"appt_date": "1/10/2005",
 		"recognition_count": 4,
-		"arrest_count": 274,
+		"arrest_count": 275,
 		"reports": {
 			"summary": {
 				"command": "076 DET SQUAD",
@@ -13063,7 +13160,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 51,
-				"misdemeanor": 70
+				"misdemeanor": 71
 			},
 			"awards": [
 				{
@@ -13397,7 +13494,7 @@
 		"shield_no": "7343",
 		"appt_date": "4/13/2022",
 		"recognition_count": 0,
-		"arrest_count": 59,
+		"arrest_count": 60,
 		"reports": {
 			"summary": {
 				"command": "041 PRECINCT",
@@ -13852,7 +13949,7 @@
 		"shield_no": "25926",
 		"appt_date": "2/24/2021",
 		"recognition_count": 37,
-		"arrest_count": 200,
+		"arrest_count": 204,
 		"reports": {
 			"summary": {
 				"command": "PBSI COMMUNITY RESPONSE TEAM",
@@ -16002,7 +16099,7 @@
 		"shield_no": "909",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 46,
+		"arrest_count": 48,
 		"reports": {
 			"summary": {
 				"command": "084 PRECINCT",
@@ -18855,7 +18952,7 @@
 		"shield_no": "642",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 13,
+		"arrest_count": 14,
 		"reports": {
 			"summary": {
 				"command": "020 PRECINCT",
@@ -18878,7 +18975,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 6,
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -20581,26 +20678,6 @@
 		"command": "061 PRECINCT"
 	},
 	{
-		"taxid": 974647,
-		"full_name": "WEIR, JOSEPH A",
-		"first_name": "JOSEPH",
-		"last_name": "WEIR",
-		"middle_initial": "A",
-		"rank": "POLICE OFFICER",
-		"shield_no": "8369",
-		"appt_date": "4/13/2022",
-		"recognition_count": 0,
-		"arrest_count": 38,
-		"reports": {
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		}
-	},
-	{
 		"taxid": 986231,
 		"full_name": "WEIR, TAJAUN S",
 		"first_name": "TAJAUN",
@@ -21079,7 +21156,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 42,
+				"felony": 43,
 				"misdemeanor": 35,
 				"violation": 1
 			},
@@ -21180,7 +21257,7 @@
 		"shield_no": "1730",
 		"appt_date": "10/15/2021",
 		"recognition_count": 2,
-		"arrest_count": 60,
+		"arrest_count": 61,
 		"reports": {
 			"summary": {
 				"command": "079 PRECINCT",
@@ -21956,7 +22033,7 @@
 		"shield_no": "6447",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 16,
+		"arrest_count": 18,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 1",
@@ -25952,7 +26029,7 @@
 		"rank": "SERGEANT",
 		"shield_no": "2860",
 		"appt_date": "1/6/2016",
-		"recognition_count": 1,
+		"recognition_count": 2,
 		"arrest_count": 107,
 		"reports": {
 			"summary": {
@@ -32414,7 +32491,7 @@
 		"shield_no": "19365",
 		"appt_date": "11/2/2020",
 		"recognition_count": 15,
-		"arrest_count": 74,
+		"arrest_count": 75,
 		"reports": {
 			"summary": {
 				"command": "NARC BORO BRONX NORTH",
@@ -32752,7 +32829,7 @@
 		"shield_no": "1784",
 		"appt_date": "1/10/2007",
 		"recognition_count": 8,
-		"arrest_count": 697,
+		"arrest_count": 698,
 		"reports": {
 			"summary": {
 				"command": "077 DET SQUAD",
@@ -33386,6 +33463,59 @@
 			]
 		},
 		"command": "040 PRECINCT"
+	},
+	{
+		"taxid": 951443,
+		"full_name": "WILLIAMS, ERIC B",
+		"first_name": "ERIC",
+		"last_name": "WILLIAMS",
+		"middle_initial": "B",
+		"rank": "SERGEANT",
+		"shield_no": "2323",
+		"appt_date": "7/6/2011",
+		"recognition_count": 2,
+		"arrest_count": 47,
+		"reports": {
+			"summary": {
+				"command": "009 PRECINCT",
+				"assignment_date": "12/24/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "SERGEANT",
+				"shield_no": "2323",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "22572"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "11/25/2025",
+					"shield_no": "2323"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 16,
+				"misdemeanor": 30,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "3/8/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/30/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "009 PRECINCT"
 	},
 	{
 		"taxid": 978289,
@@ -35884,7 +36014,7 @@
 		"shield_no": "28751",
 		"appt_date": "12/29/2021",
 		"recognition_count": 0,
-		"arrest_count": 42,
+		"arrest_count": 43,
 		"reports": {
 			"summary": {
 				"command": "034 PRECINCT",
@@ -37585,7 +37715,7 @@
 		"shield_no": "5134",
 		"appt_date": "7/10/2006",
 		"recognition_count": 1,
-		"arrest_count": 945,
+		"arrest_count": 946,
 		"reports": {
 			"summary": {
 				"command": "MTN DET SQUAD",
@@ -37962,6 +38092,46 @@
 		"command": "111 PRECINCT"
 	},
 	{
+		"taxid": 951446,
+		"full_name": "WILLIAMS, WARREN E",
+		"first_name": "WARREN",
+		"last_name": "WILLIAMS",
+		"middle_initial": "E",
+		"rank": "POLICE OFFICER",
+		"shield_no": "10980",
+		"appt_date": "7/6/2011",
+		"recognition_count": 0,
+		"arrest_count": 85,
+		"reports": {
+			"summary": {
+				"command": "POLICE ACADEMY",
+				"assignment_date": "6/3/2021",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10980",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "10980"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 14,
+				"misdemeanor": 68,
+				"violation": 2
+			},
+			"awards": []
+		},
+		"command": "POLICE ACADEMY"
+	},
+	{
 		"taxid": 970320,
 		"full_name": "WILLIAMS, WASIM A",
 		"first_name": "WASIM",
@@ -38175,7 +38345,7 @@
 		"shield_no": "27633",
 		"appt_date": "7/7/2021",
 		"recognition_count": 2,
-		"arrest_count": 67,
+		"arrest_count": 68,
 		"reports": {
 			"summary": {
 				"command": "079 DOMESTIC VIOLENCE SQUAD",
@@ -39410,6 +39580,45 @@
 			]
 		},
 		"command": "CRITICAL RESPONSE COMMAND"
+	},
+	{
+		"taxid": 951447,
+		"full_name": "WILSON, BRIAN G",
+		"first_name": "BRIAN",
+		"last_name": "WILSON",
+		"middle_initial": "G",
+		"rank": "POLICE OFFICER",
+		"shield_no": "27486",
+		"appt_date": "7/6/2011",
+		"recognition_count": 0,
+		"arrest_count": 63,
+		"reports": {
+			"summary": {
+				"command": "DBMS EVIDENCE COLLECTION TEAM",
+				"assignment_date": "12/15/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "27486",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "27486"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 44,
+				"violation": 17
+			},
+			"awards": []
+		},
+		"command": "DBMS EVIDENCE COLLECTION TEAM"
 	},
 	{
 		"taxid": 962169,
@@ -41748,7 +41957,7 @@
 		"shield_no": "9074",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 78,
+		"arrest_count": 79,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -43916,10 +44125,22 @@
 			"arrests": {
 				"infraction": 8,
 				"felony": 179,
-				"misdemeanor": 88,
+				"misdemeanor": 89,
 				"violation": 4
 			},
 			"awards": [
+				{
+					"date": "1/23/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/9/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/30/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
 				{
 					"date": "6/15/2024",
 					"name": "EXCELLENT POLICE DUTY"
@@ -43933,8 +44154,16 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "3/3/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "2/16/2024",
 					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/11/2024",
+					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "3/24/2023",
@@ -43947,6 +44176,10 @@
 				{
 					"date": "1/12/2023",
 					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/15/2022",
+					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "10/26/2022",
@@ -44749,7 +44982,7 @@
 		"shield_no": "9578",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 24,
+		"arrest_count": 25,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 20",
@@ -45921,6 +46154,95 @@
 		"command": "MANHATTAN COURT SECTION"
 	},
 	{
+		"taxid": 951448,
+		"full_name": "WON, ELITE S",
+		"first_name": "ELITE",
+		"last_name": "WON",
+		"middle_initial": "S",
+		"rank": "DETECTIVE 2ND GRADE",
+		"shield_no": "7275",
+		"appt_date": "7/6/2011",
+		"recognition_count": 11,
+		"arrest_count": 434,
+		"reports": {
+			"summary": {
+				"command": "DET BORO QNS NORTH OPER",
+				"assignment_date": "11/24/2025",
+				"ethnicity": "ASIAN",
+				"rank_desc": "DETECTIVE 2ND GRADE",
+				"shield_no": "7275",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "26853"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "11/24/2020",
+					"shield_no": "7275"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 270,
+				"misdemeanor": 151,
+				"violation": 13
+			},
+			"awards": [
+				{
+					"date": "8/25/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/27/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/30/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/16/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/5/2016",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/18/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/11/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/29/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/16/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/17/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/4/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "DET BORO QNS NORTH OPER"
+	},
+	{
 		"taxid": 949806,
 		"full_name": "WONG, ALBERT",
 		"first_name": "ALBERT",
@@ -46811,8 +47133,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "746",
 		"appt_date": "1/17/2024",
-		"recognition_count": 0,
-		"arrest_count": 36,
+		"recognition_count": 3,
+		"arrest_count": 38,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -47405,7 +47727,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 66,
-				"misdemeanor": 113,
+				"misdemeanor": 114,
 				"violation": 12
 			},
 			"awards": [
@@ -49872,7 +50194,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 243,
+				"felony": 246,
 				"misdemeanor": 109,
 				"violation": 21
 			},
@@ -50181,6 +50503,10 @@
 			"awards": [
 				{
 					"date": "9/16/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/12/2022",
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
@@ -50975,6 +51301,45 @@
 		"command": "044 PRECINCT"
 	},
 	{
+		"taxid": 951450,
+		"full_name": "WOODS, ZAIN A",
+		"first_name": "ZAIN",
+		"last_name": "WOODS",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "30046",
+		"appt_date": "7/6/2011",
+		"recognition_count": 0,
+		"arrest_count": 83,
+		"reports": {
+			"summary": {
+				"command": "CRITICAL RESPONSE COMMAND",
+				"assignment_date": "12/5/2015",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "30046",
+				"appt_date": "7/6/2011"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "30046"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 10,
+				"misdemeanor": 65,
+				"violation": 8
+			},
+			"awards": []
+		},
+		"command": "CRITICAL RESPONSE COMMAND"
+	},
+	{
 		"taxid": 945022,
 		"full_name": "WOODSON, TYRONE",
 		"first_name": "TYRONE",
@@ -51010,7 +51375,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 179,
+				"felony": 180,
 				"misdemeanor": 74,
 				"other": 2
 			},
@@ -54770,7 +55135,7 @@
 		"shield_no": "7045",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 9,
+		"arrest_count": 10,
 		"reports": {
 			"summary": {
 				"command": "046 PCT FIELD TRAINING UNIT",
@@ -54894,7 +55259,7 @@
 		"shield_no": "14380",
 		"appt_date": "4/13/2022",
 		"recognition_count": 4,
-		"arrest_count": 326,
+		"arrest_count": 330,
 		"reports": {
 			"summary": {
 				"command": "005 PRECINCT",
@@ -55334,7 +55699,7 @@
 		"shield_no": "11295",
 		"appt_date": "10/7/2019",
 		"recognition_count": 0,
-		"arrest_count": 189,
+		"arrest_count": 191,
 		"reports": {
 			"summary": {
 				"command": "061 PRECINCT",
@@ -56114,7 +56479,7 @@
 		"shield_no": "7999",
 		"appt_date": "7/2/2018",
 		"recognition_count": 29,
-		"arrest_count": 212,
+		"arrest_count": 213,
 		"reports": {
 			"summary": {
 				"command": "PBBS COMMUNITY RESPONSE TEAM",
