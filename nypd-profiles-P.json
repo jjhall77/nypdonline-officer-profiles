@@ -1210,8 +1210,42 @@
 				}
 			],
 			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "10/28/2019 12:00:00 AM",
+					"charges_count": 4
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "GUILTY",
+							"description": "Misuse of time (straight or overtime).",
+							"group_id": "1",
+							"penalty": "FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (15 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "Made or caused to be made false or inaccurate entries in Department records.",
+							"group_id": "1",
+							"penalty": "FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (15 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "Violated uniform rules (armed w/o shield, unarmed on-duty, no ballistic vest, used or  produced duplicate shield (not mere possession), dress code).",
+							"group_id": "1",
+							"penalty": "FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (15 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "Off post (including reporting late for duty).",
+							"group_id": "1",
+							"penalty": "FORFEITURE OF TIME/LEAVE BALANCES, VACATION DAYS (15 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 1,
 				"felony": 70,
@@ -7305,7 +7339,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 45,
-				"misdemeanor": 48
+				"misdemeanor": 52
 			},
 			"awards": [
 				{
@@ -15646,7 +15680,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -62616,7 +62650,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 14,
+				"felony": 15,
 				"misdemeanor": 14
 			},
 			"awards": []
@@ -65147,7 +65181,18 @@
 				"shield_no": "5135",
 				"appt_date": "7/6/2011"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2011",
+					"shield_no": "22377"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "8/26/2022",
+					"shield_no": "5135"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -66293,7 +66338,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 62,
+				"felony": 63,
 				"misdemeanor": 78
 			},
 			"awards": []
@@ -71627,7 +71672,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 32
+				"misdemeanor": 33
 			},
 			"awards": [
 				{
@@ -76579,7 +76624,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 60,
-				"misdemeanor": 51
+				"misdemeanor": 52
 			},
 			"awards": []
 		},
@@ -86522,7 +86567,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 14,
+				"felony": 18,
 				"misdemeanor": 43
 			},
 			"awards": []
@@ -87423,7 +87468,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 409,
+				"felony": 411,
 				"misdemeanor": 142,
 				"other": 2,
 				"violation": 3
@@ -99558,7 +99603,13 @@
 				"shield_no": "17663",
 				"appt_date": "1/9/2012"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/9/2012",
+					"shield_no": "17663"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -113193,7 +113244,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},

@@ -15618,7 +15618,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 20
+				"misdemeanor": 21
 			},
 			"awards": [
 				{
@@ -17627,7 +17627,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 29
+				"misdemeanor": 30
 			},
 			"awards": []
 		},
@@ -21561,8 +21561,8 @@
 		"arrest_count": 82,
 		"reports": {
 			"summary": {
-				"command": "009 PRECINCT",
-				"assignment_date": "3/31/2025",
+				"command": "US OPEN TENNIS DETAIL",
+				"assignment_date": "8/17/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "24345",
@@ -21614,7 +21614,7 @@
 				}
 			]
 		},
-		"command": "009 PRECINCT"
+		"command": "US OPEN TENNIS DETAIL"
 	},
 	{
 		"taxid": 971066,
@@ -23981,18 +23981,7 @@
 				"shield_no": "2380",
 				"appt_date": "1/10/2018"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/10/2018",
-					"shield_no": "10302"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "11/25/2025",
-					"shield_no": "2380"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [
 				{
@@ -30964,12 +30953,14 @@
 						{
 							"disposition": "GUILTY",
 							"description": "FAILED TO PROPERLY SAFEGUARD A HOSPITALIZED PRISONER.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "PRE-TRIAL SUSPENSION DAYS (22 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "CONDUCTED PERSONAL BUSINESS WHILE ON-DUTY.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "PRE-TRIAL SUSPENSION DAYS (22 day(s) )"
 						}
 					]
 				}
@@ -33829,8 +33820,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 99,
-				"misdemeanor": 116,
+				"felony": 100,
+				"misdemeanor": 118,
 				"violation": 10
 			},
 			"awards": [
@@ -101884,7 +101875,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 26,
-				"misdemeanor": 58
+				"misdemeanor": 59
 			},
 			"awards": []
 		},
@@ -108340,7 +108331,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 106,
+				"misdemeanor": 107,
 				"violation": 2
 			},
 			"awards": []
@@ -119687,7 +119678,13 @@
 				"shield_no": "8812",
 				"appt_date": "4/13/2022"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/13/2022",
+					"shield_no": "8812"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

@@ -14180,7 +14180,13 @@
 				"shield_no": "2856",
 				"appt_date": "7/11/2012"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2012",
+					"shield_no": "2856"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -26771,7 +26777,8 @@
 						{
 							"disposition": "GUILTY",
 							"description": "WHILE OFF-DUTY, INAPPROPRIATELY TOUCHED THE BUTTOCKS OF A WOMAN WHOSE IDENTITY IS KNOWN TO THE DEPARTMENT.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (32 day(s) ), VACATION DAYS (15 day(s) )"
 						}
 					]
 				}
@@ -27159,7 +27166,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 27,
-				"misdemeanor": 43,
+				"misdemeanor": 44,
 				"other": 1,
 				"violation": 1
 			},

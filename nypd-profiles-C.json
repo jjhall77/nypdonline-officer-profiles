@@ -6710,7 +6710,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 38,
-				"misdemeanor": 43
+				"misdemeanor": 44
 			},
 			"awards": [
 				{
@@ -33095,7 +33095,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 249,
+				"felony": 250,
 				"misdemeanor": 648,
 				"violation": 18
 			},
@@ -37522,7 +37522,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 42,
-				"misdemeanor": 36,
+				"misdemeanor": 37,
 				"violation": 1
 			},
 			"awards": [
@@ -76260,7 +76260,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 12,
+				"felony": 13,
 				"misdemeanor": 12
 			},
 			"awards": []
@@ -90890,7 +90890,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 33,
+				"felony": 38,
 				"misdemeanor": 74
 			},
 			"awards": [
@@ -101718,7 +101718,7 @@
 			"arrests": {
 				"infraction": 5,
 				"felony": 8,
-				"misdemeanor": 68,
+				"misdemeanor": 69,
 				"violation": 5
 			},
 			"awards": [
@@ -116684,7 +116684,18 @@
 				"shield_no": "27796",
 				"appt_date": "7/11/2012"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2012",
+					"shield_no": "1310"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "9/10/2012",
+					"shield_no": "27796"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -121248,8 +121259,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 32,
-				"misdemeanor": 34
+				"felony": 33,
+				"misdemeanor": 35
 			},
 			"awards": [
 				{
@@ -136960,7 +136971,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 8,
+				"felony": 9,
 				"misdemeanor": 26,
 				"other": 2
 			},
@@ -146061,13 +146072,7 @@
 				"shield_no": "8535",
 				"appt_date": "1/17/2023"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/17/2023",
-					"shield_no": "8535"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -148290,22 +148295,13 @@
 		"recognition_count": 1,
 		"arrest_count": 1,
 		"reports": {
-			"summary": {
-				"command": "CENTRAL RECORDS DIVISION",
-				"assignment_date": "1/5/2024",
-				"ethnicity": "WHITE",
-				"rank_desc": "INSPECTOR",
-				"shield_no": "",
-				"appt_date": "6/30/1992"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "CENTRAL RECORDS DIVISION"
+		}
 	},
 	{
 		"taxid": 954668,
@@ -152743,7 +152739,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 23,
-				"misdemeanor": 56,
+				"misdemeanor": 57,
 				"violation": 1
 			},
 			"awards": [
@@ -171702,13 +171698,7 @@
 				"shield_no": "25757",
 				"appt_date": "7/1/2002"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/1/2002",
-					"shield_no": "25757"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -187068,7 +187058,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 22
+				"misdemeanor": 24
 			},
 			"awards": []
 		},

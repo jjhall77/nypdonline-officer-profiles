@@ -10893,7 +10893,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 8,
+				"felony": 9,
 				"misdemeanor": 22,
 				"violation": 2
 			},
@@ -46086,7 +46086,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 13,
-				"misdemeanor": 35
+				"misdemeanor": 36
 			},
 			"awards": [
 				{
@@ -65662,7 +65662,7 @@
 				}
 			],
 			"arrests": {
-				"felony": 141,
+				"felony": 142,
 				"misdemeanor": 389,
 				"other": 1,
 				"violation": 6
@@ -66285,7 +66285,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 31,
-				"misdemeanor": 67,
+				"misdemeanor": 70,
 				"violation": 2
 			},
 			"awards": []
@@ -73187,7 +73187,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 21,
+				"felony": 22,
 				"misdemeanor": 44
 			},
 			"awards": [

@@ -9246,7 +9246,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 16
+				"misdemeanor": 17
 			},
 			"awards": []
 		},
@@ -25667,9 +25667,9 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 27,
-				"misdemeanor": 59,
-				"violation": 3
+				"felony": 54,
+				"misdemeanor": 118,
+				"violation": 6
 			},
 			"awards": [
 				{
@@ -25677,8 +25677,24 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "5/9/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "2/18/2021",
 					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/18/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/28/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/28/2020",
+					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "6/28/2020",
@@ -45948,11 +45964,7 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 19,
-				"misdemeanor": 72,
-				"violation": 2
-			},
+			"arrests": {},
 			"awards": []
 		},
 		"command": "IAB INVESTIGATIONS UNIT 41"
@@ -57750,7 +57762,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 79,
-				"misdemeanor": 153,
+				"misdemeanor": 154,
 				"violation": 8
 			},
 			"awards": [
@@ -69369,7 +69381,7 @@
 			"arrests": {
 				"felony": 3,
 				"misdemeanor": 20,
-				"violation": 7
+				"violation": 8
 			},
 			"awards": []
 		},
@@ -74109,7 +74121,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 38
+				"misdemeanor": 39
 			},
 			"awards": []
 		},
@@ -110744,7 +110756,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 32,
-				"misdemeanor": 51,
+				"misdemeanor": 53,
 				"violation": 1
 			},
 			"awards": [

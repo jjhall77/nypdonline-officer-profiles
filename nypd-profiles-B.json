@@ -9724,7 +9724,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 17
 			},
 			"awards": []
@@ -11930,7 +11930,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 61,
-				"misdemeanor": 71
+				"misdemeanor": 72
 			},
 			"awards": []
 		},
@@ -23341,7 +23341,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 33,
-				"misdemeanor": 98,
+				"misdemeanor": 99,
 				"violation": 2
 			},
 			"awards": [
@@ -23828,8 +23828,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 104,
-				"misdemeanor": 50
+				"felony": 105,
+				"misdemeanor": 51
 			},
 			"awards": [
 				{
@@ -67620,7 +67620,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 88,
+				"felony": 86,
 				"misdemeanor": 83,
 				"other": 1,
 				"violation": 8
@@ -72721,7 +72721,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 31,
-				"misdemeanor": 60,
+				"misdemeanor": 61,
 				"violation": 3
 			},
 			"awards": [
@@ -77050,7 +77050,13 @@
 				"shield_no": "23122",
 				"appt_date": "7/11/2012"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2012",
+					"shield_no": "23122"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -111263,7 +111269,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 48
+				"misdemeanor": 50
 			},
 			"awards": [
 				{
@@ -128550,8 +128556,8 @@
 		"arrest_count": 12,
 		"reports": {
 			"summary": {
-				"command": "HOUSING PSA 2",
-				"assignment_date": "6/22/2026",
+				"command": "HRD CITYTIME PROGRAM MGMT OFFICE",
+				"assignment_date": "8/17/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "3040",
@@ -128573,7 +128579,7 @@
 			},
 			"awards": []
 		},
-		"command": "HOUSING PSA 2"
+		"command": "HRD CITYTIME PROGRAM MGMT OFFICE"
 	},
 	{
 		"taxid": 938132,
