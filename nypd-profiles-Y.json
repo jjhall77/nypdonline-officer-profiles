@@ -581,8 +581,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
-				"misdemeanor": 2
+				"felony": 4,
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -1117,7 +1117,9 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"misdemeanor": 1
+			},
 			"awards": []
 		},
 		"command": "MILITARY & EXTENDED LEAVE DESK"
@@ -2317,7 +2319,7 @@
 		"shield_no": "21296",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 13,
+		"arrest_count": 14,
 		"reports": {
 			"summary": {
 				"command": "033 PCT FIELD TRAINING UNIT",
@@ -5831,8 +5833,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "15880",
 		"appt_date": "7/2/2018",
-		"recognition_count": 10,
-		"arrest_count": 244,
+		"recognition_count": 14,
+		"arrest_count": 245,
 		"reports": {
 			"summary": {
 				"command": "061 DOMESTIC VIOLENCE SQUAD",
@@ -5853,16 +5855,32 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 85,
+				"felony": 86,
 				"misdemeanor": 159
 			},
 			"awards": [
+				{
+					"date": "7/2/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/10/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/6/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "10/6/2023",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "11/12/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/12/2022",
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
@@ -8814,7 +8832,7 @@
 		"shield_no": "27202",
 		"appt_date": "1/6/2020",
 		"recognition_count": 7,
-		"arrest_count": 199,
+		"arrest_count": 201,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -9814,7 +9832,7 @@
 		"shield_no": "16033",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 1,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "060 PRECINCT",
@@ -10520,7 +10538,7 @@
 		"shield_no": "18097",
 		"appt_date": "7/8/2015",
 		"recognition_count": 0,
-		"arrest_count": 121,
+		"arrest_count": 123,
 		"reports": {
 			"summary": {
 				"command": "005 PRECINCT",
@@ -11794,41 +11812,6 @@
 			]
 		},
 		"command": "CANDIDATE ASSESSMENT DIVISION"
-	},
-	{
-		"taxid": 942737,
-		"full_name": "YUNG, KIT C",
-		"first_name": "KIT",
-		"last_name": "YUNG",
-		"middle_initial": "C",
-		"rank": "SERGEANT",
-		"shield_no": "5493",
-		"appt_date": "7/10/2006",
-		"recognition_count": 2,
-		"arrest_count": 107,
-		"reports": {
-			"summary": {
-				"command": "BROOKLYN COURT SECTION",
-				"assignment_date": "5/22/2025",
-				"ethnicity": "ASIAN",
-				"rank_desc": "SERGEANT",
-				"shield_no": "5493",
-				"appt_date": "7/10/2006"
-			},
-			"ranks": [],
-			"documents": [
-				{
-					"date": "7/25/2023",
-					"url": "https://nypdonline.org/files/942737_07252023_2023046.pdf",
-					"type": "Trial Decision"
-				}
-			],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "BROOKLYN COURT SECTION"
 	},
 	{
 		"taxid": 931465,
