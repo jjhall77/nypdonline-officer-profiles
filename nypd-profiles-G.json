@@ -2129,14 +2129,6 @@
 		"recognition_count": 4,
 		"arrest_count": 426,
 		"reports": {
-			"summary": {
-				"command": "QUEENS SOUTH OPER HOMICIDE SQD",
-				"assignment_date": "9/21/2016",
-				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE 1ST GRADE",
-				"shield_no": "7763",
-				"appt_date": "7/18/1996"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -39399,7 +39391,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 28,
-				"misdemeanor": 48,
+				"misdemeanor": 52,
 				"violation": 3
 			},
 			"awards": []
@@ -117056,7 +117048,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 35,
-				"misdemeanor": 53
+				"misdemeanor": 55
 			},
 			"awards": []
 		},
@@ -122033,27 +122025,32 @@
 						{
 							"disposition": "GUILTY",
 							"description": "wrongfully allowed her husband to use her Department Parking Permit.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "VACATION DAYS (15 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "having become aware that her home had been the subject of an executed search warrant, wrongfully failed to report said occurrence to the Internal Affairs Bureau, as required.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "VACATION DAYS (15 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "wrongfully utilized a Department smartphone to conduct multiple computer database queries for reasons unrelated to Department business.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "VACATION DAYS (15 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "wrongfully used or allowed the use of Department Parking Permit.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "VACATION DAYS (15 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "while off-duty, wrongfully worked off-duty employment.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "VACATION DAYS (15 day(s) )"
 						}
 					]
 				}
@@ -123830,7 +123827,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 9,
+				"felony": 10,
 				"misdemeanor": 40,
 				"violation": 4
 			},

@@ -7250,8 +7250,8 @@
 		"arrest_count": 363,
 		"reports": {
 			"summary": {
-				"command": "MAJOR CASE UNIT",
-				"assignment_date": "2/3/2025",
+				"command": "DBBN VIDEO COLLECTION TEAM",
+				"assignment_date": "8/21/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DETECTIVE 2ND GRADE",
 				"shield_no": "2346",
@@ -7406,7 +7406,7 @@
 				}
 			]
 		},
-		"command": "MAJOR CASE UNIT"
+		"command": "DBBN VIDEO COLLECTION TEAM"
 	},
 	{
 		"taxid": 947929,
@@ -72608,7 +72608,13 @@
 				"shield_no": "13861",
 				"appt_date": "1/9/2012"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/9/2012",
+					"shield_no": "13861"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -85860,7 +85866,18 @@
 				"shield_no": "4784",
 				"appt_date": "10/24/2018"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/24/2018",
+					"shield_no": "5543"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "6/28/2024",
+					"shield_no": "4784"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

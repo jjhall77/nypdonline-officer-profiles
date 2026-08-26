@@ -2921,13 +2921,7 @@
 				"shield_no": "11155",
 				"appt_date": "4/13/2022"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "4/13/2022",
-					"shield_no": "11155"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -17075,8 +17069,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 9,
-				"misdemeanor": 89,
+				"felony": 10,
+				"misdemeanor": 91,
 				"other": 6,
 				"violation": 3
 			},
@@ -42991,11 +42985,27 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "6/19/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/20/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
 					"date": "4/20/2025",
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
 					"date": "6/22/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/22/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/17/2023",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -47844,8 +47854,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 36,
-				"misdemeanor": 43
+				"felony": 37,
+				"misdemeanor": 45
 			},
 			"awards": []
 		},
@@ -85407,7 +85417,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 18,
-				"misdemeanor": 27
+				"misdemeanor": 28
 			},
 			"awards": [
 				{

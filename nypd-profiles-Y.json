@@ -8503,8 +8503,8 @@
 		"arrest_count": 58,
 		"reports": {
 			"summary": {
-				"command": "TRANSIT DISTRICT 2",
-				"assignment_date": "12/6/2017",
+				"command": "MEDICAL DIVISION",
+				"assignment_date": "8/24/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "23476",
@@ -8532,7 +8532,7 @@
 				}
 			]
 		},
-		"command": "TRANSIT DISTRICT 2"
+		"command": "MEDICAL DIVISION"
 	},
 	{
 		"taxid": 945122,

@@ -14602,7 +14602,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 8,
+				"felony": 9,
 				"misdemeanor": 31
 			},
 			"awards": []
@@ -25829,7 +25829,13 @@
 				"shield_no": "17825",
 				"appt_date": "8/20/2025"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "17825"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -28409,7 +28415,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 26,
-				"misdemeanor": 44,
+				"misdemeanor": 45,
 				"violation": 1
 			},
 			"awards": []
@@ -31107,7 +31113,18 @@
 				"shield_no": "2827",
 				"appt_date": "10/7/2019"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/7/2019",
+					"shield_no": "26252"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "6/27/2025",
+					"shield_no": "2827"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -32486,7 +32503,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
+				"felony": 3,
 				"misdemeanor": 9
 			},
 			"awards": []
@@ -88481,7 +88498,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 154,
-				"misdemeanor": 34
+				"misdemeanor": 35
 			},
 			"awards": [
 				{
@@ -101430,7 +101447,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 21,
+				"felony": 22,
 				"misdemeanor": 34
 			},
 			"awards": []
@@ -120877,8 +120894,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 50,
-				"misdemeanor": 60
+				"felony": 51,
+				"misdemeanor": 61
 			},
 			"awards": [
 				{
@@ -125286,7 +125303,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 34,
-				"misdemeanor": 61
+				"misdemeanor": 62
 			},
 			"awards": [
 				{
@@ -130243,8 +130260,8 @@
 		"arrest_count": 72,
 		"reports": {
 			"summary": {
-				"command": "121 PRECINCT",
-				"assignment_date": "12/19/2025",
+				"command": "MANHATTAN COURT SECTION",
+				"assignment_date": "8/24/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -130315,7 +130332,7 @@
 				}
 			]
 		},
-		"command": "121 PRECINCT"
+		"command": "MANHATTAN COURT SECTION"
 	},
 	{
 		"taxid": 964656,
@@ -136891,8 +136908,30 @@
 				}
 			],
 			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "1/3/2023 12:00:00 AM",
+					"charges_count": 2
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "possessed a fraudulent instruement",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "submitted a fraudulent instrument",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (60 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 5,
 				"misdemeanor": 22,
@@ -170081,7 +170120,13 @@
 				"shield_no": "16602",
 				"appt_date": "4/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "16602"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -176708,7 +176753,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 109,
+				"felony": 110,
 				"misdemeanor": 41,
 				"violation": 2
 			},
@@ -192631,18 +192676,7 @@
 				"shield_no": "27073",
 				"appt_date": "7/7/2021"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/7/2021",
-					"shield_no": "27133"
-				},
-				{
-					"rank": "POLICE OFFICER",
-					"date": "5/22/2025",
-					"shield_no": "27073"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -199695,7 +199729,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
+				"felony": 6,
 				"misdemeanor": 11
 			},
 			"awards": []
@@ -200346,13 +200380,11 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": [
-				{
-					"date": "1/25/2024",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"arrests": {
+				"felony": 24,
+				"misdemeanor": 44
+			},
+			"awards": []
 		},
 		"command": "070 PRECINCT"
 	},

@@ -3333,7 +3333,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 80,
+				"felony": 81,
 				"misdemeanor": 106,
 				"other": 1
 			},
@@ -8854,7 +8854,12 @@
 				"felony": 13,
 				"misdemeanor": 39
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "2/19/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "078 PCT PROSPECT PARK DETAIL"
 	},
@@ -19449,7 +19454,13 @@
 					"shield_no": "1619"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "10/13/2010",
+					"url": "https://nypdonline.org/files/929595_10132010_2010057.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -20511,8 +20522,42 @@
 					"type": "Deviation Letter"
 				}
 			],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "4/2/2018 12:00:00 AM",
+					"charges_count": 4
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "False/misleading statements.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "False written statement.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Failed to make entries in activity log.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "False/misleading statements.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (30 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 46,
 				"misdemeanor": 225,
@@ -26791,7 +26836,12 @@
 				"felony": 16,
 				"misdemeanor": 21
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "11/30/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "077 PRECINCT"
 	},
@@ -27968,8 +28018,20 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 37,
+				"misdemeanor": 41
+			},
+			"awards": [
+				{
+					"date": "10/27/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/23/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "071 PRECINCT"
 	},
@@ -30409,7 +30471,13 @@
 					"shield_no": "101"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "1/20/2023",
+					"url": "https://nypdonline.org/files/959447_01202023_2023004.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [
 				{
 					"entry": "9/7/2022 12:00:00 AM",
@@ -32359,7 +32427,7 @@
 			"arrests": {
 				"felony": 2,
 				"misdemeanor": 7,
-				"violation": 7
+				"violation": 8
 			},
 			"awards": []
 		},
@@ -63313,7 +63381,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 40,
+				"misdemeanor": 41,
 				"violation": 1
 			},
 			"awards": []
@@ -66220,7 +66288,10 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"felony": 10,
+				"misdemeanor": 18
+			},
 			"awards": []
 		},
 		"command": "045 PRECINCT"
@@ -85671,8 +85742,54 @@
 					"type": "Trial Decision"
 				}
 			],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "12/9/2022 12:00:00 AM",
+					"charges_count": 6
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Operated a motor vehicle while their ability was impaired.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Operating a motor vehicle while under the influence of alcohol or drugs.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Refused to submit to a breathalyzer test.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Unfit for duty.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "Involved in a physical altercation.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Violated uniform rules.",
+							"group_id": "1",
+							"penalty": "COUNSELING, DISMISSAL PROBATION (12 month(s) ), ORDERED BREATH TESTING, PRE-TRIAL SUSPENSION DAYS (30 day(s) ), VACATION DAYS (40 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 4,
 				"misdemeanor": 26,
@@ -94817,7 +94934,10 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"felony": 50,
+				"misdemeanor": 40
+			},
 			"awards": [
 				{
 					"date": "12/4/2024",
@@ -94875,7 +94995,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 7
 			},
 			"awards": [
@@ -106754,7 +106874,13 @@
 					"shield_no": "257"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "1/30/2015",
+					"url": "https://nypdonline.org/files/942967_01302015_2015008.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -116162,7 +116288,18 @@
 				"shield_no": "3147",
 				"appt_date": "1/10/2018"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2018",
+					"shield_no": "130"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "11/25/2025",
+					"shield_no": "3147"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

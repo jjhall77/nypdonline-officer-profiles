@@ -16481,7 +16481,13 @@
 				"shield_no": "3985",
 				"appt_date": "10/18/2017"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/18/2017",
+					"shield_no": "3985"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

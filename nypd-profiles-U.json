@@ -102,8 +102,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
-				"misdemeanor": 12
+				"felony": 5,
+				"misdemeanor": 13
 			},
 			"awards": []
 		},
@@ -459,7 +459,7 @@
 		"shield_no": "4771",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 0,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "076 PRECINCT",
@@ -3831,7 +3831,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 1
+				"misdemeanor": 2
 			},
 			"awards": []
 		},
@@ -4494,8 +4494,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 68,
-				"misdemeanor": 60
+				"felony": 69,
+				"misdemeanor": 61
 			},
 			"awards": [
 				{
@@ -5827,7 +5827,7 @@
 		"shield_no": "24715",
 		"appt_date": "10/11/2016",
 		"recognition_count": 0,
-		"arrest_count": 181,
+		"arrest_count": 182,
 		"reports": {
 			"summary": {
 				"command": "044 DET SQUAD",
@@ -8510,7 +8510,7 @@
 		"shield_no": "6185",
 		"appt_date": "1/11/2010",
 		"recognition_count": 39,
-		"arrest_count": 514,
+		"arrest_count": 517,
 		"reports": {
 			"summary": {
 				"command": "PBMS COMMUNITY RESPONSE TEAM",
