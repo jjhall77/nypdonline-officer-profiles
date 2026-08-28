@@ -52381,7 +52381,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 276,
+				"felony": 277,
 				"misdemeanor": 547,
 				"violation": 2
 			},
@@ -67689,7 +67689,20 @@
 		"recognition_count": 0,
 		"arrest_count": 0,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
 		},
 		"command": "RTS RECRUITS"
 	},

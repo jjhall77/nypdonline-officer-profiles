@@ -55284,14 +55284,6 @@
 		"recognition_count": 9,
 		"arrest_count": 110,
 		"reports": {
-			"summary": {
-				"command": "PBBS COMMUNITY RESPONSE TEAM",
-				"assignment_date": "12/23/2024",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "25982",
-				"appt_date": "2/24/2021"
-			},
 			"ranks": [
 				{
 					"rank": "POLICE OFFICER",
@@ -55344,8 +55336,7 @@
 					"name": "MERITORIOUS POLICE DUTY"
 				}
 			]
-		},
-		"command": "PBBS COMMUNITY RESPONSE TEAM"
+		}
 	},
 	{
 		"taxid": 986394,
@@ -66951,7 +66942,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 28,
-				"misdemeanor": 44
+				"misdemeanor": 45
 			},
 			"awards": []
 		},
@@ -75490,7 +75481,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 81,
+				"felony": 82,
 				"misdemeanor": 150
 			},
 			"awards": []
@@ -77859,7 +77850,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 32
+				"misdemeanor": 33
 			},
 			"awards": [
 				{
@@ -83745,7 +83736,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 56,
+				"felony": 57,
 				"misdemeanor": 95
 			},
 			"awards": [
@@ -85564,7 +85555,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 20
+				"misdemeanor": 21
 			},
 			"awards": [
 				{
@@ -106153,7 +106144,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 137,
+				"felony": 138,
 				"misdemeanor": 45,
 				"violation": 2
 			},
@@ -124191,7 +124182,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 54,
-				"misdemeanor": 115,
+				"misdemeanor": 117,
 				"violation": 1
 			},
 			"awards": [
@@ -179450,7 +179441,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 29,
+				"felony": 30,
 				"misdemeanor": 54,
 				"violation": 5
 			},

@@ -5665,7 +5665,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 8
+				"misdemeanor": 9
 			},
 			"awards": []
 		},
@@ -15542,8 +15542,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
-				"misdemeanor": 9,
+				"felony": 3,
+				"misdemeanor": 10,
 				"violation": 1
 			},
 			"awards": []
@@ -38068,7 +38068,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 3,
+				"felony": 4,
 				"misdemeanor": 15
 			},
 			"awards": []
@@ -54327,13 +54327,7 @@
 				"shield_no": "10264",
 				"appt_date": "10/30/2024"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/30/2024",
-					"shield_no": "10264"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -54867,7 +54861,29 @@
 		"recognition_count": 0,
 		"arrest_count": 30,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "108 PRECINCT",
+				"assignment_date": "7/16/2024",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "16441",
+				"appt_date": "1/3/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/3/2024",
+					"shield_no": "16441"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 8,
+				"misdemeanor": 22
+			},
+			"awards": []
 		},
 		"command": "108 PRECINCT"
 	},
@@ -61766,7 +61782,30 @@
 		"recognition_count": 0,
 		"arrest_count": 59,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "104 PRECINCT",
+				"assignment_date": "5/6/2014",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "15514",
+				"appt_date": "7/11/2012"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2012",
+					"shield_no": "15514"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 12,
+				"misdemeanor": 41,
+				"violation": 6
+			},
+			"awards": []
 		},
 		"command": "104 PRECINCT"
 	},

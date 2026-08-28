@@ -3739,8 +3739,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 36,
-				"misdemeanor": 112,
+				"felony": 37,
+				"misdemeanor": 113,
 				"violation": 7
 			},
 			"awards": [
@@ -4236,7 +4236,7 @@
 		"shield_no": "16014",
 		"appt_date": "7/19/2024",
 		"recognition_count": 0,
-		"arrest_count": 28,
+		"arrest_count": 29,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -4258,7 +4258,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 9,
+				"felony": 10,
 				"misdemeanor": 17,
 				"violation": 1
 			},
@@ -6765,58 +6765,6 @@
 			]
 		},
 		"command": "109 PRECINCT"
-	},
-	{
-		"taxid": 940122,
-		"full_name": "EGGERS, JONATHAN P",
-		"first_name": "JONATHAN",
-		"last_name": "EGGERS",
-		"middle_initial": "P",
-		"rank": "POLICE OFFICER",
-		"shield_no": "10715",
-		"appt_date": "1/9/2006",
-		"recognition_count": 3,
-		"arrest_count": 71,
-		"reports": {
-			"summary": {
-				"command": "100 PRECINCT",
-				"assignment_date": "6/27/2006",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "10715",
-				"appt_date": "1/9/2006"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/9/2006",
-					"shield_no": "10715"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 18,
-				"misdemeanor": 44,
-				"violation": 9
-			},
-			"awards": [
-				{
-					"date": "10/29/2012",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "9/20/2011",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "11/28/2009",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
-		},
-		"command": "100 PRECINCT"
 	},
 	{
 		"taxid": 949934,
@@ -11979,7 +11927,7 @@
 		"shield_no": "2271",
 		"appt_date": "10/12/2021",
 		"recognition_count": 0,
-		"arrest_count": 205,
+		"arrest_count": 206,
 		"reports": {
 			"summary": {
 				"command": "063 PRECINCT",
@@ -12760,7 +12708,7 @@
 		"shield_no": "11345",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 17,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -12782,7 +12730,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 8,
-				"misdemeanor": 7
+				"misdemeanor": 9
 			},
 			"awards": []
 		},
@@ -13180,7 +13128,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 112,
+				"felony": 113,
 				"misdemeanor": 190,
 				"violation": 1
 			},
@@ -13893,7 +13841,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 16,
+				"felony": 17,
 				"misdemeanor": 21,
 				"other": 1,
 				"violation": 2
@@ -14987,7 +14935,7 @@
 		"shield_no": "31307",
 		"appt_date": "12/29/2021",
 		"recognition_count": 1,
-		"arrest_count": 194,
+		"arrest_count": 195,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",
@@ -15008,7 +14956,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 72,
+				"felony": 73,
 				"misdemeanor": 122
 			},
 			"awards": [
@@ -15069,7 +15017,7 @@
 		"shield_no": "4196",
 		"appt_date": "10/12/2021",
 		"recognition_count": 1,
-		"arrest_count": 85,
+		"arrest_count": 86,
 		"reports": {
 			"summary": {
 				"command": "121 PRECINCT",
@@ -18990,7 +18938,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 7,
+				"misdemeanor": 8,
 				"violation": 1
 			},
 			"awards": []
@@ -25724,7 +25672,7 @@
 		"shield_no": "11529",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 24,
+		"arrest_count": 25,
 		"reports": {
 			"summary": {
 				"command": "006 PRECINCT",
@@ -25898,7 +25846,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 54,
+				"felony": 55,
 				"misdemeanor": 127
 			},
 			"awards": [
@@ -26471,7 +26419,7 @@
 		"shield_no": "25522",
 		"appt_date": "2/24/2021",
 		"recognition_count": 0,
-		"arrest_count": 79,
+		"arrest_count": 81,
 		"reports": {
 			"summary": {
 				"command": "063 PRECINCT",
@@ -26492,7 +26440,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 16,
+				"felony": 18,
 				"misdemeanor": 63
 			},
 			"awards": []
@@ -27763,8 +27711,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 206,
-				"misdemeanor": 157,
+				"felony": 208,
+				"misdemeanor": 158,
 				"other": 2,
 				"violation": 5
 			},
@@ -33555,8 +33503,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 184,
-				"misdemeanor": 256,
+				"felony": 185,
+				"misdemeanor": 257,
 				"violation": 48
 			},
 			"awards": [

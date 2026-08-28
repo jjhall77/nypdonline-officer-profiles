@@ -17513,7 +17513,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 55,
+				"felony": 56,
 				"misdemeanor": 48
 			},
 			"awards": [
@@ -110980,18 +110980,7 @@
 				"shield_no": "4711",
 				"appt_date": "7/1/2002"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/1/2002",
-					"shield_no": "8184"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "9/29/2014",
-					"shield_no": "4711"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

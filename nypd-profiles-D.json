@@ -46,7 +46,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 139,
+				"felony": 140,
 				"misdemeanor": 107,
 				"violation": 6
 			},
@@ -19243,10 +19243,43 @@
 				"shield_no": "4045",
 				"appt_date": "7/22/2002"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2002",
+					"shield_no": "857"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "7/31/2024",
+					"shield_no": "4045"
+				}
+			],
 			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "2/7/2019 12:00:00 AM",
+					"charges_count": 2
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "GUILTY",
+							"description": "WRONGFULLY ENGAGED IN A PHYSICAL ALTERCATION WITH A PERSON KNOWN TO THE DEPARTMENT CAUSING INJURY.",
+							"group_id": "1",
+							"penalty": "COUNSELING, PRE-TRIAL SUSPENSION DAYS (30 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "FAILED TO SAFEGUARD HIS DEPARTMENT SHIELD AS REQUIRED.",
+							"group_id": "1",
+							"penalty": "COUNSELING, PRE-TRIAL SUSPENSION DAYS (30 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 1,
 				"felony": 79,
@@ -33068,13 +33101,7 @@
 				"shield_no": "10043",
 				"appt_date": "7/9/2014"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/9/2014",
-					"shield_no": "10043"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -39727,7 +39754,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 13,
+				"felony": 14,
 				"misdemeanor": 19
 			},
 			"awards": []
@@ -64453,7 +64480,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 15
+				"misdemeanor": 16
 			},
 			"awards": []
 		},
@@ -93227,7 +93254,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 24,
-				"misdemeanor": 167,
+				"misdemeanor": 168,
 				"violation": 9
 			},
 			"awards": [
