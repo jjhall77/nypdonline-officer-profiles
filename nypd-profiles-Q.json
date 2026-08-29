@@ -145,7 +145,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 44,
+				"felony": 45,
 				"misdemeanor": 78
 			},
 			"awards": []
@@ -2154,13 +2154,7 @@
 				"shield_no": "8956",
 				"appt_date": "12/29/2020"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "12/29/2020",
-					"shield_no": "8956"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -4365,7 +4359,7 @@
 		"shield_no": "6052",
 		"appt_date": "7/9/2007",
 		"recognition_count": 14,
-		"arrest_count": 309,
+		"arrest_count": 310,
 		"reports": {
 			"summary": {
 				"command": "SIU COMPUTER CRIMES",
@@ -4392,7 +4386,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 101,
+				"felony": 102,
 				"misdemeanor": 193,
 				"other": 11,
 				"violation": 3
