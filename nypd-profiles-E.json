@@ -3555,7 +3555,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 1
+				"misdemeanor": 2
 			},
 			"awards": []
 		},
@@ -4420,7 +4420,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 1
+				"misdemeanor": 3
 			},
 			"awards": []
 		},
@@ -8028,7 +8028,7 @@
 		"shield_no": "19970",
 		"appt_date": "7/8/2015",
 		"recognition_count": 0,
-		"arrest_count": 54,
+		"arrest_count": 56,
 		"reports": {
 			"summary": {
 				"command": "050 PRECINCT",
@@ -8226,7 +8226,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 2
+				"misdemeanor": 3
 			},
 			"awards": []
 		},
@@ -9353,7 +9353,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 5
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -9587,29 +9587,7 @@
 		"recognition_count": 0,
 		"arrest_count": 10,
 		"reports": {
-			"summary": {
-				"command": "019 PRECINCT",
-				"assignment_date": "6/22/2026",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "9154",
-				"appt_date": "1/29/2025"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/29/2025",
-					"shield_no": "9154"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 3,
-				"misdemeanor": 7
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "019 PRECINCT"
 	},
@@ -10038,30 +10016,7 @@
 		"recognition_count": 0,
 		"arrest_count": 116,
 		"reports": {
-			"summary": {
-				"command": "US OPEN TENNIS DETAIL",
-				"assignment_date": "8/17/2026",
-				"ethnicity": "BLACK",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "16218",
-				"appt_date": "7/18/1996"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/18/1996",
-					"shield_no": "16218"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 25,
-				"misdemeanor": 90
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "US OPEN TENNIS DETAIL"
 	},
@@ -10660,7 +10615,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 2
+				"misdemeanor": 3
 			},
 			"awards": []
 		},
@@ -13007,7 +12962,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 14
+				"misdemeanor": 15
 			},
 			"awards": []
 		},
@@ -13102,7 +13057,7 @@
 		"shield_no": "2163",
 		"appt_date": "1/7/2015",
 		"recognition_count": 17,
-		"arrest_count": 303,
+		"arrest_count": 304,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -14820,7 +14775,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 1
+				"misdemeanor": 2
 			},
 			"awards": []
 		},
@@ -14880,7 +14835,7 @@
 		"shield_no": "16843",
 		"appt_date": "5/17/2021",
 		"recognition_count": 4,
-		"arrest_count": 146,
+		"arrest_count": 147,
 		"reports": {
 			"summary": {
 				"command": "108 PRECINCT",
@@ -17341,13 +17296,7 @@
 				"shield_no": "22141",
 				"appt_date": "10/11/2016"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/11/2016",
-					"shield_no": "22141"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -18367,9 +18316,9 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
-				"misdemeanor": 23,
-				"violation": 1
+				"felony": 10,
+				"misdemeanor": 47,
+				"violation": 2
 			},
 			"awards": []
 		},
@@ -19733,34 +19682,7 @@
 		"recognition_count": 0,
 		"arrest_count": 27,
 		"reports": {
-			"summary": {
-				"command": "PATROL BORO BRONX SOUTH",
-				"assignment_date": "5/19/2026",
-				"ethnicity": "BLACK",
-				"rank_desc": "SERGEANT",
-				"shield_no": "4214",
-				"appt_date": "7/8/2015"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/8/2015",
-					"shield_no": "19003"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "1/31/2025",
-					"shield_no": "4214"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 5,
-				"misdemeanor": 22
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "PATROL BORO BRONX SOUTH"
 	},
@@ -20001,7 +19923,7 @@
 		"shield_no": "12460",
 		"appt_date": "1/10/2007",
 		"recognition_count": 2,
-		"arrest_count": 436,
+		"arrest_count": 437,
 		"reports": {
 			"summary": {
 				"command": "090 PRECINCT",
@@ -20023,7 +19945,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 3,
-				"felony": 133,
+				"felony": 134,
 				"misdemeanor": 296,
 				"violation": 4
 			},
@@ -23124,7 +23046,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 41,
-				"misdemeanor": 102,
+				"misdemeanor": 103,
 				"violation": 17
 			},
 			"awards": [
@@ -25535,40 +25457,7 @@
 		"recognition_count": 0,
 		"arrest_count": 39,
 		"reports": {
-			"summary": {
-				"command": "WORLD TRADE CENTER COMMAND",
-				"assignment_date": "7/24/2017",
-				"ethnicity": "BLACK",
-				"rank_desc": "SGT DET SQUAD",
-				"shield_no": "2269",
-				"appt_date": "7/8/2008"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/8/2008",
-					"shield_no": "10948"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "11/24/2015",
-					"shield_no": "2269"
-				},
-				{
-					"rank": "SGT DET SQUAD",
-					"date": "4/26/2024",
-					"shield_no": ""
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 7,
-				"misdemeanor": 31
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "WORLD TRADE CENTER COMMAND"
 	},
@@ -26497,29 +26386,7 @@
 		"recognition_count": 0,
 		"arrest_count": 11,
 		"reports": {
-			"summary": {
-				"command": "046 PRECINCT",
-				"assignment_date": "5/7/2024",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "2961",
-				"appt_date": "10/25/2023"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/25/2023",
-					"shield_no": "2961"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 1,
-				"misdemeanor": 10
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "046 PRECINCT"
 	},
@@ -27057,7 +26924,7 @@
 		"shield_no": "10555",
 		"appt_date": "11/2/2020",
 		"recognition_count": 2,
-		"arrest_count": 163,
+		"arrest_count": 164,
 		"reports": {
 			"summary": {
 				"command": "109 DOMESTIC VIOLENCE SQUAD",
@@ -30144,29 +30011,7 @@
 		"recognition_count": 0,
 		"arrest_count": 11,
 		"reports": {
-			"summary": {
-				"command": "019 PRECINCT",
-				"assignment_date": "2/3/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "29787",
-				"appt_date": "10/30/2024"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/30/2024",
-					"shield_no": "29787"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 2,
-				"misdemeanor": 9
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "019 PRECINCT"
 	},
@@ -31284,7 +31129,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 95,
+				"misdemeanor": 96,
 				"violation": 1
 			},
 			"awards": [
