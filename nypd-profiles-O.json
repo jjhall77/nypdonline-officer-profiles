@@ -18661,7 +18661,13 @@
 				"shield_no": "12988",
 				"appt_date": "4/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "12988"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -27561,7 +27567,13 @@
 				"shield_no": "17142",
 				"appt_date": "4/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "17142"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -30505,7 +30517,13 @@
 				"shield_no": "10761",
 				"appt_date": "4/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "10761"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

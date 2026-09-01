@@ -783,8 +783,28 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 14,
+				"misdemeanor": 36
+			},
+			"awards": [
+				{
+					"date": "11/3/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/24/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/10/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/30/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "104 PRECINCT"
 	},
@@ -10509,7 +10529,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 29,
-				"misdemeanor": 43
+				"misdemeanor": 45
 			},
 			"awards": []
 		},
@@ -28886,7 +28906,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 3
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -46937,7 +46957,18 @@
 				"shield_no": "11187",
 				"appt_date": "4/15/2019"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/15/2019",
+					"shield_no": "11162"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "11/23/2022",
+					"shield_no": "11187"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

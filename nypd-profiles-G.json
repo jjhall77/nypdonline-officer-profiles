@@ -19516,7 +19516,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 14,
+				"felony": 15,
 				"misdemeanor": 35
 			},
 			"awards": []
@@ -32196,8 +32196,36 @@
 					"type": "Trial Decision"
 				}
 			],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "10/28/2024 12:00:00 AM",
+					"charges_count": 3
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "GUILTY",
+							"description": "Failed to conduct an investigation.",
+							"group_id": "1",
+							"penalty": "VACATION DAY, TRAINING"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "Failed to make required entries in Domestic Incident Report.",
+							"group_id": "1",
+							"penalty": "VACATION DAY, TRAINING"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "Wrongfully discourteous to an individual known to the Department.",
+							"group_id": "1",
+							"penalty": "VACATION DAY, TRAINING"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 10,
 				"felony": 37,
@@ -56371,7 +56399,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 11,
+				"felony": 12,
 				"misdemeanor": 16,
 				"other": 1
 			},
@@ -71784,7 +71812,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 24,
-				"misdemeanor": 51,
+				"misdemeanor": 52,
 				"violation": 1
 			},
 			"awards": [
@@ -86313,7 +86341,13 @@
 				"shield_no": "25432",
 				"appt_date": "1/6/2020"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/6/2020",
+					"shield_no": "25432"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -89688,8 +89722,8 @@
 		"arrest_count": 53,
 		"reports": {
 			"summary": {
-				"command": "SVU INSTANT RESPONSE TRACKINGK/LER DESK",
-				"assignment_date": "8/24/2026",
+				"command": "103 PRECINCT",
+				"assignment_date": "5/20/2024",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "12282",
@@ -89720,7 +89754,7 @@
 				}
 			]
 		},
-		"command": "SVU INSTANT RESPONSE TRACKINGK/LER DESK"
+		"command": "103 PRECINCT"
 	},
 	{
 		"taxid": 932642,
@@ -93731,7 +93765,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 287,
+				"felony": 291,
 				"misdemeanor": 148
 			},
 			"awards": [

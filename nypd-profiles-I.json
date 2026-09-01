@@ -330,8 +330,8 @@
 		"arrest_count": 242,
 		"reports": {
 			"summary": {
-				"command": "INTERNAL AFFAIRS BUREAU",
-				"assignment_date": "8/28/2026",
+				"command": "009 PRECINCT",
+				"assignment_date": "1/7/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -369,7 +369,7 @@
 			},
 			"awards": []
 		},
-		"command": "INTERNAL AFFAIRS BUREAU"
+		"command": "009 PRECINCT"
 	},
 	{
 		"taxid": 935039,
@@ -1273,7 +1273,13 @@
 				"shield_no": "16614",
 				"appt_date": "1/6/2020"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/6/2020",
+					"shield_no": "16614"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -3688,7 +3694,13 @@
 				"shield_no": "7509",
 				"appt_date": "1/6/2020"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/6/2020",
+					"shield_no": "7509"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -11924,7 +11936,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 22,
+				"felony": 23,
 				"misdemeanor": 55,
 				"violation": 3
 			},

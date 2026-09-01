@@ -50794,7 +50794,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 35,
-				"misdemeanor": 52,
+				"misdemeanor": 54,
 				"violation": 3
 			},
 			"awards": [
@@ -99581,7 +99581,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -103699,10 +103699,44 @@
 				"shield_no": "7051",
 				"appt_date": "7/1/2003"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2003",
+					"shield_no": "7051"
+				}
+			],
 			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "2/10/2014 12:00:00 AM",
+					"charges_count": 3
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "GUILTY",
+							"description": "WHILE ON DUTY, WRONGFULLY ACCESSED THE PERSONAL CELLULAR TELEPHONE OF A PRISONER USING A CONFIDENTIAL PASSCODE OBTAINED DURING THE COURSE OF AN OFFICIAL DEPARTMENT INVESTIGATION, AND WRONGFULLY TRANSFERRED WITHOUT PERMISSION OR AUTHORITY PRIVATE IMAGES AND VIDEO RECORDINGS FROM SAID PRISONER's CELLULAR TELEPHONE TO SAID POLICE OFFICER's PERSONAL CELLULAR TELEPHONE.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "DID FAIL AND NEGLECT TO REPORT AN ALLEGATION OF MISCONDUCT TO THE INTERNAL AFFAIRS BUREAU, AS REQUIRED.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "WHILE ON-DUTY, WRONGFULLY IMPEDED AN OFFICIAL DEPARTMENT INVESTIGATION, BY MAKING INACCURATE OR OTHERWISE MISLEADING STATEMENTS REGARDING HIS ACTIONS.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (45 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 1,
 				"felony": 163,
@@ -133095,7 +133129,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 22,
+				"felony": 23,
 				"misdemeanor": 31
 			},
 			"awards": [
@@ -140549,7 +140583,13 @@
 				"shield_no": "12642",
 				"appt_date": "1/8/2014"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/8/2014",
+					"shield_no": "12642"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -149378,7 +149418,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 17,
+				"felony": 19,
 				"misdemeanor": 44,
 				"violation": 1
 			},
@@ -150203,7 +150243,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
+				"felony": 6,
 				"misdemeanor": 10
 			},
 			"awards": []
@@ -157574,7 +157614,23 @@
 				"shield_no": "2488",
 				"appt_date": "10/11/2016"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/11/2016",
+					"shield_no": "22738"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "2/24/2023",
+					"shield_no": "2273"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "10/25/2024",
+					"shield_no": "2488"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

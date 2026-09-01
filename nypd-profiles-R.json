@@ -32242,7 +32242,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 120,
+				"misdemeanor": 121,
 				"violation": 1
 			},
 			"awards": []
@@ -37463,8 +37463,24 @@
 				}
 			],
 			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "9/26/2024 12:00:00 AM",
+					"charges_count": 1
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "Failed to follow rules and procedures.",
+							"group_id": "1",
+							"penalty": "VACATION DAY"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 10,
 				"misdemeanor": 74,
@@ -41563,7 +41579,18 @@
 				"shield_no": "5825",
 				"appt_date": "10/11/2016"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/11/2016",
+					"shield_no": "14702"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "5/31/2024",
+					"shield_no": "5825"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -57429,8 +57456,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 111,
-				"misdemeanor": 66,
+				"felony": 112,
+				"misdemeanor": 67,
 				"violation": 1
 			},
 			"awards": [
@@ -62014,7 +62041,24 @@
 				"felony": 15,
 				"misdemeanor": 122
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "11/30/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/30/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/17/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/13/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "019 PRECINCT"
 	},
@@ -63391,7 +63435,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 24,
-				"misdemeanor": 44,
+				"misdemeanor": 45,
 				"violation": 1
 			},
 			"awards": []
@@ -85997,7 +86041,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "HOUSING PSA 6"
+		"command": "IN-SERVICE TRAINING SECTION"
 	},
 	{
 		"taxid": 944943,
@@ -103596,7 +103640,13 @@
 				"shield_no": "21069",
 				"appt_date": "4/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/22/2026",
+					"shield_no": "21069"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -107444,7 +107494,13 @@
 				"shield_no": "24549",
 				"appt_date": "8/20/2025"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "24549"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -107951,7 +108007,13 @@
 				"shield_no": "18021",
 				"appt_date": "1/29/2025"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/29/2025",
+					"shield_no": "18021"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -113041,7 +113103,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 25,
+				"felony": 26,
 				"misdemeanor": 40
 			},
 			"awards": []
@@ -131556,13 +131618,7 @@
 				"shield_no": "3474",
 				"appt_date": "5/14/2025"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "5/14/2025",
-					"shield_no": "3474"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -132921,7 +132977,13 @@
 				"shield_no": "1288",
 				"appt_date": "8/20/2025"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "1288"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
