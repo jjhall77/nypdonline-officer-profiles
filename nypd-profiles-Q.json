@@ -999,7 +999,7 @@
 		"shield_no": "25566",
 		"appt_date": "7/7/2021",
 		"recognition_count": 0,
-		"arrest_count": 60,
+		"arrest_count": 61,
 		"reports": {
 			"summary": {
 				"command": "103 PRECINCT",
@@ -1867,7 +1867,7 @@
 		"shield_no": "28799",
 		"appt_date": "1/17/2024",
 		"recognition_count": 1,
-		"arrest_count": 26,
+		"arrest_count": 27,
 		"reports": {
 			"summary": {
 				"command": "123 PRECINCT",
@@ -4392,7 +4392,7 @@
 				"infraction": 1,
 				"felony": 102,
 				"misdemeanor": 193,
-				"other": 11,
+				"other": 12,
 				"violation": 3
 			},
 			"awards": [
@@ -6146,7 +6146,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 19,
+				"felony": 20,
 				"misdemeanor": 78,
 				"violation": 6
 			},
@@ -8214,6 +8214,10 @@
 				},
 				{
 					"date": "9/1/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/2/2023",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{

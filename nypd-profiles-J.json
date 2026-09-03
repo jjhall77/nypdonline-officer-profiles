@@ -1738,7 +1738,7 @@
 		"shield_no": "14183",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 10,
+		"arrest_count": 12,
 		"reports": {
 			"summary": {
 				"command": "100 PRECINCT",
@@ -8156,7 +8156,7 @@
 		"shield_no": "21675",
 		"appt_date": "7/5/2023",
 		"recognition_count": 0,
-		"arrest_count": 73,
+		"arrest_count": 74,
 		"reports": {
 			"summary": {
 				"command": "084 PRECINCT",
@@ -8410,8 +8410,8 @@
 		"arrest_count": 68,
 		"reports": {
 			"summary": {
-				"command": "IN-SERVICE TRAINING SECTION",
-				"assignment_date": "8/10/2026",
+				"command": "073 PRECINCT",
+				"assignment_date": "9/1/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "12576",
@@ -8487,7 +8487,7 @@
 				}
 			]
 		},
-		"command": "IN-SERVICE TRAINING SECTION"
+		"command": "073 PRECINCT"
 	},
 	{
 		"taxid": 968510,
@@ -9135,7 +9135,7 @@
 		"shield_no": "4278",
 		"appt_date": "10/12/2021",
 		"recognition_count": 0,
-		"arrest_count": 150,
+		"arrest_count": 152,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",
@@ -9157,7 +9157,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 58,
-				"misdemeanor": 92
+				"misdemeanor": 94
 			},
 			"awards": []
 		},
@@ -9173,7 +9173,7 @@
 		"shield_no": "9076",
 		"appt_date": "7/9/2007",
 		"recognition_count": 0,
-		"arrest_count": 163,
+		"arrest_count": 164,
 		"reports": {
 			"summary": {
 				"command": "013 DOMESTIC VIOLENCE SQUAD",
@@ -9330,7 +9330,7 @@
 		"first_name": "LAUREN",
 		"last_name": "JAMIESON",
 		"middle_initial": "N",
-		"rank": "SERGEANT",
+		"rank": "SGT SPECIAL ASSIGN",
 		"shield_no": "3614",
 		"appt_date": "7/11/2005",
 		"recognition_count": 26,
@@ -13021,7 +13021,18 @@
 				"shield_no": "651",
 				"appt_date": "7/10/2006"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/10/2006",
+					"shield_no": "678"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "11/27/2024",
+					"shield_no": "651"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -19957,7 +19968,13 @@
 				"shield_no": "4056",
 				"appt_date": "4/13/2022"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/13/2022",
+					"shield_no": "4056"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -22501,7 +22518,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 18,
-				"misdemeanor": 41,
+				"misdemeanor": 43,
 				"violation": 1
 			},
 			"awards": []
@@ -22662,7 +22679,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 44,
+				"felony": 45,
 				"misdemeanor": 76
 			},
 			"awards": [
@@ -23490,7 +23507,7 @@
 		"shield_no": "6804",
 		"appt_date": "7/10/2006",
 		"recognition_count": 4,
-		"arrest_count": 442,
+		"arrest_count": 443,
 		"reports": {
 			"summary": {
 				"command": "047 DET SQUAD",
@@ -28160,8 +28177,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 65,
-				"misdemeanor": 154,
+				"felony": 66,
+				"misdemeanor": 155,
 				"other": 1,
 				"violation": 12
 			},
@@ -28889,7 +28906,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 17
+				"misdemeanor": 18
 			},
 			"awards": []
 		},
@@ -29682,6 +29699,11 @@
 					"rank": "SERGEANT",
 					"date": "12/21/2018",
 					"shield_no": "2719"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "8/31/2026",
+					"shield_no": ""
 				}
 			],
 			"documents": [],
@@ -31286,9 +31308,9 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 38,
-				"misdemeanor": 90,
-				"violation": 4
+				"felony": 19,
+				"misdemeanor": 45,
+				"violation": 2
 			},
 			"awards": [
 				{
@@ -31296,23 +31318,7 @@
 					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
-					"date": "7/16/2022",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
 					"date": "6/9/2022",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/9/2022",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "4/26/2022",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "4/26/2022",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -31328,19 +31334,7 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
-					"date": "2/4/2022",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
 					"date": "9/28/2018",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "9/28/2018",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "1/22/2016",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -33773,7 +33767,7 @@
 		"shield_no": "1233",
 		"appt_date": "1/9/2006",
 		"recognition_count": 2,
-		"arrest_count": 359,
+		"arrest_count": 361,
 		"reports": {
 			"summary": {
 				"command": "100 DOMESTIC VIOLENCE SQUAD",
@@ -33876,7 +33870,7 @@
 		"shield_no": "7947",
 		"appt_date": "4/15/2019",
 		"recognition_count": 7,
-		"arrest_count": 276,
+		"arrest_count": 277,
 		"reports": {
 			"summary": {
 				"command": "PBMN COMMUNITY RESPONSE TEAM",
@@ -34635,8 +34629,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 24,
-				"misdemeanor": 36
+				"felony": 25,
+				"misdemeanor": 37
 			},
 			"awards": [
 				{
@@ -35855,7 +35849,7 @@
 		"shield_no": "9262",
 		"appt_date": "1/9/2012",
 		"recognition_count": 3,
-		"arrest_count": 98,
+		"arrest_count": 99,
 		"reports": {
 			"summary": {
 				"command": "040 DET SQUAD",
@@ -38386,7 +38380,7 @@
 		"shield_no": "8628",
 		"appt_date": "7/3/2024",
 		"recognition_count": 1,
-		"arrest_count": 13,
+		"arrest_count": 14,
 		"reports": {
 			"summary": {
 				"command": "034 PRECINCT",
@@ -43540,35 +43534,6 @@
 		"command": "PATROL BORO QUEENS NORTH"
 	},
 	{
-		"taxid": 941976,
-		"full_name": "JUAN, RONALDCAR C",
-		"first_name": "RONALDCAR",
-		"last_name": "JUAN",
-		"middle_initial": "C",
-		"rank": "DETECTIVE SPECIALIST",
-		"shield_no": "4233",
-		"appt_date": "7/10/2006",
-		"recognition_count": 3,
-		"arrest_count": 178,
-		"reports": {
-			"summary": {
-				"command": "EMERGENCY SERVICE UNIT",
-				"assignment_date": "8/27/2021",
-				"ethnicity": "ASIAN",
-				"rank_desc": "DETECTIVE SPECIALIST",
-				"shield_no": "4233",
-				"appt_date": "7/10/2006"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "EMERGENCY SERVICE UNIT"
-	},
-	{
 		"taxid": 968524,
 		"full_name": "JUANACIO, JOHN W",
 		"first_name": "JOHN",
@@ -43813,7 +43778,7 @@
 		"shield_no": "3076",
 		"appt_date": "10/15/2021",
 		"recognition_count": 1,
-		"arrest_count": 59,
+		"arrest_count": 60,
 		"reports": {
 			"summary": {
 				"command": "079 PRECINCT",
@@ -43932,7 +43897,7 @@
 		"shield_no": "4244",
 		"appt_date": "7/2/2001",
 		"recognition_count": 12,
-		"arrest_count": 716,
+		"arrest_count": 717,
 		"reports": {
 			"summary": {
 				"command": "090 DET SQUAD",
@@ -46023,7 +45988,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 23
+				"misdemeanor": 24
 			},
 			"awards": []
 		},

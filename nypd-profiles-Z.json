@@ -77,35 +77,6 @@
 		"command": "094 PRECINCT"
 	},
 	{
-		"taxid": 929391,
-		"full_name": "ZABO, DONNA M",
-		"first_name": "DONNA",
-		"last_name": "ZABO",
-		"middle_initial": "M",
-		"rank": "SERGEANT",
-		"shield_no": "2302",
-		"appt_date": "7/2/2001",
-		"recognition_count": 2,
-		"arrest_count": 70,
-		"reports": {
-			"summary": {
-				"command": "AUXILIARY POLICE SECT",
-				"assignment_date": "5/30/2023",
-				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
-				"shield_no": "2302",
-				"appt_date": "7/2/2001"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "AUXILIARY POLICE SECT"
-	},
-	{
 		"taxid": 980280,
 		"full_name": "ZABRANSKY, THOMAS R",
 		"first_name": "THOMAS",
@@ -2706,7 +2677,7 @@
 		"shield_no": "14389",
 		"appt_date": "4/13/2022",
 		"recognition_count": 3,
-		"arrest_count": 191,
+		"arrest_count": 192,
 		"reports": {
 			"summary": {
 				"command": "CITYWIDE COMMUNITY RESPONSE TEAM",
@@ -3555,7 +3526,7 @@
 		"shield_no": "20252",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 65,
+		"arrest_count": 67,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -5546,7 +5517,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 14
+				"misdemeanor": 15
 			},
 			"awards": []
 		},
@@ -12328,7 +12299,7 @@
 		"shield_no": "3579",
 		"appt_date": "10/25/2023",
 		"recognition_count": 1,
-		"arrest_count": 65,
+		"arrest_count": 67,
 		"reports": {
 			"summary": {
 				"command": "105 PRECINCT",
@@ -12394,7 +12365,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 22,
-				"misdemeanor": 57,
+				"misdemeanor": 58,
 				"violation": 6
 			},
 			"awards": [
@@ -13035,7 +13006,29 @@
 		"recognition_count": 0,
 		"arrest_count": 8,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "047 PCT FIELD TRAINING UNIT",
+				"assignment_date": "6/22/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "17056",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "17056"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 3,
+				"misdemeanor": 5
+			},
+			"awards": []
 		},
 		"command": "047 PCT FIELD TRAINING UNIT"
 	},
@@ -14470,7 +14463,30 @@
 		"recognition_count": 0,
 		"arrest_count": 27,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "TRANSIT DISTRICT 20",
+				"assignment_date": "1/26/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "6680",
+				"appt_date": "10/12/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/12/2021",
+					"shield_no": "6680"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 3,
+				"misdemeanor": 21,
+				"violation": 3
+			},
+			"awards": []
 		},
 		"command": "TRANSIT DISTRICT 20"
 	},
@@ -15436,7 +15452,7 @@
 		"shield_no": "459",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 35,
+		"arrest_count": 36,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 32",
@@ -15659,7 +15675,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
+				"felony": 2,
 				"misdemeanor": 4
 			},
 			"awards": []
@@ -17872,7 +17888,7 @@
 		"shield_no": "6596",
 		"appt_date": "7/9/2007",
 		"recognition_count": 22,
-		"arrest_count": 408,
+		"arrest_count": 410,
 		"reports": {
 			"summary": {
 				"command": "107 DOMESTIC VIOLENCE SQUAD",
@@ -18261,7 +18277,7 @@
 		"shield_no": "11427",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 28,
+		"arrest_count": 29,
 		"reports": {
 			"summary": {
 				"command": "006 PRECINCT",
