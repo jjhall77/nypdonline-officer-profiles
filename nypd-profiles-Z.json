@@ -4323,13 +4323,7 @@
 				"shield_no": "16102",
 				"appt_date": "1/7/2015"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/7/2015",
-					"shield_no": "16102"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -4534,7 +4528,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "1549"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -5435,16 +5435,6 @@
 			},
 			"ranks": [
 				{
-					"rank": "POLICE OFFICER",
-					"date": "7/8/2008",
-					"shield_no": "6964"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "9/30/2013",
-					"shield_no": "4538"
-				},
-				{
 					"rank": "LIEUTENANT",
 					"date": "2/26/2020",
 					"shield_no": ""
@@ -5495,7 +5485,7 @@
 		"shield_no": "4560",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 20,
+		"arrest_count": 21,
 		"reports": {
 			"summary": {
 				"command": "046 PRECINCT",
@@ -9216,7 +9206,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 32,
+				"felony": 33,
 				"misdemeanor": 71
 			},
 			"awards": [
@@ -10125,7 +10115,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "7553"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -12343,7 +12339,7 @@
 		"shield_no": "16012",
 		"appt_date": "10/24/2018",
 		"recognition_count": 1,
-		"arrest_count": 85,
+		"arrest_count": 86,
 		"reports": {
 			"summary": {
 				"command": "105 PRECINCT",
@@ -13104,7 +13100,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "8954"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -15654,7 +15656,7 @@
 		"shield_no": "4753",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 5,
+		"arrest_count": 6,
 		"reports": {
 			"summary": {
 				"command": "077 PRECINCT",
@@ -16607,7 +16609,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "7603"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -18114,7 +18122,7 @@
 			],
 			"arrests": {
 				"infraction": 1,
-				"felony": 48,
+				"felony": 49,
 				"misdemeanor": 76,
 				"violation": 4
 			},
@@ -21088,7 +21096,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "14466"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
