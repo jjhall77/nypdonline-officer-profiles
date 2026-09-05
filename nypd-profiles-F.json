@@ -1415,40 +1415,8 @@
 		"recognition_count": 2,
 		"arrest_count": 44,
 		"reports": {
-			"summary": {
-				"command": "COMMUNITY AFFAIRS BUREAU",
-				"assignment_date": "3/9/2026",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "1180",
-				"appt_date": "1/17/2023"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/17/2023",
-					"shield_no": "1180"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 6,
-				"misdemeanor": 38
-			},
-			"awards": [
-				{
-					"date": "8/2/2025",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/29/2025",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
-		},
-		"command": "COMMUNITY AFFAIRS BUREAU"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 919019,
@@ -2269,7 +2237,7 @@
 		"first_name": "MICHAEL",
 		"last_name": "FAHRBACH",
 		"middle_initial": "A",
-		"rank": "DETECTIVE 3RD GRADE",
+		"rank": "DETECTIVE 2ND GRADE",
 		"shield_no": "1219",
 		"appt_date": "7/8/2015",
 		"recognition_count": 0,
@@ -2279,7 +2247,7 @@
 				"command": "CEIS TRADEMARK INFRINGEMENT UNIT",
 				"assignment_date": "7/10/2025",
 				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE 3RD GRADE",
+				"rank_desc": "DETECTIVE 2ND GRADE",
 				"shield_no": "1219",
 				"appt_date": "7/8/2015"
 			},
@@ -2584,7 +2552,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 218,
-				"misdemeanor": 100,
+				"misdemeanor": 101,
 				"violation": 1
 			},
 			"awards": [
@@ -4650,7 +4618,7 @@
 		"shield_no": "9669",
 		"appt_date": "4/12/2017",
 		"recognition_count": 1,
-		"arrest_count": 311,
+		"arrest_count": 315,
 		"reports": {
 			"summary": {
 				"command": "043 DOMESTIC VIOLENCE SQUAD",
@@ -4671,8 +4639,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 123,
-				"misdemeanor": 188
+				"felony": 125,
+				"misdemeanor": 190
 			},
 			"awards": [
 				{
@@ -4771,31 +4739,8 @@
 		"recognition_count": 0,
 		"arrest_count": 31,
 		"reports": {
-			"summary": {
-				"command": "108 PRECINCT",
-				"assignment_date": "5/9/2024",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "18865",
-				"appt_date": "4/26/2023"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "4/26/2023",
-					"shield_no": "18865"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 12,
-				"misdemeanor": 19
-			},
-			"awards": []
-		},
-		"command": "108 PRECINCT"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 965715,
@@ -5896,17 +5841,17 @@
 		"first_name": "QURBAN",
 		"last_name": "FARIAD",
 		"middle_initial": "",
-		"rank": "DETECTIVE 3RD GRADE",
+		"rank": "SERGEANT",
 		"shield_no": "1329",
 		"appt_date": "1/9/2013",
 		"recognition_count": 8,
 		"arrest_count": 305,
 		"reports": {
 			"summary": {
-				"command": "025 DET SQUAD",
-				"assignment_date": "10/11/2020",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "8/31/2026",
 				"ethnicity": "ASIAN",
-				"rank_desc": "DETECTIVE 3RD GRADE",
+				"rank_desc": "SERGEANT",
 				"shield_no": "1329",
 				"appt_date": "1/9/2013"
 			},
@@ -5925,6 +5870,11 @@
 					"rank": "DETECTIVE",
 					"date": "2/9/2022",
 					"shield_no": "1329"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "8/31/2026",
+					"shield_no": "2288"
 				}
 			],
 			"documents": [],
@@ -5971,7 +5921,7 @@
 				}
 			]
 		},
-		"command": "025 DET SQUAD"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 938463,
@@ -8492,7 +8442,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -8782,32 +8732,8 @@
 		"recognition_count": 0,
 		"arrest_count": 132,
 		"reports": {
-			"summary": {
-				"command": "120 PRECINCT",
-				"assignment_date": "12/18/2025",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "16592",
-				"appt_date": "7/13/2022"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/13/2022",
-					"shield_no": "16592"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 23,
-				"misdemeanor": 108,
-				"violation": 1
-			},
-			"awards": []
-		},
-		"command": "120 PRECINCT"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 955911,
@@ -9638,7 +9564,7 @@
 		"rank": "DETECTIVE 3RD GRADE",
 		"shield_no": "3993",
 		"appt_date": "1/6/2016",
-		"recognition_count": 1,
+		"recognition_count": 2,
 		"arrest_count": 408,
 		"reports": {
 			"summary": {
@@ -13371,7 +13297,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 3
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -13794,7 +13720,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 4
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -14369,7 +14295,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 15
+				"misdemeanor": 16
 			},
 			"awards": []
 		},
@@ -14898,7 +14824,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 3
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -15076,8 +15002,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 73,
-				"misdemeanor": 103
+				"felony": 74,
+				"misdemeanor": 104
 			},
 			"awards": [
 				{
@@ -15334,40 +15260,7 @@
 		"recognition_count": 0,
 		"arrest_count": 44,
 		"reports": {
-			"summary": {
-				"command": "HOUSING PSA 6",
-				"assignment_date": "1/12/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "LIEUTENANT",
-				"shield_no": "",
-				"appt_date": "1/20/2004"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/20/2004",
-					"shield_no": "2426"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "3/30/2012",
-					"shield_no": "1123"
-				},
-				{
-					"rank": "LIEUTENANT",
-					"date": "6/24/2022",
-					"shield_no": ""
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 7,
-				"misdemeanor": 36,
-				"violation": 1
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "HOUSING PSA 6"
 	},
@@ -15889,7 +15782,7 @@
 		"shield_no": "4064",
 		"appt_date": "7/9/2013",
 		"recognition_count": 9,
-		"arrest_count": 117,
+		"arrest_count": 118,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 2",
@@ -19106,7 +18999,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 72,
-				"misdemeanor": 107
+				"misdemeanor": 108
 			},
 			"awards": [
 				{
@@ -19148,7 +19041,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 6
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -22295,6 +22188,67 @@
 		"command": "H&W EMPLOYEE ASSISTANCE UNIT"
 	},
 	{
+		"taxid": 956040,
+		"full_name": "FERNANDEZ, NATHALIE Z",
+		"first_name": "NATHALIE",
+		"last_name": "FERNANDEZ",
+		"middle_initial": "Z",
+		"rank": "SERGEANT",
+		"shield_no": "424",
+		"appt_date": "1/8/2014",
+		"recognition_count": 4,
+		"arrest_count": 108,
+		"reports": {
+			"summary": {
+				"command": "026 PRECINCT",
+				"assignment_date": "3/21/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "SERGEANT",
+				"shield_no": "424",
+				"appt_date": "1/8/2014"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/8/2014",
+					"shield_no": "6592"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "3/18/2021",
+					"shield_no": "424"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 25,
+				"misdemeanor": 82,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "6/1/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/3/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/8/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/10/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "026 PRECINCT"
+	},
+	{
 		"taxid": 922336,
 		"full_name": "FERNANDEZ, NELSON G",
 		"first_name": "NELSON",
@@ -23142,47 +23096,8 @@
 		"recognition_count": 2,
 		"arrest_count": 42,
 		"reports": {
-			"summary": {
-				"command": "US OPEN TENNIS DETAIL",
-				"assignment_date": "8/17/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "DETECTIVE SPECIALIST",
-				"shield_no": "7685",
-				"appt_date": "7/10/2006"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/10/2006",
-					"shield_no": "23828"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "9/29/2023",
-					"shield_no": "7685"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 7,
-				"misdemeanor": 22,
-				"violation": 12
-			},
-			"awards": [
-				{
-					"date": "12/1/2014",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "11/27/2013",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
-		},
-		"command": "US OPEN TENNIS DETAIL"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 985491,
@@ -25311,7 +25226,7 @@
 		"shield_no": "4254",
 		"appt_date": "1/6/2016",
 		"recognition_count": 2,
-		"arrest_count": 134,
+		"arrest_count": 135,
 		"reports": {
 			"summary": {
 				"command": "QUEENS CHILD ABUSE SQUAD",
@@ -26447,35 +26362,6 @@
 			]
 		},
 		"command": "SPECIAL INVESTIGATIONS UNIT"
-	},
-	{
-		"taxid": 976117,
-		"full_name": "FERRIS, KAYLA M",
-		"first_name": "KAYLA",
-		"last_name": "FERRIS",
-		"middle_initial": "M",
-		"rank": "POLICE OFFICER",
-		"shield_no": "897",
-		"appt_date": "1/17/2023",
-		"recognition_count": 7,
-		"arrest_count": 112,
-		"reports": {
-			"summary": {
-				"command": "121 PRECINCT",
-				"assignment_date": "7/26/2023",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "897",
-				"appt_date": "1/17/2023"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "121 PRECINCT"
 	},
 	{
 		"taxid": 948962,
@@ -28371,7 +28257,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "1758",
 		"appt_date": "1/6/2016",
-		"recognition_count": 1,
+		"recognition_count": 2,
 		"arrest_count": 40,
 		"reports": {
 			"summary": {
@@ -29235,7 +29121,7 @@
 		"shield_no": "8212",
 		"appt_date": "7/13/2016",
 		"recognition_count": 4,
-		"arrest_count": 73,
+		"arrest_count": 74,
 		"reports": {
 			"summary": {
 				"command": "088 PRECINCT",
@@ -30931,20 +30817,7 @@
 		"recognition_count": 0,
 		"arrest_count": 0,
 		"reports": {
-			"summary": {
-				"command": "RTS RECRUITS",
-				"assignment_date": "7/22/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "",
-				"appt_date": "7/22/2026"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"discipline": []
 		},
 		"command": "RTS RECRUITS"
 	},
@@ -37002,29 +36875,7 @@
 		"recognition_count": 0,
 		"arrest_count": 16,
 		"reports": {
-			"summary": {
-				"command": "070 PRECINCT",
-				"assignment_date": "2/3/2026",
-				"ethnicity": "BLACK",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "10105",
-				"appt_date": "10/30/2024"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/30/2024",
-					"shield_no": "10105"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 2,
-				"misdemeanor": 14
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "070 PRECINCT"
 	},
@@ -37595,30 +37446,7 @@
 		"recognition_count": 0,
 		"arrest_count": 16,
 		"reports": {
-			"summary": {
-				"command": "105 PRECINCT",
-				"assignment_date": "6/22/2026",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "3512",
-				"appt_date": "1/29/2025"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/29/2025",
-					"shield_no": "3512"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 3,
-				"misdemeanor": 12,
-				"violation": 1
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "105 PRECINCT"
 	},
@@ -39225,7 +39053,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 43,
+				"felony": 45,
 				"misdemeanor": 62,
 				"violation": 1
 			},
@@ -39344,7 +39172,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 66,
-				"misdemeanor": 80
+				"misdemeanor": 81
 			},
 			"awards": [
 				{
@@ -41227,7 +41055,7 @@
 		"shield_no": "23171",
 		"appt_date": "11/2/2020",
 		"recognition_count": 0,
-		"arrest_count": 48,
+		"arrest_count": 49,
 		"reports": {
 			"summary": {
 				"command": "094 PRECINCT",
@@ -41249,7 +41077,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 31,
+				"misdemeanor": 32,
 				"violation": 1
 			},
 			"awards": []
@@ -42258,54 +42086,6 @@
 			"awards": []
 		},
 		"command": "116 PRECINCT"
-	},
-	{
-		"taxid": 940147,
-		"full_name": "FLORES, CELSO W",
-		"first_name": "CELSO",
-		"last_name": "FLORES",
-		"middle_initial": "W",
-		"rank": "POLICE OFFICER",
-		"shield_no": "14226",
-		"appt_date": "1/9/2006",
-		"recognition_count": 2,
-		"arrest_count": 85,
-		"reports": {
-			"summary": {
-				"command": "PROPERTY CLERK DIVISION",
-				"assignment_date": "6/19/2015",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "14226",
-				"appt_date": "1/9/2006"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/9/2006",
-					"shield_no": "14226"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 14,
-				"misdemeanor": 68,
-				"violation": 3
-			},
-			"awards": [
-				{
-					"date": "12/20/2014",
-					"name": "COMMENDATION"
-				},
-				{
-					"date": "8/31/2011",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
-		},
-		"command": "PROPERTY CLERK DIVISION"
 	},
 	{
 		"taxid": 946996,
@@ -44511,6 +44291,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
+				"infraction": 1,
 				"felony": 1
 			},
 			"awards": []
@@ -44972,31 +44753,8 @@
 		"recognition_count": 0,
 		"arrest_count": 12,
 		"reports": {
-			"summary": {
-				"command": "073 PRECINCT",
-				"assignment_date": "7/16/2024",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "16091",
-				"appt_date": "1/17/2024"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/17/2024",
-					"shield_no": "16091"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 2,
-				"misdemeanor": 10
-			},
-			"awards": []
-		},
-		"command": "073 PRECINCT"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 985499,
@@ -45088,29 +44846,7 @@
 		"recognition_count": 0,
 		"arrest_count": 9,
 		"reports": {
-			"summary": {
-				"command": "044 PCT FIELD TRAINING UNIT",
-				"assignment_date": "6/22/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "18602",
-				"appt_date": "8/20/2025"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "8/20/2025",
-					"shield_no": "18602"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 2,
-				"misdemeanor": 7
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "044 PCT FIELD TRAINING UNIT"
 	},
@@ -45126,32 +44862,8 @@
 		"recognition_count": 0,
 		"arrest_count": 62,
 		"reports": {
-			"summary": {
-				"command": "044 PRECINCT",
-				"assignment_date": "10/22/2020",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "15462",
-				"appt_date": "7/1/2019"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/1/2019",
-					"shield_no": "15462"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 24,
-				"misdemeanor": 37
-			},
-			"awards": []
-		},
-		"command": "044 PRECINCT"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 951739,
@@ -46511,50 +46223,8 @@
 		"recognition_count": 4,
 		"arrest_count": 123,
 		"reports": {
-			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
-				"assignment_date": "2/5/2026",
-				"ethnicity": "BLACK",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "5551",
-				"appt_date": "4/13/2022"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "4/13/2022",
-					"shield_no": "5551"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 45,
-				"misdemeanor": 73,
-				"violation": 4
-			},
-			"awards": [
-				{
-					"date": "9/19/2024",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "8/15/2024",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "8/15/2024",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "5/1/2024",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
-		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 985503,
@@ -48383,7 +48053,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 3
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -49025,7 +48695,7 @@
 		"first_name": "STEVEN",
 		"last_name": "FOLEY",
 		"middle_initial": "M",
-		"rank": "POLICE OFFICER",
+		"rank": "DETECTIVE SPECIALIST",
 		"shield_no": "379",
 		"appt_date": "10/7/2015",
 		"recognition_count": 36,
@@ -49035,7 +48705,7 @@
 				"command": "109 PRECINCT",
 				"assignment_date": "2/27/2019",
 				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
+				"rank_desc": "DETECTIVE SPECIALIST",
 				"shield_no": "379",
 				"appt_date": "10/7/2015"
 			},
@@ -55597,7 +55267,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 14
+				"misdemeanor": 15
 			},
 			"awards": []
 		},
@@ -58403,18 +58073,7 @@
 				"shield_no": "1979",
 				"appt_date": "7/2/2018"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/2/2018",
-					"shield_no": "289"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "5/31/2024",
-					"shield_no": "1979"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -58617,7 +58276,18 @@
 				"shield_no": "5944",
 				"appt_date": "7/8/2015"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2015",
+					"shield_no": "19654"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "9/30/2024",
+					"shield_no": "5944"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -60974,51 +60644,8 @@
 		"recognition_count": 2,
 		"arrest_count": 265,
 		"reports": {
-			"summary": {
-				"command": "CANDIDATE ASSESSMENT DIVISION",
-				"assignment_date": "8/16/2021",
-				"ethnicity": "BLACK",
-				"rank_desc": "SGT SPECIAL ASSIGN",
-				"shield_no": "3002",
-				"appt_date": "1/10/2005"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/10/2005",
-					"shield_no": "20446"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "1/27/2012",
-					"shield_no": "3002"
-				},
-				{
-					"rank": "SGT DET SQUAD",
-					"date": "11/24/2015",
-					"shield_no": ""
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 28,
-				"misdemeanor": 235,
-				"violation": 2
-			},
-			"awards": [
-				{
-					"date": "10/15/2011",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/24/2008",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
-		},
-		"command": "CANDIDATE ASSESSMENT DIVISION"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 950436,
@@ -63117,65 +62744,8 @@
 		"recognition_count": 1,
 		"arrest_count": 63,
 		"reports": {
-			"summary": {
-				"command": "109 PRECINCT",
-				"assignment_date": "10/17/2025",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "SERGEANT",
-				"shield_no": "2895",
-				"appt_date": "1/7/2008"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/7/2008",
-					"shield_no": "26181"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "6/30/2017",
-					"shield_no": "2895"
-				}
-			],
-			"documents": [
-				{
-					"date": "11/9/2018",
-					"url": "https://nypdonline.org/files/945395_11092018_2018014.pdf",
-					"type": "Trial Decision"
-				}
-			],
-			"disciplineHistory": [
-				{
-					"entry": "11/14/2016 12:00:00 AM",
-					"charges_count": 1
-				}
-			],
-			"discipline": [
-				{
-					"charges": [
-						{
-							"disposition": "GUILTY",
-							"description": "WHILE ON-DUTY, FAILED TO CONDUCT A THOROUGH FIELD INVESTIGATION.",
-							"group_id": "1",
-							"penalty": "VACATION DAYS (5 day(s) )"
-						}
-					]
-				}
-			],
-			"arrests": {
-				"infraction": 1,
-				"felony": 7,
-				"misdemeanor": 45,
-				"violation": 10
-			},
-			"awards": [
-				{
-					"date": "1/16/2020",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
-		},
-		"command": "109 PRECINCT"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 941856,
@@ -65724,34 +65294,7 @@
 		"recognition_count": 0,
 		"arrest_count": 175,
 		"reports": {
-			"summary": {
-				"command": "STATEN ISLAND GRAND LARCENY SQD",
-				"assignment_date": "7/29/2026",
-				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE 3RD GRADE",
-				"shield_no": "4268",
-				"appt_date": "1/6/2020"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/6/2020",
-					"shield_no": "16096"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "6/27/2025",
-					"shield_no": "4268"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 81,
-				"misdemeanor": 94
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "STATEN ISLAND GRAND LARCENY SQD"
 	},
@@ -66269,8 +65812,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "8229",
 		"appt_date": "7/13/2016",
-		"recognition_count": 5,
-		"arrest_count": 169,
+		"recognition_count": 10,
+		"arrest_count": 339,
 		"reports": {
 			"summary": {
 				"command": "PBSI NEIGHBORHOOD SAFETY TEAMS",
@@ -66409,29 +65952,7 @@
 		"recognition_count": 0,
 		"arrest_count": 25,
 		"reports": {
-			"summary": {
-				"command": "032 PRECINCT",
-				"assignment_date": "2/3/2026",
-				"ethnicity": "BLACK",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "14184",
-				"appt_date": "10/30/2024"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/30/2024",
-					"shield_no": "14184"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 5,
-				"misdemeanor": 20
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "032 PRECINCT"
 	},
@@ -67382,38 +66903,8 @@
 		"recognition_count": 0,
 		"arrest_count": 111,
 		"reports": {
-			"summary": {
-				"command": "105 PRECINCT",
-				"assignment_date": "10/27/1997",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "26096",
-				"appt_date": "4/15/1997"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "4/15/1997",
-					"shield_no": "26096"
-				}
-			],
-			"documents": [
-				{
-					"date": "11/10/2014",
-					"url": "https://nypdonline.org/files/919071_11102014_2014024.pdf",
-					"type": "Trial Decision"
-				}
-			],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 28,
-				"misdemeanor": 81,
-				"violation": 2
-			},
-			"awards": []
-		},
-		"command": "105 PRECINCT"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 981314,
@@ -68689,6 +68180,14 @@
 			},
 			"awards": [
 				{
+					"date": "3/22/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/18/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "1/19/2019",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -68888,32 +68387,8 @@
 		"recognition_count": 0,
 		"arrest_count": 37,
 		"reports": {
-			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
-				"assignment_date": "8/20/2024",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "4141",
-				"appt_date": "10/19/2022"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/19/2022",
-					"shield_no": "4141"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 11,
-				"misdemeanor": 25,
-				"violation": 1
-			},
-			"awards": []
-		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 933564,

@@ -272,36 +272,7 @@
 		"recognition_count": 0,
 		"arrest_count": 29,
 		"reports": {
-			"summary": {
-				"command": "084 PRECINCT",
-				"assignment_date": "7/1/2024",
-				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
-				"shield_no": "4172",
-				"appt_date": "7/9/2014"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/9/2014",
-					"shield_no": "14606"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "4/26/2024",
-					"shield_no": "4172"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 8,
-				"misdemeanor": 19,
-				"violation": 1
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "084 PRECINCT"
 	},
@@ -7554,7 +7525,7 @@
 		"shield_no": "18066",
 		"appt_date": "7/13/2022",
 		"recognition_count": 3,
-		"arrest_count": 104,
+		"arrest_count": 105,
 		"reports": {
 			"summary": {
 				"command": "PBQN COMMUNITY RESPONSE TEAM",
@@ -9626,7 +9597,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 2
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -11993,7 +11964,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 145,
+				"felony": 146,
 				"misdemeanor": 101
 			},
 			"awards": [
@@ -13525,8 +13496,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
-				"misdemeanor": 2
+				"felony": 2,
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -14938,7 +14909,9 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"misdemeanor": 1
+			},
 			"awards": []
 		},
 		"command": "101 PRECINCT"
@@ -16393,29 +16366,7 @@
 		"recognition_count": 0,
 		"arrest_count": 23,
 		"reports": {
-			"summary": {
-				"command": "HOUSING PSA 4",
-				"assignment_date": "3/23/2026",
-				"ethnicity": "BLACK",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "14326",
-				"appt_date": "10/30/2024"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/30/2024",
-					"shield_no": "14326"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 9,
-				"misdemeanor": 14
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "HOUSING PSA 4"
 	},
@@ -16431,29 +16382,7 @@
 		"recognition_count": 0,
 		"arrest_count": 16,
 		"reports": {
-			"summary": {
-				"command": "044 PRECINCT",
-				"assignment_date": "7/26/2023",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "1239",
-				"appt_date": "1/17/2023"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/17/2023",
-					"shield_no": "1239"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 5,
-				"misdemeanor": 11
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "044 PRECINCT"
 	},
@@ -16508,56 +16437,8 @@
 		"recognition_count": 4,
 		"arrest_count": 326,
 		"reports": {
-			"summary": {
-				"command": "013 DET SQUAD",
-				"assignment_date": "12/27/2021",
-				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE 3RD GRADE",
-				"shield_no": "3922",
-				"appt_date": "7/6/2010"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/6/2010",
-					"shield_no": "3922"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "6/30/2023",
-					"shield_no": "3922"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 4,
-				"felony": 180,
-				"misdemeanor": 133,
-				"other": 1,
-				"violation": 8
-			},
-			"awards": [
-				{
-					"date": "9/24/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/14/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "1/17/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "10/20/2012",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
-		},
-		"command": "013 DET SQUAD"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 939148,
@@ -18443,7 +18324,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 9
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -19136,7 +19017,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
+				"felony": 2,
 				"misdemeanor": 9
 			},
 			"awards": []
@@ -20486,7 +20367,7 @@
 		"shield_no": "8936",
 		"appt_date": "12/29/2020",
 		"recognition_count": 2,
-		"arrest_count": 104,
+		"arrest_count": 105,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 4",
@@ -22382,7 +22263,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
+				"felony": 2,
 				"misdemeanor": 3
 			},
 			"awards": []
@@ -23635,7 +23516,7 @@
 		"first_name": "JUAN",
 		"last_name": "OROZCO",
 		"middle_initial": "P",
-		"rank": "POLICE OFFICER",
+		"rank": "SERGEANT",
 		"shield_no": "3193",
 		"appt_date": "4/12/2017",
 		"recognition_count": 2,
@@ -23654,6 +23535,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "4/12/2017",
 					"shield_no": "3193"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "8/31/2026",
+					"shield_no": "3730"
 				}
 			],
 			"documents": [],
@@ -27524,7 +27410,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 39,
+				"felony": 40,
 				"misdemeanor": 39
 			},
 			"awards": []
@@ -28060,22 +27946,26 @@
 						{
 							"disposition": "GUILTY",
 							"description": "WHILE OFF-DUTY,WRONGFULLY AND WITHOUT JUST CAUSE DISPLAYED A PHOTOCOPY OF A DEPARTMENT RESTRICTED PARKING PERMIT IN HIS PRIVATE VEHICLE WHICH WAS PARKED UNLAWFULLY IN A \"NO STANDING ANYTIME\" ZONE.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "PRE-TRIAL SUSPENSION DAYS (20 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "WRONGFULLY AND WITHOUT JUST CAUSE MADE A COLOR PHOTOCOPY OF A DEPARTMENT RESTRICTED PARKING PERMIT ISSUED TO ANOTHER UNIFORMED MEMBER OF THE SERVICE.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "PRE-TRIAL SUSPENSION DAYS (20 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "WHILE OFF-DUTY,WRONGFULLY AND WITHOUT JUST CAUSE DISPLAYED A PHOTOCOPY OF A DEPARTMENT RESTRICTED PARKING PERMIT IN HIS PRIVATE VEHICLE WHICH WAS DOUBLE-PARKED UNLAWFULLY.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "PRE-TRIAL SUSPENSION DAYS (20 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "WRONGFULLY AND WITHOUT DEPARTMENT AUTHORIZATION SOLD A FIREARM, OWNED BY SAID POLICE OFFICER TO ANOTHER LICENSED UNIFORMED MEMBER OF THE SERVICE.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "PRE-TRIAL SUSPENSION DAYS (20 day(s) )"
 						}
 					]
 				}
@@ -28658,7 +28548,7 @@
 		"shield_no": "3795",
 		"appt_date": "1/8/2014",
 		"recognition_count": 9,
-		"arrest_count": 265,
+		"arrest_count": 266,
 		"reports": {
 			"summary": {
 				"command": "BRONX GRAND LARCENY SQD",
@@ -32079,8 +31969,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 89,
-				"misdemeanor": 135
+				"felony": 90,
+				"misdemeanor": 136
 			},
 			"awards": [
 				{
@@ -32750,29 +32640,7 @@
 		"recognition_count": 0,
 		"arrest_count": 23,
 		"reports": {
-			"summary": {
-				"command": "102 PRECINCT",
-				"assignment_date": "6/22/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "28667",
-				"appt_date": "1/29/2025"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/29/2025",
-					"shield_no": "28667"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 4,
-				"misdemeanor": 19
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "102 PRECINCT"
 	},
@@ -32833,29 +32701,7 @@
 		"recognition_count": 0,
 		"arrest_count": 13,
 		"reports": {
-			"summary": {
-				"command": "067 PRECINCT",
-				"assignment_date": "6/22/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "438",
-				"appt_date": "1/29/2025"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/29/2025",
-					"shield_no": "438"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 4,
-				"misdemeanor": 9
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "067 PRECINCT"
 	},
@@ -34396,7 +34242,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 145,
+				"felony": 146,
 				"misdemeanor": 75,
 				"other": 1,
 				"violation": 2
@@ -34893,7 +34739,7 @@
 			],
 			"arrests": {
 				"felony": 43,
-				"misdemeanor": 125,
+				"misdemeanor": 126,
 				"violation": 1
 			},
 			"awards": []
@@ -36532,29 +36378,7 @@
 		"recognition_count": 0,
 		"arrest_count": 10,
 		"reports": {
-			"summary": {
-				"command": "HOUSING PSA 3",
-				"assignment_date": "5/11/2020",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "6110",
-				"appt_date": "7/8/2015"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/8/2015",
-					"shield_no": "6110"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 2,
-				"misdemeanor": 8
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "HOUSING PSA 3"
 	},
