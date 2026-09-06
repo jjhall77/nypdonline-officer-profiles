@@ -419,7 +419,7 @@
 		"first_name": "BOBBY",
 		"last_name": "XIAO",
 		"middle_initial": "",
-		"rank": "POLICE OFFICER",
+		"rank": "SERGEANT",
 		"shield_no": "2954",
 		"appt_date": "1/9/2012",
 		"recognition_count": 3,
@@ -1233,8 +1233,22 @@
 		"recognition_count": 0,
 		"arrest_count": 0,
 		"reports": {
-			"discipline": []
-		}
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 983943,
@@ -1267,7 +1281,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1
+				"felony": 1,
+				"misdemeanor": 1
 			},
 			"awards": []
 		},
@@ -1285,8 +1300,44 @@
 		"recognition_count": 0,
 		"arrest_count": 59,
 		"reports": {
-			"discipline": []
-		}
+			"summary": {
+				"command": "IAB GROUP 32",
+				"assignment_date": "7/20/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "SGT DET SQUAD",
+				"shield_no": "3311",
+				"appt_date": "7/1/2004"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2004",
+					"shield_no": "12538"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "11/23/2010",
+					"shield_no": "3311"
+				},
+				{
+					"rank": "SGT DET SQUAD",
+					"date": "5/27/2022",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 1,
+				"felony": 12,
+				"misdemeanor": 43,
+				"other": 1,
+				"violation": 2
+			},
+			"awards": []
+		},
+		"command": "IAB GROUP 32"
 	},
 	{
 		"taxid": 987045,
