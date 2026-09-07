@@ -313,8 +313,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 81,
-				"misdemeanor": 53
+				"felony": 82,
+				"misdemeanor": 56
 			},
 			"awards": [
 				{
@@ -14663,7 +14663,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 132,
+				"felony": 135,
 				"misdemeanor": 51
 			},
 			"awards": [
@@ -21105,7 +21105,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 27,
-				"misdemeanor": 62,
+				"misdemeanor": 63,
 				"violation": 1
 			},
 			"awards": [
@@ -29581,7 +29581,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 82,
+				"misdemeanor": 84,
 				"violation": 22
 			},
 			"awards": [
@@ -32930,8 +32930,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 83,
-				"misdemeanor": 134,
+				"felony": 85,
+				"misdemeanor": 136,
 				"violation": 4
 			},
 			"awards": [
@@ -33873,7 +33873,7 @@
 				"command": "TRANSPORTATION BUREAU",
 				"assignment_date": "1/23/2025",
 				"ethnicity": "ASIAN",
-				"rank_desc": "POLICE OFFICER",
+				"rank_desc": "DETECTIVE SPECIALIST",
 				"shield_no": "12722",
 				"appt_date": "7/2/2018"
 			},
@@ -48304,7 +48304,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 135,
+				"felony": 140,
 				"misdemeanor": 108,
 				"violation": 1
 			},
@@ -80324,7 +80324,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 23
+				"misdemeanor": 24
 			},
 			"awards": []
 		},
@@ -86345,7 +86345,8 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 11,
-				"misdemeanor": 27
+				"misdemeanor": 27,
+				"violation": 1
 			},
 			"awards": []
 		},

@@ -8321,7 +8321,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 26,
+				"misdemeanor": 27,
 				"violation": 1
 			},
 			"awards": []
@@ -13910,7 +13910,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 22,
-				"misdemeanor": 48
+				"misdemeanor": 49
 			},
 			"awards": [
 				{
@@ -15314,10 +15314,10 @@
 		"arrest_count": 120,
 		"reports": {
 			"summary": {
-				"command": "HOUSING PSA 1",
-				"assignment_date": "8/1/2023",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "8/31/2026",
 				"ethnicity": "BLACK",
-				"rank_desc": "POLICE OFFICER",
+				"rank_desc": "SERGEANT",
 				"shield_no": "30935",
 				"appt_date": "1/10/2018"
 			},
@@ -15373,7 +15373,7 @@
 				}
 			]
 		},
-		"command": "HOUSING PSA 1"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 936810,
@@ -29172,7 +29172,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 13,
-				"misdemeanor": 33
+				"misdemeanor": 34
 			},
 			"awards": []
 		},
@@ -32690,7 +32690,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 10,
+				"felony": 11,
 				"misdemeanor": 13,
 				"other": 1
 			},

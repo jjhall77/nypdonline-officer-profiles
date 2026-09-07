@@ -640,7 +640,7 @@
 		"shield_no": "20881",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 61,
+		"arrest_count": 62,
 		"reports": {
 			"summary": {
 				"command": "108 PRECINCT",
@@ -3040,7 +3040,12 @@
 				"felony": 18,
 				"misdemeanor": 81
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "6/26/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "019 PRECINCT"
 	},
@@ -8147,7 +8152,7 @@
 		"shield_no": "11473",
 		"appt_date": "10/7/2019",
 		"recognition_count": 0,
-		"arrest_count": 204,
+		"arrest_count": 205,
 		"reports": {
 			"summary": {
 				"command": "081 DOMESTIC VIOLENCE SQUAD",
@@ -12014,7 +12019,7 @@
 		"shield_no": "12380",
 		"appt_date": "10/7/2019",
 		"recognition_count": 1,
-		"arrest_count": 23,
+		"arrest_count": 25,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 34",
@@ -13841,7 +13846,7 @@
 		"shield_no": "20674",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 4,
+		"arrest_count": 5,
 		"reports": {
 			"summary": {
 				"command": "043 PCT FIELD TRAINING UNIT",
@@ -14234,7 +14239,7 @@
 		"shield_no": "14026",
 		"appt_date": "1/10/2018",
 		"recognition_count": 0,
-		"arrest_count": 29,
+		"arrest_count": 31,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 34",

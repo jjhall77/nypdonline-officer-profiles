@@ -23277,6 +23277,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
+				"felony": 1,
 				"misdemeanor": 10
 			},
 			"awards": []
@@ -36878,10 +36879,10 @@
 		"arrest_count": 232,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "8/31/2026",
+				"command": "075 DOMESTIC VIOLENCE SQUAD",
+				"assignment_date": "7/17/2026",
 				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
+				"rank_desc": "POLICE OFFICER",
 				"shield_no": "9505",
 				"appt_date": "7/13/2016"
 			},
@@ -36935,7 +36936,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "075 DOMESTIC VIOLENCE SQUAD"
 	},
 	{
 		"taxid": 969726,
@@ -59621,8 +59622,8 @@
 		"arrest_count": 34,
 		"reports": {
 			"summary": {
-				"command": "NARC BORO QUEENS SOUTH",
-				"assignment_date": "8/31/2026",
+				"command": "077 PRECINCT",
+				"assignment_date": "4/13/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "6076",
@@ -59649,7 +59650,7 @@
 				}
 			]
 		},
-		"command": "NARC BORO QUEENS SOUTH"
+		"command": "077 PRECINCT"
 	},
 	{
 		"taxid": 964019,
@@ -60531,8 +60532,40 @@
 			},
 			"awards": [
 				{
+					"date": "6/10/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/1/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/5/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/21/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "6/13/2023",
 					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/18/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/17/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/2/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/7/2021",
+					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
 					"date": "8/31/2020",
@@ -61942,7 +61975,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 19,
+				"felony": 20,
 				"misdemeanor": 30,
 				"violation": 2
 			},
@@ -93195,7 +93228,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 38,
+				"misdemeanor": 39,
 				"violation": 1
 			},
 			"awards": []
@@ -93579,7 +93612,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 291,
+				"felony": 292,
 				"misdemeanor": 148
 			},
 			"awards": [
@@ -107339,8 +107372,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 66,
-				"misdemeanor": 83
+				"felony": 67,
+				"misdemeanor": 84
 			},
 			"awards": [
 				{
@@ -118194,7 +118227,8 @@
 						{
 							"disposition": "GUILTY",
 							"description": "Made or caused to be made false or inaccurate entries in Department records.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "VACATION DAYS (30 day(s) )"
 						}
 					]
 				}

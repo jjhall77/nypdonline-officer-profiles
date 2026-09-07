@@ -9675,7 +9675,16 @@
 				"felony": 15,
 				"misdemeanor": 23
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "7/26/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/5/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "019 PRECINCT"
 	},
@@ -46166,7 +46175,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 72,
+				"felony": 75,
 				"misdemeanor": 239,
 				"violation": 2
 			},
@@ -48411,7 +48420,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 45,
-				"misdemeanor": 177,
+				"misdemeanor": 179,
 				"violation": 27
 			},
 			"awards": [
@@ -65988,7 +65997,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 76,
-				"misdemeanor": 78
+				"misdemeanor": 80
 			},
 			"awards": [
 				{
@@ -81249,8 +81258,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 16,
-				"misdemeanor": 34
+				"felony": 8,
+				"misdemeanor": 21
 			},
 			"awards": []
 		},
@@ -86414,8 +86423,8 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 29,
-				"misdemeanor": 197,
-				"violation": 37
+				"misdemeanor": 199,
+				"violation": 38
 			},
 			"awards": [
 				{
@@ -107612,7 +107621,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 75,
+				"felony": 76,
 				"misdemeanor": 100
 			},
 			"awards": [
@@ -126398,7 +126407,7 @@
 				"command": "OPERATIONS & ANALYSIS SECTION",
 				"assignment_date": "10/20/2011",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "DETECTIVE 1ST GRADE",
+				"rank_desc": "DETECTIVE 2ND GRADE",
 				"shield_no": "77",
 				"appt_date": "4/15/1997"
 			},

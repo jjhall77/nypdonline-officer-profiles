@@ -11510,7 +11510,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 21,
+				"felony": 22,
 				"misdemeanor": 36
 			},
 			"awards": [
@@ -20458,7 +20458,12 @@
 				"felony": 10,
 				"misdemeanor": 20
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "2/23/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "048 PRECINCT"
 	},
@@ -22722,7 +22727,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 78,
+				"felony": 77,
 				"misdemeanor": 113,
 				"violation": 1
 			},
@@ -30165,7 +30170,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 28
+				"misdemeanor": 29
 			},
 			"awards": []
 		},
@@ -34019,8 +34024,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 191,
-				"misdemeanor": 140,
+				"felony": 194,
+				"misdemeanor": 142,
 				"violation": 1
 			},
 			"awards": [
@@ -34926,7 +34931,12 @@
 				"felony": 3,
 				"misdemeanor": 10
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "10/27/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "HOUSING PSA 2"
 	},
@@ -37317,7 +37327,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 27
+				"misdemeanor": 28
 			},
 			"awards": []
 		},
@@ -46202,8 +46212,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
-				"misdemeanor": 8
+				"felony": 3,
+				"misdemeanor": 9
 			},
 			"awards": []
 		},
@@ -59545,8 +59555,8 @@
 		"arrest_count": 70,
 		"reports": {
 			"summary": {
-				"command": "IAB INVESTIGATIONS UNIT 10",
-				"assignment_date": "8/31/2026",
+				"command": "INTERNAL AFFAIRS BUREAU",
+				"assignment_date": "5/22/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -59592,7 +59602,7 @@
 				}
 			]
 		},
-		"command": "IAB INVESTIGATIONS UNIT 10"
+		"command": "INTERNAL AFFAIRS BUREAU"
 	},
 	{
 		"taxid": 986307,
@@ -66090,13 +66100,7 @@
 				"shield_no": "15601",
 				"appt_date": "1/9/2012"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/9/2012",
-					"shield_no": "15601"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [
 				{
@@ -68119,7 +68123,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 22,
-				"misdemeanor": 39
+				"misdemeanor": 40
 			},
 			"awards": []
 		},
@@ -78846,7 +78850,12 @@
 				"felony": 21,
 				"misdemeanor": 40
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "12/22/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "US OPEN TENNIS DETAIL"
 	},
@@ -101467,7 +101476,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 32,
-				"misdemeanor": 68,
+				"misdemeanor": 69,
 				"violation": 1
 			},
 			"awards": [
@@ -114961,7 +114970,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 54,
+				"felony": 55,
 				"misdemeanor": 85
 			},
 			"awards": [
@@ -116783,7 +116792,7 @@
 				"command": "IAB COMMAND CENTER",
 				"assignment_date": "11/24/2025",
 				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE 3RD GRADE",
+				"rank_desc": "POLICE OFFICER",
 				"shield_no": "10312",
 				"appt_date": "10/7/2019"
 			},

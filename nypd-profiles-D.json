@@ -1867,7 +1867,12 @@
 				"misdemeanor": 37,
 				"violation": 1
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "7/25/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "HARBOR UNIT"
 	},
@@ -13083,10 +13088,14 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 51,
-				"misdemeanor": 59,
+				"misdemeanor": 61,
 				"violation": 2
 			},
 			"awards": [
+				{
+					"date": "4/19/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
 				{
 					"date": "1/1/2025",
 					"name": "EXCELLENT POLICE DUTY"
@@ -17021,7 +17030,12 @@
 				"felony": 2,
 				"misdemeanor": 12
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "11/4/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "073 PRECINCT"
 	},
@@ -31890,7 +31904,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 34
+				"misdemeanor": 35
 			},
 			"awards": []
 		},
@@ -59315,7 +59329,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 52,
+				"felony": 55,
 				"misdemeanor": 100
 			},
 			"awards": [
@@ -75122,7 +75136,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 55
+				"misdemeanor": 57
 			},
 			"awards": [
 				{
@@ -92241,6 +92255,10 @@
 			},
 			"awards": [
 				{
+					"date": "9/17/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "8/13/2025",
 					"name": "MERITORIOUS POLICE DUTY"
 				},
@@ -94872,7 +94890,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 49,
+				"felony": 51,
 				"misdemeanor": 72,
 				"violation": 2
 			},
@@ -109345,11 +109363,11 @@
 		"arrest_count": 79,
 		"reports": {
 			"summary": {
-				"command": "POLICE ACTION LITIGATION SECTION",
-				"assignment_date": "12/18/2025",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "9/1/2026",
 				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
-				"shield_no": "414",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
 				"appt_date": "1/9/2012"
 			},
 			"ranks": [
@@ -109390,7 +109408,7 @@
 				}
 			]
 		},
-		"command": "POLICE ACTION LITIGATION SECTION"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 985462,

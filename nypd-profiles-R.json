@@ -7717,7 +7717,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 10,
+				"misdemeanor": 11,
 				"violation": 1
 			},
 			"awards": []
@@ -12720,7 +12720,12 @@
 				"felony": 22,
 				"misdemeanor": 28
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "11/4/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "073 PRECINCT"
 	},
@@ -19650,7 +19655,12 @@
 				"felony": 7,
 				"misdemeanor": 18
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "1/20/2026",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "BRONX COURT SECTION"
 	},
@@ -21919,7 +21929,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 54,
+				"misdemeanor": 55,
 				"violation": 16
 			},
 			"awards": []
@@ -82168,10 +82178,10 @@
 		"arrest_count": 103,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "8/31/2026",
+				"command": "043 DET SQUAD",
+				"assignment_date": "5/26/2026",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "SERGEANT",
+				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "7880",
 				"appt_date": "1/9/2013"
 			},
@@ -82275,7 +82285,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "043 DET SQUAD"
 	},
 	{
 		"taxid": 965466,
@@ -84323,8 +84333,8 @@
 		"arrest_count": 403,
 		"reports": {
 			"summary": {
-				"command": "PBSI COMMUNITY RESPONSE TEAM",
-				"assignment_date": "9/3/2026",
+				"command": "PBBS COMMUNITY RESPONSE TEAM",
+				"assignment_date": "12/23/2024",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "4395",
@@ -84402,7 +84412,7 @@
 				}
 			]
 		},
-		"command": "PBSI COMMUNITY RESPONSE TEAM"
+		"command": "PBBS COMMUNITY RESPONSE TEAM"
 	},
 	{
 		"taxid": 965467,
@@ -112753,7 +112763,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 44
+				"misdemeanor": 45
 			},
 			"awards": [
 				{
@@ -121441,7 +121451,12 @@
 				"misdemeanor": 79,
 				"other": 1
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "5/25/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "019 PRECINCT"
 	},
@@ -128629,7 +128644,12 @@
 				"felony": 4,
 				"misdemeanor": 8
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "1/13/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "019 PRECINCT"
 	},
@@ -135963,6 +135983,10 @@
 			},
 			"awards": [
 				{
+					"date": "2/10/2026",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "6/24/2023",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -136109,10 +136133,10 @@
 		"arrest_count": 60,
 		"reports": {
 			"summary": {
-				"command": "025 PRECINCT",
-				"assignment_date": "9/2/2026",
+				"command": "052 DET SQUAD",
+				"assignment_date": "2/24/2025",
 				"ethnicity": "BLACK",
-				"rank_desc": "DETECTIVE SPECIALIST",
+				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "1973",
 				"appt_date": "10/11/2016"
 			},
@@ -136150,7 +136174,7 @@
 				}
 			]
 		},
-		"command": "025 PRECINCT"
+		"command": "052 DET SQUAD"
 	},
 	{
 		"taxid": 949588,
@@ -137379,7 +137403,12 @@
 				"misdemeanor": 73,
 				"violation": 18
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "9/16/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "HARBOR UNIT"
 	},
@@ -140258,8 +140287,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "IAB INVESTIGATIONS UNIT 41",
-				"assignment_date": "7/3/2023",
+				"command": "IAB ZONE 4",
+				"assignment_date": "8/31/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DEPUTY INSPECTOR",
 				"shield_no": "",
@@ -140327,7 +140356,7 @@
 				}
 			]
 		},
-		"command": "IAB INVESTIGATIONS UNIT 41"
+		"command": "IAB ZONE 4"
 	},
 	{
 		"taxid": 981831,

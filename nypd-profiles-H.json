@@ -36273,6 +36273,14 @@
 		"recognition_count": 0,
 		"arrest_count": 90,
 		"reports": {
+			"summary": {
+				"command": "041 PRECINCT",
+				"assignment_date": "12/26/2022",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "11143",
+				"appt_date": "4/13/2022"
+			},
 			"ranks": [
 				{
 					"rank": "POLICE OFFICER",
@@ -36285,7 +36293,8 @@
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		}
+		},
+		"command": "041 PRECINCT"
 	},
 	{
 		"taxid": 985600,
@@ -44947,7 +44956,12 @@
 				"felony": 14,
 				"misdemeanor": 28
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "10/7/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "019 PRECINCT"
 	},
@@ -50041,7 +50055,12 @@
 				"misdemeanor": 70,
 				"violation": 2
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "10/23/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "HOUSING PSA 2"
 	},
@@ -63319,7 +63338,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 9,
+				"felony": 10,
 				"misdemeanor": 25
 			},
 			"awards": []

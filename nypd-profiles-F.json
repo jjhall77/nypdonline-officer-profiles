@@ -25562,7 +25562,12 @@
 				"misdemeanor": 49,
 				"violation": 1
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "8/5/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "048 PRECINCT"
 	},
@@ -38773,7 +38778,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 8
+				"misdemeanor": 9
 			},
 			"awards": []
 		},
@@ -44907,11 +44912,11 @@
 		"arrest_count": 145,
 		"reports": {
 			"summary": {
-				"command": "DBBS VIDEO COLLECTION TEAM",
-				"assignment_date": "1/12/2026",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "9/1/2026",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "SERGEANT",
-				"shield_no": "3451",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
 				"appt_date": "7/9/2013"
 			},
 			"ranks": [
@@ -44956,7 +44961,7 @@
 				}
 			]
 		},
-		"command": "DBBS VIDEO COLLECTION TEAM"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 968415,
@@ -52111,8 +52116,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 39,
-				"misdemeanor": 56,
+				"felony": 42,
+				"misdemeanor": 58,
 				"violation": 1
 			},
 			"awards": [
@@ -62266,7 +62271,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 24,
-				"misdemeanor": 29,
+				"misdemeanor": 30,
 				"violation": 2
 			},
 			"awards": []

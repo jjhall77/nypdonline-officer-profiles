@@ -4262,7 +4262,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 70,
-				"misdemeanor": 82,
+				"misdemeanor": 83,
 				"violation": 1
 			},
 			"awards": []
@@ -11122,7 +11122,12 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"infraction": 2,
+				"felony": 57,
+				"misdemeanor": 139,
+				"violation": 3
+			},
 			"awards": [
 				{
 					"date": "10/31/2023",
@@ -11301,7 +11306,13 @@
 					"shield_no": "7177"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "9/11/2024",
+					"url": "https://nypdonline.org/files/956788_09112024_2024064.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -33239,8 +33250,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 34,
-				"misdemeanor": 63,
+				"felony": 35,
+				"misdemeanor": 65,
 				"violation": 1
 			},
 			"awards": []
@@ -35018,10 +35029,10 @@
 		"arrest_count": 147,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "8/31/2026",
+				"command": "IN-SERVICE TRAINING SECTION",
+				"assignment_date": "9/22/2025",
 				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
+				"rank_desc": "POLICE OFFICER",
 				"shield_no": "5471",
 				"appt_date": "7/9/2014"
 			},
@@ -35085,7 +35096,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "IN-SERVICE TRAINING SECTION"
 	},
 	{
 		"taxid": 985700,
@@ -40264,8 +40275,8 @@
 		"arrest_count": 121,
 		"reports": {
 			"summary": {
-				"command": "PBQN CITI FIELD DETAIL",
-				"assignment_date": "9/6/2026",
+				"command": "DBQN EVIDENCE COLLECTION TEAM",
+				"assignment_date": "6/8/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "15134",
@@ -40330,7 +40341,7 @@
 				}
 			]
 		},
-		"command": "PBQN CITI FIELD DETAIL"
+		"command": "DBQN EVIDENCE COLLECTION TEAM"
 	},
 	{
 		"taxid": 952936,
@@ -40817,10 +40828,10 @@
 		"arrest_count": 104,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "8/31/2026",
+				"command": "107 PRECINCT",
+				"assignment_date": "2/29/2016",
 				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
+				"rank_desc": "POLICE OFFICER",
 				"shield_no": "8276",
 				"appt_date": "1/7/2015"
 			},
@@ -40855,7 +40866,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "107 PRECINCT"
 	},
 	{
 		"taxid": 956023,
@@ -42237,8 +42248,15 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"misdemeanor": 25
+			},
+			"awards": [
+				{
+					"date": "9/17/2018",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "PATROL BORO STATEN ISLAND"
 	},
@@ -58170,10 +58188,10 @@
 		"arrest_count": 57,
 		"reports": {
 			"summary": {
-				"command": "084 PRECINCT",
-				"assignment_date": "11/4/2013",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "8/31/2026",
 				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
+				"rank_desc": "SERGEANT",
 				"shield_no": "11140",
 				"appt_date": "1/9/2012"
 			},
@@ -58220,7 +58238,7 @@
 				}
 			]
 		},
-		"command": "084 PRECINCT"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 935137,
