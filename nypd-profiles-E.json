@@ -1957,59 +1957,10 @@
 				"shield_no": "1114",
 				"appt_date": "1/9/2013"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/9/2013",
-					"shield_no": "30837"
-				},
-				{
-					"rank": "POLICE OFFICER",
-					"date": "5/8/2020",
-					"shield_no": "30847"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "12/23/2022",
-					"shield_no": "1115"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "8/13/2025",
-					"shield_no": "1114"
-				}
-			],
+			"ranks": [],
 			"documents": [],
-			"disciplineHistory": [
-				{
-					"entry": "1/31/2015 12:00:00 AM",
-					"charges_count": 3
-				}
-			],
-			"discipline": [
-				{
-					"charges": [
-						{
-							"disposition": "GUILTY",
-							"description": "WHILE OFF-DUTY, ENGAGED IN CONDUCT PREJUDICIAL TO THE GOOD ORDER, EFFICIENCY OR DISCIPLINE OF THE DEPARTMENT,  THREATENED AN INDIVIDUAL KNOWN TO THE DEPARTMENT.",
-							"group_id": "1",
-							"penalty": "COUNSELING, PRE-TRIAL SUSPENSION DAYS (34 day(s) )"
-						},
-						{
-							"disposition": "GUILTY",
-							"description": "WHILE OFF-DUTY, ENGAGED IN CONDUCT PREJUDICIAL TO THE GOOD ORDER, EFFICIENCY OR DISCIPLINE OF THE DEPARTMENT,  THREATENED AN INDIVIDUAL KNOWN TO THE DEPARTMENT.",
-							"group_id": "1",
-							"penalty": "COUNSELING, PRE-TRIAL SUSPENSION DAYS (34 day(s) )"
-						},
-						{
-							"disposition": "GUILTY",
-							"description": "WHILE OFF-DUTY, HAVING BECOME AWARE THAT HE WAS THE SUBJECT OF A POLICE INVESTIGATION CONDUCTED BY THE NEWBURG POLICE DEPARTMENT, FAILED TO NOTIFY THE DEPARTMENT.",
-							"group_id": "1",
-							"penalty": "COUNSELING, PRE-TRIAL SUSPENSION DAYS (34 day(s) )"
-						}
-					]
-				}
-			],
+			"disciplineHistory": [],
+			"discipline": [],
 			"arrests": {
 				"felony": 30,
 				"misdemeanor": 48,
@@ -3590,7 +3541,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 2
+				"misdemeanor": 3
 			},
 			"awards": []
 		},
@@ -12738,7 +12689,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 3
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -13591,7 +13542,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1
+				"felony": 1,
+				"violation": 1
 			},
 			"awards": []
 		},
@@ -17159,7 +17111,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 188,
+				"felony": 189,
 				"misdemeanor": 90,
 				"violation": 1
 			},
@@ -18249,7 +18201,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 39,
-				"misdemeanor": 92
+				"misdemeanor": 93
 			},
 			"awards": [
 				{
@@ -18425,8 +18377,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
-				"misdemeanor": 24,
+				"felony": 6,
+				"misdemeanor": 25,
 				"violation": 1
 			},
 			"awards": []
@@ -18607,8 +18559,8 @@
 		"arrest_count": 18,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "7/31/2026",
+				"command": "TRANSIT DISTRICT 23",
+				"assignment_date": "9/7/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "SERGEANT",
 				"shield_no": "5190",
@@ -18640,7 +18592,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "TRANSIT DISTRICT 23"
 	},
 	{
 		"taxid": 974087,
@@ -22640,7 +22592,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 1
+				"misdemeanor": 2
 			},
 			"awards": []
 		},
@@ -22914,6 +22866,10 @@
 				"misdemeanor": 22
 			},
 			"awards": [
+				{
+					"date": "11/29/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "2/8/2023",
 					"name": "EXCELLENT POLICE DUTY"
@@ -24113,7 +24069,7 @@
 		"shield_no": "1600",
 		"appt_date": "4/12/2017",
 		"recognition_count": 60,
-		"arrest_count": 130,
+		"arrest_count": 132,
 		"reports": {
 			"summary": {
 				"command": "041 DET SQUAD",
@@ -29446,7 +29402,7 @@
 		"shield_no": "3478",
 		"appt_date": "1/10/2007",
 		"recognition_count": 0,
-		"arrest_count": 1187,
+		"arrest_count": 1188,
 		"reports": {
 			"summary": {
 				"command": "041 DET SQUAD",
@@ -29632,9 +29588,9 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
-				"misdemeanor": 14,
-				"violation": 2
+				"felony": 2,
+				"misdemeanor": 7,
+				"violation": 1
 			},
 			"awards": []
 		},
@@ -30433,8 +30389,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
-				"misdemeanor": 8,
+				"felony": 5,
+				"misdemeanor": 9,
 				"violation": 1
 			},
 			"awards": []
@@ -31354,7 +31310,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 96,
+				"misdemeanor": 97,
 				"violation": 1
 			},
 			"awards": [
