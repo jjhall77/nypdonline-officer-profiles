@@ -2107,7 +2107,7 @@
 		"shield_no": "9716",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 26,
+		"arrest_count": 28,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -3916,7 +3916,7 @@
 		"shield_no": "15935",
 		"appt_date": "4/15/2019",
 		"recognition_count": 1,
-		"arrest_count": 173,
+		"arrest_count": 174,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 1 MANHATTAN",
@@ -4194,7 +4194,7 @@
 		"shield_no": "11879",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 1,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "052 PRECINCT",
@@ -4851,7 +4851,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 4
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -6716,7 +6716,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 91,
+				"felony": 92,
 				"misdemeanor": 57
 			},
 			"awards": [
@@ -7885,7 +7885,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 102,
+				"felony": 103,
 				"misdemeanor": 101
 			},
 			"awards": []
@@ -8232,7 +8232,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 236,
+				"felony": 237,
 				"misdemeanor": 210,
 				"violation": 20
 			},
@@ -12788,7 +12788,7 @@
 		"shield_no": "16643",
 		"appt_date": "7/5/2017",
 		"recognition_count": 5,
-		"arrest_count": 60,
+		"arrest_count": 61,
 		"reports": {
 			"summary": {
 				"command": "067 PRECINCT",
@@ -13686,7 +13686,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 6
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -15926,7 +15926,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 34,
+				"felony": 35,
 				"misdemeanor": 93,
 				"violation": 7
 			},
@@ -18857,7 +18857,7 @@
 		"shield_no": "10116",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 2,
+		"arrest_count": 3,
 		"reports": {
 			"summary": {
 				"command": "043 PRECINCT",
@@ -20360,7 +20360,7 @@
 		"shield_no": "30173",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 23,
+		"arrest_count": 25,
 		"reports": {
 			"summary": {
 				"command": "PSA 3 FIELD TRAINING UNIT",
@@ -20520,7 +20520,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 3
+				"felony": 2,
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -21735,8 +21736,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
-				"misdemeanor": 12
+				"felony": 2,
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -25194,7 +25195,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 8
+				"misdemeanor": 9
 			},
 			"awards": []
 		},
@@ -27484,7 +27485,7 @@
 		"shield_no": "15592",
 		"appt_date": "7/2/2018",
 		"recognition_count": 2,
-		"arrest_count": 278,
+		"arrest_count": 279,
 		"reports": {
 			"summary": {
 				"command": "040 DOMESTIC VIOLENCE SQUAD",
@@ -28934,7 +28935,7 @@
 		"shield_no": "29128",
 		"appt_date": "12/29/2021",
 		"recognition_count": 4,
-		"arrest_count": 174,
+		"arrest_count": 175,
 		"reports": {
 			"summary": {
 				"command": "PBMN NEIGHBORHOOD SAFETY TEAMS",
@@ -29829,7 +29830,7 @@
 		"shield_no": "31129",
 		"appt_date": "4/28/2021",
 		"recognition_count": 0,
-		"arrest_count": 176,
+		"arrest_count": 177,
 		"reports": {
 			"summary": {
 				"command": "043 PRECINCT",
@@ -31916,7 +31917,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 86,
+				"felony": 87,
 				"misdemeanor": 142,
 				"violation": 1
 			},
@@ -33854,7 +33855,7 @@
 		"shield_no": "14478",
 		"appt_date": "7/2/2018",
 		"recognition_count": 0,
-		"arrest_count": 223,
+		"arrest_count": 224,
 		"reports": {
 			"summary": {
 				"command": "COD QUALITY OF LIFE DIVISION",
@@ -34536,7 +34537,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 2,
+				"felony": 3,
 				"misdemeanor": 4
 			},
 			"awards": []
@@ -35922,7 +35923,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 100,
+				"felony": 101,
 				"misdemeanor": 78,
 				"other": 1,
 				"violation": 2
@@ -38350,7 +38351,7 @@
 		"reports": {
 			"summary": {
 				"command": "BN AUTO LARCENY UNIT",
-				"assignment_date": "6/8/2026",
+				"assignment_date": "9/6/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "25777",
@@ -44390,8 +44391,8 @@
 		"arrest_count": 41,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "7/31/2026",
+				"command": "079 PRECINCT",
+				"assignment_date": "9/7/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3074",
@@ -44419,7 +44420,7 @@
 			},
 			"awards": []
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "079 PRECINCT"
 	},
 	{
 		"taxid": 969418,
@@ -45229,7 +45230,7 @@
 		"shield_no": "800",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 60,
+		"arrest_count": 61,
 		"reports": {
 			"summary": {
 				"command": "040 PRECINCT",
@@ -46122,7 +46123,7 @@
 		"shield_no": "2596",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 32,
+		"arrest_count": 33,
 		"reports": {
 			"summary": {
 				"command": "006 PRECINCT",
@@ -47229,7 +47230,7 @@
 		"shield_no": "7782",
 		"appt_date": "10/18/2017",
 		"recognition_count": 0,
-		"arrest_count": 196,
+		"arrest_count": 197,
 		"reports": {
 			"summary": {
 				"command": "014 PCT-MIDTOWN SO. PCT",
@@ -48283,7 +48284,7 @@
 		"shield_no": "3706",
 		"appt_date": "1/7/2008",
 		"recognition_count": 2,
-		"arrest_count": 919,
+		"arrest_count": 920,
 		"reports": {
 			"summary": {
 				"command": "TB METROCARD TASK FORCE",
@@ -48899,32 +48900,6 @@
 			"awards": []
 		},
 		"command": "MILITARY & EXTENDED LEAVE DESK"
-	},
-	{
-		"taxid": 966391,
-		"full_name": "VIRELLAABREU, ANNIE P",
-		"first_name": "ANNIE",
-		"last_name": "VIRELLAABREU",
-		"middle_initial": "P",
-		"rank": "POLICE OFFICER",
-		"shield_no": "15748",
-		"appt_date": "7/2/2018",
-		"recognition_count": 0,
-		"arrest_count": 32,
-		"reports": {
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/2/2018",
-					"shield_no": "15748"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		}
 	},
 	{
 		"taxid": 966700,
@@ -49771,7 +49746,7 @@
 		"reports": {
 			"summary": {
 				"command": "PATROL BORO BKLYN SOUTH",
-				"assignment_date": "6/17/2026",
+				"assignment_date": "9/10/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -51509,7 +51484,7 @@
 		"shield_no": "4651",
 		"appt_date": "7/6/2010",
 		"recognition_count": 5,
-		"arrest_count": 308,
+		"arrest_count": 309,
 		"reports": {
 			"summary": {
 				"command": "105 PRECINCT",
@@ -54662,7 +54637,7 @@
 		"shield_no": "2477",
 		"appt_date": "7/11/2012",
 		"recognition_count": 9,
-		"arrest_count": 259,
+		"arrest_count": 260,
 		"reports": {
 			"summary": {
 				"command": "SVU MAJOR CASE/DNA/COLD CASE SQUAD",
