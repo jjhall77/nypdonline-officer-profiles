@@ -18805,7 +18805,7 @@
 		"reports": {
 			"summary": {
 				"command": "BROOKLYN CHILD ABUSE SQUAD",
-				"assignment_date": "7/1/2026",
+				"assignment_date": "9/9/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "",
@@ -20943,7 +20943,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 19,
+				"felony": 22,
 				"misdemeanor": 23
 			},
 			"awards": []
@@ -29423,7 +29423,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 22,
+				"felony": 23,
 				"misdemeanor": 31,
 				"violation": 1
 			},

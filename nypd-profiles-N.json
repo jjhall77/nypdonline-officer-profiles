@@ -1812,7 +1812,13 @@
 				"shield_no": "20468",
 				"appt_date": "4/30/2025"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "4/30/2025",
+					"shield_no": "20468"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

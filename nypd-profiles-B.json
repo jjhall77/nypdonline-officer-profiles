@@ -12145,7 +12145,7 @@
 				"assignment_date": "1/20/2025",
 				"ethnicity": "ASIAN",
 				"rank_desc": "DETECTIVE 3RD GRADE",
-				"shield_no": "1412",
+				"shield_no": "2427",
 				"appt_date": "10/11/2016"
 			},
 			"ranks": [
@@ -15211,7 +15211,7 @@
 		"reports": {
 			"summary": {
 				"command": "EXECUTIVE PROTECTION UNIT",
-				"assignment_date": "6/13/2026",
+				"assignment_date": "9/9/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "6478",
@@ -29309,7 +29309,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 470,
-				"misdemeanor": 565,
+				"misdemeanor": 566,
 				"other": 3,
 				"violation": 2
 			},
@@ -45739,9 +45739,9 @@
 		"reports": {
 			"summary": {
 				"command": "MANHATTAN CHILD ABUSE SQUAD",
-				"assignment_date": "9/9/2026",
+				"assignment_date": "7/1/2026",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "DETECTIVE 3RD GRADE",
+				"rank_desc": "DETECTIVE SPECIALIST",
 				"shield_no": "610",
 				"appt_date": "1/9/2012"
 			},
@@ -51776,8 +51776,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 123,
-				"misdemeanor": 48,
+				"felony": 124,
+				"misdemeanor": 50,
 				"violation": 1
 			},
 			"awards": []
@@ -66012,7 +66012,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 76,
-				"misdemeanor": 80
+				"misdemeanor": 81
 			},
 			"awards": [
 				{
@@ -68031,32 +68031,38 @@
 						{
 							"disposition": "GUILTY",
 							"description": "WHILE ON-DUTY, FAILED TO COMPLY WITH THE DIRECTION GIVEN BY A SUPERVISOR.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (25 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "POSTED A COMMENT TO THE NYPD PAGE THAT WAS IN VIOLATION OF THE DEPARTMENT'S SOCIAL MEDIA POLICY.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (25 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "FAILED TO ANSWER RADIO TRANSMISSIONS ON FOUR (4) OCCASIONS.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (25 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "WHILE ON-DUTY, WAS OFF POST.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (25 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "FAILED TO COMPLY WITH THE DIRECTION OF HER SUPERVISOR.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (25 day(s) )"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "WAS DISCOURTEOUS TO A SUPERVISOR.",
-							"group_id": "1"
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), VACATION DAYS (25 day(s) )"
 						}
 					]
 				}
@@ -119545,7 +119551,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 18
+				"misdemeanor": 19
 			},
 			"awards": [
 				{
@@ -127507,8 +127513,8 @@
 		"arrest_count": 175,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "7/31/2026",
+				"command": "013 PRECINCT",
+				"assignment_date": "9/7/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "SERGEANT",
 				"shield_no": "4914",
@@ -127557,7 +127563,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "013 PRECINCT"
 	},
 	{
 		"taxid": 959522,
@@ -132967,7 +132973,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 27,
-				"misdemeanor": 35
+				"misdemeanor": 36
 			},
 			"awards": []
 		},

@@ -43807,7 +43807,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 11,
+				"felony": 12,
 				"misdemeanor": 32
 			},
 			"awards": []
@@ -77862,8 +77862,8 @@
 		"arrest_count": 43,
 		"reports": {
 			"summary": {
-				"command": "TD 34 SUMMER DETAIL",
-				"assignment_date": "5/20/2026",
+				"command": "TRANSIT DISTRICT 34",
+				"assignment_date": "9/10/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "16623",
@@ -77891,7 +77891,7 @@
 				}
 			]
 		},
-		"command": "TD 34 SUMMER DETAIL"
+		"command": "TRANSIT DISTRICT 34"
 	},
 	{
 		"taxid": 941664,
@@ -106490,7 +106490,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 24,
+				"misdemeanor": 25,
 				"violation": 1
 			},
 			"awards": []
@@ -111178,7 +111178,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 33
+				"misdemeanor": 34
 			},
 			"awards": [
 				{

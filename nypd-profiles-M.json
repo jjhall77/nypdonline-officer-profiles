@@ -11129,8 +11129,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 37,
-				"misdemeanor": 78,
+				"felony": 38,
+				"misdemeanor": 80,
 				"violation": 2
 			},
 			"awards": [
@@ -16368,7 +16368,12 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"infraction": 2,
+				"felony": 10,
+				"misdemeanor": 48,
+				"violation": 8
+			},
 			"awards": [
 				{
 					"date": "10/12/2015",
@@ -30699,7 +30704,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 15,
+				"misdemeanor": 16,
 				"violation": 2
 			},
 			"awards": [
@@ -42629,7 +42634,8 @@
 			"arrests": {
 				"felony": 24,
 				"misdemeanor": 52,
-				"other": 1
+				"other": 1,
+				"violation": 1
 			},
 			"awards": [
 				{
@@ -78030,7 +78036,7 @@
 				}
 			],
 			"arrests": {
-				"felony": 53,
+				"felony": 54,
 				"misdemeanor": 48
 			},
 			"awards": [
@@ -103685,7 +103691,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 22,
+				"felony": 23,
 				"misdemeanor": 35
 			},
 			"awards": [
@@ -129265,7 +129271,48 @@
 				"misdemeanor": 102,
 				"violation": 41
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "12/17/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/7/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/3/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/5/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/5/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/30/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/12/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/12/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/23/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/23/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "POLICE ACADEMY"
 	},
@@ -137289,8 +137336,8 @@
 		"arrest_count": 131,
 		"reports": {
 			"summary": {
-				"command": "TB ANTI TERRORISM UNIT",
-				"assignment_date": "9/10/2026",
+				"command": "TRANSIT DISTRICT 32",
+				"assignment_date": "1/23/2024",
 				"ethnicity": "BLACK",
 				"rank_desc": "SERGEANT",
 				"shield_no": "5444",
@@ -137355,7 +137402,7 @@
 				}
 			]
 		},
-		"command": "TB ANTI TERRORISM UNIT"
+		"command": "TRANSIT DISTRICT 32"
 	},
 	{
 		"taxid": 963653,
@@ -137767,7 +137814,13 @@
 				"shield_no": "25680",
 				"appt_date": "10/11/2016"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/11/2016",
+					"shield_no": "25680"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -170786,7 +170839,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 49,
-				"misdemeanor": 307
+				"misdemeanor": 308
 			},
 			"awards": [
 				{
@@ -176200,7 +176253,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 111,
+				"felony": 113,
 				"misdemeanor": 41,
 				"violation": 2
 			},
@@ -176545,7 +176598,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
+				"felony": 2,
 				"misdemeanor": 9
 			},
 			"awards": []
@@ -188230,7 +188283,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 101,
+				"felony": 102,
 				"misdemeanor": 57
 			},
 			"awards": [
@@ -202363,7 +202416,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 7,
+				"felony": 8,
 				"misdemeanor": 14
 			},
 			"awards": []
