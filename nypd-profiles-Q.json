@@ -3126,7 +3126,7 @@
 		"shield_no": "26805",
 		"appt_date": "7/7/2021",
 		"recognition_count": 3,
-		"arrest_count": 104,
+		"arrest_count": 105,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -4211,13 +4211,7 @@
 					"shield_no": "5441"
 				}
 			],
-			"documents": [
-				{
-					"date": "1/7/2025",
-					"url": "https://nypdonline.org/files/947371_01072025_2025001.pdf",
-					"type": "Trial Decision"
-				}
-			],
+			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -6039,7 +6033,7 @@
 		"shield_no": "4990",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 89,
+		"arrest_count": 90,
 		"reports": {
 			"summary": {
 				"command": "014 PCT-MIDTOWN SO. PCT",
