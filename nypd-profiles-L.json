@@ -5440,7 +5440,7 @@
 		"shield_no": "6416",
 		"appt_date": "7/8/2008",
 		"recognition_count": 13,
-		"arrest_count": 383,
+		"arrest_count": 384,
 		"reports": {
 			"summary": {
 				"command": "CEIS VIOLENT GANG TASK FORCE",
@@ -5648,7 +5648,7 @@
 		"shield_no": "14283",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 40,
+		"arrest_count": 43,
 		"reports": {
 			"summary": {
 				"command": "073 PRECINCT",
@@ -5917,7 +5917,7 @@
 		"shield_no": "2236",
 		"appt_date": "1/17/2024",
 		"recognition_count": 0,
-		"arrest_count": 5,
+		"arrest_count": 6,
 		"reports": {
 			"summary": {
 				"command": "017 PRECINCT",
@@ -5938,7 +5938,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
+				"felony": 2,
 				"misdemeanor": 4
 			},
 			"awards": []
@@ -7109,7 +7109,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 185,
+				"felony": 186,
 				"misdemeanor": 86,
 				"other": 1
 			},
@@ -8128,7 +8128,20 @@
 				"misdemeanor": 87,
 				"violation": 10
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "12/2/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/5/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/13/2017",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "107 PRECINCT"
 	},
@@ -8783,7 +8796,7 @@
 		"shield_no": "18336",
 		"appt_date": "1/17/2023",
 		"recognition_count": 0,
-		"arrest_count": 53,
+		"arrest_count": 54,
 		"reports": {
 			"summary": {
 				"command": "114 PRECINCT",
@@ -10498,7 +10511,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 83,
+				"felony": 85,
 				"misdemeanor": 139
 			},
 			"awards": [
@@ -11135,7 +11148,7 @@
 		"shield_no": "1105",
 		"appt_date": "10/30/2024",
 		"recognition_count": 1,
-		"arrest_count": 59,
+		"arrest_count": 61,
 		"reports": {
 			"summary": {
 				"command": "075 PRECINCT",
@@ -12800,7 +12813,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 73,
-				"misdemeanor": 104
+				"misdemeanor": 105
 			},
 			"awards": [
 				{
@@ -15109,7 +15122,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 97,
+				"felony": 98,
 				"misdemeanor": 141
 			},
 			"awards": [
@@ -15341,7 +15354,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 43,
+				"felony": 44,
 				"misdemeanor": 88,
 				"violation": 1
 			},
@@ -20929,8 +20942,8 @@
 		"arrest_count": 67,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "9/1/2026",
+				"command": "063 PRECINCT",
+				"assignment_date": "9/14/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -20972,7 +20985,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "063 PRECINCT"
 	},
 	{
 		"taxid": 969884,
@@ -22642,8 +22655,8 @@
 		"arrest_count": 62,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "9/1/2026",
+				"command": "013 PRECINCT",
+				"assignment_date": "9/14/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -22686,7 +22699,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "013 PRECINCT"
 	},
 	{
 		"taxid": 954052,
@@ -27620,7 +27633,7 @@
 		"shield_no": "12056",
 		"appt_date": "7/8/2008",
 		"recognition_count": 1,
-		"arrest_count": 158,
+		"arrest_count": 159,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 12",
@@ -33219,6 +33232,11 @@
 					"rank": "DETECTIVE",
 					"date": "9/29/2023",
 					"shield_no": "2882"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "9/14/2026",
+					"shield_no": "22839"
 				}
 			],
 			"documents": [],
@@ -35508,78 +35526,12 @@
 				"shield_no": "2641",
 				"appt_date": "7/1/2004"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/1/2004",
-					"shield_no": "12959"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "1/28/2011",
-					"shield_no": "2641"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 84,
-				"misdemeanor": 280,
-				"other": 1,
-				"violation": 6
-			},
-			"awards": [
-				{
-					"date": "11/26/2013",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "9/10/2013",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "10/5/2011",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "10/1/2009",
-					"name": "COMMENDATION"
-				},
-				{
-					"date": "4/29/2009",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "10/3/2008",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "3/4/2007",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "1/1/2007",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "4/12/2006",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "2/22/2006",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "12/14/2005",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "5/15/2005",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
+			"arrests": {},
+			"awards": []
 		},
 		"command": "JOINT TERRORIST TASK FORCE"
 	},
@@ -36462,7 +36414,7 @@
 		"shield_no": "27227",
 		"appt_date": "7/7/2021",
 		"recognition_count": 5,
-		"arrest_count": 125,
+		"arrest_count": 126,
 		"reports": {
 			"summary": {
 				"command": "PBQS NEIGHBORHOOD SAFETY TEAMS",
@@ -37799,18 +37751,7 @@
 				"shield_no": "7470",
 				"appt_date": "7/6/2010"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/6/2010",
-					"shield_no": "746"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "1/27/2023",
-					"shield_no": "7470"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -38965,7 +38906,7 @@
 		"reports": {
 			"summary": {
 				"command": "EXECUTIVE PROTECTION UNIT",
-				"assignment_date": "6/13/2026",
+				"assignment_date": "9/9/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "2366",
@@ -39694,44 +39635,6 @@
 		"command": "070 PRECINCT"
 	},
 	{
-		"taxid": 963607,
-		"full_name": "LEON, KAREN",
-		"first_name": "KAREN",
-		"last_name": "LEON",
-		"middle_initial": "",
-		"rank": "POLICE OFFICER",
-		"shield_no": "3053",
-		"appt_date": "4/12/2017",
-		"recognition_count": 2,
-		"arrest_count": 38,
-		"reports": {
-			"summary": {
-				"command": "DBMN EVIDENCE COLLECTION TEAM",
-				"assignment_date": "8/15/2025",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "3053",
-				"appt_date": "4/12/2017"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "4/12/2017",
-					"shield_no": "3053"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 8,
-				"misdemeanor": 30
-			},
-			"awards": []
-		},
-		"command": "DBMN EVIDENCE COLLECTION TEAM"
-	},
-	{
 		"taxid": 950740,
 		"full_name": "LEON, KEVIN",
 		"first_name": "KEVIN",
@@ -39914,7 +39817,7 @@
 		"shield_no": "19859",
 		"appt_date": "7/13/2022",
 		"recognition_count": 1,
-		"arrest_count": 48,
+		"arrest_count": 49,
 		"reports": {
 			"summary": {
 				"command": "083 PRECINCT",
@@ -41103,7 +41006,7 @@
 		"shield_no": "14288",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 24,
+		"arrest_count": 25,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -42415,7 +42318,7 @@
 		"reports": {
 			"summary": {
 				"command": "EXECUTIVE PROTECTION UNIT",
-				"assignment_date": "6/13/2026",
+				"assignment_date": "9/9/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "DETECTIVE 2ND GRADE",
 				"shield_no": "1191",
@@ -42538,7 +42441,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 160,
+				"felony": 161,
 				"misdemeanor": 129,
 				"violation": 3
 			},
@@ -42751,7 +42654,7 @@
 		"shield_no": "19032",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 41,
+		"arrest_count": 42,
 		"reports": {
 			"summary": {
 				"command": "044 PRECINCT",
@@ -44168,7 +44071,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 18,
-				"misdemeanor": 30,
+				"misdemeanor": 31,
 				"violation": 4
 			},
 			"awards": []
@@ -47151,7 +47054,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 61,
-				"misdemeanor": 85,
+				"misdemeanor": 86,
 				"violation": 1
 			},
 			"awards": [
@@ -49664,7 +49567,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 16,
+				"felony": 17,
 				"misdemeanor": 47
 			},
 			"awards": [
@@ -53516,7 +53419,7 @@
 		"shield_no": "6437",
 		"appt_date": "1/9/2013",
 		"recognition_count": 2,
-		"arrest_count": 173,
+		"arrest_count": 174,
 		"reports": {
 			"summary": {
 				"command": "TB BUS ENFORCEMENT UNIT",
@@ -57299,7 +57202,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 11,
-				"misdemeanor": 44
+				"misdemeanor": 45
 			},
 			"awards": [
 				{
@@ -57379,7 +57282,7 @@
 		"shield_no": "29378",
 		"appt_date": "12/29/2021",
 		"recognition_count": 3,
-		"arrest_count": 65,
+		"arrest_count": 66,
 		"reports": {
 			"summary": {
 				"command": "026 PRECINCT",
@@ -58967,7 +58870,7 @@
 		"shield_no": "31350",
 		"appt_date": "12/29/2021",
 		"recognition_count": 1,
-		"arrest_count": 140,
+		"arrest_count": 141,
 		"reports": {
 			"summary": {
 				"command": "109 PRECINCT",
@@ -60653,6 +60556,14 @@
 			},
 			"awards": [
 				{
+					"date": "12/16/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "1/30/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "9/29/2024",
 					"name": "MERITORIOUS POLICE DUTY"
 				},
@@ -62167,7 +62078,7 @@
 		"shield_no": "19124",
 		"appt_date": "1/17/2024",
 		"recognition_count": 0,
-		"arrest_count": 48,
+		"arrest_count": 50,
 		"reports": {
 			"summary": {
 				"command": "084 PRECINCT",
@@ -65887,7 +65798,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 64,
+				"felony": 65,
 				"misdemeanor": 140,
 				"violation": 4
 			},
@@ -70439,7 +70350,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 97,
+				"felony": 100,
 				"misdemeanor": 105,
 				"violation": 22
 			},
@@ -78332,35 +78243,6 @@
 		"command": "TRANSIT DISTRICT 1"
 	},
 	{
-		"taxid": 950774,
-		"full_name": "LOPEZ, JUSTIN C",
-		"first_name": "JUSTIN",
-		"last_name": "LOPEZ",
-		"middle_initial": "C",
-		"rank": "DETECTIVE 3RD GRADE",
-		"shield_no": "1322",
-		"appt_date": "7/6/2011",
-		"recognition_count": 12,
-		"arrest_count": 366,
-		"reports": {
-			"summary": {
-				"command": "NARC BORO BROOKLYN SOUTH",
-				"assignment_date": "3/5/2025",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "DETECTIVE 3RD GRADE",
-				"shield_no": "1322",
-				"appt_date": "7/6/2011"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "NARC BORO BROOKLYN SOUTH"
-	},
-	{
 		"taxid": 967972,
 		"full_name": "LOPEZ, JUSTIN A",
 		"first_name": "JUSTIN",
@@ -79160,7 +79042,7 @@
 		"shield_no": "7208",
 		"appt_date": "7/6/2011",
 		"recognition_count": 4,
-		"arrest_count": 214,
+		"arrest_count": 215,
 		"reports": {
 			"summary": {
 				"command": "MANHATTAN ADULT SEX CRIMES SQUAD",
@@ -81058,10 +80940,7 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 6,
-				"misdemeanor": 15
-			},
+			"arrests": {},
 			"awards": []
 		},
 		"command": "PATROL BORO QUEENS SOUTH"
@@ -82050,7 +81929,7 @@
 		"shield_no": "30083",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 32,
+		"arrest_count": 33,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 2",
@@ -82072,7 +81951,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 8,
-				"misdemeanor": 24
+				"misdemeanor": 25
 			},
 			"awards": []
 		},
@@ -84072,7 +83951,7 @@
 		"shield_no": "31729",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 27,
+		"arrest_count": 28,
 		"reports": {
 			"summary": {
 				"command": "032 PRECINCT",
@@ -86520,7 +86399,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 9,
+				"felony": 10,
 				"misdemeanor": 54
 			},
 			"awards": [
@@ -87745,7 +87624,7 @@
 		"shield_no": "15705",
 		"appt_date": "4/28/2021",
 		"recognition_count": 1,
-		"arrest_count": 166,
+		"arrest_count": 168,
 		"reports": {
 			"summary": {
 				"command": "040 PRECINCT",
@@ -90797,7 +90676,7 @@
 			"arrests": {
 				"felony": 4,
 				"misdemeanor": 81,
-				"violation": 36
+				"violation": 37
 			},
 			"awards": [
 				{
@@ -93799,7 +93678,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 96,
-				"misdemeanor": 125,
+				"misdemeanor": 128,
 				"violation": 3
 			},
 			"awards": [
@@ -98766,7 +98645,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 49,
-				"misdemeanor": 147
+				"misdemeanor": 148
 			},
 			"awards": [
 				{
@@ -99032,7 +98911,7 @@
 		"reports": {
 			"summary": {
 				"command": "MANHATTAN ADULT SEX CRIMES SQUAD",
-				"assignment_date": "7/1/2026",
+				"assignment_date": "9/9/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "11967",
@@ -101835,7 +101714,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 40,
-				"misdemeanor": 131,
+				"misdemeanor": 133,
 				"violation": 10
 			},
 			"awards": [

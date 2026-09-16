@@ -4211,7 +4211,13 @@
 					"shield_no": "5441"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "1/7/2025",
+					"url": "https://nypdonline.org/files/947371_01072025_2025001.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
