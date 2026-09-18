@@ -498,8 +498,8 @@
 		"arrest_count": 163,
 		"reports": {
 			"summary": {
-				"command": "US OPEN TENNIS DETAIL",
-				"assignment_date": "8/17/2026",
+				"command": "109 PRECINCT",
+				"assignment_date": "9/16/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "17344",
@@ -536,7 +536,7 @@
 				}
 			]
 		},
-		"command": "US OPEN TENNIS DETAIL"
+		"command": "109 PRECINCT"
 	},
 	{
 		"taxid": 930115,
@@ -812,7 +812,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 8
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -2185,7 +2185,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 5
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -5136,7 +5136,7 @@
 				"felony": 2,
 				"misdemeanor": 17,
 				"other": 1,
-				"violation": 10
+				"violation": 11
 			},
 			"awards": [
 				{
@@ -7496,7 +7496,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 40,
+				"felony": 41,
 				"misdemeanor": 78,
 				"violation": 2
 			},
@@ -9226,7 +9226,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 5
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -10069,7 +10069,7 @@
 		"shield_no": "5053",
 		"appt_date": "7/9/2014",
 		"recognition_count": 13,
-		"arrest_count": 282,
+		"arrest_count": 283,
 		"reports": {
 			"summary": {
 				"command": "114TH DET SQUAD",
@@ -10936,7 +10936,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 42,
+				"misdemeanor": 43,
 				"violation": 2
 			},
 			"awards": []
@@ -11023,8 +11023,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 9,
-				"misdemeanor": 29
+				"felony": 10,
+				"misdemeanor": 31
 			},
 			"awards": []
 		},
@@ -11941,8 +11941,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
-				"misdemeanor": 8
+				"felony": 6,
+				"misdemeanor": 9
 			},
 			"awards": []
 		},
@@ -13274,7 +13274,7 @@
 		"shield_no": "22314",
 		"appt_date": "1/6/2020",
 		"recognition_count": 0,
-		"arrest_count": 21,
+		"arrest_count": 22,
 		"reports": {
 			"summary": {
 				"command": "061 PRECINCT",
@@ -14381,7 +14381,7 @@
 		"shield_no": "22641",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 23,
+		"arrest_count": 24,
 		"reports": {
 			"summary": {
 				"command": "075 PCT FIELD TRAINING UNIT",
@@ -14520,7 +14520,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 50,
-				"misdemeanor": 279,
+				"misdemeanor": 281,
 				"violation": 64
 			},
 			"awards": [
@@ -16278,7 +16278,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 158,
+				"felony": 159,
 				"misdemeanor": 52,
 				"violation": 1
 			},
@@ -18005,7 +18005,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 12,
+				"misdemeanor": 13,
 				"violation": 1
 			},
 			"awards": []
@@ -19167,7 +19167,7 @@
 		"shield_no": "17927",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 8,
+		"arrest_count": 9,
 		"reports": {
 			"summary": {
 				"command": "014 PCT-MIDTOWN SO. PCT",
@@ -19204,7 +19204,7 @@
 		"shield_no": "21783",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 21,
+		"arrest_count": 22,
 		"reports": {
 			"summary": {
 				"command": "040 PCT FIELD TRAINING UNIT",
@@ -19259,13 +19259,7 @@
 					"shield_no": "19765"
 				}
 			],
-			"documents": [
-				{
-					"date": "11/22/2024",
-					"url": "https://nypdonline.org/files/962402_11222024_2024073.pdf",
-					"type": "Trial Decision"
-				}
-			],
+			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -19351,7 +19345,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 114,
-				"misdemeanor": 103
+				"misdemeanor": 105
 			},
 			"awards": [
 				{
@@ -19987,7 +19981,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "6524"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -23047,7 +23047,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 52,
-				"misdemeanor": 142
+				"misdemeanor": 143
 			},
 			"awards": []
 		},
@@ -24394,11 +24394,7 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 22,
-				"misdemeanor": 67,
-				"violation": 5
-			},
+			"arrests": {},
 			"awards": [
 				{
 					"date": "11/9/2021",
@@ -27290,25 +27286,8 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 28,
-				"misdemeanor": 103,
-				"violation": 1
-			},
-			"awards": [
-				{
-					"date": "2/20/2011",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "8/17/2010",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "7/11/2010",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
+			"arrests": {},
+			"awards": []
 		},
 		"command": "048 PRECINCT"
 	},
@@ -28779,7 +28758,7 @@
 		"shield_no": "5873",
 		"appt_date": "7/1/2019",
 		"recognition_count": 47,
-		"arrest_count": 81,
+		"arrest_count": 85,
 		"reports": {
 			"summary": {
 				"command": "INTEL CIS FIO PROGRAM",
@@ -30168,7 +30147,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 64,
+				"felony": 65,
 				"misdemeanor": 62
 			},
 			"awards": [
@@ -30304,7 +30283,7 @@
 		"shield_no": "10341",
 		"appt_date": "12/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 3,
+		"arrest_count": 4,
 		"reports": {
 			"summary": {
 				"command": "049 PRECINCT",
@@ -33274,7 +33253,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 12
+				"misdemeanor": 13
 			},
 			"awards": []
 		},
@@ -33751,8 +33730,8 @@
 		"arrest_count": 191,
 		"reports": {
 			"summary": {
-				"command": "US OPEN TENNIS DETAIL",
-				"assignment_date": "8/17/2026",
+				"command": "060 PRECINCT",
+				"assignment_date": "9/16/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "19624",
@@ -33833,7 +33812,7 @@
 				}
 			]
 		},
-		"command": "US OPEN TENNIS DETAIL"
+		"command": "060 PRECINCT"
 	},
 	{
 		"taxid": 899219,
@@ -35067,8 +35046,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 3,
-				"felony": 41,
-				"misdemeanor": 277,
+				"felony": 42,
+				"misdemeanor": 279,
 				"violation": 9
 			},
 			"awards": [
@@ -36664,21 +36643,8 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 7,
-				"misdemeanor": 43,
-				"violation": 2
-			},
-			"awards": [
-				{
-					"date": "1/29/2024",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "7/13/2023",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
+			"arrests": {},
+			"awards": []
 		},
 		"command": "BROOKLYN COURT SECTION"
 	},
@@ -39426,7 +39392,7 @@
 		"shield_no": "13729",
 		"appt_date": "7/2/2018",
 		"recognition_count": 3,
-		"arrest_count": 151,
+		"arrest_count": 155,
 		"reports": {
 			"summary": {
 				"command": "061 DOMESTIC VIOLENCE SQUAD",
@@ -40093,7 +40059,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
+				"felony": 7,
 				"misdemeanor": 2
 			},
 			"awards": []
@@ -41247,7 +41213,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 34,
+				"felony": 35,
 				"misdemeanor": 97
 			},
 			"awards": [
@@ -44378,7 +44344,7 @@
 		"shield_no": "7980",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 4,
+		"arrest_count": 7,
 		"reports": {
 			"summary": {
 				"command": "045 PRECINCT",
@@ -47924,8 +47890,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 8,
-				"misdemeanor": 4
+				"felony": 5,
+				"misdemeanor": 2
 			},
 			"awards": []
 		},
@@ -48500,7 +48466,7 @@
 		"shield_no": "7421",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 4,
+		"arrest_count": 5,
 		"reports": {
 			"summary": {
 				"command": "014 PCT-MIDTOWN SO. PCT",
@@ -51394,7 +51360,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 64,
+				"felony": 66,
 				"misdemeanor": 85
 			},
 			"awards": [
@@ -51725,9 +51691,7 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"misdemeanor": 9
-			},
+			"arrests": {},
 			"awards": []
 		},
 		"command": "043 PCT FIELD TRAINING UNIT"
@@ -53057,8 +53021,8 @@
 		"arrest_count": 63,
 		"reports": {
 			"summary": {
-				"command": "US OPEN TENNIS DETAIL",
-				"assignment_date": "8/17/2026",
+				"command": "102 PRECINCT",
+				"assignment_date": "9/16/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "4969",
@@ -53080,7 +53044,7 @@
 			},
 			"awards": []
 		},
-		"command": "US OPEN TENNIS DETAIL"
+		"command": "102 PRECINCT"
 	},
 	{
 		"taxid": 948977,
@@ -55060,8 +55024,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
-				"misdemeanor": 18
+				"felony": 7,
+				"misdemeanor": 20
 			},
 			"awards": []
 		},
@@ -56036,7 +56000,7 @@
 		"shield_no": "3188",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 7,
+		"arrest_count": 9,
 		"reports": {
 			"summary": {
 				"command": "PSA 5 FIELD TRAINING UNIT",
@@ -58656,11 +58620,7 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 17,
-				"misdemeanor": 103,
-				"violation": 1
-			},
+			"arrests": {},
 			"awards": [
 				{
 					"date": "1/15/2025",
@@ -58953,8 +58913,8 @@
 		"arrest_count": 121,
 		"reports": {
 			"summary": {
-				"command": "090 PRECINCT",
-				"assignment_date": "4/8/2018",
+				"command": "PATROL BORO BKLYN NORTH",
+				"assignment_date": "9/16/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -59009,7 +58969,7 @@
 				}
 			]
 		},
-		"command": "090 PRECINCT"
+		"command": "PATROL BORO BKLYN NORTH"
 	},
 	{
 		"taxid": 986509,
@@ -61800,8 +61760,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
-				"misdemeanor": 5
+				"felony": 4,
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -61899,20 +61859,7 @@
 				"misdemeanor": 27,
 				"violation": 3
 			},
-			"awards": [
-				{
-					"date": "2/25/2026",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "8/19/2025",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "2/5/2025",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"awards": []
 		},
 		"command": "GRAND LARCENY UNIT"
 	},
@@ -62576,7 +62523,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 11
+				"misdemeanor": 12
 			},
 			"awards": []
 		},
@@ -63112,7 +63059,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 10
+				"misdemeanor": 11
 			},
 			"awards": []
 		},
@@ -63281,13 +63228,7 @@
 					"shield_no": "2895"
 				}
 			],
-			"documents": [
-				{
-					"date": "11/9/2018",
-					"url": "https://nypdonline.org/files/945395_11092018_2018014.pdf",
-					"type": "Trial Decision"
-				}
-			],
+			"documents": [],
 			"disciplineHistory": [
 				{
 					"entry": "11/14/2016 12:00:00 AM",
@@ -64287,7 +64228,7 @@
 		"shield_no": "4287",
 		"appt_date": "4/25/2018",
 		"recognition_count": 13,
-		"arrest_count": 251,
+		"arrest_count": 252,
 		"reports": {
 			"summary": {
 				"command": "103RD DETECTIVE SQUAD",
@@ -64313,7 +64254,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 148,
+				"felony": 149,
 				"misdemeanor": 101,
 				"violation": 2
 			},
@@ -64622,7 +64563,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
+				"felony": 6,
 				"misdemeanor": 10
 			},
 			"awards": []
@@ -68329,8 +68270,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
-				"misdemeanor": 12
+				"felony": 3,
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -68563,8 +68504,8 @@
 		"arrest_count": 93,
 		"reports": {
 			"summary": {
-				"command": "US OPEN TENNIS DETAIL",
-				"assignment_date": "8/17/2026",
+				"command": "019 PRECINCT",
+				"assignment_date": "9/16/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "7661",
@@ -68587,7 +68528,7 @@
 			},
 			"awards": []
 		},
-		"command": "US OPEN TENNIS DETAIL"
+		"command": "019 PRECINCT"
 	},
 	{
 		"taxid": 972646,
@@ -69489,7 +69430,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 102,
+				"felony": 103,
 				"misdemeanor": 115
 			},
 			"awards": [
@@ -70554,19 +70495,8 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 1
-			},
-			"awards": [
-				{
-					"date": "5/11/1990",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "12/13/1989",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
+			"arrests": {},
+			"awards": []
 		},
 		"command": "FIREARMS & TACTICS SECTION"
 	},
@@ -73709,37 +73639,8 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 17,
-				"misdemeanor": 69,
-				"violation": 70
-			},
-			"awards": [
-				{
-					"date": "10/27/2023",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "9/7/2023",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "8/29/2021",
-					"name": "EXCEPTIONAL MERIT"
-				},
-				{
-					"date": "5/8/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "1/29/2020",
-					"name": "COMMENDATION"
-				},
-				{
-					"date": "8/2/2018",
-					"name": "COMMENDATION"
-				}
-			]
+			"arrests": {},
+			"awards": []
 		},
 		"command": "BOMB SQUAD"
 	},
@@ -73908,7 +73809,7 @@
 		"shield_no": "12462",
 		"appt_date": "10/18/2017",
 		"recognition_count": 0,
-		"arrest_count": 106,
+		"arrest_count": 108,
 		"reports": {
 			"summary": {
 				"command": "101 PRECINCT",
