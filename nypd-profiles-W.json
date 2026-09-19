@@ -4721,7 +4721,18 @@
 				"shield_no": "20319",
 				"appt_date": "7/5/2017"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/5/2017",
+					"shield_no": "16474"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "11/30/2017",
+					"shield_no": "20319"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -14972,7 +14983,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 41,
-				"misdemeanor": 113
+				"misdemeanor": 114
 			},
 			"awards": [
 				{

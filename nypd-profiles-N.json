@@ -2038,8 +2038,8 @@
 		"arrest_count": 60,
 		"reports": {
 			"summary": {
-				"command": "121 PRECINCT",
-				"assignment_date": "11/28/2022",
+				"command": "POLICE ACTION LITIGATION SECTION",
+				"assignment_date": "9/14/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "SERGEANT",
 				"shield_no": "2282",
@@ -2077,7 +2077,7 @@
 				}
 			]
 		},
-		"command": "121 PRECINCT"
+		"command": "POLICE ACTION LITIGATION SECTION"
 	},
 	{
 		"taxid": 984685,
@@ -2757,7 +2757,7 @@
 		"arrest_count": 16,
 		"reports": {
 			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
 				"assignment_date": "5/27/2021",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
@@ -2780,7 +2780,7 @@
 			},
 			"awards": []
 		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 971162,
@@ -5808,7 +5808,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
+				"felony": 3,
 				"misdemeanor": 10
 			},
 			"awards": []
@@ -12567,7 +12567,7 @@
 		"arrest_count": 4,
 		"reports": {
 			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
 				"assignment_date": "9/15/2022",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
@@ -12589,7 +12589,7 @@
 			},
 			"awards": []
 		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 956970,
@@ -21133,7 +21133,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 49,
+				"felony": 50,
 				"misdemeanor": 74
 			},
 			"awards": [
@@ -37473,7 +37473,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 17
+				"misdemeanor": 18
 			},
 			"awards": []
 		},
@@ -37720,7 +37720,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 9
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -40207,7 +40207,7 @@
 		"arrest_count": 9,
 		"reports": {
 			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
 				"assignment_date": "8/27/2018",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
@@ -40230,7 +40230,7 @@
 			},
 			"awards": []
 		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 975058,

@@ -8068,7 +8068,7 @@
 			],
 			"arrests": {
 				"felony": 126,
-				"misdemeanor": 80
+				"misdemeanor": 81
 			},
 			"awards": [
 				{
@@ -12608,7 +12608,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 11,
+				"felony": 12,
 				"misdemeanor": 109,
 				"violation": 1
 			},
@@ -22425,7 +22425,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 13,
+				"misdemeanor": 14,
 				"violation": 3
 			},
 			"awards": []
@@ -25234,7 +25234,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 28,
+				"misdemeanor": 29,
 				"violation": 2
 			},
 			"awards": []
@@ -44652,8 +44652,8 @@
 		"arrest_count": 95,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "9/16/2026",
+				"command": "IN-SERVICE TRAINING SECTION",
+				"assignment_date": "9/9/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3282",
@@ -44681,7 +44681,7 @@
 			},
 			"awards": []
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "IN-SERVICE TRAINING SECTION"
 	},
 	{
 		"taxid": 937807,
@@ -46169,7 +46169,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 75,
-				"misdemeanor": 240,
+				"misdemeanor": 242,
 				"violation": 2
 			},
 			"awards": [
@@ -72301,7 +72301,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 21,
+				"felony": 22,
 				"misdemeanor": 40
 			},
 			"awards": [
@@ -80634,7 +80634,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 6,
-				"misdemeanor": 22,
+				"misdemeanor": 23,
 				"violation": 3
 			},
 			"awards": []
@@ -81884,7 +81884,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 28,
-				"misdemeanor": 71
+				"misdemeanor": 72
 			},
 			"awards": [
 				{
@@ -84258,8 +84258,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
-				"misdemeanor": 36,
+				"felony": 6,
+				"misdemeanor": 38,
 				"violation": 1
 			},
 			"awards": []
@@ -87060,7 +87060,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 15
+				"misdemeanor": 16
 			},
 			"awards": [
 				{
@@ -95953,7 +95953,7 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "EXTENDED LEAVE SERVICES GROUP",
+				"command": "MILITARY & EXTENDED LEAVE DESK",
 				"assignment_date": "8/28/2025",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
@@ -95973,7 +95973,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "EXTENDED LEAVE SERVICES GROUP"
+		"command": "MILITARY & EXTENDED LEAVE DESK"
 	},
 	{
 		"taxid": 958326,
@@ -116494,8 +116494,8 @@
 		"arrest_count": 66,
 		"reports": {
 			"summary": {
-				"command": "102 PRECINCT",
-				"assignment_date": "9/16/2026",
+				"command": "US OPEN TENNIS DETAIL",
+				"assignment_date": "8/17/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "14789",
@@ -116517,7 +116517,7 @@
 			},
 			"awards": []
 		},
-		"command": "102 PRECINCT"
+		"command": "US OPEN TENNIS DETAIL"
 	},
 	{
 		"taxid": 984105,
@@ -116651,7 +116651,7 @@
 		"arrest_count": 180,
 		"reports": {
 			"summary": {
-				"command": "EXTENDED LEAVE SERVICES GROUP",
+				"command": "MILITARY & EXTENDED LEAVE DESK",
 				"assignment_date": "3/28/2025",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "LIEUTENANT",
@@ -116759,7 +116759,7 @@
 				}
 			]
 		},
-		"command": "EXTENDED LEAVE SERVICES GROUP"
+		"command": "MILITARY & EXTENDED LEAVE DESK"
 	},
 	{
 		"taxid": 936250,
@@ -127980,7 +127980,7 @@
 		"arrest_count": 12,
 		"reports": {
 			"summary": {
-				"command": "HRD CITYTIME PROGRAM MGMT OFFICE",
+				"command": "TIME MANAGEMENT SECTION",
 				"assignment_date": "8/17/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
@@ -128003,7 +128003,7 @@
 			},
 			"awards": []
 		},
-		"command": "HRD CITYTIME PROGRAM MGMT OFFICE"
+		"command": "TIME MANAGEMENT SECTION"
 	},
 	{
 		"taxid": 938132,
@@ -129336,10 +129336,7 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 6,
-				"misdemeanor": 9
-			},
+			"arrests": {},
 			"awards": []
 		},
 		"command": "HOUSING PSA 3"

@@ -34861,7 +34861,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 103,
+				"misdemeanor": 105,
 				"other": 1,
 				"violation": 5
 			},
@@ -37746,7 +37746,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 60
+				"misdemeanor": 61
 			},
 			"awards": [
 				{
@@ -39755,7 +39755,20 @@
 				"felony": 3,
 				"misdemeanor": 2
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "4/5/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/17/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/2/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "HOUSING PSA 2"
 	},
@@ -51844,7 +51857,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 21,
+				"felony": 22,
 				"misdemeanor": 34
 			},
 			"awards": []

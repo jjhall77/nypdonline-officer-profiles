@@ -12937,7 +12937,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 22,
+				"misdemeanor": 24,
 				"violation": 1
 			},
 			"awards": []
@@ -19259,7 +19259,13 @@
 					"shield_no": "19765"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "11/22/2024",
+					"url": "https://nypdonline.org/files/962402_11222024_2024073.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -24394,7 +24400,11 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"felony": 22,
+				"misdemeanor": 67,
+				"violation": 5
+			},
 			"awards": [
 				{
 					"date": "11/9/2021",
@@ -25592,7 +25602,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 32,
-				"misdemeanor": 50,
+				"misdemeanor": 51,
 				"violation": 1
 			},
 			"awards": [
@@ -27286,8 +27296,25 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 28,
+				"misdemeanor": 103,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "2/20/2011",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/17/2010",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/11/2010",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "048 PRECINCT"
 	},
@@ -29435,7 +29462,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 33,
+				"felony": 35,
 				"misdemeanor": 38,
 				"violation": 2
 			},
@@ -31320,7 +31347,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 25,
+				"felony": 26,
 				"misdemeanor": 67
 			},
 			"awards": [
@@ -33730,8 +33757,8 @@
 		"arrest_count": 191,
 		"reports": {
 			"summary": {
-				"command": "060 PRECINCT",
-				"assignment_date": "9/16/2026",
+				"command": "US OPEN TENNIS DETAIL",
+				"assignment_date": "8/17/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "19624",
@@ -33812,7 +33839,7 @@
 				}
 			]
 		},
-		"command": "060 PRECINCT"
+		"command": "US OPEN TENNIS DETAIL"
 	},
 	{
 		"taxid": 899219,
@@ -36643,8 +36670,21 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 7,
+				"misdemeanor": 43,
+				"violation": 2
+			},
+			"awards": [
+				{
+					"date": "1/29/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/13/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "BROOKLYN COURT SECTION"
 	},
@@ -38049,7 +38089,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 44,
+				"misdemeanor": 45,
 				"violation": 1
 			},
 			"awards": []
@@ -44327,7 +44367,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 110,
+				"misdemeanor": 111,
 				"violation": 3
 			},
 			"awards": []
@@ -44551,7 +44591,7 @@
 		"arrest_count": 51,
 		"reports": {
 			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
 				"assignment_date": "7/10/2025",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
@@ -44576,7 +44616,7 @@
 			},
 			"awards": []
 		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 984316,
@@ -44958,8 +44998,8 @@
 		"arrest_count": 145,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "9/1/2026",
+				"command": "034 PRECINCT",
+				"assignment_date": "9/14/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -45007,7 +45047,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "034 PRECINCT"
 	},
 	{
 		"taxid": 968415,
@@ -51691,7 +51731,9 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"misdemeanor": 9
+			},
 			"awards": []
 		},
 		"command": "043 PCT FIELD TRAINING UNIT"
@@ -52099,8 +52141,8 @@
 		"arrest_count": 25,
 		"reports": {
 			"summary": {
-				"command": "US OPEN TENNIS DETAIL",
-				"assignment_date": "8/17/2026",
+				"command": "066 PRECINCT",
+				"assignment_date": "9/16/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "26146",
@@ -52122,7 +52164,7 @@
 			},
 			"awards": []
 		},
-		"command": "US OPEN TENNIS DETAIL"
+		"command": "066 PRECINCT"
 	},
 	{
 		"taxid": 978503,
@@ -58620,7 +58662,11 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"felony": 17,
+				"misdemeanor": 103,
+				"violation": 1
+			},
 			"awards": [
 				{
 					"date": "1/15/2025",
@@ -61859,7 +61905,20 @@
 				"misdemeanor": 27,
 				"violation": 3
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "2/25/2026",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/19/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/5/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "GRAND LARCENY UNIT"
 	},
@@ -62391,8 +62450,8 @@
 		"arrest_count": 4,
 		"reports": {
 			"summary": {
-				"command": "PSA 7 FIELD TRAINING UNIT",
-				"assignment_date": "6/29/2026",
+				"command": "DET BORO BRONX NORTH",
+				"assignment_date": "9/14/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "23802",
@@ -62414,7 +62473,7 @@
 			},
 			"awards": []
 		},
-		"command": "PSA 7 FIELD TRAINING UNIT"
+		"command": "DET BORO BRONX NORTH"
 	},
 	{
 		"taxid": 967879,
@@ -63228,7 +63287,13 @@
 					"shield_no": "2895"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "11/9/2018",
+					"url": "https://nypdonline.org/files/945395_11092018_2018014.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [
 				{
 					"entry": "11/14/2016 12:00:00 AM",
@@ -63886,7 +63951,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 32,
-				"misdemeanor": 47
+				"misdemeanor": 48
 			},
 			"awards": []
 		},
@@ -70495,8 +70560,19 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 1
+			},
+			"awards": [
+				{
+					"date": "5/11/1990",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/13/1989",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "FIREARMS & TACTICS SECTION"
 	},
@@ -73639,8 +73715,37 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 17,
+				"misdemeanor": 69,
+				"violation": 70
+			},
+			"awards": [
+				{
+					"date": "10/27/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/7/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/29/2021",
+					"name": "EXCEPTIONAL MERIT"
+				},
+				{
+					"date": "5/8/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/29/2020",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "8/2/2018",
+					"name": "COMMENDATION"
+				}
+			]
 		},
 		"command": "BOMB SQUAD"
 	},
