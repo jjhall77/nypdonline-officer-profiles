@@ -25720,7 +25720,48 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
-			"awards": []
+			"awards": [
+				{
+					"date": "6/14/2001",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/28/1997",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "12/19/1996",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/3/1996",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "5/29/1996",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/29/1996",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/21/1996",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "10/18/1995",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/30/1995",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/3/1995",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "PATROL BORO QUEENS SOUTH"
 	},
@@ -28115,7 +28156,10 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"felony": 108,
+				"misdemeanor": 89
+			},
 			"awards": [
 				{
 					"date": "1/6/2022",
@@ -51716,7 +51760,11 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"felony": 4,
+				"misdemeanor": 21,
+				"violation": 8
+			},
 			"awards": []
 		},
 		"command": "EXTENDED LEAVE SERVICES GROUP"
@@ -57687,7 +57735,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 118,
+				"felony": 119,
 				"misdemeanor": 33
 			},
 			"awards": [
@@ -59100,7 +59148,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 27,
-				"misdemeanor": 27
+				"misdemeanor": 29
 			},
 			"awards": []
 		},
@@ -69347,8 +69395,21 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 66,
+				"misdemeanor": 259,
+				"violation": 11
+			},
+			"awards": [
+				{
+					"date": "11/28/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/17/2021",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "TRANSIT DISTRICT 11"
 	},
@@ -69636,7 +69697,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 78,
-				"misdemeanor": 117
+				"misdemeanor": 118
 			},
 			"awards": [
 				{
@@ -70353,8 +70414,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 14,
-				"misdemeanor": 48
+				"felony": 15,
+				"misdemeanor": 49
 			},
 			"awards": [
 				{
@@ -70862,7 +70923,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 4
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -80678,7 +80739,10 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"felony": 6,
+				"misdemeanor": 2
+			},
 			"awards": []
 		},
 		"command": "HOUSING PSA 3"
@@ -89152,7 +89216,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 37,
-				"misdemeanor": 164,
+				"misdemeanor": 167,
 				"violation": 65
 			},
 			"awards": [
@@ -91822,7 +91886,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 104,
+				"felony": 105,
 				"misdemeanor": 143,
 				"other": 1
 			},
@@ -112706,7 +112770,13 @@
 					"shield_no": "527"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "12/19/2016",
+					"url": "https://nypdonline.org/files/956219_12192016_2016123.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -114432,7 +114502,9 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"misdemeanor": 4
+			},
 			"awards": []
 		},
 		"command": "046 PCT FIELD TRAINING UNIT"
@@ -136101,8 +136173,8 @@
 		"arrest_count": 6,
 		"reports": {
 			"summary": {
-				"command": "DRIVER EDUCATION & TRAINING UNIT",
-				"assignment_date": "9/21/2026",
+				"command": "TRN BUR CMD LVL TRAINING UNIT",
+				"assignment_date": "4/24/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3790",
@@ -136134,7 +136206,7 @@
 			},
 			"awards": []
 		},
-		"command": "DRIVER EDUCATION & TRAINING UNIT"
+		"command": "TRN BUR CMD LVL TRAINING UNIT"
 	},
 	{
 		"taxid": 920789,

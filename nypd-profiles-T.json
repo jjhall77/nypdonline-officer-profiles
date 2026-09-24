@@ -15728,8 +15728,8 @@
 		"arrest_count": 42,
 		"reports": {
 			"summary": {
-				"command": "PERFORMANCE ANALYSIS UNIT",
-				"assignment_date": "9/16/2026",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "8/31/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "SERGEANT",
 				"shield_no": "4060",
@@ -15770,7 +15770,7 @@
 				}
 			]
 		},
-		"command": "PERFORMANCE ANALYSIS UNIT"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 943867,
@@ -18237,7 +18237,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 150,
+				"felony": 151,
 				"misdemeanor": 79,
 				"violation": 1
 			},
@@ -35757,7 +35757,7 @@
 		"arrest_count": 11,
 		"reports": {
 			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
 				"assignment_date": "2/19/2025",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
@@ -35780,7 +35780,7 @@
 			},
 			"awards": []
 		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 970260,
@@ -44105,7 +44105,7 @@
 		"arrest_count": 5,
 		"reports": {
 			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
 				"assignment_date": "8/10/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
@@ -44128,7 +44128,7 @@
 			},
 			"awards": []
 		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 976884,
@@ -48495,7 +48495,7 @@
 		"arrest_count": 34,
 		"reports": {
 			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
 				"assignment_date": "6/1/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
@@ -48518,7 +48518,7 @@
 			},
 			"awards": []
 		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 981935,

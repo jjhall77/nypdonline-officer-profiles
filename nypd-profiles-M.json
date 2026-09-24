@@ -1613,8 +1613,32 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 12,
+				"misdemeanor": 18
+			},
+			"awards": [
+				{
+					"date": "6/7/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/23/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "11/25/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/24/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/24/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "PA SITE & SECURITY UNIT"
 	},
@@ -12709,7 +12733,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -41161,22 +41185,13 @@
 		"recognition_count": 3,
 		"arrest_count": 74,
 		"reports": {
-			"summary": {
-				"command": "049 PRECINCT",
-				"assignment_date": "10/9/2017",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "15986",
-				"appt_date": "7/13/2016"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "049 PRECINCT"
+		}
 	},
 	{
 		"taxid": 975639,
@@ -42186,8 +42201,8 @@
 		"arrest_count": 95,
 		"reports": {
 			"summary": {
-				"command": "026 PRECINCT",
-				"assignment_date": "9/18/2026",
+				"command": "STRATEGIC RESP GRP 2 BRONX",
+				"assignment_date": "9/10/2025",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "6594",
@@ -42218,7 +42233,7 @@
 				}
 			]
 		},
-		"command": "026 PRECINCT"
+		"command": "STRATEGIC RESP GRP 2 BRONX"
 	},
 	{
 		"taxid": 945235,
@@ -110911,7 +110926,15 @@
 			},
 			"awards": [
 				{
+					"date": "1/5/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "6/19/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/2/2024",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -122790,7 +122813,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 5
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -153623,7 +153646,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 112,
+				"felony": 113,
 				"misdemeanor": 40
 			},
 			"awards": [

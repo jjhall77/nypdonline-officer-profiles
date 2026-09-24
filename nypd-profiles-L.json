@@ -15469,7 +15469,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 17
+				"misdemeanor": 18
 			},
 			"awards": []
 		},
@@ -21143,7 +21143,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -22155,7 +22155,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 7,
+				"misdemeanor": 8,
 				"other": 2
 			},
 			"awards": []
@@ -57795,8 +57795,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 179,
-				"misdemeanor": 215,
+				"felony": 180,
+				"misdemeanor": 216,
 				"violation": 12
 			},
 			"awards": [
@@ -66418,7 +66418,7 @@
 			"arrests": {
 				"infraction": 4,
 				"felony": 199,
-				"misdemeanor": 190,
+				"misdemeanor": 191,
 				"violation": 1
 			},
 			"awards": [
@@ -74678,7 +74678,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 170,
-				"misdemeanor": 212,
+				"misdemeanor": 213,
 				"violation": 1
 			},
 			"awards": []
@@ -82471,8 +82471,8 @@
 		"arrest_count": 48,
 		"reports": {
 			"summary": {
-				"command": "IN-SERVICE TRAINING SECTION",
-				"assignment_date": "9/16/2026",
+				"command": "105 PRECINCT",
+				"assignment_date": "9/22/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "15145",
@@ -82503,7 +82503,7 @@
 				}
 			]
 		},
-		"command": "IN-SERVICE TRAINING SECTION"
+		"command": "105 PRECINCT"
 	},
 	{
 		"taxid": 950779,
@@ -91525,7 +91525,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 18
+				"misdemeanor": 19
 			},
 			"awards": []
 		},

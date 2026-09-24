@@ -11623,7 +11623,7 @@
 		"arrest_count": 42,
 		"reports": {
 			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
 				"assignment_date": "1/21/2025",
 				"ethnicity": "ASIAN",
 				"rank_desc": "SERGEANT",
@@ -11662,7 +11662,7 @@
 				}
 			]
 		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 978306,
@@ -14313,7 +14313,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 7
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -17208,7 +17208,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 255,
-				"misdemeanor": 204,
+				"misdemeanor": 205,
 				"violation": 20
 			},
 			"awards": [
@@ -18311,7 +18311,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 50,
+				"felony": 51,
 				"misdemeanor": 89
 			},
 			"awards": []

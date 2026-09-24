@@ -79,7 +79,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 21
+				"misdemeanor": 25
 			},
 			"awards": []
 		},
@@ -6981,8 +6981,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 30,
-				"misdemeanor": 72
+				"felony": 15,
+				"misdemeanor": 36
 			},
 			"awards": [
 				{
@@ -8164,7 +8164,7 @@
 		"shield_no": "9994",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 2,
+		"arrest_count": 3,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -9562,7 +9562,7 @@
 		"shield_no": "10327",
 		"appt_date": "7/2/2018",
 		"recognition_count": 3,
-		"arrest_count": 195,
+		"arrest_count": 196,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 32",
@@ -16725,8 +16725,8 @@
 		"arrest_count": 35,
 		"reports": {
 			"summary": {
-				"command": "075 PRECINCT",
-				"assignment_date": "9/14/2026",
+				"command": "INTERNAL AFFAIRS BUREAU",
+				"assignment_date": "9/21/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "777",
@@ -16784,7 +16784,7 @@
 				}
 			]
 		},
-		"command": "075 PRECINCT"
+		"command": "INTERNAL AFFAIRS BUREAU"
 	},
 	{
 		"taxid": 951861,
@@ -18804,8 +18804,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 139,
-				"misdemeanor": 52,
+				"felony": 140,
+				"misdemeanor": 53,
 				"violation": 7
 			},
 			"awards": [
@@ -20472,7 +20472,7 @@
 		"shield_no": "9342",
 		"appt_date": "1/6/2016",
 		"recognition_count": 5,
-		"arrest_count": 52,
+		"arrest_count": 53,
 		"reports": {
 			"summary": {
 				"command": "BRONX CHILD ABUSE SQUAD",
@@ -22322,7 +22322,7 @@
 		"shield_no": "131",
 		"appt_date": "7/8/2015",
 		"recognition_count": 15,
-		"arrest_count": 192,
+		"arrest_count": 193,
 		"reports": {
 			"summary": {
 				"command": "BRONX TRANSIT CRIMES SQUAD",
@@ -22571,7 +22571,7 @@
 		"rank": "SERGEANT",
 		"shield_no": "4997",
 		"appt_date": "7/5/2017",
-		"recognition_count": 4,
+		"recognition_count": 5,
 		"arrest_count": 150,
 		"reports": {
 			"summary": {
@@ -25278,7 +25278,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 66,
+				"felony": 67,
 				"misdemeanor": 22,
 				"violation": 3
 			},
@@ -27636,7 +27636,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 17
+				"misdemeanor": 18
 			},
 			"awards": []
 		},
@@ -27886,7 +27886,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -27902,7 +27902,7 @@
 		"shield_no": "15667",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 3,
+		"arrest_count": 4,
 		"reports": {
 			"summary": {
 				"command": "048 PRECINCT",
@@ -28235,7 +28235,7 @@
 		"shield_no": "27509",
 		"appt_date": "2/12/2025",
 		"recognition_count": 0,
-		"arrest_count": 18,
+		"arrest_count": 19,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 4",
@@ -31791,7 +31791,7 @@
 		"shield_no": "21431",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 19,
+		"arrest_count": 20,
 		"reports": {
 			"summary": {
 				"command": "PSA 2 FIELD TRAINING UNIT",
@@ -31830,7 +31830,7 @@
 		"shield_no": "20655",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 1,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "046 PRECINCT",
@@ -32490,7 +32490,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 19
+				"misdemeanor": 22
 			},
 			"awards": []
 		},
@@ -38408,6 +38408,60 @@
 			"awards": []
 		},
 		"command": "EXTENDED LEAVE SERVICES GROUP"
+	},
+	{
+		"taxid": 947132,
+		"full_name": "KIM, ROY",
+		"first_name": "ROY",
+		"last_name": "KIM",
+		"middle_initial": "",
+		"rank": "CAPTAIN",
+		"shield_no": "",
+		"appt_date": "7/8/2008",
+		"recognition_count": 0,
+		"arrest_count": 34,
+		"reports": {
+			"summary": {
+				"command": "MANAGEMENT ANALYSIS SECTION",
+				"assignment_date": "1/5/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "CAPTAIN",
+				"shield_no": "",
+				"appt_date": "7/8/2008"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/8/2008",
+					"shield_no": "15743"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "1/28/2016",
+					"shield_no": "3159"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "3/18/2021",
+					"shield_no": ""
+				},
+				{
+					"rank": "CAPTAIN",
+					"date": "1/31/2025",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 30,
+				"violation": 2
+			},
+			"awards": []
+		},
+		"command": "MANAGEMENT ANALYSIS SECTION"
 	},
 	{
 		"taxid": 956799,
@@ -47766,7 +47820,7 @@
 		"shield_no": "20394",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 16,
+		"arrest_count": 17,
 		"reports": {
 			"summary": {
 				"command": "069 PCT FIELD TRAINING UNIT",
@@ -50342,7 +50396,7 @@
 		"shield_no": "25775",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 27,
+		"arrest_count": 29,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -60179,7 +60233,7 @@
 		"shield_no": "7062",
 		"appt_date": "12/29/2020",
 		"recognition_count": 11,
-		"arrest_count": 117,
+		"arrest_count": 118,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 1",
@@ -61998,7 +62052,7 @@
 		"shield_no": "1770",
 		"appt_date": "1/6/2016",
 		"recognition_count": 18,
-		"arrest_count": 345,
+		"arrest_count": 346,
 		"reports": {
 			"summary": {
 				"command": "109TH DET SQUAD",
@@ -62619,7 +62673,7 @@
 		"shield_no": "21334",
 		"appt_date": "1/10/2018",
 		"recognition_count": 16,
-		"arrest_count": 179,
+		"arrest_count": 180,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -65155,7 +65209,7 @@
 		"shield_no": "9475",
 		"appt_date": "12/29/2020",
 		"recognition_count": 4,
-		"arrest_count": 123,
+		"arrest_count": 126,
 		"reports": {
 			"summary": {
 				"command": "PBQN NEIGHBORHOOD SAFETY TEAMS",

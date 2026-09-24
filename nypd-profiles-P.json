@@ -31672,8 +31672,8 @@
 		"arrest_count": 16,
 		"reports": {
 			"summary": {
-				"command": "MEDICAL DIVISION",
-				"assignment_date": "9/18/2026",
+				"command": "HOUSING PSA 1",
+				"assignment_date": "2/14/2017",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "14796",
@@ -31701,7 +31701,7 @@
 				}
 			]
 		},
-		"command": "MEDICAL DIVISION"
+		"command": "HOUSING PSA 1"
 	},
 	{
 		"taxid": 951025,
@@ -70636,8 +70636,25 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 4,
+				"misdemeanor": 90,
+				"violation": 3
+			},
+			"awards": [
+				{
+					"date": "2/16/2017",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/19/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/18/2015",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "TRANSIT DISTRICT 34"
 	},
@@ -77672,7 +77689,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 107,
-				"misdemeanor": 65,
+				"misdemeanor": 69,
 				"violation": 2
 			},
 			"awards": [
