@@ -717,7 +717,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 41
+				"misdemeanor": 42
 			},
 			"awards": []
 		},
@@ -5809,8 +5809,8 @@
 		"arrest_count": 39,
 		"reports": {
 			"summary": {
-				"command": "DB DOMESTIC VIOLENCE UNIT",
-				"assignment_date": "8/24/2026",
+				"command": "PBQN CITI FIELD DETAIL",
+				"assignment_date": "9/21/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "11135",
@@ -5832,7 +5832,7 @@
 			},
 			"awards": []
 		},
-		"command": "DB DOMESTIC VIOLENCE UNIT"
+		"command": "PBQN CITI FIELD DETAIL"
 	},
 	{
 		"taxid": 953758,
@@ -16448,7 +16448,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 4
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -18271,13 +18271,7 @@
 				"shield_no": "20914",
 				"appt_date": "4/22/2026"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "4/22/2026",
-					"shield_no": "20914"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -19571,7 +19565,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 184,
+				"felony": 188,
 				"misdemeanor": 116,
 				"violation": 1
 			},
@@ -26392,8 +26386,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 184,
-				"misdemeanor": 109,
+				"felony": 186,
+				"misdemeanor": 110,
 				"violation": 1
 			},
 			"awards": [
@@ -27322,7 +27316,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 31,
+				"felony": 32,
 				"misdemeanor": 50,
 				"other": 2,
 				"violation": 3
@@ -29124,7 +29118,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 77,
-				"misdemeanor": 60
+				"misdemeanor": 61
 			},
 			"awards": [
 				{
@@ -33688,7 +33682,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 71,
+				"misdemeanor": 73,
 				"violation": 4
 			},
 			"awards": [
@@ -35128,7 +35122,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 69,
+				"felony": 70,
 				"misdemeanor": 66,
 				"other": 1,
 				"violation": 12
@@ -35871,7 +35865,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 23
+				"misdemeanor": 25
 			},
 			"awards": [
 				{
@@ -51627,7 +51621,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 3,
-				"misdemeanor": 22
+				"misdemeanor": 23
 			},
 			"awards": []
 		},

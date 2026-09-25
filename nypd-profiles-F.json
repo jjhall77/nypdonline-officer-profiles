@@ -8156,7 +8156,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 4
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -8257,7 +8257,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 25,
-				"misdemeanor": 50
+				"misdemeanor": 51
 			},
 			"awards": [
 				{
@@ -11023,7 +11023,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 10,
+				"felony": 14,
 				"misdemeanor": 31
 			},
 			"awards": []
@@ -12851,7 +12851,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 125,
-				"misdemeanor": 137
+				"misdemeanor": 138
 			},
 			"awards": [
 				{
@@ -12936,8 +12936,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 17,
-				"misdemeanor": 24,
+				"felony": 18,
+				"misdemeanor": 26,
 				"violation": 1
 			},
 			"awards": []
@@ -14872,7 +14872,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 26,
-				"misdemeanor": 65,
+				"misdemeanor": 67,
 				"violation": 4
 			},
 			"awards": [
@@ -24164,7 +24164,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 16,
-				"misdemeanor": 43,
+				"misdemeanor": 44,
 				"violation": 1
 			},
 			"awards": []
@@ -24863,7 +24863,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 37,
+				"felony": 38,
 				"misdemeanor": 33
 			},
 			"awards": []
@@ -27325,7 +27325,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 66,
-				"misdemeanor": 122,
+				"misdemeanor": 125,
 				"violation": 7
 			},
 			"awards": [
@@ -40374,7 +40374,7 @@
 				}
 			],
 			"arrests": {
-				"felony": 116,
+				"felony": 117,
 				"misdemeanor": 121,
 				"violation": 2
 			},
@@ -40471,7 +40471,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 31,
+				"felony": 32,
 				"misdemeanor": 58,
 				"violation": 1
 			},
@@ -41147,7 +41147,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 35,
-				"misdemeanor": 97
+				"misdemeanor": 98
 			},
 			"awards": [
 				{
@@ -41506,7 +41506,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 3,
+				"felony": 4,
 				"misdemeanor": 19
 			},
 			"awards": []
@@ -46380,7 +46380,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 7,
+				"felony": 8,
 				"misdemeanor": 30
 			},
 			"awards": []
@@ -48424,7 +48424,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 65,
+				"felony": 66,
 				"misdemeanor": 48
 			},
 			"awards": [
@@ -53491,7 +53491,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 1,
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -54973,7 +54973,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 173,
+				"felony": 177,
 				"misdemeanor": 194
 			},
 			"awards": [
@@ -62445,8 +62445,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
-				"misdemeanor": 12
+				"felony": 6,
+				"misdemeanor": 14
 			},
 			"awards": []
 		},
@@ -65195,14 +65195,12 @@
 						{
 							"disposition": "GUILTY",
 							"description": "while-on duty, wrongfully failed to notify the radio dispatcher at the beginning, during, or the end of a pursuit.",
-							"group_id": "1",
-							"penalty": "VACATION DAYS (10 day(s) )"
+							"group_id": "1"
 						},
 						{
 							"disposition": "GUILTY",
 							"description": "while on duty, failed to make efforts to stop the Operator of his assigned Department car from engaging in an improper pursuit.",
-							"group_id": "1",
-							"penalty": "VACATION DAYS (10 day(s) )"
+							"group_id": "1"
 						}
 					]
 				}
@@ -69525,7 +69523,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 46,
-				"misdemeanor": 298,
+				"misdemeanor": 299,
 				"violation": 1
 			},
 			"awards": [
@@ -72617,7 +72615,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 28,
+				"felony": 29,
 				"misdemeanor": 107,
 				"violation": 2
 			},
@@ -73703,7 +73701,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 11,
-				"misdemeanor": 33
+				"misdemeanor": 34
 			},
 			"awards": []
 		},
@@ -73928,8 +73926,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 90,
-				"misdemeanor": 40
+				"felony": 91,
+				"misdemeanor": 41
 			},
 			"awards": [
 				{

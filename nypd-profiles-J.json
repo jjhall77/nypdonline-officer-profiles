@@ -1106,8 +1106,7 @@
 						{
 							"disposition": "GUILTY",
 							"description": "while on-duty, improperly utilized her Department-issued smartphone.",
-							"group_id": "1",
-							"penalty": "VACATION DAYS (10 day(s) )"
+							"group_id": "1"
 						}
 					]
 				}
@@ -3062,7 +3061,7 @@
 		"shield_no": "10879",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 12,
+		"arrest_count": 13,
 		"reports": {
 			"summary": {
 				"command": "PSA 3 FIELD TRAINING UNIT",
@@ -3573,7 +3572,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
+				"felony": 2,
 				"misdemeanor": 8,
 				"violation": 1
 			},
@@ -4172,7 +4171,7 @@
 		"shield_no": "23247",
 		"appt_date": "10/11/2016",
 		"recognition_count": 21,
-		"arrest_count": 197,
+		"arrest_count": 198,
 		"reports": {
 			"summary": {
 				"command": "075 PRECINCT",
@@ -7543,7 +7542,7 @@
 		"shield_no": "646",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 12,
+		"arrest_count": 14,
 		"reports": {
 			"summary": {
 				"command": "028 PRECINCT",
@@ -9636,7 +9635,7 @@
 		"shield_no": "3167",
 		"appt_date": "1/6/2016",
 		"recognition_count": 6,
-		"arrest_count": 344,
+		"arrest_count": 346,
 		"reports": {
 			"summary": {
 				"command": "042 DET SQUAD",
@@ -14128,7 +14127,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -15668,7 +15667,7 @@
 		"shield_no": "1504",
 		"appt_date": "7/6/2011",
 		"recognition_count": 23,
-		"arrest_count": 337,
+		"arrest_count": 338,
 		"reports": {
 			"summary": {
 				"command": "043 DET SQUAD",
@@ -16528,7 +16527,7 @@
 		"shield_no": "16225",
 		"appt_date": "4/28/2021",
 		"recognition_count": 5,
-		"arrest_count": 109,
+		"arrest_count": 110,
 		"reports": {
 			"summary": {
 				"command": "114 PRECINCT",
@@ -16727,7 +16726,7 @@
 		"shield_no": "15904",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 21,
+		"arrest_count": 22,
 		"reports": {
 			"summary": {
 				"command": "063 PRECINCT",
@@ -17080,7 +17079,7 @@
 		"arrest_count": 282,
 		"reports": {
 			"summary": {
-				"command": "MILITARY & EXTENDED LEAVE DESK",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
 				"assignment_date": "9/3/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
@@ -17169,7 +17168,7 @@
 				}
 			]
 		},
-		"command": "MILITARY & EXTENDED LEAVE DESK"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 950632,
@@ -19390,7 +19389,7 @@
 		"shield_no": "25651",
 		"appt_date": "10/24/2018",
 		"recognition_count": 13,
-		"arrest_count": 138,
+		"arrest_count": 139,
 		"reports": {
 			"summary": {
 				"command": "101 PRECINCT",
@@ -21665,7 +21664,7 @@
 		"shield_no": "3472",
 		"appt_date": "10/18/2017",
 		"recognition_count": 1,
-		"arrest_count": 40,
+		"arrest_count": 41,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -23079,7 +23078,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 39,
+				"felony": 40,
 				"misdemeanor": 61,
 				"violation": 2
 			},
@@ -24089,7 +24088,7 @@
 		"shield_no": "3141",
 		"appt_date": "4/15/2019",
 		"recognition_count": 0,
-		"arrest_count": 152,
+		"arrest_count": 155,
 		"reports": {
 			"summary": {
 				"command": "104TH DET SQUAD",
@@ -28635,7 +28634,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
+				"felony": 3,
 				"misdemeanor": 33
 			},
 			"awards": []
@@ -29137,7 +29136,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 9
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -29430,7 +29429,7 @@
 		"shield_no": "18442",
 		"appt_date": "7/8/2015",
 		"recognition_count": 0,
-		"arrest_count": 173,
+		"arrest_count": 175,
 		"reports": {
 			"summary": {
 				"command": "044 DOMESTIC VIOLENCE SQUAD",
@@ -30086,7 +30085,7 @@
 		"shield_no": "4618",
 		"appt_date": "10/7/2015",
 		"recognition_count": 11,
-		"arrest_count": 328,
+		"arrest_count": 329,
 		"reports": {
 			"summary": {
 				"command": "045 DET SQUAD",
@@ -33101,7 +33100,7 @@
 		"shield_no": "29084",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 12,
+		"arrest_count": 13,
 		"reports": {
 			"summary": {
 				"command": "067 PCT FIELD TRAINING UNIT",
@@ -33342,7 +33341,7 @@
 		"shield_no": "26235",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 4,
+		"arrest_count": 6,
 		"reports": {
 			"summary": {
 				"command": "084 PRECINCT",
@@ -33636,7 +33635,7 @@
 		"shield_no": "7464",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 1,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "032 PRECINCT",
@@ -34318,7 +34317,7 @@
 		"shield_no": "22338",
 		"appt_date": "5/14/2025",
 		"recognition_count": 0,
-		"arrest_count": 25,
+		"arrest_count": 26,
 		"reports": {
 			"summary": {
 				"command": "081 PCT FIELD TRAINING UNIT",
@@ -36538,8 +36537,8 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 73,
-				"violation": 5
+				"misdemeanor": 77,
+				"violation": 6
 			},
 			"awards": []
 		},
@@ -37930,7 +37929,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 18
+				"misdemeanor": 19
 			},
 			"awards": []
 		},
@@ -38218,7 +38217,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 19,
+				"felony": 20,
 				"misdemeanor": 29,
 				"violation": 1
 			},
@@ -39452,7 +39451,7 @@
 		"shield_no": "5315",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 11,
+		"arrest_count": 12,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -39795,7 +39794,7 @@
 		"shield_no": "16162",
 		"appt_date": "11/2/2020",
 		"recognition_count": 2,
-		"arrest_count": 36,
+		"arrest_count": 37,
 		"reports": {
 			"summary": {
 				"command": "094 PRECINCT",
@@ -40362,7 +40361,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 54,
-				"misdemeanor": 84,
+				"misdemeanor": 85,
 				"violation": 2
 			},
 			"awards": [
@@ -42121,7 +42120,7 @@
 		"arrest_count": 66,
 		"reports": {
 			"summary": {
-				"command": "PERSONNEL ORDERS DIVISION",
+				"command": "WORKFORCE MANAGEMENT & RECORDS SECTION",
 				"assignment_date": "6/1/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "SERGEANT",
@@ -42160,7 +42159,7 @@
 				}
 			]
 		},
-		"command": "PERSONNEL ORDERS DIVISION"
+		"command": "WORKFORCE MANAGEMENT & RECORDS SECTION"
 	},
 	{
 		"taxid": 974227,
@@ -43899,7 +43898,7 @@
 		"shield_no": "7206",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 4,
+		"arrest_count": 5,
 		"reports": {
 			"summary": {
 				"command": "084 PRECINCT",
@@ -45953,7 +45952,7 @@
 		"shield_no": "7612",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 2,
+		"arrest_count": 3,
 		"reports": {
 			"summary": {
 				"command": "084 PRECINCT",
