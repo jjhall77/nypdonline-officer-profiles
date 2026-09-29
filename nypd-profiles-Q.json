@@ -278,7 +278,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 22,
+				"felony": 23,
 				"misdemeanor": 32
 			},
 			"awards": []
@@ -1564,7 +1564,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
+				"felony": 2,
 				"misdemeanor": 8
 			},
 			"awards": []
@@ -2165,7 +2165,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 24,
+				"felony": 27,
 				"misdemeanor": 50
 			},
 			"awards": []
@@ -2689,7 +2689,7 @@
 		"shield_no": "7898",
 		"appt_date": "1/17/2023",
 		"recognition_count": 0,
-		"arrest_count": 24,
+		"arrest_count": 26,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 8",

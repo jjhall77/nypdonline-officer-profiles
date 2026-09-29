@@ -5597,7 +5597,7 @@
 		"shield_no": "28864",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 27,
+		"arrest_count": 28,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -5623,7 +5623,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 8,
+				"felony": 9,
 				"misdemeanor": 19
 			},
 			"awards": []
@@ -5694,7 +5694,7 @@
 		"shield_no": "6833",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 6,
+		"arrest_count": 7,
 		"reports": {
 			"summary": {
 				"command": "046 PRECINCT",
@@ -5715,7 +5715,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
+				"felony": 3,
 				"misdemeanor": 4
 			},
 			"awards": []
@@ -7071,7 +7071,7 @@
 		"shield_no": "17119",
 		"appt_date": "1/9/2012",
 		"recognition_count": 0,
-		"arrest_count": 77,
+		"arrest_count": 78,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
@@ -7093,7 +7093,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 8,
-				"misdemeanor": 64,
+				"misdemeanor": 65,
 				"violation": 5
 			},
 			"awards": []
@@ -7522,7 +7522,7 @@
 		"shield_no": "18066",
 		"appt_date": "7/13/2022",
 		"recognition_count": 3,
-		"arrest_count": 105,
+		"arrest_count": 106,
 		"reports": {
 			"summary": {
 				"command": "PBQN COMMUNITY RESPONSE TEAM",
@@ -8037,7 +8037,7 @@
 		"shield_no": "17130",
 		"appt_date": "4/28/2021",
 		"recognition_count": 9,
-		"arrest_count": 127,
+		"arrest_count": 128,
 		"reports": {
 			"summary": {
 				"command": "019 PRECINCT",
@@ -8797,7 +8797,7 @@
 		"shield_no": "4408",
 		"appt_date": "7/8/2008",
 		"recognition_count": 14,
-		"arrest_count": 516,
+		"arrest_count": 520,
 		"reports": {
 			"summary": {
 				"command": "SVU CITYWIDE HUMAN TRAFFICKING SQUAD",
@@ -8824,7 +8824,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 176,
-				"misdemeanor": 335,
+				"misdemeanor": 339,
 				"other": 2,
 				"violation": 3
 			},
@@ -9401,7 +9401,7 @@
 		"shield_no": "2067",
 		"appt_date": "12/29/2020",
 		"recognition_count": 15,
-		"arrest_count": 137,
+		"arrest_count": 138,
 		"reports": {
 			"summary": {
 				"command": "069 PRECINCT",
@@ -9774,7 +9774,7 @@
 		"first_name": "AMADEO",
 		"last_name": "OKTROVA",
 		"middle_initial": "",
-		"rank": "CAPTAIN",
+		"rank": "DEPUTY INSPECTOR",
 		"shield_no": "",
 		"appt_date": "7/6/2010",
 		"recognition_count": 199,
@@ -9807,6 +9807,11 @@
 				{
 					"rank": "CAPTAIN",
 					"date": "7/28/2023",
+					"shield_no": ""
+				},
+				{
+					"rank": "DEPUTY INSPECTOR",
+					"date": "9/28/2026",
 					"shield_no": ""
 				}
 			],
@@ -11273,7 +11278,7 @@
 		"shield_no": "14556",
 		"appt_date": "4/13/2022",
 		"recognition_count": 1,
-		"arrest_count": 98,
+		"arrest_count": 99,
 		"reports": {
 			"summary": {
 				"command": "047 PRECINCT",
@@ -11294,7 +11299,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 37,
+				"felony": 38,
 				"misdemeanor": 58,
 				"other": 1,
 				"violation": 2
@@ -12088,7 +12093,7 @@
 		"shield_no": "3336",
 		"appt_date": "7/6/2011",
 		"recognition_count": 9,
-		"arrest_count": 233,
+		"arrest_count": 235,
 		"reports": {
 			"summary": {
 				"command": "TB ANTI TERRORISM UNIT",
@@ -12110,7 +12115,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 149,
+				"misdemeanor": 151,
 				"violation": 72
 			},
 			"awards": [
@@ -16097,7 +16102,7 @@
 		"shield_no": "21587",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 2,
+		"arrest_count": 4,
 		"reports": {
 			"summary": {
 				"command": "023 PRECINCT",
@@ -16119,7 +16124,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 1
+				"misdemeanor": 3
 			},
 			"awards": []
 		},
@@ -17209,8 +17214,8 @@
 		"arrest_count": 257,
 		"reports": {
 			"summary": {
-				"command": "DA SQUAD BRONX",
-				"assignment_date": "7/26/2024",
+				"command": "DET BORO BRONX SOUTH",
+				"assignment_date": "9/28/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "7186",
@@ -17252,7 +17257,7 @@
 				}
 			]
 		},
-		"command": "DA SQUAD BRONX"
+		"command": "DET BORO BRONX SOUTH"
 	},
 	{
 		"taxid": 970042,
@@ -24151,7 +24156,7 @@
 		"shield_no": "5509",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 2,
+		"arrest_count": 4,
 		"reports": {
 			"summary": {
 				"command": "023 PRECINCT",
@@ -24172,7 +24177,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 2
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -29432,7 +29437,7 @@
 		"shield_no": "6073",
 		"appt_date": "7/11/2012",
 		"recognition_count": 4,
-		"arrest_count": 506,
+		"arrest_count": 507,
 		"reports": {
 			"summary": {
 				"command": "052 DET SQUAD",
@@ -30378,7 +30383,7 @@
 		"shield_no": "5636",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 2,
+		"arrest_count": 3,
 		"reports": {
 			"summary": {
 				"command": "101 PRECINCT",
@@ -30400,7 +30405,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 1
+				"misdemeanor": 2
 			},
 			"awards": []
 		},
@@ -31698,17 +31703,17 @@
 		"first_name": "FERRY",
 		"last_name": "OSCAR",
 		"middle_initial": "",
-		"rank": "POLICE OFFICER",
+		"rank": "SERGEANT",
 		"shield_no": "13025",
 		"appt_date": "7/2/2018",
 		"recognition_count": 10,
 		"arrest_count": 123,
 		"reports": {
 			"summary": {
-				"command": "110 PRECINCT",
-				"assignment_date": "10/7/2019",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "9/28/2026",
 				"ethnicity": "BLACK",
-				"rank_desc": "POLICE OFFICER",
+				"rank_desc": "SERGEANT",
 				"shield_no": "13025",
 				"appt_date": "7/2/2018"
 			},
@@ -31717,6 +31722,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "7/2/2018",
 					"shield_no": "13025"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "9/28/2026",
+					"shield_no": "1636"
 				}
 			],
 			"documents": [],
@@ -31771,7 +31781,7 @@
 				}
 			]
 		},
-		"command": "110 PRECINCT"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 953208,
@@ -32113,7 +32123,7 @@
 		"shield_no": "17016",
 		"appt_date": "7/5/2017",
 		"recognition_count": 9,
-		"arrest_count": 228,
+		"arrest_count": 229,
 		"reports": {
 			"summary": {
 				"command": "033 PRECINCT",
@@ -32134,7 +32144,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 91,
+				"felony": 92,
 				"misdemeanor": 137
 			},
 			"awards": [
@@ -35707,7 +35717,7 @@
 		"shield_no": "3259",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 20,
+		"arrest_count": 21,
 		"reports": {
 			"summary": {
 				"command": "PSA 2 FIELD TRAINING UNIT",
@@ -35729,7 +35739,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 14
+				"misdemeanor": 15
 			},
 			"awards": []
 		},

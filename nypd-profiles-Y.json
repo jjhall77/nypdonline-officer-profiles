@@ -3979,7 +3979,7 @@
 		"shield_no": "7933",
 		"appt_date": "1/9/2013",
 		"recognition_count": 1,
-		"arrest_count": 231,
+		"arrest_count": 232,
 		"reports": {
 			"summary": {
 				"command": "BRONX TRANSIT CRIMES SQUAD",
@@ -4049,8 +4049,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
-				"misdemeanor": 4
+				"felony": 2,
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -4211,7 +4211,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -4428,7 +4428,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 2
+				"misdemeanor": 3
 			},
 			"awards": []
 		},
@@ -6594,7 +6594,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 3
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -8868,7 +8868,7 @@
 		"last_name": "YOUNG",
 		"middle_initial": "H",
 		"rank": "SERGEANT",
-		"shield_no": "3875",
+		"shield_no": "4627",
 		"appt_date": "7/9/2014",
 		"recognition_count": 1,
 		"arrest_count": 71,
@@ -8878,7 +8878,7 @@
 				"assignment_date": "9/9/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "SERGEANT",
-				"shield_no": "3875",
+				"shield_no": "4627",
 				"appt_date": "7/9/2014"
 			},
 			"ranks": [
