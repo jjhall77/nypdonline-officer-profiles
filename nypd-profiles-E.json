@@ -181,10 +181,10 @@
 		"arrest_count": 116,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "9/28/2026",
+				"command": "INTEL CIS FIO PROGRAM",
+				"assignment_date": "3/24/2023",
 				"ethnicity": "BLACK",
-				"rank_desc": "LIEUTENANT",
+				"rank_desc": "SERGEANT",
 				"shield_no": "4118",
 				"appt_date": "7/6/2010"
 			},
@@ -348,7 +348,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "INTEL CIS FIO PROGRAM"
 	},
 	{
 		"taxid": 958539,
@@ -32225,8 +32225,8 @@
 		"arrest_count": 139,
 		"reports": {
 			"summary": {
-				"command": "PATROL BORO QUEENS NORTH",
-				"assignment_date": "8/25/2026",
+				"command": "104 PRECINCT",
+				"assignment_date": "9/28/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "CAPTAIN",
 				"shield_no": "",
@@ -32314,7 +32314,7 @@
 				}
 			]
 		},
-		"command": "PATROL BORO QUEENS NORTH"
+		"command": "104 PRECINCT"
 	},
 	{
 		"taxid": 972629,

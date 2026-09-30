@@ -45711,7 +45711,10 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"felony": 6,
+				"misdemeanor": 26
+			},
 			"awards": []
 		},
 		"command": "EXTENDED LEAVE SERVICES GROUP"
@@ -51870,7 +51873,7 @@
 				"command": "FLEET SERVICES DIVISION",
 				"assignment_date": "3/26/2025",
 				"ethnicity": "ASIAN",
-				"rank_desc": "POLICE OFFICER",
+				"rank_desc": "DETECTIVE SPECIALIST",
 				"shield_no": "8895",
 				"appt_date": "1/6/2016"
 			},

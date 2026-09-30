@@ -19611,7 +19611,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 32,
-				"misdemeanor": 57
+				"misdemeanor": 58
 			},
 			"awards": []
 		},
@@ -25274,7 +25274,7 @@
 				"command": "EXECUTIVE PROTECTION UNIT",
 				"assignment_date": "12/15/2025",
 				"ethnicity": "WHITE",
-				"rank_desc": "LT DET COMMANDER",
+				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
 				"appt_date": "1/9/2006"
 			},
@@ -51085,7 +51085,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 37
+				"misdemeanor": 39
 			},
 			"awards": []
 		},
@@ -56061,7 +56061,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 186,
+				"misdemeanor": 187,
 				"violation": 7
 			},
 			"awards": []
@@ -58354,8 +58354,8 @@
 		"arrest_count": 42,
 		"reports": {
 			"summary": {
-				"command": "AUTO POUNDS",
-				"assignment_date": "3/23/2026",
+				"command": "063 PRECINCT",
+				"assignment_date": "9/28/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "152",
@@ -58386,7 +58386,7 @@
 				}
 			]
 		},
-		"command": "AUTO POUNDS"
+		"command": "063 PRECINCT"
 	},
 	{
 		"taxid": 948611,
@@ -61921,10 +61921,10 @@
 		"arrest_count": 126,
 		"reports": {
 			"summary": {
-				"command": "114 PRECINCT",
-				"assignment_date": "12/30/2015",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "9/28/2026",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
+				"rank_desc": "SERGEANT",
 				"shield_no": "7307",
 				"appt_date": "7/8/2015"
 			},
@@ -61981,7 +61981,7 @@
 				}
 			]
 		},
-		"command": "114 PRECINCT"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 977466,
@@ -89019,14 +89019,6 @@
 		"recognition_count": 0,
 		"arrest_count": 45,
 		"reports": {
-			"summary": {
-				"command": "005 PRECINCT",
-				"assignment_date": "11/14/2024",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "8591",
-				"appt_date": "4/24/2024"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -92387,7 +92379,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 55,
-				"misdemeanor": 54,
+				"misdemeanor": 55,
 				"violation": 1
 			},
 			"awards": [

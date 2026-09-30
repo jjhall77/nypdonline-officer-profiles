@@ -6881,7 +6881,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 107,
-				"misdemeanor": 96
+				"misdemeanor": 97
 			},
 			"awards": [
 				{
@@ -16412,7 +16412,13 @@
 				"shield_no": "5782",
 				"appt_date": "10/15/2021"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/15/2021",
+					"shield_no": "5782"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -94285,7 +94291,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 81,
+				"felony": 82,
 				"misdemeanor": 88
 			},
 			"awards": [
@@ -95064,8 +95070,7 @@
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "RTS RECRUITS"
+		}
 	},
 	{
 		"taxid": 944904,

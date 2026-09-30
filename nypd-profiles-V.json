@@ -2565,7 +2565,7 @@
 		"shield_no": "23025",
 		"appt_date": "7/5/2017",
 		"recognition_count": 5,
-		"arrest_count": 76,
+		"arrest_count": 77,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 12",
@@ -2844,7 +2844,7 @@
 		"shield_no": "7533",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 1,
+		"arrest_count": 4,
 		"reports": {
 			"summary": {
 				"command": "076 PRECINCT",
@@ -8668,7 +8668,7 @@
 		"shield_no": "25057",
 		"appt_date": "11/2/2020",
 		"recognition_count": 2,
-		"arrest_count": 21,
+		"arrest_count": 23,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 32",
@@ -14454,7 +14454,7 @@
 		"shield_no": "13264",
 		"appt_date": "11/2/2020",
 		"recognition_count": 0,
-		"arrest_count": 52,
+		"arrest_count": 56,
 		"reports": {
 			"summary": {
 				"command": "050 PRECINCT",
@@ -19685,7 +19685,7 @@
 		"first_name": "ROCHAEL",
 		"last_name": "VASQUEZ",
 		"middle_initial": "",
-		"rank": "DETECTIVE 3RD GRADE",
+		"rank": "SERGEANT",
 		"shield_no": "1675",
 		"appt_date": "10/7/2015",
 		"recognition_count": 70,
@@ -20165,7 +20165,7 @@
 		"shield_no": "17222",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 6,
+		"arrest_count": 7,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -25323,7 +25323,7 @@
 		"shield_no": "25780",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 1,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "044 PRECINCT",
@@ -27425,7 +27425,7 @@
 		"shield_no": "15592",
 		"appt_date": "7/2/2018",
 		"recognition_count": 2,
-		"arrest_count": 280,
+		"arrest_count": 282,
 		"reports": {
 			"summary": {
 				"command": "040 DOMESTIC VIOLENCE SQUAD",
@@ -32185,8 +32185,8 @@
 		"arrest_count": 212,
 		"reports": {
 			"summary": {
-				"command": "009 DET SQUAD",
-				"assignment_date": "6/25/2026",
+				"command": "007 DET SQUAD",
+				"assignment_date": "9/23/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3494",
@@ -32420,7 +32420,7 @@
 				}
 			]
 		},
-		"command": "009 DET SQUAD"
+		"command": "007 DET SQUAD"
 	},
 	{
 		"taxid": 946620,
@@ -43084,7 +43084,7 @@
 		"shield_no": "10876",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 8,
+		"arrest_count": 9,
 		"reports": {
 			"summary": {
 				"command": "044 PRECINCT",
@@ -45241,7 +45241,7 @@
 		"shield_no": "800",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 62,
+		"arrest_count": 64,
 		"reports": {
 			"summary": {
 				"command": "040 PRECINCT",
@@ -47330,8 +47330,8 @@
 				}
 			],
 			"arrests": {
-				"felony": 101,
-				"misdemeanor": 99
+				"felony": 102,
+				"misdemeanor": 101
 			},
 			"awards": []
 		},
@@ -47588,7 +47588,7 @@
 		"shield_no": "20826",
 		"appt_date": "7/1/2019",
 		"recognition_count": 0,
-		"arrest_count": 57,
+		"arrest_count": 58,
 		"reports": {
 			"summary": {
 				"command": "061 PRECINCT",
@@ -49057,7 +49057,7 @@
 		"first_name": "JONATHAN",
 		"last_name": "VIRTUOSO",
 		"middle_initial": "",
-		"rank": "SERGEANT",
+		"rank": "LIEUTENANT",
 		"shield_no": "5492",
 		"appt_date": "7/6/2010",
 		"recognition_count": 4,

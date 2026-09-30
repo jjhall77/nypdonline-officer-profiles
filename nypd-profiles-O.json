@@ -5597,7 +5597,7 @@
 		"shield_no": "28864",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 28,
+		"arrest_count": 27,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -5694,7 +5694,7 @@
 		"shield_no": "6833",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 7,
+		"arrest_count": 6,
 		"reports": {
 			"summary": {
 				"command": "046 PRECINCT",
@@ -7071,7 +7071,7 @@
 		"shield_no": "17119",
 		"appt_date": "1/9/2012",
 		"recognition_count": 0,
-		"arrest_count": 78,
+		"arrest_count": 77,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
@@ -8797,7 +8797,7 @@
 		"shield_no": "4408",
 		"appt_date": "7/8/2008",
 		"recognition_count": 14,
-		"arrest_count": 520,
+		"arrest_count": 516,
 		"reports": {
 			"summary": {
 				"command": "SVU CITYWIDE HUMAN TRAFFICKING SQUAD",
@@ -9774,7 +9774,7 @@
 		"first_name": "AMADEO",
 		"last_name": "OKTROVA",
 		"middle_initial": "",
-		"rank": "DEPUTY INSPECTOR",
+		"rank": "CAPTAIN",
 		"shield_no": "",
 		"appt_date": "7/6/2010",
 		"recognition_count": 199,
@@ -11278,7 +11278,7 @@
 		"shield_no": "14556",
 		"appt_date": "4/13/2022",
 		"recognition_count": 1,
-		"arrest_count": 99,
+		"arrest_count": 98,
 		"reports": {
 			"summary": {
 				"command": "047 PRECINCT",
@@ -12093,7 +12093,7 @@
 		"shield_no": "3336",
 		"appt_date": "7/6/2011",
 		"recognition_count": 9,
-		"arrest_count": 235,
+		"arrest_count": 233,
 		"reports": {
 			"summary": {
 				"command": "TB ANTI TERRORISM UNIT",
@@ -16102,7 +16102,7 @@
 		"shield_no": "21587",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 4,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "023 PRECINCT",
@@ -17214,8 +17214,8 @@
 		"arrest_count": 257,
 		"reports": {
 			"summary": {
-				"command": "DET BORO BRONX SOUTH",
-				"assignment_date": "9/28/2026",
+				"command": "DA SQUAD BRONX",
+				"assignment_date": "7/26/2024",
 				"ethnicity": "WHITE",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "7186",
@@ -17257,7 +17257,7 @@
 				}
 			]
 		},
-		"command": "DET BORO BRONX SOUTH"
+		"command": "DA SQUAD BRONX"
 	},
 	{
 		"taxid": 970042,
@@ -18948,6 +18948,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "10/24/2018",
 					"shield_no": "6000"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "9/28/2026",
+					"shield_no": "1509"
 				}
 			],
 			"documents": [],
@@ -24156,7 +24161,7 @@
 		"shield_no": "5509",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 4,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "023 PRECINCT",
@@ -25021,7 +25026,13 @@
 				"shield_no": "9344",
 				"appt_date": "10/30/2024"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/30/2024",
+					"shield_no": "9344"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -30383,7 +30394,7 @@
 		"shield_no": "5636",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 3,
+		"arrest_count": 2,
 		"reports": {
 			"summary": {
 				"command": "101 PRECINCT",
@@ -31703,7 +31714,7 @@
 		"first_name": "FERRY",
 		"last_name": "OSCAR",
 		"middle_initial": "",
-		"rank": "SERGEANT",
+		"rank": "POLICE OFFICER",
 		"shield_no": "13025",
 		"appt_date": "7/2/2018",
 		"recognition_count": 10,
@@ -32123,7 +32134,7 @@
 		"shield_no": "17016",
 		"appt_date": "7/5/2017",
 		"recognition_count": 9,
-		"arrest_count": 229,
+		"arrest_count": 228,
 		"reports": {
 			"summary": {
 				"command": "033 PRECINCT",
@@ -35717,7 +35728,7 @@
 		"shield_no": "3259",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 21,
+		"arrest_count": 20,
 		"reports": {
 			"summary": {
 				"command": "PSA 2 FIELD TRAINING UNIT",

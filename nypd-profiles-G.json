@@ -3043,22 +3043,13 @@
 		"recognition_count": 0,
 		"arrest_count": 7,
 		"reports": {
-			"summary": {
-				"command": "094 PRECINCT",
-				"assignment_date": "8/10/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "10574",
-				"appt_date": "7/3/2024"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "094 PRECINCT"
+		}
 	},
 	{
 		"taxid": 966582,
@@ -27407,7 +27398,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 227,
+				"felony": 228,
 				"misdemeanor": 145
 			},
 			"awards": [
@@ -44022,8 +44013,8 @@
 		"arrest_count": 35,
 		"reports": {
 			"summary": {
-				"command": "HOUSING BOROUGH BRONX/QUEENS",
-				"assignment_date": "9/28/2026",
+				"command": "HOUSING BOROUGH MANHATTAN",
+				"assignment_date": "5/26/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DEPUTY INSPECTOR",
 				"shield_no": "",
@@ -44072,7 +44063,7 @@
 				}
 			]
 		},
-		"command": "HOUSING BOROUGH BRONX/QUEENS"
+		"command": "HOUSING BOROUGH MANHATTAN"
 	},
 	{
 		"taxid": 963043,
@@ -78024,13 +78015,22 @@
 		"recognition_count": 0,
 		"arrest_count": 32,
 		"reports": {
+			"summary": {
+				"command": "LEGAL BUREAU",
+				"assignment_date": "9/8/2018",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "DETECTIVE SPECIALIST",
+				"shield_no": "7688",
+				"appt_date": "7/11/2012"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		}
+		},
+		"command": "LEGAL BUREAU"
 	},
 	{
 		"taxid": 953921,
@@ -78862,8 +78862,8 @@
 		"arrest_count": 407,
 		"reports": {
 			"summary": {
-				"command": "109 PRECINCT",
-				"assignment_date": "9/28/2026",
+				"command": "PBQN CITI FIELD DETAIL",
+				"assignment_date": "3/26/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "DETECTIVE SPECIALIST",
 				"shield_no": "4047",
@@ -79060,7 +79060,7 @@
 				}
 			]
 		},
-		"command": "109 PRECINCT"
+		"command": "PBQN CITI FIELD DETAIL"
 	},
 	{
 		"taxid": 974884,
@@ -93627,7 +93627,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 250,
+				"felony": 252,
 				"misdemeanor": 93,
 				"other": 1,
 				"violation": 1
@@ -103636,8 +103636,8 @@
 		"arrest_count": 91,
 		"reports": {
 			"summary": {
-				"command": "075 DET SQUAD",
-				"assignment_date": "9/25/2026",
+				"command": "PBBN NEIGHBORHOOD SAFETY TEAMS",
+				"assignment_date": "8/14/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "6446",
@@ -103709,7 +103709,7 @@
 				}
 			]
 		},
-		"command": "075 DET SQUAD"
+		"command": "PBBN NEIGHBORHOOD SAFETY TEAMS"
 	},
 	{
 		"taxid": 984965,

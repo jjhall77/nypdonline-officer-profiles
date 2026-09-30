@@ -49207,8 +49207,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "067 PCT FIELD TRAINING UNIT",
-				"assignment_date": "9/28/2026",
+				"command": "DET BORO BROOKLYN NORTH",
+				"assignment_date": "2/23/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "22932",
@@ -49227,7 +49227,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "067 PCT FIELD TRAINING UNIT"
+		"command": "DET BORO BROOKLYN NORTH"
 	},
 	{
 		"taxid": 986002,
@@ -55396,7 +55396,12 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"infraction": 1,
+				"felony": 6,
+				"misdemeanor": 16,
+				"violation": 1
+			},
 			"awards": []
 		},
 		"command": "WORLD TRADE CENTER COMMAND"
@@ -58206,7 +58211,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "1564"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -78537,8 +78548,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 8,
-				"misdemeanor": 24
+				"felony": 7,
+				"misdemeanor": 23
 			},
 			"awards": []
 		},
@@ -92967,22 +92978,13 @@
 		"recognition_count": 3,
 		"arrest_count": 107,
 		"reports": {
-			"summary": {
-				"command": "040 PRECINCT",
-				"assignment_date": "1/5/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "4864",
-				"appt_date": "1/17/2023"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "040 PRECINCT"
+		}
 	},
 	{
 		"taxid": 984851,
@@ -118436,7 +118438,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 58,
+				"felony": 59,
 				"misdemeanor": 53
 			},
 			"awards": [
