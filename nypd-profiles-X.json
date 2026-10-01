@@ -618,7 +618,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 14
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -1280,8 +1280,8 @@
 		"arrest_count": 2,
 		"reports": {
 			"summary": {
-				"command": "043 PCT FIELD TRAINING UNIT",
-				"assignment_date": "6/22/2026",
+				"command": "001 PRECINCT",
+				"assignment_date": "9/30/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "24366",
@@ -1299,11 +1299,11 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 1
+				"misdemeanor": 2
 			},
 			"awards": []
 		},
-		"command": "043 PCT FIELD TRAINING UNIT"
+		"command": "001 PRECINCT"
 	},
 	{
 		"taxid": 935995,

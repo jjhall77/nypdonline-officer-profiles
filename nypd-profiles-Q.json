@@ -2669,6 +2669,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "4/22/2026",
 					"shield_no": "12819"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "9/25/2026",
+					"shield_no": "31199"
 				}
 			],
 			"documents": [],
@@ -5307,8 +5312,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
-				"misdemeanor": 4
+				"felony": 4,
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -8252,8 +8257,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
-				"misdemeanor": 5
+				"felony": 2,
+				"misdemeanor": 10
 			},
 			"awards": []
 		},

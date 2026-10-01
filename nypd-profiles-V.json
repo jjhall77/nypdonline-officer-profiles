@@ -4833,8 +4833,8 @@
 		"arrest_count": 8,
 		"reports": {
 			"summary": {
-				"command": "113 PCT FIELD TRAINING UNIT",
-				"assignment_date": "6/22/2026",
+				"command": "113 PRECINCT",
+				"assignment_date": "9/30/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "17276",
@@ -4856,7 +4856,7 @@
 			},
 			"awards": []
 		},
-		"command": "113 PCT FIELD TRAINING UNIT"
+		"command": "113 PRECINCT"
 	},
 	{
 		"taxid": 947566,
@@ -7907,7 +7907,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 104,
-				"misdemeanor": 103
+				"misdemeanor": 106
 			},
 			"awards": []
 		},
@@ -11327,7 +11327,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 7
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -14004,28 +14004,12 @@
 				"shield_no": "8465",
 				"appt_date": "1/9/2013"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/9/2013",
-					"shield_no": "8465"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 8,
-				"misdemeanor": 37,
-				"violation": 18
-			},
-			"awards": [
-				{
-					"date": "7/5/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"arrests": {},
+			"awards": []
 		},
 		"command": "MEDICAL DIVISION"
 	},
@@ -15895,7 +15879,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 35,
+				"felony": 36,
 				"misdemeanor": 93,
 				"violation": 7
 			},
@@ -16210,7 +16194,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 104
+				"misdemeanor": 105
 			},
 			"awards": []
 		},
@@ -17333,7 +17317,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 1
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -20414,7 +20398,7 @@
 		"shield_no": "11836",
 		"appt_date": "4/25/2018",
 		"recognition_count": 6,
-		"arrest_count": 98,
+		"arrest_count": 100,
 		"reports": {
 			"summary": {
 				"command": "075 PRECINCT",
@@ -20436,7 +20420,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 50,
-				"misdemeanor": 48
+				"misdemeanor": 50
 			},
 			"awards": [
 				{
@@ -21653,8 +21637,8 @@
 		"arrest_count": 8,
 		"reports": {
 			"summary": {
-				"command": "120 PCT FIELD TRAINING UNIT",
-				"assignment_date": "6/22/2026",
+				"command": "001 PRECINCT",
+				"assignment_date": "9/30/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "18941",
@@ -21681,7 +21665,7 @@
 			},
 			"awards": []
 		},
-		"command": "120 PCT FIELD TRAINING UNIT"
+		"command": "001 PRECINCT"
 	},
 	{
 		"taxid": 977004,
@@ -22269,18 +22253,18 @@
 		"first_name": "ALFREDO",
 		"last_name": "VAZQUEZ",
 		"middle_initial": "",
-		"rank": "POLICE OFFICER",
-		"shield_no": "9596",
+		"rank": "SERGEANT",
+		"shield_no": "2166",
 		"appt_date": "1/10/2018",
 		"recognition_count": 11,
 		"arrest_count": 146,
 		"reports": {
 			"summary": {
-				"command": "083 PRECINCT",
-				"assignment_date": "5/8/2019",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "9/28/2026",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "9596",
+				"rank_desc": "SERGEANT",
+				"shield_no": "2166",
 				"appt_date": "1/10/2018"
 			},
 			"ranks": [
@@ -22288,6 +22272,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "1/10/2018",
 					"shield_no": "9596"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "9/28/2026",
+					"shield_no": "2166"
 				}
 			],
 			"documents": [],
@@ -22344,7 +22333,7 @@
 				}
 			]
 		},
-		"command": "083 PRECINCT"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 949761,
@@ -24183,7 +24172,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 18,
-				"misdemeanor": 15
+				"misdemeanor": 16
 			},
 			"awards": []
 		},
@@ -25116,8 +25105,8 @@
 		"arrest_count": 13,
 		"reports": {
 			"summary": {
-				"command": "044 PCT FIELD TRAINING UNIT",
-				"assignment_date": "6/22/2026",
+				"command": "025 PRECINCT",
+				"assignment_date": "9/30/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "24656",
@@ -25139,7 +25128,7 @@
 			},
 			"awards": []
 		},
-		"command": "044 PCT FIELD TRAINING UNIT"
+		"command": "025 PRECINCT"
 	},
 	{
 		"taxid": 951380,
@@ -25538,7 +25527,7 @@
 		"shield_no": "2738",
 		"appt_date": "7/8/2015",
 		"recognition_count": 23,
-		"arrest_count": 189,
+		"arrest_count": 194,
 		"reports": {
 			"summary": {
 				"command": "PBSI COMMUNITY RESPONSE TEAM",
@@ -25564,7 +25553,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 84,
+				"felony": 89,
 				"misdemeanor": 104,
 				"violation": 1
 			},
@@ -28787,8 +28776,8 @@
 		"arrest_count": 5,
 		"reports": {
 			"summary": {
-				"command": "077 PCT FIELD TRAINING UNIT",
-				"assignment_date": "2/3/2026",
+				"command": "081 PRECINCT",
+				"assignment_date": "9/30/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "22502",
@@ -28810,7 +28799,7 @@
 			},
 			"awards": []
 		},
-		"command": "077 PCT FIELD TRAINING UNIT"
+		"command": "081 PRECINCT"
 	},
 	{
 		"taxid": 970920,
@@ -31340,7 +31329,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 34,
+				"felony": 35,
 				"misdemeanor": 116,
 				"violation": 1
 			},
@@ -34667,8 +34656,8 @@
 		"arrest_count": 19,
 		"reports": {
 			"summary": {
-				"command": "110 PCT FIELD TRAINING UNIT",
-				"assignment_date": "6/22/2026",
+				"command": "110 PRECINCT",
+				"assignment_date": "9/30/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "17264",
@@ -34690,7 +34679,7 @@
 			},
 			"awards": []
 		},
-		"command": "110 PCT FIELD TRAINING UNIT"
+		"command": "110 PRECINCT"
 	},
 	{
 		"taxid": 944298,
@@ -35390,7 +35379,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 37,
+				"felony": 38,
 				"misdemeanor": 23,
 				"violation": 1
 			},
@@ -37594,7 +37583,7 @@
 			},
 			"awards": []
 		},
-		"command": "077 PCT FIELD TRAINING UNIT"
+		"command": "070 PRECINCT"
 	},
 	{
 		"taxid": 953527,
@@ -37957,8 +37946,8 @@
 		"arrest_count": 3,
 		"reports": {
 			"summary": {
-				"command": "083 PCT FIELD TRAINING UNIT",
-				"assignment_date": "6/22/2026",
+				"command": "083 PRECINCT",
+				"assignment_date": "9/30/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "18209",
@@ -37980,7 +37969,7 @@
 			},
 			"awards": []
 		},
-		"command": "083 PCT FIELD TRAINING UNIT"
+		"command": "083 PRECINCT"
 	},
 	{
 		"taxid": 947578,
@@ -40076,7 +40065,7 @@
 				}
 			],
 			"arrests": {
-				"felony": 95,
+				"felony": 98,
 				"misdemeanor": 45,
 				"violation": 1
 			},
@@ -42201,7 +42190,7 @@
 		"shield_no": "32",
 		"appt_date": "4/12/2017",
 		"recognition_count": 2,
-		"arrest_count": 202,
+		"arrest_count": 203,
 		"reports": {
 			"summary": {
 				"command": "090 DET SQUAD",
@@ -42227,7 +42216,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 126,
+				"felony": 127,
 				"misdemeanor": 76
 			},
 			"awards": [
@@ -42653,7 +42642,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 5
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -47281,7 +47270,7 @@
 		"shield_no": "7782",
 		"appt_date": "10/18/2017",
 		"recognition_count": 0,
-		"arrest_count": 200,
+		"arrest_count": 203,
 		"reports": {
 			"summary": {
 				"command": "014 PCT-MIDTOWN SO. PCT",
@@ -50437,8 +50426,8 @@
 		"arrest_count": 7,
 		"reports": {
 			"summary": {
-				"command": "114 PCT FIELD TRAINING UNIT",
-				"assignment_date": "6/22/2026",
+				"command": "112 PRECINCT",
+				"assignment_date": "9/30/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "24095",
@@ -50459,7 +50448,7 @@
 			},
 			"awards": []
 		},
-		"command": "114 PCT FIELD TRAINING UNIT"
+		"command": "112 PRECINCT"
 	},
 	{
 		"taxid": 957258,
