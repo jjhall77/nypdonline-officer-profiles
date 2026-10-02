@@ -80,36 +80,7 @@
 		"recognition_count": 0,
 		"arrest_count": 132,
 		"reports": {
-			"summary": {
-				"command": "TRANSIT BORO BROOKLYN",
-				"assignment_date": "5/30/2024",
-				"ethnicity": "BLACK",
-				"rank_desc": "DETECTIVE SPECIALIST",
-				"shield_no": "4729",
-				"appt_date": "7/9/2007"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/9/2007",
-					"shield_no": "10288"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "8/31/2026",
-					"shield_no": "4729"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 38,
-				"misdemeanor": 85,
-				"violation": 8
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "TRANSIT BORO BROOKLYN"
 	},
@@ -526,22 +497,8 @@
 		"recognition_count": 0,
 		"arrest_count": 0,
 		"reports": {
-			"summary": {
-				"command": "RTS RECRUITS",
-				"assignment_date": "7/22/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "",
-				"appt_date": "7/22/2026"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "RTS RECRUITS"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 978296,
@@ -597,32 +554,10 @@
 		"shield_no": "18228",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 14,
+		"arrest_count": 7,
 		"reports": {
-			"summary": {
-				"command": "PSA 9 FIELD TRAINING UNIT",
-				"assignment_date": "6/22/2026",
-				"ethnicity": "ASIAN",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "18228",
-				"appt_date": "8/20/2025"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "8/20/2025",
-					"shield_no": "18228"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"misdemeanor": 7
-			},
-			"awards": []
-		},
-		"command": "PSA 9 FIELD TRAINING UNIT"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 974661,
@@ -770,8 +705,8 @@
 		"arrest_count": 17,
 		"reports": {
 			"summary": {
-				"command": "104 PRECINCT",
-				"assignment_date": "10/27/2025",
+				"command": "NARC BORO QUEENS SOUTH",
+				"assignment_date": "9/28/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "13227",
@@ -793,7 +728,7 @@
 			},
 			"awards": []
 		},
-		"command": "104 PRECINCT"
+		"command": "NARC BORO QUEENS SOUTH"
 	},
 	{
 		"taxid": 980337,
@@ -845,28 +780,8 @@
 		"recognition_count": 0,
 		"arrest_count": 0,
 		"reports": {
-			"summary": {
-				"command": "RTS RECRUITS",
-				"assignment_date": "4/22/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "13080",
-				"appt_date": "4/22/2026"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "4/22/2026",
-					"shield_no": "13080"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "RTS RECRUITS"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 985091,
@@ -1277,33 +1192,10 @@
 		"shield_no": "24366",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 2,
+		"arrest_count": 3,
 		"reports": {
-			"summary": {
-				"command": "001 PRECINCT",
-				"assignment_date": "9/30/2026",
-				"ethnicity": "ASIAN",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "24366",
-				"appt_date": "8/20/2025"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "8/20/2025",
-					"shield_no": "24366"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 1,
-				"misdemeanor": 2
-			},
-			"awards": []
-		},
-		"command": "001 PRECINCT"
+			"discipline": []
+		}
 	},
 	{
 		"taxid": 935995,
