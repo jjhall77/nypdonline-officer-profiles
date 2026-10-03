@@ -283,7 +283,7 @@
 			],
 			"arrests": {
 				"infraction": 1,
-				"felony": 23,
+				"felony": 24,
 				"misdemeanor": 78,
 				"violation": 1
 			},
@@ -538,7 +538,41 @@
 		"recognition_count": 1,
 		"arrest_count": 63,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "043 PRECINCT",
+				"assignment_date": "7/28/2025",
+				"ethnicity": "ASIAN",
+				"rank_desc": "SERGEANT",
+				"shield_no": "1339",
+				"appt_date": "1/7/2015"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/7/2015",
+					"shield_no": "22370"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "6/27/2025",
+					"shield_no": "1339"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 2,
+				"felony": 12,
+				"misdemeanor": 42,
+				"violation": 7
+			},
+			"awards": [
+				{
+					"date": "9/16/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "043 PRECINCT"
 	},
@@ -1042,7 +1076,29 @@
 		"recognition_count": 0,
 		"arrest_count": 18,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "BRONX COURT SECTION",
+				"assignment_date": "7/21/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "14787",
+				"appt_date": "7/5/2017"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/5/2017",
+					"shield_no": "14787"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 5,
+				"misdemeanor": 13
+			},
+			"awards": []
 		},
 		"command": "BRONX COURT SECTION"
 	},
@@ -1098,8 +1154,8 @@
 		"arrest_count": 45,
 		"reports": {
 			"summary": {
-				"command": "050 PRECINCT",
-				"assignment_date": "8/19/2024",
+				"command": "BRONX COURT SECTION",
+				"assignment_date": "10/1/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -1133,7 +1189,7 @@
 			},
 			"awards": []
 		},
-		"command": "050 PRECINCT"
+		"command": "BRONX COURT SECTION"
 	},
 	{
 		"taxid": 976449,
@@ -3056,11 +3112,16 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 46,
+				"misdemeanor": 50,
 				"other": 1,
 				"violation": 2
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "5/9/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "103 PRECINCT"
 	},
@@ -4966,8 +5027,44 @@
 		"recognition_count": 3,
 		"arrest_count": 72,
 		"reports": {
-			"discipline": []
-		}
+			"summary": {
+				"command": "INFORMATION SECURITY OFFICE",
+				"assignment_date": "11/20/2025",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "28004",
+				"appt_date": "1/10/2018"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2018",
+					"shield_no": "28004"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 33,
+				"misdemeanor": 39
+			},
+			"awards": [
+				{
+					"date": "7/31/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/7/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/31/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "INFORMATION SECURITY OFFICE"
 	},
 	{
 		"taxid": 985035,
@@ -5350,8 +5447,31 @@
 		"recognition_count": 0,
 		"arrest_count": 10,
 		"reports": {
-			"discipline": []
-		}
+			"summary": {
+				"command": "071 PRECINCT",
+				"assignment_date": "9/30/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "15531",
+				"appt_date": "8/20/2025"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "8/20/2025",
+					"shield_no": "15531"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 4,
+				"misdemeanor": 6
+			},
+			"awards": []
+		},
+		"command": "071 PRECINCT"
 	},
 	{
 		"taxid": 967372,
@@ -5941,7 +6061,7 @@
 		"shield_no": "12400",
 		"appt_date": "10/25/2023",
 		"recognition_count": 3,
-		"arrest_count": 64,
+		"arrest_count": 65,
 		"reports": {
 			"summary": {
 				"command": "034 PRECINCT",
@@ -6628,7 +6748,7 @@
 		"shield_no": "4717",
 		"appt_date": "7/5/2017",
 		"recognition_count": 16,
-		"arrest_count": 128,
+		"arrest_count": 129,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 7",
@@ -8071,7 +8191,7 @@
 		"shield_no": "7645",
 		"appt_date": "10/25/2023",
 		"recognition_count": 2,
-		"arrest_count": 78,
+		"arrest_count": 79,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 2",
