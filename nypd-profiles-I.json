@@ -1847,7 +1847,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 79
+				"misdemeanor": 80
 			},
 			"awards": [
 				{
@@ -2490,7 +2490,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 20
+				"misdemeanor": 21
 			},
 			"awards": []
 		},
@@ -4754,7 +4754,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 45,
-				"misdemeanor": 54
+				"misdemeanor": 56
 			},
 			"awards": [
 				{
@@ -5664,7 +5664,7 @@
 		"shield_no": "2223",
 		"appt_date": "7/9/2007",
 		"recognition_count": 12,
-		"arrest_count": 417,
+		"arrest_count": 418,
 		"reports": {
 			"summary": {
 				"command": "101ST DET SQUAD",
@@ -5690,7 +5690,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 190,
+				"felony": 191,
 				"misdemeanor": 217,
 				"violation": 10
 			},
@@ -6829,7 +6829,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 102,
+				"misdemeanor": 105,
 				"violation": 12
 			},
 			"awards": []
@@ -8581,7 +8581,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 77,
+				"felony": 78,
 				"misdemeanor": 110
 			},
 			"awards": [
@@ -11639,7 +11639,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 11,
-				"misdemeanor": 42
+				"misdemeanor": 43
 			},
 			"awards": []
 		},
@@ -15308,7 +15308,7 @@
 		"shield_no": "1897",
 		"appt_date": "10/25/2023",
 		"recognition_count": 0,
-		"arrest_count": 67,
+		"arrest_count": 69,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 4",
@@ -15330,7 +15330,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 63,
+				"misdemeanor": 65,
 				"violation": 1
 			},
 			"awards": []
@@ -16197,35 +16197,6 @@
 			]
 		},
 		"command": "HOUSING PSA 7"
-	},
-	{
-		"taxid": 936799,
-		"full_name": "ISRAIL, EMIL B",
-		"first_name": "EMIL",
-		"last_name": "ISRAIL",
-		"middle_initial": "B",
-		"rank": "LIEUTENANT",
-		"shield_no": "",
-		"appt_date": "1/10/2005",
-		"recognition_count": 0,
-		"arrest_count": 209,
-		"reports": {
-			"summary": {
-				"command": "TRANSIT DISTRICT 33",
-				"assignment_date": "12/8/2023",
-				"ethnicity": "WHITE",
-				"rank_desc": "LIEUTENANT",
-				"shield_no": "",
-				"appt_date": "1/10/2005"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "TRANSIT DISTRICT 33"
 	},
 	{
 		"taxid": 932816,
