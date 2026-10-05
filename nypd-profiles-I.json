@@ -1820,7 +1820,7 @@
 		"shield_no": "10651",
 		"appt_date": "11/2/2020",
 		"recognition_count": 1,
-		"arrest_count": 99,
+		"arrest_count": 100,
 		"reports": {
 			"summary": {
 				"command": "028 PRECINCT",
@@ -2468,7 +2468,7 @@
 		"shield_no": "8579",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 26,
+		"arrest_count": 27,
 		"reports": {
 			"summary": {
 				"command": "107 PRECINCT",
@@ -4732,7 +4732,7 @@
 		"shield_no": "8989",
 		"appt_date": "4/25/2018",
 		"recognition_count": 30,
-		"arrest_count": 99,
+		"arrest_count": 101,
 		"reports": {
 			"summary": {
 				"command": "030 PRECINCT",
@@ -6807,7 +6807,7 @@
 		"shield_no": "3618",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 124,
+		"arrest_count": 127,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 32",
@@ -8231,7 +8231,7 @@
 			"arrests": {
 				"felony": 425,
 				"misdemeanor": 111,
-				"other": 31,
+				"other": 32,
 				"violation": 1
 			},
 			"awards": [
@@ -8470,8 +8470,8 @@
 				"command": "HOUSING BUREAU",
 				"assignment_date": "5/16/2022",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "9900",
+				"rank_desc": "DETECTIVE SPECIALIST",
+				"shield_no": "226",
 				"appt_date": "1/9/2013"
 			},
 			"ranks": [
@@ -8479,6 +8479,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "1/9/2013",
 					"shield_no": "9900"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "9/28/2026",
+					"shield_no": "226"
 				}
 			],
 			"documents": [],
@@ -8560,11 +8565,11 @@
 		"shield_no": "14867",
 		"appt_date": "12/29/2021",
 		"recognition_count": 32,
-		"arrest_count": 187,
+		"arrest_count": 188,
 		"reports": {
 			"summary": {
-				"command": "001 PRECINCT",
-				"assignment_date": "12/21/2022",
+				"command": "001 DET SQUAD",
+				"assignment_date": "9/30/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "14867",
@@ -8715,7 +8720,7 @@
 				}
 			]
 		},
-		"command": "001 PRECINCT"
+		"command": "001 DET SQUAD"
 	},
 	{
 		"taxid": 975553,
@@ -11590,7 +11595,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 114,
+				"felony": 115,
 				"misdemeanor": 63,
 				"violation": 1
 			},
@@ -11617,7 +11622,7 @@
 		"shield_no": "21722",
 		"appt_date": "1/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 53,
+		"arrest_count": 54,
 		"reports": {
 			"summary": {
 				"command": "107 PRECINCT",
@@ -12395,7 +12400,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 71,
-				"misdemeanor": 168,
+				"misdemeanor": 172,
 				"violation": 2
 			},
 			"awards": [
@@ -14383,6 +14388,11 @@
 				{
 					"rank": "CAPTAIN",
 					"date": "1/27/2023",
+					"shield_no": ""
+				},
+				{
+					"rank": "DEPUTY INSPECTOR",
+					"date": "9/28/2026",
 					"shield_no": ""
 				}
 			],

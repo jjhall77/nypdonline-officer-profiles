@@ -4969,7 +4969,7 @@
 		"shield_no": "20687",
 		"appt_date": "1/9/2006",
 		"recognition_count": 6,
-		"arrest_count": 493,
+		"arrest_count": 494,
 		"reports": {
 			"summary": {
 				"command": "014 PCT-MIDTOWN SO. PCT",
@@ -4991,7 +4991,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 100,
-				"misdemeanor": 385,
+				"misdemeanor": 386,
 				"violation": 8
 			},
 			"awards": [
@@ -6948,8 +6948,8 @@
 		"arrest_count": 121,
 		"reports": {
 			"summary": {
-				"command": "TB CITYWIDE PICKPOCKET TEAM",
-				"assignment_date": "1/13/2025",
+				"command": "TRANSIT LARCENY UNIT",
+				"assignment_date": "10/1/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "DETECTIVE SPECIALIST",
 				"shield_no": "7944",
@@ -6990,7 +6990,7 @@
 				}
 			]
 		},
-		"command": "TB CITYWIDE PICKPOCKET TEAM"
+		"command": "TRANSIT LARCENY UNIT"
 	},
 	{
 		"taxid": 980987,
@@ -7610,31 +7610,7 @@
 		"recognition_count": 0,
 		"arrest_count": 33,
 		"reports": {
-			"summary": {
-				"command": "066 PRECINCT",
-				"assignment_date": "6/23/2025",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "23040",
-				"appt_date": "7/3/2024"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/3/2024",
-					"shield_no": "23040"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 5,
-				"misdemeanor": 24,
-				"violation": 3
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "066 PRECINCT"
 	},
@@ -8412,7 +8388,7 @@
 		"shield_no": "16619",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 16,
 		"reports": {
 			"summary": {
 				"command": "013 PRECINCT",
@@ -9451,31 +9427,9 @@
 		"shield_no": "4649",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 32,
+		"arrest_count": 34,
 		"reports": {
-			"summary": {
-				"command": "018 PCT-MIDTOWN NO. PCT",
-				"assignment_date": "2/3/2026",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "4649",
-				"appt_date": "10/30/2024"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/30/2024",
-					"shield_no": "4649"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 18,
-				"misdemeanor": 16
-			},
-			"awards": []
+			"discipline": []
 		},
 		"command": "018 PCT-MIDTOWN NO. PCT"
 	},
@@ -11081,6 +11035,10 @@
 				"misdemeanor": 122
 			},
 			"awards": [
+				{
+					"date": "6/17/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "8/16/2023",
 					"name": "MERITORIOUS POLICE DUTY"
@@ -14431,7 +14389,7 @@
 		"shield_no": "7744",
 		"appt_date": "10/25/2023",
 		"recognition_count": 13,
-		"arrest_count": 93,
+		"arrest_count": 94,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 1",
@@ -19119,7 +19077,7 @@
 		"shield_no": "8068",
 		"appt_date": "10/25/2023",
 		"recognition_count": 0,
-		"arrest_count": 29,
+		"arrest_count": 30,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -21676,7 +21634,7 @@
 		"shield_no": "23525",
 		"appt_date": "7/7/2021",
 		"recognition_count": 0,
-		"arrest_count": 167,
+		"arrest_count": 168,
 		"reports": {
 			"summary": {
 				"command": "014 PCT-MIDTOWN SO. PCT",
