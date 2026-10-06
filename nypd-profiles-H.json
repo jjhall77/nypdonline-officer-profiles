@@ -6610,7 +6610,7 @@
 		"first_name": "ZACHARY",
 		"last_name": "HALLER",
 		"middle_initial": "W",
-		"rank": "SERGEANT",
+		"rank": "SGT SPECIAL ASSIGN",
 		"shield_no": "4775",
 		"appt_date": "7/9/2013",
 		"recognition_count": 14,
@@ -6620,7 +6620,7 @@
 				"command": "HOUSING PSA 2",
 				"assignment_date": "10/30/2023",
 				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
+				"rank_desc": "SGT SPECIAL ASSIGN",
 				"shield_no": "4775",
 				"appt_date": "7/9/2013"
 			},
@@ -7744,7 +7744,7 @@
 		"shield_no": "16045",
 		"appt_date": "10/7/2015",
 		"recognition_count": 20,
-		"arrest_count": 206,
+		"arrest_count": 207,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",
@@ -8249,8 +8249,8 @@
 		"rank": "DETECTIVE 2ND GRADE",
 		"shield_no": "7438",
 		"appt_date": "1/7/2015",
-		"recognition_count": 32,
-		"arrest_count": 187,
+		"recognition_count": 52,
+		"arrest_count": 188,
 		"reports": {
 			"summary": {
 				"command": "INTEL CIS FIO PROGRAM",
@@ -9754,7 +9754,7 @@
 		"first_name": "RACHEL",
 		"last_name": "HAMMER",
 		"middle_initial": "J",
-		"rank": "LIEUTENANT",
+		"rank": "LT SPECIAL ASSIGN",
 		"shield_no": "",
 		"appt_date": "1/14/2009",
 		"recognition_count": 10,
@@ -17314,7 +17314,7 @@
 		"shield_no": "17507",
 		"appt_date": "7/5/2023",
 		"recognition_count": 0,
-		"arrest_count": 87,
+		"arrest_count": 88,
 		"reports": {
 			"summary": {
 				"command": "103 PRECINCT",
@@ -21038,7 +21038,7 @@
 		"shield_no": "18195",
 		"appt_date": "1/9/2006",
 		"recognition_count": 6,
-		"arrest_count": 179,
+		"arrest_count": 180,
 		"reports": {
 			"summary": {
 				"command": "075 PRECINCT",
@@ -23470,7 +23470,7 @@
 		"shield_no": "5339",
 		"appt_date": "7/9/2013",
 		"recognition_count": 3,
-		"arrest_count": 313,
+		"arrest_count": 314,
 		"reports": {
 			"summary": {
 				"command": "TB ANTI TERRORISM UNIT",
@@ -24979,37 +24979,6 @@
 		"command": "IAB GROUP 51"
 	},
 	{
-		"taxid": 960643,
-		"full_name": "HASTINGS, PATRICK R",
-		"first_name": "PATRICK",
-		"last_name": "HASTINGS",
-		"middle_initial": "R",
-		"rank": "POLICE OFFICER",
-		"shield_no": "5770",
-		"appt_date": "1/6/2016",
-		"recognition_count": 3,
-		"arrest_count": 120,
-		"reports": {
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/6/2016",
-					"shield_no": "5770"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 17,
-				"misdemeanor": 100,
-				"other": 1,
-				"violation": 2
-			},
-			"awards": []
-		}
-	},
-	{
 		"taxid": 977948,
 		"full_name": "HATCHER, JAMMIE S",
 		"first_name": "JAMMIE",
@@ -25124,17 +25093,17 @@
 		"first_name": "IOANNIS",
 		"last_name": "HATJOPOULOS",
 		"middle_initial": "",
-		"rank": "SERGEANT",
+		"rank": "LIEUTENANT",
 		"shield_no": "3192",
 		"appt_date": "1/9/2013",
 		"recognition_count": 1,
 		"arrest_count": 65,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "9/28/2026",
+				"command": "PROPERTY CLERK DIVISION",
+				"assignment_date": "6/12/2025",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "LIEUTENANT",
+				"rank_desc": "SERGEANT",
 				"shield_no": "3192",
 				"appt_date": "1/9/2013"
 			},
@@ -25170,7 +25139,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "PROPERTY CLERK DIVISION"
 	},
 	{
 		"taxid": 901671,
@@ -35871,7 +35840,7 @@
 		"shield_no": "22127",
 		"appt_date": "10/7/2015",
 		"recognition_count": 9,
-		"arrest_count": 174,
+		"arrest_count": 178,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT BORO BRONX/QUEENS",
@@ -36686,7 +36655,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "16530"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -39430,7 +39405,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "16822"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -39459,7 +39440,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "17058"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -42498,7 +42485,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "18057"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -43279,7 +43272,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "18322"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -45264,7 +45263,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "18607"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -46176,7 +46181,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "18816"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -47751,7 +47762,7 @@
 		"shield_no": "25659",
 		"appt_date": "2/24/2021",
 		"recognition_count": 2,
-		"arrest_count": 53,
+		"arrest_count": 54,
 		"reports": {
 			"summary": {
 				"command": "110 PRECINCT",
@@ -51578,18 +51589,18 @@
 		"first_name": "JOHN",
 		"last_name": "HEWITT",
 		"middle_initial": "T",
-		"rank": "POLICE OFFICER",
-		"shield_no": "2308",
+		"rank": "SERGEANT",
+		"shield_no": "799",
 		"appt_date": "7/6/2011",
 		"recognition_count": 1,
 		"arrest_count": 49,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "9/28/2026",
+				"command": "HOUSING PSA 9",
+				"assignment_date": "12/12/2024",
 				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
-				"shield_no": "799",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "2308",
 				"appt_date": "7/6/2011"
 			},
 			"ranks": [
@@ -51620,7 +51631,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "HOUSING PSA 9"
 	},
 	{
 		"taxid": 979632,
@@ -52616,7 +52627,7 @@
 		"shield_no": "3137",
 		"appt_date": "1/11/2010",
 		"recognition_count": 5,
-		"arrest_count": 451,
+		"arrest_count": 453,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 4 QUEENS",
@@ -57406,7 +57417,7 @@
 		"shield_no": "26556",
 		"appt_date": "7/19/2023",
 		"recognition_count": 8,
-		"arrest_count": 127,
+		"arrest_count": 129,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 1",
@@ -59256,7 +59267,7 @@
 		"shield_no": "19502",
 		"appt_date": "7/8/2015",
 		"recognition_count": 4,
-		"arrest_count": 180,
+		"arrest_count": 181,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 1 MANHATTAN",
@@ -67513,51 +67524,6 @@
 		"command": "EMER SERV SQ 06"
 	},
 	{
-		"taxid": 960678,
-		"full_name": "HOPPINTHAL, PAUL S",
-		"first_name": "PAUL",
-		"last_name": "HOPPINTHAL",
-		"middle_initial": "S",
-		"rank": "DETECTIVE 3RD GRADE",
-		"shield_no": "3712",
-		"appt_date": "1/6/2016",
-		"recognition_count": 1,
-		"arrest_count": 82,
-		"reports": {
-			"summary": {
-				"command": "BRONX COURT SECTION",
-				"assignment_date": "4/24/2026",
-				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE 3RD GRADE",
-				"shield_no": "3712",
-				"appt_date": "1/6/2016"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/6/2016",
-					"shield_no": "11457"
-				},
-				{
-					"rank": "DETECTIVE",
-					"date": "6/10/2021",
-					"shield_no": "3712"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": [
-				{
-					"date": "10/6/2021",
-					"name": "COMMENDATION"
-				}
-			]
-		},
-		"command": "BRONX COURT SECTION"
-	},
-	{
 		"taxid": 963575,
 		"full_name": "HOQUE, ARIPUL",
 		"first_name": "ARIPUL",
@@ -67821,7 +67787,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "18621"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -75856,7 +75828,7 @@
 			"arrests": {
 				"felony": 170,
 				"misdemeanor": 318,
-				"other": 20,
+				"other": 22,
 				"violation": 14
 			},
 			"awards": [
@@ -79759,7 +79731,7 @@
 		"shield_no": "16630",
 		"appt_date": "7/9/2013",
 		"recognition_count": 5,
-		"arrest_count": 217,
+		"arrest_count": 219,
 		"reports": {
 			"summary": {
 				"command": "TB CITYWIDE VANDALS TASK FORCE",
@@ -79847,41 +79819,6 @@
 			"awards": []
 		},
 		"command": "QUARTERMASTER SECTION"
-	},
-	{
-		"taxid": 960692,
-		"full_name": "HULSE, STACEY L",
-		"first_name": "STACEY",
-		"last_name": "HULSE",
-		"middle_initial": "L",
-		"rank": "POLICE OFFICER",
-		"shield_no": "10149",
-		"appt_date": "1/6/2016",
-		"recognition_count": 2,
-		"arrest_count": 114,
-		"reports": {
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/6/2016",
-					"shield_no": "10149"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": [
-				{
-					"date": "1/23/2019",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "7/17/2016",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
-		}
 	},
 	{
 		"taxid": 976187,
@@ -84873,7 +84810,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "16546"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
