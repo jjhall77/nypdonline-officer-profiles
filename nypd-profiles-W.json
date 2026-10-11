@@ -2263,8 +2263,8 @@
 		"arrest_count": 92,
 		"reports": {
 			"summary": {
-				"command": "PBSI COMMUNITY RESPONSE TEAM",
-				"assignment_date": "11/2/2023",
+				"command": "123 DETECTIVE SQUAD",
+				"assignment_date": "10/5/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "27870",
@@ -2323,7 +2323,7 @@
 				}
 			]
 		},
-		"command": "PBSI COMMUNITY RESPONSE TEAM"
+		"command": "123 DETECTIVE SQUAD"
 	},
 	{
 		"taxid": 967562,
@@ -2900,7 +2900,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 30,
-				"misdemeanor": 99
+				"misdemeanor": 101
 			},
 			"awards": []
 		},
@@ -12255,7 +12255,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 47,
+				"felony": 50,
 				"misdemeanor": 72,
 				"violation": 2
 			},
@@ -15049,7 +15049,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 8,
-				"misdemeanor": 21
+				"misdemeanor": 22
 			},
 			"awards": []
 		},
@@ -18784,7 +18784,7 @@
 			"arrests": {
 				"infraction": 4,
 				"felony": 4,
-				"misdemeanor": 164,
+				"misdemeanor": 165,
 				"violation": 12
 			},
 			"awards": [
@@ -48151,7 +48151,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 295,
+				"misdemeanor": 296,
 				"violation": 58
 			},
 			"awards": [
@@ -48507,7 +48507,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 26,
+				"misdemeanor": 27,
 				"violation": 22
 			},
 			"awards": []
@@ -52695,8 +52695,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 39,
-				"misdemeanor": 185,
+				"felony": 40,
+				"misdemeanor": 186,
 				"violation": 1
 			},
 			"awards": [
@@ -53981,7 +53981,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 96,
-				"misdemeanor": 97,
+				"misdemeanor": 99,
 				"violation": 2
 			},
 			"awards": [

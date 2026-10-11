@@ -839,7 +839,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 13,
-				"misdemeanor": 34
+				"misdemeanor": 35
 			},
 			"awards": []
 		},
@@ -1068,7 +1068,7 @@
 		"shield_no": "18897",
 		"appt_date": "4/28/2021",
 		"recognition_count": 1,
-		"arrest_count": 123,
+		"arrest_count": 127,
 		"reports": {
 			"summary": {
 				"command": "072 DOMESTIC VIOLENCE SQUAD",
