@@ -13575,8 +13575,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 5,
-				"felony": 153,
-				"misdemeanor": 623,
+				"felony": 154,
+				"misdemeanor": 624,
 				"violation": 27
 			},
 			"awards": [
@@ -22007,7 +22007,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19059"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -65538,7 +65544,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 124,
+				"misdemeanor": 125,
 				"violation": 20
 			},
 			"awards": []
@@ -71674,8 +71680,8 @@
 		"arrest_count": 57,
 		"reports": {
 			"summary": {
-				"command": "094 PRECINCT",
-				"assignment_date": "10/9/2026",
+				"command": "SCHOOL SAFETY DIVISION",
+				"assignment_date": "2/9/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "26469",
@@ -71703,7 +71709,7 @@
 				}
 			]
 		},
-		"command": "094 PRECINCT"
+		"command": "SCHOOL SAFETY DIVISION"
 	},
 	{
 		"taxid": 979729,
@@ -74139,7 +74145,7 @@
 		"reports": {
 			"summary": {
 				"command": "FORCE INVESTIGATION DIVISION",
-				"assignment_date": "7/9/2026",
+				"assignment_date": "10/7/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "7555",
@@ -74320,7 +74326,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 72,
+				"felony": 73,
 				"misdemeanor": 97
 			},
 			"awards": []
@@ -89470,7 +89476,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19060"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -96589,7 +96601,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 187,
+				"felony": 190,
 				"misdemeanor": 143,
 				"other": 2,
 				"violation": 1
@@ -121716,7 +121728,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 72,
+				"felony": 74,
 				"misdemeanor": 135,
 				"violation": 1
 			},

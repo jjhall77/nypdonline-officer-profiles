@@ -35875,7 +35875,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19217"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -41068,7 +41074,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 79,
+				"misdemeanor": 80,
 				"violation": 12
 			},
 			"awards": [
@@ -50785,7 +50791,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 79,
-				"misdemeanor": 95
+				"misdemeanor": 96
 			},
 			"awards": [
 				{
@@ -62509,8 +62515,8 @@
 		"arrest_count": 68,
 		"reports": {
 			"summary": {
-				"command": "IN-SERVICE TRAINING SECTION",
-				"assignment_date": "9/29/2026",
+				"command": "QUALITY ASSURANCE SECTION",
+				"assignment_date": "10/7/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3811",
@@ -62547,7 +62553,7 @@
 				}
 			]
 		},
-		"command": "IN-SERVICE TRAINING SECTION"
+		"command": "QUALITY ASSURANCE SECTION"
 	},
 	{
 		"taxid": 979452,
@@ -63560,7 +63566,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 47,
+				"felony": 48,
 				"misdemeanor": 90
 			},
 			"awards": []
@@ -83019,7 +83025,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19249"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -84310,7 +84322,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19251"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -104017,8 +104035,8 @@
 		"arrest_count": 255,
 		"reports": {
 			"summary": {
-				"command": "NARC BORO MANHATTAN NORTH",
-				"assignment_date": "4/14/2025",
+				"command": "DRUG ENFORCEMENT TASK FORCE",
+				"assignment_date": "10/5/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "6321",
@@ -104072,7 +104090,7 @@
 				}
 			]
 		},
-		"command": "NARC BORO MANHATTAN NORTH"
+		"command": "DRUG ENFORCEMENT TASK FORCE"
 	},
 	{
 		"taxid": 951167,
@@ -121346,7 +121364,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19252"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -126240,7 +126264,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19276"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

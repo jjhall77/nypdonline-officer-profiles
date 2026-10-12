@@ -9316,7 +9316,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19351"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

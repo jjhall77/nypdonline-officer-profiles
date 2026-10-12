@@ -15156,8 +15156,8 @@
 		"arrest_count": 631,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "8/31/2026",
+				"command": "TRANSIT DISTRICT 11",
+				"assignment_date": "10/5/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3278",
@@ -15190,7 +15190,7 @@
 			},
 			"awards": []
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "TRANSIT DISTRICT 11"
 	},
 	{
 		"taxid": 965758,
@@ -22212,7 +22212,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 42,
+				"misdemeanor": 43,
 				"violation": 1
 			},
 			"awards": []
@@ -42342,7 +42342,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19158"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

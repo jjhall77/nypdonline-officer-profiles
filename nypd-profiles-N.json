@@ -5883,7 +5883,7 @@
 		"shield_no": "4753",
 		"appt_date": "7/9/2013",
 		"recognition_count": 0,
-		"arrest_count": 355,
+		"arrest_count": 353,
 		"reports": {
 			"summary": {
 				"command": "122 DETECTIVE SQUAD",
@@ -8021,7 +8021,7 @@
 		"shield_no": "3412",
 		"appt_date": "7/20/2006",
 		"recognition_count": 1,
-		"arrest_count": 426,
+		"arrest_count": 425,
 		"reports": {
 			"summary": {
 				"command": "023 DET SQUAD",
@@ -13153,7 +13153,7 @@
 		"shield_no": "14640",
 		"appt_date": "1/17/2024",
 		"recognition_count": 0,
-		"arrest_count": 174,
+		"arrest_count": 171,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 20",
@@ -13628,7 +13628,7 @@
 		"shield_no": "26087",
 		"appt_date": "7/9/2013",
 		"recognition_count": 2,
-		"arrest_count": 59,
+		"arrest_count": 58,
 		"reports": {
 			"summary": {
 				"command": "102 PRECINCT",
@@ -14621,7 +14621,7 @@
 		"shield_no": "3197",
 		"appt_date": "7/10/2006",
 		"recognition_count": 2,
-		"arrest_count": 688,
+		"arrest_count": 687,
 		"reports": {
 			"summary": {
 				"command": "DRUG ENFORCEMENT TASK FORCE",
@@ -15574,7 +15574,7 @@
 		"shield_no": "20218",
 		"appt_date": "12/29/2021",
 		"recognition_count": 2,
-		"arrest_count": 194,
+		"arrest_count": 193,
 		"reports": {
 			"summary": {
 				"command": "103 PRECINCT",
@@ -15711,7 +15711,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19192"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -21211,7 +21217,7 @@
 		"shield_no": "7083",
 		"appt_date": "7/6/2010",
 		"recognition_count": 13,
-		"arrest_count": 362,
+		"arrest_count": 361,
 		"reports": {
 			"summary": {
 				"command": "QUEENS TRANSIT CRIMES SQUAD",
@@ -32524,7 +32530,7 @@
 		"shield_no": "4534",
 		"appt_date": "1/9/2012",
 		"recognition_count": 9,
-		"arrest_count": 448,
+		"arrest_count": 447,
 		"reports": {
 			"summary": {
 				"command": "DET BORO QNS NORTH OPER",
@@ -40329,8 +40335,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
-				"misdemeanor": 71,
+				"felony": 7,
+				"misdemeanor": 72,
 				"violation": 8
 			},
 			"awards": [

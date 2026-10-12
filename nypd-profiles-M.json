@@ -11698,7 +11698,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 78,
+				"misdemeanor": 79,
 				"violation": 1
 			},
 			"awards": [
@@ -12150,7 +12150,7 @@
 			"arrests": {
 				"felony": 405,
 				"misdemeanor": 313,
-				"other": 5,
+				"other": 6,
 				"violation": 20
 			},
 			"awards": [
@@ -27596,7 +27596,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 34,
+				"felony": 35,
 				"misdemeanor": 73
 			},
 			"awards": [
@@ -50573,7 +50573,7 @@
 		"reports": {
 			"summary": {
 				"command": "MEDICAL DIVISION",
-				"assignment_date": "7/12/2026",
+				"assignment_date": "10/10/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "28302",
@@ -51366,7 +51366,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19186"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -64158,7 +64164,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 62,
-				"misdemeanor": 203,
+				"misdemeanor": 204,
 				"other": 5,
 				"violation": 15
 			},
@@ -66955,7 +66961,10 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"felony": 94,
+				"misdemeanor": 74
+			},
 			"awards": [
 				{
 					"date": "10/1/2024",
@@ -94872,7 +94881,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 90,
-				"misdemeanor": 81,
+				"misdemeanor": 82,
 				"violation": 1
 			},
 			"awards": []
@@ -96603,8 +96612,8 @@
 		"arrest_count": 147,
 		"reports": {
 			"summary": {
-				"command": "005 PRECINCT",
-				"assignment_date": "12/21/2022",
+				"command": "EMERGENCY SERVICE UNIT",
+				"assignment_date": "10/5/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "26924",
@@ -96631,7 +96640,7 @@
 				}
 			]
 		},
-		"command": "005 PRECINCT"
+		"command": "EMERGENCY SERVICE UNIT"
 	},
 	{
 		"taxid": 984622,
@@ -110642,7 +110651,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 20,
+				"misdemeanor": 21,
 				"violation": 1
 			},
 			"awards": [
@@ -128264,7 +128273,7 @@
 			],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 34
+				"misdemeanor": 35
 			},
 			"awards": [
 				{
@@ -153577,7 +153586,7 @@
 		"reports": {
 			"summary": {
 				"command": "104TH DET SQUAD",
-				"assignment_date": "10/7/2026",
+				"assignment_date": "8/2/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "26991",
@@ -166212,8 +166221,8 @@
 		"arrest_count": 229,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "8/31/2026",
+				"command": "013 PRECINCT",
+				"assignment_date": "10/5/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3660",
@@ -166251,7 +166260,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "013 PRECINCT"
 	},
 	{
 		"taxid": 960966,

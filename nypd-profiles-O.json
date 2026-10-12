@@ -13448,7 +13448,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 38,
+				"felony": 39,
 				"misdemeanor": 116
 			},
 			"awards": [
@@ -16705,7 +16705,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 99,
-				"misdemeanor": 230,
+				"misdemeanor": 232,
 				"violation": 7
 			},
 			"awards": [
@@ -29085,8 +29085,8 @@
 		"arrest_count": 165,
 		"reports": {
 			"summary": {
-				"command": "IN-SERVICE TRAINING SECTION",
-				"assignment_date": "10/9/2026",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
+				"assignment_date": "10/8/2025",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "1858",
@@ -29120,7 +29120,7 @@
 			},
 			"awards": []
 		},
-		"command": "IN-SERVICE TRAINING SECTION"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 965820,

@@ -2089,6 +2089,14 @@
 		"recognition_count": 13,
 		"arrest_count": 181,
 		"reports": {
+			"summary": {
+				"command": "062 PRECINCT",
+				"assignment_date": "12/21/2022",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "20002",
+				"appt_date": "12/29/2021"
+			},
 			"ranks": [
 				{
 					"rank": "POLICE OFFICER",
@@ -2099,9 +2107,68 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
-		}
+			"arrests": {
+				"infraction": 2,
+				"felony": 51,
+				"misdemeanor": 127,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "8/20/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/6/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/6/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/28/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/28/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/6/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/6/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/3/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/7/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/29/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/7/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/5/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/1/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "062 PRECINCT"
 	},
 	{
 		"taxid": 961589,
@@ -10881,7 +10948,13 @@
 				"shield_no": "12057",
 				"appt_date": "7/3/2024"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/3/2024",
+					"shield_no": "12057"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -11090,7 +11163,13 @@
 				"shield_no": "21285",
 				"appt_date": "12/29/2021"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/29/2021",
+					"shield_no": "21285"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -46999,7 +47078,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19048"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -60051,8 +60136,8 @@
 		"arrest_count": 215,
 		"reports": {
 			"summary": {
-				"command": "POLICE ACADEMY",
-				"assignment_date": "9/4/2025",
+				"command": "POLICE ACADEMY SITE & SECURITY UNIT",
+				"assignment_date": "10/8/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "2008",
@@ -60085,7 +60170,7 @@
 				}
 			]
 		},
-		"command": "POLICE ACADEMY"
+		"command": "POLICE ACADEMY SITE & SECURITY UNIT"
 	},
 	{
 		"taxid": 949993,
@@ -79864,7 +79949,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 29,
+				"felony": 30,
 				"misdemeanor": 45
 			},
 			"awards": [
@@ -92502,7 +92587,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 62,
-				"misdemeanor": 69,
+				"misdemeanor": 71,
 				"violation": 2
 			},
 			"awards": []

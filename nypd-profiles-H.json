@@ -13522,7 +13522,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 3,
-				"felony": 75,
+				"felony": 76,
 				"misdemeanor": 62
 			},
 			"awards": [
@@ -16015,8 +16015,8 @@
 		"arrest_count": 68,
 		"reports": {
 			"summary": {
-				"command": "EXTENDED LEAVE SERVICES GROUP",
-				"assignment_date": "10/17/2025",
+				"command": "IN-SERVICE TRAINING SECTION",
+				"assignment_date": "10/10/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "30427",
@@ -16058,7 +16058,7 @@
 				}
 			]
 		},
-		"command": "EXTENDED LEAVE SERVICES GROUP"
+		"command": "IN-SERVICE TRAINING SECTION"
 	},
 	{
 		"taxid": 941034,
@@ -48046,7 +48046,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19152"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -52285,8 +52291,8 @@
 		"arrest_count": 327,
 		"reports": {
 			"summary": {
-				"command": "006 DET SQUAD",
-				"assignment_date": "8/31/2020",
+				"command": "DET BORO MAN SO HOMICIDE SQ",
+				"assignment_date": "10/5/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "6833",
@@ -52339,7 +52345,7 @@
 				}
 			]
 		},
-		"command": "006 DET SQUAD"
+		"command": "DET BORO MAN SO HOMICIDE SQ"
 	},
 	{
 		"taxid": 928480,
@@ -52724,7 +52730,7 @@
 			"arrests": {
 				"infraction": 3,
 				"felony": 40,
-				"misdemeanor": 322,
+				"misdemeanor": 323,
 				"violation": 88
 			},
 			"awards": [
@@ -77388,8 +77394,8 @@
 		"arrest_count": 112,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "8/31/2026",
+				"command": "TIMES SQUARE UNIT",
+				"assignment_date": "10/5/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3266",
@@ -77428,7 +77434,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "TIMES SQUARE UNIT"
 	},
 	{
 		"taxid": 980604,
@@ -86864,7 +86870,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 45,
+				"misdemeanor": 46,
 				"violation": 8
 			},
 			"awards": []

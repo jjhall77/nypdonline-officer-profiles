@@ -6320,8 +6320,8 @@
 		"arrest_count": 74,
 		"reports": {
 			"summary": {
-				"command": "PSB COMMUNITY RESPONSE TEAM",
-				"assignment_date": "3/4/2026",
+				"command": "PATROL SERVICES BUREAU",
+				"assignment_date": "10/8/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -6358,7 +6358,7 @@
 				}
 			]
 		},
-		"command": "PSB COMMUNITY RESPONSE TEAM"
+		"command": "PATROL SERVICES BUREAU"
 	},
 	{
 		"taxid": 963476,
@@ -37574,8 +37574,8 @@
 		"arrest_count": 28,
 		"reports": {
 			"summary": {
-				"command": "075 PRECINCT",
-				"assignment_date": "2/3/2026",
+				"command": "101 PRECINCT",
+				"assignment_date": "10/5/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "30849",
@@ -37597,7 +37597,7 @@
 			},
 			"awards": []
 		},
-		"command": "075 PRECINCT"
+		"command": "101 PRECINCT"
 	},
 	{
 		"taxid": 981227,
@@ -57048,7 +57048,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 29,
-				"misdemeanor": 63
+				"misdemeanor": 64
 			},
 			"awards": [
 				{
@@ -67899,7 +67899,13 @@
 				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "19123"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -94057,8 +94063,8 @@
 		"arrest_count": 53,
 		"reports": {
 			"summary": {
-				"command": "IN-SERVICE TRAINING SECTION",
-				"assignment_date": "10/5/2026",
+				"command": "HOUSING PSA 1",
+				"assignment_date": "4/6/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "4553",
@@ -94087,7 +94093,7 @@
 			},
 			"awards": []
 		},
-		"command": "IN-SERVICE TRAINING SECTION"
+		"command": "HOUSING PSA 1"
 	},
 	{
 		"taxid": 956610,
@@ -102997,7 +103003,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 25,
-				"misdemeanor": 320,
+				"misdemeanor": 321,
 				"violation": 88
 			},
 			"awards": [
