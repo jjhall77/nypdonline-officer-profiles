@@ -1449,7 +1449,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 2
+				"misdemeanor": 3
 			},
 			"awards": []
 		},
@@ -2404,8 +2404,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
-				"misdemeanor": 30,
+				"felony": 8,
+				"misdemeanor": 34,
 				"violation": 14
 			},
 			"awards": []
@@ -5297,7 +5297,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 359,
+				"felony": 360,
 				"misdemeanor": 370,
 				"violation": 24
 			},
@@ -5683,7 +5683,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 8
+				"misdemeanor": 9
 			},
 			"awards": []
 		},
@@ -5852,7 +5852,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 7
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -7127,7 +7127,7 @@
 		"shield_no": "20049",
 		"appt_date": "7/8/2015",
 		"recognition_count": 4,
-		"arrest_count": 38,
+		"arrest_count": 39,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -7149,7 +7149,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 32
+				"misdemeanor": 33
 			},
 			"awards": [
 				{
@@ -9655,7 +9655,7 @@
 		"reports": {
 			"summary": {
 				"command": "081 DET SQUAD",
-				"assignment_date": "8/2/2026",
+				"assignment_date": "10/12/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "2610",
@@ -10099,8 +10099,8 @@
 		"arrest_count": 112,
 		"reports": {
 			"summary": {
-				"command": "QUEENS COURT SECTION",
-				"assignment_date": "9/8/2026",
+				"command": "LAB EVIDENCE CTRL & SECURITY",
+				"assignment_date": "10/8/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "30365",
@@ -10132,7 +10132,7 @@
 				}
 			]
 		},
-		"command": "QUEENS COURT SECTION"
+		"command": "LAB EVIDENCE CTRL & SECURITY"
 	},
 	{
 		"taxid": 940888,
@@ -10624,7 +10624,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 35
+				"misdemeanor": 36
 			},
 			"awards": []
 		},
@@ -11710,7 +11710,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 11,
-				"misdemeanor": 26,
+				"misdemeanor": 28,
 				"violation": 2
 			},
 			"awards": []
@@ -11864,7 +11864,7 @@
 		"shield_no": "853",
 		"appt_date": "7/8/2015",
 		"recognition_count": 4,
-		"arrest_count": 206,
+		"arrest_count": 210,
 		"reports": {
 			"summary": {
 				"command": "019 DET SQUAD",
@@ -11890,7 +11890,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 125,
+				"felony": 129,
 				"misdemeanor": 80,
 				"violation": 1
 			},
@@ -11982,7 +11982,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 13
+				"misdemeanor": 17
 			},
 			"awards": []
 		},
@@ -14817,7 +14817,7 @@
 		"shield_no": "8388",
 		"appt_date": "12/29/2020",
 		"recognition_count": 5,
-		"arrest_count": 46,
+		"arrest_count": 47,
 		"reports": {
 			"summary": {
 				"command": "073 PRECINCT",
@@ -14839,7 +14839,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 21,
-				"misdemeanor": 25
+				"misdemeanor": 26
 			},
 			"awards": [
 				{
@@ -19981,8 +19981,8 @@
 		"arrest_count": 61,
 		"reports": {
 			"summary": {
-				"command": "TB CITYWIDE PICKPOCKET TEAM",
-				"assignment_date": "9/10/2026",
+				"command": "TRANSIT LARCENY UNIT",
+				"assignment_date": "10/7/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "14860",
@@ -20081,7 +20081,7 @@
 				}
 			]
 		},
-		"command": "TB CITYWIDE PICKPOCKET TEAM"
+		"command": "TRANSIT LARCENY UNIT"
 	},
 	{
 		"taxid": 970342,
@@ -21730,7 +21730,7 @@
 		"shield_no": "18220",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 66,
+		"arrest_count": 68,
 		"reports": {
 			"summary": {
 				"command": "023 PRECINCT",
@@ -21752,7 +21752,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 44,
+				"misdemeanor": 46,
 				"violation": 2
 			},
 			"awards": []
