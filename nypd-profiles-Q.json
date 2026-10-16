@@ -46,7 +46,7 @@
 		"shield_no": "4258",
 		"appt_date": "7/3/2024",
 		"recognition_count": 1,
-		"arrest_count": 28,
+		"arrest_count": 29,
 		"reports": {
 			"summary": {
 				"command": "034 PRECINCT",
@@ -67,7 +67,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 11,
+				"felony": 12,
 				"misdemeanor": 17
 			},
 			"awards": [
@@ -1115,7 +1115,7 @@
 		"shield_no": "4905",
 		"appt_date": "1/9/2012",
 		"recognition_count": 14,
-		"arrest_count": 373,
+		"arrest_count": 374,
 		"reports": {
 			"summary": {
 				"command": "075 DET SQUAD",
@@ -7057,7 +7057,7 @@
 		"shield_no": "13591",
 		"appt_date": "4/28/2021",
 		"recognition_count": 0,
-		"arrest_count": 100,
+		"arrest_count": 101,
 		"reports": {
 			"summary": {
 				"command": "032 PRECINCT",
@@ -7078,7 +7078,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 34,
+				"felony": 35,
 				"misdemeanor": 66
 			},
 			"awards": []
