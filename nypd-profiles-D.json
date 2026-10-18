@@ -3816,8 +3816,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "6720",
 		"appt_date": "10/12/2021",
-		"recognition_count": 2,
-		"arrest_count": 308,
+		"recognition_count": 1,
+		"arrest_count": 154,
 		"reports": {
 			"summary": {
 				"command": "047 DOMESTIC VIOLENCE SQUAD",
@@ -5532,7 +5532,7 @@
 		"reports": {
 			"summary": {
 				"command": "123 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "20271",
@@ -14406,6 +14406,54 @@
 		"command": "062 PRECINCT"
 	},
 	{
+		"taxid": 940053,
+		"full_name": "DAVI, MICHAEL",
+		"first_name": "MICHAEL",
+		"last_name": "DAVI",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "30875",
+		"appt_date": "1/9/2006",
+		"recognition_count": 3,
+		"arrest_count": 113,
+		"reports": {
+			"summary": {
+				"command": "QUEENS COURT SECTION",
+				"assignment_date": "7/31/2025",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "30875",
+				"appt_date": "1/9/2006"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/9/2006",
+					"shield_no": "30875"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": [
+				{
+					"date": "9/19/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/12/2013",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/15/2007",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "QUEENS COURT SECTION"
+	},
+	{
 		"taxid": 983109,
 		"full_name": "DAVI, VINCENT E",
 		"first_name": "VINCENT",
@@ -14533,7 +14581,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 109,
+				"felony": 110,
 				"misdemeanor": 137,
 				"violation": 1
 			},
@@ -14651,7 +14699,7 @@
 		"shield_no": "12330",
 		"appt_date": "1/8/2014",
 		"recognition_count": 1,
-		"arrest_count": 38,
+		"arrest_count": 37,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 1",
@@ -17674,7 +17722,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 57,
+				"misdemeanor": 58,
 				"violation": 11
 			},
 			"awards": []
@@ -20407,7 +20455,7 @@
 		"shield_no": "2552",
 		"appt_date": "1/9/2012",
 		"recognition_count": 6,
-		"arrest_count": 300,
+		"arrest_count": 299,
 		"reports": {
 			"summary": {
 				"command": "QUEENS ADULT SEX CRIMES SQUAD",
@@ -21542,7 +21590,7 @@
 		"shield_no": "30864",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 26,
+		"arrest_count": 24,
 		"reports": {
 			"summary": {
 				"command": "067 PRECINCT",
@@ -29650,7 +29698,7 @@
 		"shield_no": "23482",
 		"appt_date": "7/11/2012",
 		"recognition_count": 7,
-		"arrest_count": 224,
+		"arrest_count": 223,
 		"reports": {
 			"summary": {
 				"command": "115 PCT ROOSEVELT AVE TF",
@@ -35554,7 +35602,7 @@
 		"shield_no": "23837",
 		"appt_date": "7/6/2011",
 		"recognition_count": 0,
-		"arrest_count": 157,
+		"arrest_count": 156,
 		"reports": {
 			"summary": {
 				"command": "QUEENS COURT SECTION",
@@ -48093,7 +48141,12 @@
 				"felony": 16,
 				"misdemeanor": 31
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "9/20/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "032 PRECINCT"
 	},
@@ -48554,7 +48607,7 @@
 		"shield_no": "5150",
 		"appt_date": "7/9/2013",
 		"recognition_count": 11,
-		"arrest_count": 457,
+		"arrest_count": 455,
 		"reports": {
 			"summary": {
 				"command": "070 DET SQUAD",
@@ -51393,7 +51446,7 @@
 		"shield_no": "13827",
 		"appt_date": "1/7/2008",
 		"recognition_count": 3,
-		"arrest_count": 231,
+		"arrest_count": 230,
 		"reports": {
 			"summary": {
 				"command": "005 DOMESTIC VIOLENCE SQUAD",
@@ -51756,7 +51809,7 @@
 		"reports": {
 			"summary": {
 				"command": "100 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "10/15/2026",
+				"assignment_date": "7/17/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "7413",
@@ -55762,8 +55815,8 @@
 		"arrest_count": 440,
 		"reports": {
 			"summary": {
-				"command": "INTEL CIS FIO PROGRAM",
-				"assignment_date": "3/24/2023",
+				"command": "BRONX COURT SECTION",
+				"assignment_date": "10/13/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "SERGEANT",
 				"shield_no": "361",
@@ -55906,7 +55959,7 @@
 				}
 			]
 		},
-		"command": "INTEL CIS FIO PROGRAM"
+		"command": "BRONX COURT SECTION"
 	},
 	{
 		"taxid": 969047,
@@ -57902,7 +57955,13 @@
 				"shield_no": "16007",
 				"appt_date": "7/3/2024"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/3/2024",
+					"shield_no": "16007"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -68192,7 +68251,7 @@
 		"shield_no": "27123",
 		"appt_date": "1/10/2005",
 		"recognition_count": 2,
-		"arrest_count": 354,
+		"arrest_count": 352,
 		"reports": {
 			"summary": {
 				"command": "024 DOMESTIC VIOLENCE SQUAD",
@@ -71585,7 +71644,7 @@
 		"shield_no": "3843",
 		"appt_date": "1/14/2009",
 		"recognition_count": 12,
-		"arrest_count": 403,
+		"arrest_count": 402,
 		"reports": {
 			"summary": {
 				"command": "DA SQUAD SI",
@@ -72956,6 +73015,37 @@
 			]
 		},
 		"command": "121 PRECINCT"
+	},
+	{
+		"taxid": 952687,
+		"full_name": "DILIETO, LYNN M",
+		"first_name": "LYNN",
+		"last_name": "DILIETO",
+		"middle_initial": "M",
+		"rank": "DETECTIVE SPECIALIST",
+		"shield_no": "3759",
+		"appt_date": "7/11/2012",
+		"recognition_count": 14,
+		"arrest_count": 349,
+		"reports": {
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/11/2012",
+					"shield_no": "22211"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "6/10/2021",
+					"shield_no": "3759"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		}
 	},
 	{
 		"taxid": 929737,
@@ -82078,7 +82168,7 @@
 		"shield_no": "2687",
 		"appt_date": "7/9/2013",
 		"recognition_count": 37,
-		"arrest_count": 288,
+		"arrest_count": 287,
 		"reports": {
 			"summary": {
 				"command": "CEIS METRO SAFE STREETS TF",
@@ -83732,7 +83822,7 @@
 		"shield_no": "31000",
 		"appt_date": "12/29/2021",
 		"recognition_count": 0,
-		"arrest_count": 14,
+		"arrest_count": 13,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 30",
@@ -85329,7 +85419,7 @@
 		"shield_no": "25492",
 		"appt_date": "7/21/2008",
 		"recognition_count": 9,
-		"arrest_count": 264,
+		"arrest_count": 263,
 		"reports": {
 			"summary": {
 				"command": "113 PRECINCT",
@@ -89428,7 +89518,7 @@
 		"shield_no": "2949",
 		"appt_date": "7/6/2011",
 		"recognition_count": 34,
-		"arrest_count": 470,
+		"arrest_count": 469,
 		"reports": {
 			"summary": {
 				"command": "048 DET SQUAD",
@@ -93391,7 +93481,7 @@
 		"shield_no": "1779",
 		"appt_date": "10/12/2021",
 		"recognition_count": 2,
-		"arrest_count": 217,
+		"arrest_count": 215,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT BORO BRONX/QUEENS",
@@ -102463,7 +102553,7 @@
 		"shield_no": "4173",
 		"appt_date": "7/6/2011",
 		"recognition_count": 8,
-		"arrest_count": 317,
+		"arrest_count": 316,
 		"reports": {
 			"summary": {
 				"command": "081 DET SQUAD",
@@ -105687,6 +105777,41 @@
 		"command": "NARC BORO QUEENS SOUTH"
 	},
 	{
+		"taxid": 973082,
+		"full_name": "DUNN, NICHOLAS J",
+		"first_name": "NICHOLAS",
+		"last_name": "DUNN",
+		"middle_initial": "J",
+		"rank": "POLICE OFFICER",
+		"shield_no": "7973",
+		"appt_date": "10/15/2021",
+		"recognition_count": 1,
+		"arrest_count": 148,
+		"reports": {
+			"summary": {
+				"command": "014 PCT-MIDTOWN SO. PCT",
+				"assignment_date": "4/14/2022",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "7973",
+				"appt_date": "10/15/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/15/2021",
+					"shield_no": "7973"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "014 PCT-MIDTOWN SO. PCT"
+	},
+	{
 		"taxid": 944526,
 		"full_name": "DUNN, RYAN",
 		"first_name": "RYAN",
@@ -107206,7 +107331,7 @@
 		"shield_no": "22914",
 		"appt_date": "2/24/2021",
 		"recognition_count": 13,
-		"arrest_count": 242,
+		"arrest_count": 240,
 		"reports": {
 			"summary": {
 				"command": "066 PRECINCT",

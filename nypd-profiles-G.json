@@ -2047,7 +2047,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 19,
-				"misdemeanor": 19
+				"misdemeanor": 20
 			},
 			"awards": []
 		},
@@ -2265,7 +2265,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 56,
+				"felony": 57,
 				"misdemeanor": 162,
 				"violation": 66
 			},
@@ -7896,7 +7896,7 @@
 		"reports": {
 			"summary": {
 				"command": "046 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "27318",
@@ -11751,7 +11751,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 175,
-				"misdemeanor": 204,
+				"misdemeanor": 205,
 				"violation": 14
 			},
 			"awards": [
@@ -12846,8 +12846,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 58,
-				"misdemeanor": 86,
+				"felony": 59,
+				"misdemeanor": 88,
 				"violation": 1
 			},
 			"awards": [
@@ -19266,7 +19266,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 51,
-				"misdemeanor": 35,
+				"misdemeanor": 36,
 				"violation": 3
 			},
 			"awards": [
@@ -27609,7 +27609,7 @@
 		"reports": {
 			"summary": {
 				"command": "030 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "26364",
@@ -31873,7 +31873,7 @@
 		"reports": {
 			"summary": {
 				"command": "033 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "1792",
@@ -37891,7 +37891,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 60,
+				"misdemeanor": 61,
 				"violation": 3
 			},
 			"awards": []
@@ -40567,7 +40567,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 54
+				"misdemeanor": 56
 			},
 			"awards": []
 		},
@@ -41874,7 +41874,7 @@
 		"reports": {
 			"summary": {
 				"command": "061 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "7627",
@@ -47533,7 +47533,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 144,
+				"felony": 145,
 				"misdemeanor": 88,
 				"violation": 2
 			},
@@ -48755,7 +48755,7 @@
 		"reports": {
 			"summary": {
 				"command": "047 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "13028",
@@ -55212,7 +55212,7 @@
 			],
 			"arrests": {
 				"felony": 158,
-				"misdemeanor": 222,
+				"misdemeanor": 223,
 				"violation": 22
 			},
 			"awards": [
@@ -57594,10 +57594,10 @@
 		"arrest_count": 313,
 		"reports": {
 			"summary": {
-				"command": "110TH DET SQUAD",
-				"assignment_date": "2/12/2023",
+				"command": "102ND DET SQUAD",
+				"assignment_date": "10/16/2026",
 				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE 3RD GRADE",
+				"rank_desc": "POLICE OFFICER",
 				"shield_no": "4322",
 				"appt_date": "1/9/2013"
 			},
@@ -57611,6 +57611,11 @@
 					"rank": "DETECTIVE",
 					"date": "5/31/2024",
 					"shield_no": "4322"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/16/2026",
+					"shield_no": "24295"
 				}
 			],
 			"documents": [],
@@ -57618,7 +57623,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 6,
-				"felony": 120,
+				"felony": 121,
 				"misdemeanor": 172,
 				"violation": 15
 			},
@@ -57629,7 +57634,7 @@
 				}
 			]
 		},
-		"command": "110TH DET SQUAD"
+		"command": "102ND DET SQUAD"
 	},
 	{
 		"taxid": 982305,
@@ -59117,7 +59122,7 @@
 			"arrests": {
 				"infraction": 4,
 				"felony": 166,
-				"misdemeanor": 515,
+				"misdemeanor": 517,
 				"violation": 81
 			},
 			"awards": [
@@ -59162,7 +59167,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 11,
-				"misdemeanor": 84,
+				"misdemeanor": 85,
 				"violation": 10
 			},
 			"awards": [
@@ -62046,7 +62051,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 132,
-				"misdemeanor": 114
+				"misdemeanor": 118
 			},
 			"awards": [
 				{
@@ -64556,7 +64561,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 18,
-				"misdemeanor": 120,
+				"misdemeanor": 121,
 				"other": 8,
 				"violation": 3
 			},
@@ -69227,7 +69232,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 128,
-				"misdemeanor": 215,
+				"misdemeanor": 216,
 				"violation": 33
 			},
 			"awards": [
@@ -71017,7 +71022,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 8,
-				"misdemeanor": 19
+				"misdemeanor": 20
 			},
 			"awards": []
 		},
@@ -78481,7 +78486,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 127,
+				"felony": 129,
 				"misdemeanor": 97,
 				"violation": 11
 			},
@@ -82415,7 +82420,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 66,
+				"felony": 68,
 				"misdemeanor": 43,
 				"violation": 1
 			},
@@ -84085,8 +84090,8 @@
 		"arrest_count": 85,
 		"reports": {
 			"summary": {
-				"command": "EMER SERV SQ 10",
-				"assignment_date": "4/27/2018",
+				"command": "EMERGENCY SERVICE UNIT",
+				"assignment_date": "10/12/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DETECTIVE SPECIALIST",
 				"shield_no": "4140",
@@ -84127,7 +84132,7 @@
 				}
 			]
 		},
-		"command": "EMER SERV SQ 10"
+		"command": "EMERGENCY SERVICE UNIT"
 	},
 	{
 		"taxid": 971742,
@@ -86786,7 +86791,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 102,
-				"misdemeanor": 87,
+				"misdemeanor": 88,
 				"violation": 4
 			},
 			"awards": [
@@ -91479,7 +91484,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 5,
-				"felony": 255,
+				"felony": 256,
 				"misdemeanor": 133,
 				"violation": 12
 			},
@@ -103819,7 +103824,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 45,
+				"misdemeanor": 46,
 				"violation": 11
 			},
 			"awards": []
@@ -105218,7 +105223,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 25,
-				"misdemeanor": 25,
+				"misdemeanor": 27,
 				"violation": 1
 			},
 			"awards": [
@@ -115556,7 +115561,7 @@
 		"reports": {
 			"summary": {
 				"command": "INTEL CIS FIO PROGRAM",
-				"assignment_date": "8/2/2026",
+				"assignment_date": "10/13/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "22802",
@@ -122318,7 +122323,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 13,
-				"misdemeanor": 39
+				"misdemeanor": 40
 			},
 			"awards": [
 				{
@@ -122640,7 +122645,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 156,
+				"felony": 157,
 				"misdemeanor": 45,
 				"other": 1
 			},
@@ -123179,7 +123184,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 82,
+				"misdemeanor": 83,
 				"other": 1,
 				"violation": 8
 			},

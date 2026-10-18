@@ -5803,7 +5803,7 @@
 		"reports": {
 			"summary": {
 				"command": "CHIEF OF DEPARTMENT",
-				"assignment_date": "7/13/2026",
+				"assignment_date": "10/14/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "DETECTIVE 2ND GRADE",
 				"shield_no": "3465",
@@ -9457,7 +9457,7 @@
 		"reports": {
 			"summary": {
 				"command": "041 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "31189",
@@ -9475,7 +9475,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 125,
+				"felony": 126,
 				"misdemeanor": 216,
 				"violation": 1
 			},
@@ -13951,7 +13951,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 19,
+				"felony": 21,
 				"misdemeanor": 23,
 				"other": 1,
 				"violation": 2
@@ -22623,7 +22623,7 @@
 		"reports": {
 			"summary": {
 				"command": "040 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "19482",
@@ -27760,9 +27760,9 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 216,
-				"misdemeanor": 167,
-				"other": 3,
+				"felony": 217,
+				"misdemeanor": 169,
+				"other": 4,
 				"violation": 5
 			},
 			"awards": [
@@ -28836,7 +28836,7 @@
 		"reports": {
 			"summary": {
 				"command": "028 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "9313",

@@ -669,7 +669,7 @@
 		"reports": {
 			"summary": {
 				"command": "052 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "11013",
@@ -6160,7 +6160,7 @@
 		"shield_no": "3734",
 		"appt_date": "7/2/2001",
 		"recognition_count": 3,
-		"arrest_count": 262,
+		"arrest_count": 264,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 30",
@@ -6188,7 +6188,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 14,
-				"misdemeanor": 216,
+				"misdemeanor": 218,
 				"other": 1,
 				"violation": 30
 			},
@@ -8619,7 +8619,7 @@
 		"shield_no": "29238",
 		"appt_date": "12/29/2021",
 		"recognition_count": 0,
-		"arrest_count": 70,
+		"arrest_count": 71,
 		"reports": {
 			"summary": {
 				"command": "107 PRECINCT",
@@ -13815,7 +13815,7 @@
 		"shield_no": "5307",
 		"appt_date": "4/12/2017",
 		"recognition_count": 3,
-		"arrest_count": 124,
+		"arrest_count": 129,
 		"reports": {
 			"summary": {
 				"command": "044 DOMESTIC VIOLENCE SQUAD",
@@ -13836,8 +13836,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 49,
-				"misdemeanor": 75
+				"felony": 50,
+				"misdemeanor": 79
 			},
 			"awards": [
 				{
@@ -17273,7 +17273,7 @@
 		"shield_no": "5552",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 29,
+		"arrest_count": 32,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -21454,7 +21454,7 @@
 		"shield_no": "31608",
 		"appt_date": "11/1/2023",
 		"recognition_count": 0,
-		"arrest_count": 87,
+		"arrest_count": 88,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 32",
@@ -29895,7 +29895,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 117,
-				"misdemeanor": 102,
+				"misdemeanor": 103,
 				"violation": 3
 			},
 			"awards": [
@@ -29933,7 +29933,7 @@
 		"shield_no": "1645",
 		"appt_date": "10/19/2022",
 		"recognition_count": 0,
-		"arrest_count": 265,
+		"arrest_count": 267,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT BORO BRONX/QUEENS",
@@ -29955,7 +29955,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 30,
-				"misdemeanor": 231,
+				"misdemeanor": 233,
 				"violation": 4
 			},
 			"awards": []
@@ -40776,7 +40776,7 @@
 		"shield_no": "717",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 32,
+		"arrest_count": 34,
 		"reports": {
 			"summary": {
 				"command": "090 PRECINCT",
@@ -40797,8 +40797,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 13,
-				"misdemeanor": 19
+				"felony": 14,
+				"misdemeanor": 20
 			},
 			"awards": []
 		},
@@ -43892,7 +43892,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 68,
-				"misdemeanor": 44
+				"misdemeanor": 45
 			},
 			"awards": [
 				{
@@ -48114,62 +48114,6 @@
 		"command": "IAB INVESTIGATIONS UNIT 41"
 	},
 	{
-		"taxid": 955940,
-		"full_name": "FOLEY, DONNA P",
-		"first_name": "DONNA",
-		"last_name": "FOLEY",
-		"middle_initial": "P",
-		"rank": "POLICE OFFICER",
-		"shield_no": "722",
-		"appt_date": "1/8/2014",
-		"recognition_count": 4,
-		"arrest_count": 67,
-		"reports": {
-			"summary": {
-				"command": "WAREHOUSE SYSTEM",
-				"assignment_date": "3/6/2024",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "722",
-				"appt_date": "1/8/2014"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/8/2014",
-					"shield_no": "722"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 19,
-				"misdemeanor": 37,
-				"violation": 11
-			},
-			"awards": [
-				{
-					"date": "4/29/2023",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "4/11/2018",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "4/11/2018",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "10/9/2017",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
-		},
-		"command": "WAREHOUSE SYSTEM"
-	},
-	{
 		"taxid": 938493,
 		"full_name": "FOLEY, JOHN E",
 		"first_name": "JOHN",
@@ -49243,7 +49187,7 @@
 		"reports": {
 			"summary": {
 				"command": "120 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "12434",
@@ -51306,7 +51250,7 @@
 		"shield_no": "7101",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 66,
+		"arrest_count": 68,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -51328,7 +51272,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 49
+				"misdemeanor": 51
 			},
 			"awards": []
 		},
@@ -52127,8 +52071,8 @@
 		"arrest_count": 169,
 		"reports": {
 			"summary": {
-				"command": "IAB GROUP 21",
-				"assignment_date": "11/24/2025",
+				"command": "BRONX COURT SECTION",
+				"assignment_date": "10/13/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -52178,7 +52122,7 @@
 				}
 			]
 		},
-		"command": "IAB GROUP 21"
+		"command": "BRONX COURT SECTION"
 	},
 	{
 		"taxid": 941774,
@@ -54150,11 +54094,11 @@
 		"shield_no": "29311",
 		"appt_date": "7/9/2013",
 		"recognition_count": 3,
-		"arrest_count": 237,
+		"arrest_count": 239,
 		"reports": {
 			"summary": {
 				"command": "115 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "29311",
@@ -54172,7 +54116,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 66,
+				"felony": 68,
 				"misdemeanor": 141,
 				"violation": 29
 			},
@@ -56544,7 +56488,7 @@
 		"shield_no": "16836",
 		"appt_date": "7/7/2021",
 		"recognition_count": 1,
-		"arrest_count": 153,
+		"arrest_count": 154,
 		"reports": {
 			"summary": {
 				"command": "114 DOMESTIC VIOLENCE SQUAD",
@@ -62641,7 +62585,7 @@
 		"shield_no": "30613",
 		"appt_date": "12/29/2021",
 		"recognition_count": 0,
-		"arrest_count": 166,
+		"arrest_count": 170,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",
@@ -66206,7 +66150,7 @@
 		"shield_no": "14184",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 25,
+		"arrest_count": 26,
 		"reports": {
 			"summary": {
 				"command": "032 PRECINCT",
@@ -69142,7 +69086,7 @@
 		"shield_no": "15217",
 		"appt_date": "7/9/2013",
 		"recognition_count": 3,
-		"arrest_count": 111,
+		"arrest_count": 112,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 33",
@@ -69163,7 +69107,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 104,
 				"violation": 3
 			},

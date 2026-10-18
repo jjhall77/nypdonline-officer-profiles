@@ -734,7 +734,7 @@
 		"shield_no": "732",
 		"appt_date": "1/9/2013",
 		"recognition_count": 26,
-		"arrest_count": 312,
+		"arrest_count": 313,
 		"reports": {
 			"summary": {
 				"command": "032 DET SQUAD",
@@ -760,7 +760,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 166,
+				"felony": 167,
 				"misdemeanor": 140,
 				"other": 1,
 				"violation": 5
@@ -1325,7 +1325,7 @@
 		"shield_no": "11209",
 		"appt_date": "4/24/2024",
 		"recognition_count": 1,
-		"arrest_count": 37,
+		"arrest_count": 38,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -1686,7 +1686,7 @@
 		"shield_no": "5516",
 		"appt_date": "10/12/2021",
 		"recognition_count": 4,
-		"arrest_count": 441,
+		"arrest_count": 442,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
@@ -1890,7 +1890,7 @@
 		"shield_no": "13659",
 		"appt_date": "10/25/2023",
 		"recognition_count": 1,
-		"arrest_count": 92,
+		"arrest_count": 96,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -2470,7 +2470,7 @@
 		"shield_no": "20513",
 		"appt_date": "7/1/2019",
 		"recognition_count": 0,
-		"arrest_count": 104,
+		"arrest_count": 105,
 		"reports": {
 			"summary": {
 				"command": "079 DOMESTIC VIOLENCE SQUAD",
@@ -7967,7 +7967,7 @@
 		"shield_no": "7327",
 		"appt_date": "4/13/2022",
 		"recognition_count": 0,
-		"arrest_count": 75,
+		"arrest_count": 76,
 		"reports": {
 			"summary": {
 				"command": "084 PRECINCT",
@@ -8524,7 +8524,7 @@
 		"shield_no": "1069",
 		"appt_date": "7/11/2005",
 		"recognition_count": 1,
-		"arrest_count": 440,
+		"arrest_count": 441,
 		"reports": {
 			"summary": {
 				"command": "HATE CRIMES TASK FORCE",
@@ -10727,7 +10727,7 @@
 		"shield_no": "12803",
 		"appt_date": "10/25/2023",
 		"recognition_count": 0,
-		"arrest_count": 28,
+		"arrest_count": 29,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 3",
@@ -14670,7 +14670,7 @@
 		"shield_no": "6294",
 		"appt_date": "7/1/2001",
 		"recognition_count": 4,
-		"arrest_count": 752,
+		"arrest_count": 754,
 		"reports": {
 			"summary": {
 				"command": "108TH DET SQUAD",
@@ -16081,7 +16081,7 @@
 		"shield_no": "909",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 54,
+		"arrest_count": 55,
 		"reports": {
 			"summary": {
 				"command": "084 PRECINCT",
@@ -21266,7 +21266,7 @@
 		"shield_no": "1730",
 		"appt_date": "10/15/2021",
 		"recognition_count": 2,
-		"arrest_count": 64,
+		"arrest_count": 65,
 		"reports": {
 			"summary": {
 				"command": "079 PRECINCT",
@@ -27009,7 +27009,7 @@
 		"shield_no": "6961",
 		"appt_date": "7/11/2005",
 		"recognition_count": 22,
-		"arrest_count": 850,
+		"arrest_count": 852,
 		"reports": {
 			"summary": {
 				"command": "073 DET SQUAD",
@@ -30765,7 +30765,7 @@
 		"shield_no": "2399",
 		"appt_date": "1/17/2023",
 		"recognition_count": 0,
-		"arrest_count": 46,
+		"arrest_count": 48,
 		"reports": {
 			"summary": {
 				"command": "071 PRECINCT",
@@ -32834,7 +32834,7 @@
 		"shield_no": "1784",
 		"appt_date": "1/10/2007",
 		"recognition_count": 8,
-		"arrest_count": 699,
+		"arrest_count": 700,
 		"reports": {
 			"summary": {
 				"command": "077 DET SQUAD",
@@ -35520,7 +35520,7 @@
 		"shield_no": "15356",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 11,
+		"arrest_count": 12,
 		"reports": {
 			"summary": {
 				"command": "069 PRECINCT",
@@ -36498,7 +36498,7 @@
 		"shield_no": "6232",
 		"appt_date": "10/15/2021",
 		"recognition_count": 0,
-		"arrest_count": 47,
+		"arrest_count": 48,
 		"reports": {
 			"summary": {
 				"command": "071 PRECINCT",
@@ -38389,11 +38389,11 @@
 		"shield_no": "27633",
 		"appt_date": "7/7/2021",
 		"recognition_count": 2,
-		"arrest_count": 82,
+		"arrest_count": 86,
 		"reports": {
 			"summary": {
 				"command": "079 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "27633",
@@ -39459,7 +39459,7 @@
 		"shield_no": "965",
 		"appt_date": "7/9/2007",
 		"recognition_count": 10,
-		"arrest_count": 402,
+		"arrest_count": 403,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 33",
@@ -41971,7 +41971,7 @@
 		"shield_no": "9074",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 88,
+		"arrest_count": 90,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -46882,7 +46882,7 @@
 		"shield_no": "12547",
 		"appt_date": "7/7/2021",
 		"recognition_count": 0,
-		"arrest_count": 49,
+		"arrest_count": 50,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 3 BROOKLYN",
@@ -47202,7 +47202,7 @@
 		"shield_no": "746",
 		"appt_date": "1/17/2024",
 		"recognition_count": 3,
-		"arrest_count": 40,
+		"arrest_count": 42,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -49312,7 +49312,7 @@
 		"shield_no": "1330",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 16,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
@@ -53233,7 +53233,12 @@
 				"other": 1,
 				"violation": 1
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "12/4/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "111 PRECINCT"
 	},
@@ -53586,7 +53591,7 @@
 		"shield_no": "19570",
 		"appt_date": "4/28/2021",
 		"recognition_count": 1,
-		"arrest_count": 26,
+		"arrest_count": 27,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -56241,7 +56246,7 @@
 		"shield_no": "4486",
 		"appt_date": "10/15/2021",
 		"recognition_count": 0,
-		"arrest_count": 24,
+		"arrest_count": 26,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",

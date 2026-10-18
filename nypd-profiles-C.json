@@ -9160,7 +9160,13 @@
 				"shield_no": "7604",
 				"appt_date": "1/17/2023"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/17/2023",
+					"shield_no": "7604"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -10460,7 +10466,7 @@
 		"reports": {
 			"summary": {
 				"command": "075 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "10/15/2026",
+				"assignment_date": "7/17/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "8275",
@@ -14796,8 +14802,8 @@
 		"arrest_count": 39,
 		"reports": {
 			"summary": {
-				"command": "005 PRECINCT",
-				"assignment_date": "10/13/2026",
+				"command": "AUTO CRIME UNIT",
+				"assignment_date": "7/16/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "3387",
@@ -14819,7 +14825,7 @@
 			},
 			"awards": []
 		},
-		"command": "005 PRECINCT"
+		"command": "AUTO CRIME UNIT"
 	},
 	{
 		"taxid": 933669,
@@ -73894,7 +73900,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 62,
-				"misdemeanor": 117
+				"misdemeanor": 118
 			},
 			"awards": [
 				{
@@ -80653,7 +80659,30 @@
 		"recognition_count": 0,
 		"arrest_count": 28,
 		"reports": {
-			"discipline": []
+			"summary": {
+				"command": "TRANSIT DISTRICT 34",
+				"assignment_date": "12/23/2024",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "15010",
+				"appt_date": "7/19/2023"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/19/2023",
+					"shield_no": "15010"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 1,
+				"misdemeanor": 19,
+				"violation": 8
+			},
+			"awards": []
 		},
 		"command": "TRANSIT DISTRICT 34"
 	},
@@ -105585,8 +105614,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 76,
-				"misdemeanor": 182,
+				"felony": 77,
+				"misdemeanor": 183,
 				"violation": 2
 			},
 			"awards": [
@@ -130940,8 +130969,8 @@
 		"arrest_count": 49,
 		"reports": {
 			"summary": {
-				"command": "001 PRECINCT",
-				"assignment_date": "10/12/2026",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "9/28/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -130982,7 +131011,7 @@
 				}
 			]
 		},
-		"command": "001 PRECINCT"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 921040,
@@ -162566,7 +162595,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 226,
+				"felony": 228,
 				"misdemeanor": 66,
 				"violation": 2
 			},
@@ -178523,7 +178552,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 20,
+				"misdemeanor": 21,
 				"violation": 1
 			},
 			"awards": []

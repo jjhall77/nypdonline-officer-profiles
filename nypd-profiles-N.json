@@ -5891,7 +5891,7 @@
 		"shield_no": "4753",
 		"appt_date": "7/9/2013",
 		"recognition_count": 0,
-		"arrest_count": 355,
+		"arrest_count": 356,
 		"reports": {
 			"summary": {
 				"command": "122 DETECTIVE SQUAD",
@@ -8029,7 +8029,7 @@
 		"shield_no": "3412",
 		"appt_date": "7/20/2006",
 		"recognition_count": 1,
-		"arrest_count": 426,
+		"arrest_count": 427,
 		"reports": {
 			"summary": {
 				"command": "023 DET SQUAD",
@@ -8143,7 +8143,7 @@
 		"shield_no": "24775",
 		"appt_date": "7/7/2021",
 		"recognition_count": 1,
-		"arrest_count": 69,
+		"arrest_count": 70,
 		"reports": {
 			"summary": {
 				"command": "112 PRECINCT",
@@ -13161,7 +13161,7 @@
 		"shield_no": "14640",
 		"appt_date": "1/17/2024",
 		"recognition_count": 0,
-		"arrest_count": 174,
+		"arrest_count": 176,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 20",
@@ -16199,7 +16199,7 @@
 		"shield_no": "16361",
 		"appt_date": "7/13/2022",
 		"recognition_count": 0,
-		"arrest_count": 18,
+		"arrest_count": 20,
 		"reports": {
 			"summary": {
 				"command": "006 PRECINCT",
@@ -27048,6 +27048,21 @@
 			},
 			"ranks": [
 				{
+					"rank": "POLICE OFFICER",
+					"date": "7/1/2004",
+					"shield_no": "24511"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "7/24/2008",
+					"shield_no": "1990"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "11/24/2009",
+					"shield_no": "1365"
+				},
+				{
 					"rank": "LIEUTENANT",
 					"date": "4/26/2013",
 					"shield_no": ""
@@ -27076,8 +27091,32 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 11,
+				"misdemeanor": 23
+			},
+			"awards": [
+				{
+					"date": "10/18/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/9/2014",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/15/2006",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/3/2005",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/26/2005",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "INTELLIGENCE DIVISION"
 	},
@@ -28137,7 +28176,7 @@
 		"shield_no": "27235",
 		"appt_date": "7/14/2009",
 		"recognition_count": 0,
-		"arrest_count": 142,
+		"arrest_count": 143,
 		"reports": {
 			"summary": {
 				"command": "SSD YOUTH RESPONSE TEAM",
@@ -31796,7 +31835,7 @@
 		"shield_no": "16332",
 		"appt_date": "7/5/2023",
 		"recognition_count": 0,
-		"arrest_count": 68,
+		"arrest_count": 70,
 		"reports": {
 			"summary": {
 				"command": "108 PRECINCT",
@@ -34453,7 +34492,7 @@
 		"shield_no": "27488",
 		"appt_date": "7/7/2021",
 		"recognition_count": 2,
-		"arrest_count": 354,
+		"arrest_count": 358,
 		"reports": {
 			"summary": {
 				"command": "070 DOMESTIC VIOLENCE SQUAD",
@@ -35367,7 +35406,7 @@
 		"shield_no": "23012",
 		"appt_date": "12/29/2021",
 		"recognition_count": 0,
-		"arrest_count": 57,
+		"arrest_count": 58,
 		"reports": {
 			"summary": {
 				"command": "007 PRECINCT",
@@ -35654,11 +35693,11 @@
 		"shield_no": "24932",
 		"appt_date": "7/11/2012",
 		"recognition_count": 9,
-		"arrest_count": 193,
+		"arrest_count": 194,
 		"reports": {
 			"summary": {
 				"command": "116 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/17/2026",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "24932",
@@ -36653,8 +36692,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 76,
-				"misdemeanor": 53
+				"felony": 77,
+				"misdemeanor": 55
 			},
 			"awards": [
 				{
@@ -39386,7 +39425,7 @@
 		"shield_no": "7655",
 		"appt_date": "10/12/2021",
 		"recognition_count": 0,
-		"arrest_count": 49,
+		"arrest_count": 50,
 		"reports": {
 			"summary": {
 				"command": "010 PRECINCT",
@@ -40244,7 +40283,7 @@
 		"shield_no": "22664",
 		"appt_date": "7/13/2022",
 		"recognition_count": 0,
-		"arrest_count": 75,
+		"arrest_count": 76,
 		"reports": {
 			"summary": {
 				"command": "094 PRECINCT",
@@ -40304,7 +40343,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 72,
+				"misdemeanor": 73,
 				"violation": 8
 			},
 			"awards": [
