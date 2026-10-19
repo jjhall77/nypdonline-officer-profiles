@@ -1689,7 +1689,7 @@
 		"shield_no": "22092",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 12,
+		"arrest_count": 13,
 		"reports": {
 			"summary": {
 				"command": "023 PRECINCT",
@@ -4277,7 +4277,7 @@
 		"shield_no": "1965",
 		"appt_date": "1/7/2008",
 		"recognition_count": 5,
-		"arrest_count": 633,
+		"arrest_count": 634,
 		"reports": {
 			"summary": {
 				"command": "103RD DETECTIVE SQUAD",
@@ -4403,7 +4403,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 3
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -5915,7 +5915,7 @@
 		"shield_no": "20500",
 		"appt_date": "12/29/2021",
 		"recognition_count": 7,
-		"arrest_count": 157,
+		"arrest_count": 162,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -6579,7 +6579,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 5
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -7559,7 +7559,7 @@
 		"shield_no": "19584",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 16,
 		"reports": {
 			"summary": {
 				"command": "066 PRECINCT",
@@ -7935,7 +7935,7 @@
 		"first_name": "MICHAEL",
 		"last_name": "YORK",
 		"middle_initial": "P",
-		"rank": "DETECTIVE SPECIALIST",
+		"rank": "DETECTIVE 3RD GRADE",
 		"shield_no": "5971",
 		"appt_date": "1/8/2014",
 		"recognition_count": 5,
@@ -7943,9 +7943,9 @@
 		"reports": {
 			"summary": {
 				"command": "INTEL CIS FIO PROGRAM",
-				"assignment_date": "7/20/2026",
+				"assignment_date": "10/17/2026",
 				"ethnicity": "WHITE",
-				"rank_desc": "DETECTIVE SPECIALIST",
+				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "5971",
 				"appt_date": "1/8/2014"
 			},
@@ -8010,7 +8010,7 @@
 		"shield_no": "6790",
 		"appt_date": "7/6/2010",
 		"recognition_count": 4,
-		"arrest_count": 458,
+		"arrest_count": 459,
 		"reports": {
 			"summary": {
 				"command": "112TH DET SQUAD",
@@ -8771,7 +8771,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 71,
-				"misdemeanor": 137,
+				"misdemeanor": 138,
 				"violation": 1
 			},
 			"awards": [
@@ -9619,7 +9619,7 @@
 		"shield_no": "21486",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 47,
+		"arrest_count": 24,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 20",
