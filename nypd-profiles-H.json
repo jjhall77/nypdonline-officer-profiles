@@ -14464,7 +14464,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 35,
+				"felony": 36,
 				"misdemeanor": 43
 			},
 			"awards": []
@@ -19948,7 +19948,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 89,
-				"misdemeanor": 54,
+				"misdemeanor": 56,
 				"violation": 1
 			},
 			"awards": []
@@ -49195,7 +49195,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 9,
+				"felony": 11,
 				"misdemeanor": 30
 			},
 			"awards": []
@@ -55561,7 +55561,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 23,
-				"misdemeanor": 43
+				"misdemeanor": 44
 			},
 			"awards": []
 		},
@@ -79049,7 +79049,7 @@
 		"reports": {
 			"summary": {
 				"command": "HARBOR UNIT SUMMER DETAIL",
-				"assignment_date": "5/18/2026",
+				"assignment_date": "10/17/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "13172",

@@ -73,8 +73,36 @@
 					"type": "Trial Decision"
 				}
 			],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "9/17/2010 12:00:00 AM",
+					"charges_count": 3
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "GUILTY",
+							"description": "WHILE ON DUTY, WRONGFULLY AND WITHOUT JUST CAUSE USED FORCE AGAINST A PERSON KNOWN TO THE DEPARTMENT.",
+							"group_id": "1",
+							"penalty": "VACATION DAYS (20 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT IN THAT HE WRONGFULLY AND WITHOUT JUST CAUSE HELD A PERSON KNOWN TO THE DEPARTMENT WITHOUT LEGAL AUTHORITY TO DO SO.",
+							"group_id": "1",
+							"penalty": "VACATION DAYS (20 day(s) )"
+						},
+						{
+							"disposition": "GUILTY",
+							"description": "ABUSED HIS AUTHORITY AS A MEMBER OF THE NEW YORK CITY POLICE DEPARTMENT IN THAT HE WRONGFULLY AND WITHOUT JUST CAUSE ENTERED A PERSON KNOWN TO THE DEPARTMENT WITHOUT LEGAL AUTHORITY TO DO SO.",
+							"group_id": "1",
+							"penalty": "VACATION DAYS (20 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"felony": 180,
 				"misdemeanor": 454,
@@ -13966,7 +13994,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 15,
+				"felony": 16,
 				"misdemeanor": 18
 			},
 			"awards": []
@@ -24452,7 +24480,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 32,
-				"misdemeanor": 22
+				"misdemeanor": 23
 			},
 			"awards": []
 		},
@@ -31412,7 +31440,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 23,
+				"felony": 24,
 				"misdemeanor": 53
 			},
 			"awards": [
@@ -39445,6 +39473,14 @@
 				"violation": 4
 			},
 			"awards": [
+				{
+					"date": "1/29/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/11/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "10/8/2015",
 					"name": "EXCELLENT POLICE DUTY"
@@ -58463,7 +58499,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 2,
-				"misdemeanor": 69,
+				"misdemeanor": 70,
 				"other": 1,
 				"violation": 1
 			},
@@ -65893,7 +65929,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
+				"felony": 7,
 				"misdemeanor": 12
 			},
 			"awards": []
@@ -71960,6 +71996,14 @@
 		"recognition_count": 6,
 		"arrest_count": 869,
 		"reports": {
+			"summary": {
+				"command": "PSA 6 VIPER 1",
+				"assignment_date": "4/22/2025",
+				"ethnicity": "BLACK",
+				"rank_desc": "DETECTIVE 2ND GRADE",
+				"shield_no": "261",
+				"appt_date": "1/10/2005"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -84766,7 +84810,18 @@
 				"shield_no": "18958",
 				"appt_date": "1/3/2024"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/3/2024",
+					"shield_no": "21084"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/25/2024",
+					"shield_no": "18958"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -102276,8 +102331,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 22,
-				"misdemeanor": 48,
+				"felony": 23,
+				"misdemeanor": 51,
 				"violation": 1
 			},
 			"awards": [
@@ -110877,7 +110932,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 13,
-				"misdemeanor": 13
+				"misdemeanor": 15
 			},
 			"awards": []
 		},
@@ -117576,7 +117631,18 @@
 				"shield_no": "302",
 				"appt_date": "10/7/2015"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/7/2015",
+					"shield_no": "21579"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "9/28/2026",
+					"shield_no": "302"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],

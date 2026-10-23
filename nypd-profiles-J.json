@@ -1114,7 +1114,7 @@
 		"shield_no": "26565",
 		"appt_date": "1/3/2024",
 		"recognition_count": 1,
-		"arrest_count": 50,
+		"arrest_count": 51,
 		"reports": {
 			"summary": {
 				"command": "083 PRECINCT",
@@ -3030,7 +3030,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 11
+				"misdemeanor": 13
 			},
 			"awards": []
 		},
@@ -9467,7 +9467,7 @@
 		"shield_no": "9076",
 		"appt_date": "7/9/2007",
 		"recognition_count": 0,
-		"arrest_count": 172,
+		"arrest_count": 173,
 		"reports": {
 			"summary": {
 				"command": "013 DOMESTIC VIOLENCE SQUAD",
@@ -9834,7 +9834,7 @@
 		"shield_no": "8921",
 		"appt_date": "10/12/2021",
 		"recognition_count": 0,
-		"arrest_count": 36,
+		"arrest_count": 37,
 		"reports": {
 			"summary": {
 				"command": "TB ANTI TERRORISM UNIT",
@@ -16838,7 +16838,7 @@
 		"shield_no": "24771",
 		"appt_date": "10/25/2023",
 		"recognition_count": 0,
-		"arrest_count": 113,
+		"arrest_count": 114,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 12",
@@ -17463,7 +17463,7 @@
 		"shield_no": "16581",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 41,
+		"arrest_count": 42,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -20670,7 +20670,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "15713",
 		"appt_date": "7/5/2023",
-		"recognition_count": 0,
+		"recognition_count": 1,
 		"arrest_count": 40,
 		"reports": {
 			"summary": {
@@ -20903,7 +20903,12 @@
 				"misdemeanor": 52,
 				"other": 1
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "2/15/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "111 PRECINCT"
 	},
@@ -21965,7 +21970,7 @@
 		"shield_no": "24653",
 		"appt_date": "2/24/2021",
 		"recognition_count": 22,
-		"arrest_count": 245,
+		"arrest_count": 246,
 		"reports": {
 			"summary": {
 				"command": "046 DET SQUAD",
@@ -28725,7 +28730,7 @@
 		"shield_no": "22335",
 		"appt_date": "7/16/2021",
 		"recognition_count": 0,
-		"arrest_count": 73,
+		"arrest_count": 74,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 1 MANHATTAN",
@@ -28882,8 +28887,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 72,
-				"misdemeanor": 155,
+				"felony": 73,
+				"misdemeanor": 157,
 				"other": 1,
 				"violation": 12
 			},
@@ -34918,41 +34923,6 @@
 		"command": "083 PRECINCT"
 	},
 	{
-		"taxid": 972714,
-		"full_name": "JOHNSTON, JUSTIN M",
-		"first_name": "JUSTIN",
-		"last_name": "JOHNSTON",
-		"middle_initial": "M",
-		"rank": "POLICE OFFICER",
-		"shield_no": "5219",
-		"appt_date": "10/12/2021",
-		"recognition_count": 6,
-		"arrest_count": 236,
-		"reports": {
-			"summary": {
-				"command": "PBBN COMMUNITY RESPONSE TEAM",
-				"assignment_date": "4/30/2026",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "5219",
-				"appt_date": "10/12/2021"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/12/2021",
-					"shield_no": "5219"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "PBBN COMMUNITY RESPONSE TEAM"
-	},
-	{
 		"taxid": 982801,
 		"full_name": "JOHNSTON, MATTHEW J",
 		"first_name": "MATTHEW",
@@ -36575,7 +36545,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 34,
-				"misdemeanor": 61
+				"misdemeanor": 62
 			},
 			"awards": []
 		},
@@ -37478,7 +37448,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 9,
+				"felony": 10,
 				"misdemeanor": 18
 			},
 			"awards": [
@@ -38166,7 +38136,7 @@
 		"shield_no": "7873",
 		"appt_date": "4/13/2022",
 		"recognition_count": 1,
-		"arrest_count": 24,
+		"arrest_count": 26,
 		"reports": {
 			"summary": {
 				"command": "101 PRECINCT",
@@ -40914,7 +40884,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 16,
-				"misdemeanor": 28,
+				"misdemeanor": 29,
 				"violation": 1
 			},
 			"awards": []
@@ -44268,7 +44238,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 26
+				"misdemeanor": 27
 			},
 			"awards": []
 		},

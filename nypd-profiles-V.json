@@ -930,7 +930,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 26,
-				"misdemeanor": 56,
+				"misdemeanor": 57,
 				"violation": 1
 			},
 			"awards": []
@@ -9377,7 +9377,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 10,
+				"felony": 12,
 				"misdemeanor": 26
 			},
 			"awards": []
@@ -24847,7 +24847,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 9
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -28029,8 +28029,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 16,
-				"misdemeanor": 20,
+				"felony": 17,
+				"misdemeanor": 21,
 				"violation": 2
 			},
 			"awards": []
@@ -32875,7 +32875,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 20,
+				"felony": 21,
 				"misdemeanor": 35,
 				"other": 4
 			},
@@ -37573,26 +37573,11 @@
 				"shield_no": "2792",
 				"appt_date": "7/11/2005"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "12/12/2008",
-					"shield_no": "20197"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "6/9/2017",
-					"shield_no": "2792"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 30,
-				"misdemeanor": 47,
-				"violation": 3
-			},
+			"arrests": {},
 			"awards": []
 		},
 		"command": "PROFESSIONAL STANDARDS DIV"

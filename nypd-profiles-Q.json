@@ -3210,7 +3210,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 155,
+				"misdemeanor": 156,
 				"other": 1,
 				"violation": 8
 			},
@@ -5383,7 +5383,7 @@
 		"shield_no": "15973",
 		"appt_date": "10/19/2022",
 		"recognition_count": 5,
-		"arrest_count": 80,
+		"arrest_count": 82,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 5",
@@ -7056,8 +7056,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "13591",
 		"appt_date": "4/28/2021",
-		"recognition_count": 0,
-		"arrest_count": 101,
+		"recognition_count": 1,
+		"arrest_count": 102,
 		"reports": {
 			"summary": {
 				"command": "032 PRECINCT",
@@ -7465,30 +7465,8 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 35,
-				"misdemeanor": 78,
-				"violation": 1
-			},
-			"awards": [
-				{
-					"date": "2/15/2022",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "10/18/2019",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "9/4/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "4/18/2016",
-					"name": "MERITORIOUS POLICE DUTY"
-				}
-			]
+			"arrests": {},
+			"awards": []
 		},
 		"command": "MANHATTAN STANDARDS & ASSESSMENTS UNIT"
 	},

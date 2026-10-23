@@ -542,7 +542,7 @@
 				"infraction": 2,
 				"felony": 4,
 				"misdemeanor": 17,
-				"violation": 3
+				"violation": 4
 			},
 			"awards": []
 		},
@@ -3849,8 +3849,8 @@
 		"arrest_count": 308,
 		"reports": {
 			"summary": {
-				"command": "047 DOMESTIC VIOLENCE SQUAD",
-				"assignment_date": "7/24/2026",
+				"command": "040 DOMESTIC VIOLENCE SQUAD",
+				"assignment_date": "10/15/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "6720",
@@ -3867,9 +3867,9 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 152,
-				"misdemeanor": 154,
-				"other": 2
+				"felony": 78,
+				"misdemeanor": 78,
+				"other": 1
 			},
 			"awards": [
 				{
@@ -3882,7 +3882,7 @@
 				}
 			]
 		},
-		"command": "047 DOMESTIC VIOLENCE SQUAD"
+		"command": "040 DOMESTIC VIOLENCE SQUAD"
 	},
 	{
 		"taxid": 985395,
@@ -4167,7 +4167,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 50
+				"misdemeanor": 51
 			},
 			"awards": []
 		},
@@ -9130,7 +9130,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 34,
+				"misdemeanor": 36,
 				"violation": 1
 			},
 			"awards": []
@@ -13779,7 +13779,7 @@
 			],
 			"arrests": {
 				"infraction": 1,
-				"felony": 75,
+				"felony": 76,
 				"misdemeanor": 70,
 				"violation": 3
 			},
@@ -16784,7 +16784,12 @@
 				"misdemeanor": 22,
 				"violation": 8
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "10/14/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "TB ANTI TERRORISM UNIT"
 	},
@@ -32057,7 +32062,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 6,
+				"misdemeanor": 7,
 				"violation": 1
 			},
 			"awards": []
@@ -36217,8 +36222,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 8,
-				"misdemeanor": 29,
+				"felony": 9,
+				"misdemeanor": 30,
 				"violation": 1
 			},
 			"awards": []
@@ -52442,7 +52447,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 83,
+				"felony": 85,
 				"misdemeanor": 139,
 				"violation": 2
 			},
@@ -62400,7 +62405,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 22,
-				"misdemeanor": 52
+				"misdemeanor": 53
 			},
 			"awards": []
 		},
@@ -62447,7 +62452,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 171,
+				"felony": 172,
 				"misdemeanor": 186,
 				"violation": 23
 			},
@@ -67866,7 +67871,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 54,
+				"felony": 55,
 				"misdemeanor": 93,
 				"violation": 1
 			},
@@ -77729,8 +77734,8 @@
 		"arrest_count": 249,
 		"reports": {
 			"summary": {
-				"command": "BRONX COURT SECTION",
-				"assignment_date": "2/23/2026",
+				"command": "TRANSIT DISTRICT 12",
+				"assignment_date": "10/19/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "12183",
@@ -77759,7 +77764,7 @@
 				}
 			]
 		},
-		"command": "BRONX COURT SECTION"
+		"command": "TRANSIT DISTRICT 12"
 	},
 	{
 		"taxid": 960464,
@@ -77850,7 +77855,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 15,
+				"felony": 16,
 				"misdemeanor": 41,
 				"violation": 16
 			},
@@ -78365,7 +78370,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 162,
-				"misdemeanor": 172,
+				"misdemeanor": 173,
 				"other": 1,
 				"violation": 11
 			},
@@ -79474,14 +79479,6 @@
 		"recognition_count": 0,
 		"arrest_count": 144,
 		"reports": {
-			"summary": {
-				"command": "TRANSIT DISTRICT 11",
-				"assignment_date": "3/28/2013",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "13412",
-				"appt_date": "1/9/2012"
-			},
 			"ranks": [
 				{
 					"rank": "POLICE OFFICER",
@@ -79492,14 +79489,9 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 4,
-				"misdemeanor": 132,
-				"violation": 8
-			},
+			"arrests": {},
 			"awards": []
-		},
-		"command": "TRANSIT DISTRICT 11"
+		}
 	},
 	{
 		"taxid": 962366,
@@ -83471,7 +83463,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 13,
-				"misdemeanor": 36,
+				"misdemeanor": 37,
 				"violation": 1
 			},
 			"awards": []
@@ -104546,7 +104538,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 159,
-				"misdemeanor": 405
+				"misdemeanor": 406
 			},
 			"awards": [
 				{
@@ -108128,8 +108120,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 185,
-				"misdemeanor": 215
+				"felony": 187,
+				"misdemeanor": 216
 			},
 			"awards": [
 				{
@@ -109145,7 +109137,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 24,
-				"misdemeanor": 65,
+				"misdemeanor": 66,
 				"violation": 1
 			},
 			"awards": [

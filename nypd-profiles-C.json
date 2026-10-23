@@ -8701,7 +8701,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 24,
+				"misdemeanor": 25,
 				"violation": 1
 			},
 			"awards": []
@@ -24850,7 +24850,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 17,
-				"misdemeanor": 29
+				"misdemeanor": 31
 			},
 			"awards": [
 				{
@@ -27007,7 +27007,7 @@
 		"reports": {
 			"summary": {
 				"command": "TECH. ASSIST. & RESPONSE UNIT",
-				"assignment_date": "7/21/2026",
+				"assignment_date": "10/20/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "16734",
@@ -29301,7 +29301,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 19,
-				"misdemeanor": 33
+				"misdemeanor": 34
 			},
 			"awards": []
 		},
@@ -53239,7 +53239,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 25,
+				"misdemeanor": 26,
 				"violation": 3
 			},
 			"awards": []
@@ -55147,7 +55147,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 339,
+				"felony": 340,
 				"misdemeanor": 524,
 				"violation": 2
 			},
@@ -90084,7 +90084,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 21
+				"misdemeanor": 22
 			},
 			"awards": []
 		},
@@ -133959,7 +133959,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 38,
-				"misdemeanor": 49,
+				"misdemeanor": 50,
 				"violation": 2
 			},
 			"awards": [
@@ -181245,8 +181245,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 3,
-				"felony": 137,
-				"misdemeanor": 325,
+				"felony": 138,
+				"misdemeanor": 326,
 				"violation": 16
 			},
 			"awards": [

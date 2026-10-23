@@ -139,7 +139,7 @@
 		"shield_no": "2297",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 76,
+		"arrest_count": 78,
 		"reports": {
 			"summary": {
 				"command": "115 PRECINCT",
@@ -1933,7 +1933,7 @@
 		"shield_no": "10651",
 		"appt_date": "11/2/2020",
 		"recognition_count": 1,
-		"arrest_count": 100,
+		"arrest_count": 101,
 		"reports": {
 			"summary": {
 				"command": "028 PRECINCT",
@@ -10658,7 +10658,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 8,
+				"felony": 9,
 				"misdemeanor": 28,
 				"other": 1,
 				"violation": 3
@@ -15512,7 +15512,7 @@
 		"shield_no": "1897",
 		"appt_date": "10/25/2023",
 		"recognition_count": 0,
-		"arrest_count": 70,
+		"arrest_count": 71,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 4",
@@ -15610,7 +15610,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 4,
+				"misdemeanor": 5,
 				"violation": 3
 			},
 			"awards": []

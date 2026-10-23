@@ -21561,7 +21561,18 @@
 				"shield_no": "7192",
 				"appt_date": "1/10/2007"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2007",
+					"shield_no": "18037"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "8/31/2018",
+					"shield_no": "7192"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -27440,6 +27451,14 @@
 		"recognition_count": 3,
 		"arrest_count": 63,
 		"reports": {
+			"summary": {
+				"command": "CHARACTER ASSESSMENT SECTION",
+				"assignment_date": "7/20/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
+				"appt_date": "7/11/2005"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -38096,7 +38115,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 61,
+				"misdemeanor": 62,
 				"violation": 3
 			},
 			"awards": []
@@ -40509,13 +40528,22 @@
 		"recognition_count": 0,
 		"arrest_count": 0,
 		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "12/17/2025",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "14583",
+				"appt_date": "12/17/2025"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		}
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 943293,
@@ -49206,7 +49234,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 75,
+				"felony": 76,
 				"misdemeanor": 100
 			},
 			"awards": [
@@ -63074,8 +63102,8 @@
 		"arrest_count": 11,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "9/28/2026",
+				"command": "PATROL BORO BKLYN SOUTH",
+				"assignment_date": "10/20/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "CAPTAIN",
 				"shield_no": "",
@@ -63117,7 +63145,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "PATROL BORO BKLYN SOUTH"
 	},
 	{
 		"taxid": 954873,
@@ -78817,7 +78845,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 30,
-				"misdemeanor": 76,
+				"misdemeanor": 77,
 				"violation": 1
 			},
 			"awards": [
@@ -101877,7 +101905,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 84,
+				"felony": 87,
 				"misdemeanor": 112,
 				"other": 9,
 				"violation": 7
@@ -106443,7 +106471,13 @@
 				"shield_no": "13336",
 				"appt_date": "1/20/2004"
 			},
-			"ranks": [],
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/20/2004",
+					"shield_no": "13336"
+				}
+			],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -113856,8 +113890,8 @@
 		"arrest_count": 134,
 		"reports": {
 			"summary": {
-				"command": "TECH. ASSIST. & RESPONSE UNIT",
-				"assignment_date": "10/20/2026",
+				"command": "061 PRECINCT",
+				"assignment_date": "9/25/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "15517",
@@ -113901,7 +113935,7 @@
 				}
 			]
 		},
-		"command": "TECH. ASSIST. & RESPONSE UNIT"
+		"command": "061 PRECINCT"
 	},
 	{
 		"taxid": 966091,
