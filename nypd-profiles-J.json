@@ -3008,7 +3008,7 @@
 		"shield_no": "5660",
 		"appt_date": "5/8/2024",
 		"recognition_count": 0,
-		"arrest_count": 16,
+		"arrest_count": 18,
 		"reports": {
 			"summary": {
 				"command": "010 PRECINCT",
@@ -4535,7 +4535,7 @@
 		"shield_no": "770",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 49,
+		"arrest_count": 50,
 		"reports": {
 			"summary": {
 				"command": "110 PRECINCT",
@@ -4557,7 +4557,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 18,
-				"misdemeanor": 30,
+				"misdemeanor": 31,
 				"violation": 1
 			},
 			"awards": []
@@ -17276,6 +17276,44 @@
 		"command": "BROOKLYN COURT SECTION"
 	},
 	{
+		"taxid": 980737,
+		"full_name": "JEANCLAUDE, ALIDAS G",
+		"first_name": "ALIDAS",
+		"last_name": "JEANCLAUDE",
+		"middle_initial": "G",
+		"rank": "POLICE OFFICER",
+		"shield_no": "3823",
+		"appt_date": "10/30/2024",
+		"recognition_count": 0,
+		"arrest_count": 12,
+		"reports": {
+			"summary": {
+				"command": "094 PRECINCT",
+				"assignment_date": "2/3/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "3823",
+				"appt_date": "10/30/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/30/2024",
+					"shield_no": "3823"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 2,
+				"misdemeanor": 10
+			},
+			"awards": []
+		},
+		"command": "094 PRECINCT"
+	},
+	{
 		"taxid": 967932,
 		"full_name": "JEANCLAUDE, ANDY",
 		"first_name": "ANDY",
@@ -20877,7 +20915,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "1558",
 		"appt_date": "7/8/2008",
-		"recognition_count": 0,
+		"recognition_count": 1,
 		"arrest_count": 79,
 		"reports": {
 			"summary": {
@@ -22796,7 +22834,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 43,
+				"misdemeanor": 44,
 				"violation": 1
 			},
 			"awards": []
@@ -23086,45 +23124,6 @@
 			]
 		},
 		"command": "EXTENDED LEAVE SERVICES GROUP"
-	},
-	{
-		"taxid": 980629,
-		"full_name": "JIBRIL, DIAELDEEN I",
-		"first_name": "DIAELDEEN",
-		"last_name": "JIBRIL",
-		"middle_initial": "I",
-		"rank": "POLICE OFFICER",
-		"shield_no": "27320",
-		"appt_date": "10/30/2024",
-		"recognition_count": 0,
-		"arrest_count": 75,
-		"reports": {
-			"summary": {
-				"command": "060 PRECINCT",
-				"assignment_date": "2/3/2026",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "27320",
-				"appt_date": "10/30/2024"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/30/2024",
-					"shield_no": "27320"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 25,
-				"misdemeanor": 49,
-				"violation": 1
-			},
-			"awards": []
-		},
-		"command": "060 PRECINCT"
 	},
 	{
 		"taxid": 921443,
@@ -24762,7 +24761,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 51,
+				"felony": 52,
 				"misdemeanor": 91
 			},
 			"awards": [
@@ -26908,7 +26907,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 15,
-				"misdemeanor": 37
+				"misdemeanor": 38
 			},
 			"awards": []
 		},
@@ -28866,7 +28865,7 @@
 		"shield_no": "26836",
 		"appt_date": "7/14/2009",
 		"recognition_count": 4,
-		"arrest_count": 240,
+		"arrest_count": 243,
 		"reports": {
 			"summary": {
 				"command": "007 DOMESTIC VIOLENCE SQUAD",
@@ -34923,6 +34922,69 @@
 		"command": "083 PRECINCT"
 	},
 	{
+		"taxid": 972714,
+		"full_name": "JOHNSTON, JUSTIN M",
+		"first_name": "JUSTIN",
+		"last_name": "JOHNSTON",
+		"middle_initial": "M",
+		"rank": "POLICE OFFICER",
+		"shield_no": "5219",
+		"appt_date": "10/12/2021",
+		"recognition_count": 6,
+		"arrest_count": 237,
+		"reports": {
+			"summary": {
+				"command": "PBBN COMMUNITY RESPONSE TEAM",
+				"assignment_date": "4/30/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "5219",
+				"appt_date": "10/12/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/12/2021",
+					"shield_no": "5219"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 139,
+				"misdemeanor": 98
+			},
+			"awards": [
+				{
+					"date": "8/21/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/13/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/5/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/29/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/14/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/14/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "PBBN COMMUNITY RESPONSE TEAM"
+	},
+	{
 		"taxid": 982801,
 		"full_name": "JOHNSTON, MATTHEW J",
 		"first_name": "MATTHEW",
@@ -35296,7 +35358,7 @@
 		"shield_no": "27332",
 		"appt_date": "10/30/2024",
 		"recognition_count": 1,
-		"arrest_count": 76,
+		"arrest_count": 77,
 		"reports": {
 			"summary": {
 				"command": "106 PRECINCT",
@@ -35317,7 +35379,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 33,
+				"felony": 34,
 				"misdemeanor": 43
 			},
 			"awards": [
@@ -36523,7 +36585,7 @@
 		"shield_no": "4287",
 		"appt_date": "10/15/2021",
 		"recognition_count": 0,
-		"arrest_count": 95,
+		"arrest_count": 96,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 3",
@@ -37427,7 +37489,7 @@
 		"shield_no": "3899",
 		"appt_date": "7/3/2024",
 		"recognition_count": 1,
-		"arrest_count": 27,
+		"arrest_count": 28,
 		"reports": {
 			"summary": {
 				"command": "114 PRECINCT",
@@ -39986,7 +40048,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 22,
+				"felony": 23,
 				"misdemeanor": 35
 			},
 			"awards": []
@@ -40861,7 +40923,7 @@
 		"shield_no": "22249",
 		"appt_date": "2/24/2021",
 		"recognition_count": 0,
-		"arrest_count": 47,
+		"arrest_count": 48,
 		"reports": {
 			"summary": {
 				"command": "067 PRECINCT",
@@ -44216,7 +44278,7 @@
 		"shield_no": "7015",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 31,
+		"arrest_count": 32,
 		"reports": {
 			"summary": {
 				"command": "023 PRECINCT",
@@ -46013,7 +46075,7 @@
 		"shield_no": "14282",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 12,
+		"arrest_count": 13,
 		"reports": {
 			"summary": {
 				"command": "088 PRECINCT",
@@ -46035,7 +46097,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 10
+				"misdemeanor": 11
 			},
 			"awards": []
 		},
@@ -46839,7 +46901,7 @@
 		"shield_no": "8633",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 29,
+		"arrest_count": 31,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -46861,7 +46923,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 25
+				"misdemeanor": 27
 			},
 			"awards": []
 		},

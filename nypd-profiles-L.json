@@ -1992,7 +1992,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 19
 			},
 			"awards": []
@@ -5619,7 +5619,7 @@
 			"arrests": {
 				"felony": 141,
 				"misdemeanor": 148,
-				"other": 82,
+				"other": 83,
 				"violation": 13
 			},
 			"awards": [
@@ -5815,7 +5815,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 22,
-				"misdemeanor": 27
+				"misdemeanor": 28
 			},
 			"awards": []
 		},
@@ -11455,7 +11455,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 26,
-				"misdemeanor": 49,
+				"misdemeanor": 51,
 				"violation": 1
 			},
 			"awards": [
@@ -35690,7 +35690,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 11
+				"misdemeanor": 12
 			},
 			"awards": [
 				{
@@ -37009,7 +37009,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 65,
-				"misdemeanor": 62,
+				"misdemeanor": 63,
 				"violation": 3
 			},
 			"awards": [
@@ -39661,7 +39661,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 15,
+				"felony": 16,
 				"misdemeanor": 32,
 				"violation": 3
 			},
@@ -49061,7 +49061,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 8,
-				"misdemeanor": 55
+				"misdemeanor": 56
 			},
 			"awards": []
 		},
@@ -49829,7 +49829,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 108,
+				"felony": 109,
 				"misdemeanor": 91,
 				"violation": 3
 			},
@@ -53119,7 +53119,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 18,
+				"felony": 19,
 				"misdemeanor": 14
 			},
 			"awards": []
@@ -53682,7 +53682,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 46,
-				"misdemeanor": 120,
+				"misdemeanor": 121,
 				"violation": 8
 			},
 			"awards": [
@@ -57579,7 +57579,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 21,
+				"felony": 22,
 				"misdemeanor": 46
 			},
 			"awards": [
@@ -63096,7 +63096,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 19,
-				"misdemeanor": 169,
+				"misdemeanor": 170,
 				"violation": 83
 			},
 			"awards": [
@@ -69457,8 +69457,8 @@
 		"arrest_count": 54,
 		"reports": {
 			"summary": {
-				"command": "YANKEE STADIUM DETAIL",
-				"assignment_date": "3/30/2026",
+				"command": "047 PRECINCT",
+				"assignment_date": "10/19/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "20651",
@@ -69481,7 +69481,7 @@
 			},
 			"awards": []
 		},
-		"command": "YANKEE STADIUM DETAIL"
+		"command": "047 PRECINCT"
 	},
 	{
 		"taxid": 950766,
@@ -84632,7 +84632,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 6,
-				"misdemeanor": 24
+				"misdemeanor": 25
 			},
 			"awards": []
 		},
@@ -90461,7 +90461,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 24,
-				"misdemeanor": 58,
+				"misdemeanor": 60,
 				"other": 1,
 				"violation": 4
 			},

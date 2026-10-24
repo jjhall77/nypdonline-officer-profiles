@@ -21758,7 +21758,7 @@
 		"reports": {
 			"summary": {
 				"command": "HARBOR UNIT SUMMER DETAIL",
-				"assignment_date": "5/18/2026",
+				"assignment_date": "10/17/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "17154",
@@ -21963,7 +21963,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 22,
-				"misdemeanor": 33
+				"misdemeanor": 34
 			},
 			"awards": []
 		},
@@ -47843,7 +47843,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 58,
+				"misdemeanor": 59,
 				"violation": 3
 			},
 			"awards": [
@@ -81303,7 +81303,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 236,
-				"misdemeanor": 262,
+				"misdemeanor": 268,
 				"other": 1,
 				"violation": 17
 			},
