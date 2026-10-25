@@ -146,7 +146,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 46,
-				"misdemeanor": 79
+				"misdemeanor": 80
 			},
 			"awards": []
 		},
@@ -2700,7 +2700,7 @@
 		"shield_no": "7898",
 		"appt_date": "1/17/2023",
 		"recognition_count": 0,
-		"arrest_count": 26,
+		"arrest_count": 29,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 8",
@@ -3188,7 +3188,7 @@
 		"shield_no": "24015",
 		"appt_date": "7/6/2011",
 		"recognition_count": 2,
-		"arrest_count": 167,
+		"arrest_count": 168,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 1",
@@ -4330,7 +4330,7 @@
 		"shield_no": "21203",
 		"appt_date": "12/29/2021",
 		"recognition_count": 1,
-		"arrest_count": 90,
+		"arrest_count": 91,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -6145,7 +6145,7 @@
 		"shield_no": "10757",
 		"appt_date": "7/6/2011",
 		"recognition_count": 3,
-		"arrest_count": 106,
+		"arrest_count": 107,
 		"reports": {
 			"summary": {
 				"command": "104 PRECINCT",
@@ -6678,7 +6678,7 @@
 		"shield_no": "26999",
 		"appt_date": "7/16/2021",
 		"recognition_count": 0,
-		"arrest_count": 23,
+		"arrest_count": 24,
 		"reports": {
 			"summary": {
 				"command": "078 PRECINCT",
