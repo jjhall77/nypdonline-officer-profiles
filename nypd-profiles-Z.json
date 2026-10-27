@@ -360,7 +360,7 @@
 		"shield_no": "3730",
 		"appt_date": "7/9/2014",
 		"recognition_count": 4,
-		"arrest_count": 326,
+		"arrest_count": 330,
 		"reports": {
 			"summary": {
 				"command": "048 DET SQUAD",
@@ -8400,7 +8400,7 @@
 		"shield_no": "21711",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 16,
 		"reports": {
 			"summary": {
 				"command": "081 PRECINCT",
@@ -11698,8 +11698,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 111,
-				"misdemeanor": 109
+				"felony": 112,
+				"misdemeanor": 110
 			},
 			"awards": [
 				{
@@ -18405,7 +18405,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 52,
-				"misdemeanor": 90
+				"misdemeanor": 91
 			},
 			"awards": []
 		},

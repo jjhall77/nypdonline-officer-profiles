@@ -102,7 +102,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
+				"felony": 7,
 				"misdemeanor": 15
 			},
 			"awards": []
@@ -1640,7 +1640,7 @@
 		"shield_no": "27186",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 37,
+		"arrest_count": 38,
 		"reports": {
 			"summary": {
 				"command": "122 PRECINCT",
@@ -3165,7 +3165,7 @@
 		"shield_no": "28872",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 43,
+		"arrest_count": 44,
 		"reports": {
 			"summary": {
 				"command": "067 PRECINCT",
@@ -3558,7 +3558,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 16
+				"misdemeanor": 18
 			},
 			"awards": []
 		},
@@ -5289,7 +5289,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 15,
+				"felony": 16,
 				"misdemeanor": 18
 			},
 			"awards": [
@@ -5816,7 +5816,7 @@
 		"shield_no": "24715",
 		"appt_date": "10/11/2016",
 		"recognition_count": 0,
-		"arrest_count": 186,
+		"arrest_count": 187,
 		"reports": {
 			"summary": {
 				"command": "044 DET SQUAD",
@@ -6448,44 +6448,6 @@
 			"awards": []
 		},
 		"command": "RTS RECRUITS"
-	},
-	{
-		"taxid": 981951,
-		"full_name": "URGILES, ROBERT E",
-		"first_name": "ROBERT",
-		"last_name": "URGILES",
-		"middle_initial": "E",
-		"rank": "POLICE OFFICER",
-		"shield_no": "7585",
-		"appt_date": "1/29/2025",
-		"recognition_count": 0,
-		"arrest_count": 4,
-		"reports": {
-			"summary": {
-				"command": "113 PRECINCT",
-				"assignment_date": "6/22/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "7585",
-				"appt_date": "1/29/2025"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/29/2025",
-					"shield_no": "7585"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 2,
-				"misdemeanor": 2
-			},
-			"awards": []
-		},
-		"command": "113 PRECINCT"
 	},
 	{
 		"taxid": 964815,

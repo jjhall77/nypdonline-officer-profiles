@@ -344,7 +344,7 @@
 		"shield_no": "25725",
 		"appt_date": "7/5/2017",
 		"recognition_count": 9,
-		"arrest_count": 142,
+		"arrest_count": 143,
 		"reports": {
 			"summary": {
 				"command": "081 PRECINCT",
@@ -5584,7 +5584,7 @@
 		"shield_no": "28864",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 28,
+		"arrest_count": 30,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -7058,7 +7058,7 @@
 		"shield_no": "17119",
 		"appt_date": "1/9/2012",
 		"recognition_count": 0,
-		"arrest_count": 78,
+		"arrest_count": 79,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
@@ -11977,7 +11977,7 @@
 		"shield_no": "2642",
 		"appt_date": "1/4/2017",
 		"recognition_count": 1,
-		"arrest_count": 254,
+		"arrest_count": 255,
 		"reports": {
 			"summary": {
 				"command": "115TH DET SQUAD",
@@ -13080,7 +13080,7 @@
 		"shield_no": "9365",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 28,
+		"arrest_count": 29,
 		"reports": {
 			"summary": {
 				"command": "018 PCT-MIDTOWN NO. PCT",
@@ -23990,7 +23990,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 9
 			},
 			"awards": []
@@ -27874,7 +27874,7 @@
 		"shield_no": "2878",
 		"appt_date": "2/24/2021",
 		"recognition_count": 0,
-		"arrest_count": 86,
+		"arrest_count": 88,
 		"reports": {
 			"summary": {
 				"command": "024 DET SQUAD",
@@ -28501,7 +28501,7 @@
 		"shield_no": "22761",
 		"appt_date": "10/7/2019",
 		"recognition_count": 3,
-		"arrest_count": 74,
+		"arrest_count": 75,
 		"reports": {
 			"summary": {
 				"command": "052 PRECINCT",
@@ -32401,7 +32401,7 @@
 		"shield_no": "17016",
 		"appt_date": "7/5/2017",
 		"recognition_count": 9,
-		"arrest_count": 233,
+		"arrest_count": 234,
 		"reports": {
 			"summary": {
 				"command": "033 PRECINCT",
@@ -33174,7 +33174,7 @@
 		"shield_no": "438",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 13,
+		"arrest_count": 14,
 		"reports": {
 			"summary": {
 				"command": "067 PRECINCT",
@@ -34584,7 +34584,7 @@
 		"shield_no": "2651",
 		"appt_date": "7/6/2011",
 		"recognition_count": 17,
-		"arrest_count": 225,
+		"arrest_count": 226,
 		"reports": {
 			"summary": {
 				"command": "116TH DET SQUAD",
@@ -34842,7 +34842,7 @@
 		"shield_no": "25846",
 		"appt_date": "2/5/2025",
 		"recognition_count": 0,
-		"arrest_count": 17,
+		"arrest_count": 18,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -35011,7 +35011,7 @@
 		"shield_no": "17433",
 		"appt_date": "10/24/2018",
 		"recognition_count": 1,
-		"arrest_count": 149,
+		"arrest_count": 151,
 		"reports": {
 			"summary": {
 				"command": "108TH DET SQUAD",

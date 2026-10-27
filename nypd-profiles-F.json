@@ -2557,7 +2557,7 @@
 		"shield_no": "4163",
 		"appt_date": "10/7/2015",
 		"recognition_count": 19,
-		"arrest_count": 325,
+		"arrest_count": 326,
 		"reports": {
 			"summary": {
 				"command": "060 DET SQUAD",
@@ -2988,7 +2988,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 3,
+				"felony": 4,
 				"misdemeanor": 4
 			},
 			"awards": []
@@ -7187,8 +7187,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 3,
-				"misdemeanor": 10
+				"felony": 4,
+				"misdemeanor": 12
 			},
 			"awards": []
 		},
@@ -8966,7 +8966,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 149
+				"misdemeanor": 150
 			},
 			"awards": [
 				{
@@ -9279,7 +9279,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 9
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -11195,7 +11195,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 10
+				"misdemeanor": 11
 			},
 			"awards": []
 		},
@@ -16273,7 +16273,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 161,
+				"felony": 163,
 				"misdemeanor": 52,
 				"violation": 1
 			},
@@ -19204,7 +19204,7 @@
 		"shield_no": "21783",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 22,
+		"arrest_count": 23,
 		"reports": {
 			"summary": {
 				"command": "040 PRECINCT",
@@ -21075,7 +21075,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 79,
-				"misdemeanor": 186,
+				"misdemeanor": 189,
 				"violation": 1
 			},
 			"awards": [
@@ -21167,7 +21167,7 @@
 		"shield_no": "1887",
 		"appt_date": "1/10/2018",
 		"recognition_count": 0,
-		"arrest_count": 38,
+		"arrest_count": 39,
 		"reports": {
 			"summary": {
 				"command": "026 PRECINCT",
@@ -21188,7 +21188,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 13,
+				"felony": 14,
 				"misdemeanor": 25
 			},
 			"awards": []
@@ -24997,7 +24997,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 38,
+				"felony": 39,
 				"misdemeanor": 33
 			},
 			"awards": []
@@ -26891,7 +26891,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 57,
+				"felony": 59,
 				"misdemeanor": 114
 			},
 			"awards": [
@@ -26939,7 +26939,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 7
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -30271,7 +30271,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 65,
-				"misdemeanor": 63
+				"misdemeanor": 65
 			},
 			"awards": [
 				{
@@ -35222,7 +35222,7 @@
 			"arrests": {
 				"infraction": 3,
 				"felony": 44,
-				"misdemeanor": 289,
+				"misdemeanor": 293,
 				"violation": 9
 			},
 			"awards": [
@@ -39592,7 +39592,7 @@
 		"shield_no": "13729",
 		"appt_date": "7/2/2018",
 		"recognition_count": 3,
-		"arrest_count": 158,
+		"arrest_count": 159,
 		"reports": {
 			"summary": {
 				"command": "120 DOMESTIC VIOLENCE SQUAD",
@@ -40641,8 +40641,8 @@
 				}
 			],
 			"arrests": {
-				"felony": 118,
-				"misdemeanor": 122,
+				"felony": 119,
+				"misdemeanor": 124,
 				"violation": 2
 			},
 			"awards": [
@@ -41414,7 +41414,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 35,
-				"misdemeanor": 99
+				"misdemeanor": 100
 			},
 			"awards": [
 				{
@@ -41943,7 +41943,7 @@
 		"shield_no": "25997",
 		"appt_date": "7/5/2017",
 		"recognition_count": 5,
-		"arrest_count": 156,
+		"arrest_count": 157,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 8",
@@ -41965,7 +41965,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 56,
-				"misdemeanor": 98,
+				"misdemeanor": 99,
 				"violation": 2
 			},
 			"awards": [
@@ -51079,6 +51079,54 @@
 		"command": "PBMS COMMUNITY RESPONSE TEAM"
 	},
 	{
+		"taxid": 956654,
+		"full_name": "FONTANA, MICHAEL A",
+		"first_name": "MICHAEL",
+		"last_name": "FONTANA",
+		"middle_initial": "A",
+		"rank": "POLICE OFFICER",
+		"shield_no": "15313",
+		"appt_date": "7/9/2014",
+		"recognition_count": 2,
+		"arrest_count": 64,
+		"reports": {
+			"summary": {
+				"command": "HOUSING PSA 2",
+				"assignment_date": "4/14/2016",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "15313",
+				"appt_date": "7/9/2014"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/9/2014",
+					"shield_no": "15313"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 20,
+				"misdemeanor": 43,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "3/9/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/19/2020",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "HOUSING PSA 2"
+	},
+	{
 		"taxid": 961765,
 		"full_name": "FONTANA, MICHAEL S",
 		"first_name": "MICHAEL",
@@ -53104,7 +53152,7 @@
 		"shield_no": "4969",
 		"appt_date": "4/25/2018",
 		"recognition_count": 0,
-		"arrest_count": 63,
+		"arrest_count": 64,
 		"reports": {
 			"summary": {
 				"command": "102 PRECINCT",
@@ -53126,7 +53174,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 49
+				"misdemeanor": 50
 			},
 			"awards": []
 		},
@@ -55119,8 +55167,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 9,
-				"misdemeanor": 23
+				"felony": 11,
+				"misdemeanor": 25
 			},
 			"awards": []
 		},
@@ -55216,7 +55264,7 @@
 		"shield_no": "1903",
 		"appt_date": "12/29/2020",
 		"recognition_count": 1,
-		"arrest_count": 138,
+		"arrest_count": 139,
 		"reports": {
 			"summary": {
 				"command": "043 PRECINCT",
@@ -55238,7 +55286,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 32,
-				"misdemeanor": 105,
+				"misdemeanor": 106,
 				"violation": 1
 			},
 			"awards": [
@@ -55767,7 +55815,7 @@
 		"shield_no": "2649",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 28,
+		"arrest_count": 30,
 		"reports": {
 			"summary": {
 				"command": "049 PRECINCT",
@@ -56056,7 +56104,7 @@
 		"shield_no": "3188",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 10,
+		"arrest_count": 12,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 2",
@@ -58733,7 +58781,7 @@
 		"shield_no": "4171",
 		"appt_date": "10/11/2016",
 		"recognition_count": 1,
-		"arrest_count": 301,
+		"arrest_count": 302,
 		"reports": {
 			"summary": {
 				"command": "060 DET SQUAD",
@@ -62038,7 +62086,7 @@
 		"shield_no": "2417",
 		"appt_date": "12/29/2020",
 		"recognition_count": 15,
-		"arrest_count": 182,
+		"arrest_count": 186,
 		"reports": {
 			"summary": {
 				"command": "045 PRECINCT",
@@ -62811,8 +62859,8 @@
 		"arrest_count": 58,
 		"reports": {
 			"summary": {
-				"command": "BROOKLYN COURT SECTION",
-				"assignment_date": "11/4/2025",
+				"command": "018 PCT-MIDTOWN NO. PCT",
+				"assignment_date": "10/22/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "5832",
@@ -62839,7 +62887,7 @@
 				}
 			]
 		},
-		"command": "BROOKLYN COURT SECTION"
+		"command": "018 PCT-MIDTOWN NO. PCT"
 	},
 	{
 		"taxid": 983213,
@@ -64363,7 +64411,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 8
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -65314,7 +65362,7 @@
 		"shield_no": "3575",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 6,
+		"arrest_count": 12,
 		"reports": {
 			"summary": {
 				"command": "075 PRECINCT",
@@ -68566,7 +68614,7 @@
 		"shield_no": "7661",
 		"appt_date": "4/13/2022",
 		"recognition_count": 0,
-		"arrest_count": 93,
+		"arrest_count": 97,
 		"reports": {
 			"summary": {
 				"command": "019 PRECINCT",
@@ -69495,7 +69543,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 105,
+				"felony": 106,
 				"misdemeanor": 115
 			},
 			"awards": [
@@ -72558,7 +72606,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 8,
+				"felony": 9,
 				"misdemeanor": 7
 			},
 			"awards": []
