@@ -54,7 +54,7 @@
 		"shield_no": "13590",
 		"appt_date": "7/13/2016",
 		"recognition_count": 2,
-		"arrest_count": 255,
+		"arrest_count": 262,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT LARCENY UNIT",
@@ -1527,7 +1527,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 20,
+				"felony": 21,
 				"misdemeanor": 64,
 				"violation": 1
 			},
@@ -6550,10 +6550,7 @@
 					]
 				}
 			],
-			"arrests": {
-				"felony": 37,
-				"misdemeanor": 98
-			},
+			"arrests": {},
 			"awards": [
 				{
 					"date": "4/13/2018",
@@ -8249,7 +8246,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 51,
-				"misdemeanor": 251,
+				"misdemeanor": 252,
 				"violation": 63
 			},
 			"awards": [
@@ -9367,7 +9364,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 66,
-				"misdemeanor": 103
+				"misdemeanor": 104
 			},
 			"awards": []
 		},
@@ -10742,7 +10739,7 @@
 		"shield_no": "14054",
 		"appt_date": "7/1/2019",
 		"recognition_count": 0,
-		"arrest_count": 54,
+		"arrest_count": 55,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 5 SI",
@@ -12264,7 +12261,7 @@
 		"shield_no": "14729",
 		"appt_date": "7/1/2019",
 		"recognition_count": 19,
-		"arrest_count": 304,
+		"arrest_count": 310,
 		"reports": {
 			"summary": {
 				"command": "075 PRECINCT",
@@ -13225,7 +13222,7 @@
 				"felony": 7,
 				"misdemeanor": 52,
 				"other": 1,
-				"violation": 10
+				"violation": 12
 			},
 			"awards": []
 		},
@@ -16954,7 +16951,7 @@
 		"shield_no": "5310",
 		"appt_date": "4/12/2017",
 		"recognition_count": 5,
-		"arrest_count": 185,
+		"arrest_count": 186,
 		"reports": {
 			"summary": {
 				"command": "INTEL CIS FIO PROGRAM",
@@ -18091,7 +18088,7 @@
 		"shield_no": "1252",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 9,
+		"arrest_count": 11,
 		"reports": {
 			"summary": {
 				"command": "120 PCT FIELD TRAINING UNIT",
@@ -22608,7 +22605,7 @@
 		"shield_no": "19204",
 		"appt_date": "10/11/2016",
 		"recognition_count": 0,
-		"arrest_count": 42,
+		"arrest_count": 44,
 		"reports": {
 			"summary": {
 				"command": "083 PRECINCT",
@@ -22928,7 +22925,7 @@
 		"shield_no": "804",
 		"appt_date": "7/11/2012",
 		"recognition_count": 0,
-		"arrest_count": 237,
+		"arrest_count": 238,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 4",
@@ -24913,7 +24910,7 @@
 		"shield_no": "17151",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 11,
+		"arrest_count": 13,
 		"reports": {
 			"summary": {
 				"command": "042 PCT FIELD TRAINING UNIT",
@@ -25118,7 +25115,7 @@
 		"shield_no": "12907",
 		"appt_date": "4/15/2019",
 		"recognition_count": 0,
-		"arrest_count": 85,
+		"arrest_count": 87,
 		"reports": {
 			"summary": {
 				"command": "045 DET SQUAD",
@@ -25139,8 +25136,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 44,
-				"misdemeanor": 41
+				"felony": 45,
+				"misdemeanor": 42
 			},
 			"awards": []
 		},
@@ -25245,7 +25242,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 13,
-				"misdemeanor": 48,
+				"misdemeanor": 50,
 				"violation": 1
 			},
 			"awards": []
@@ -28600,7 +28597,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 218,
+				"misdemeanor": 219,
 				"violation": 20
 			},
 			"awards": [
@@ -29784,13 +29781,7 @@
 					"shield_no": "17002"
 				}
 			],
-			"documents": [
-				{
-					"date": "4/13/2023",
-					"url": "https://nypdonline.org/files/931851_04132023_2023016.pdf",
-					"type": "Trial Decision"
-				}
-			],
+			"documents": [],
 			"disciplineHistory": [
 				{
 					"entry": "5/25/2021 12:00:00 AM",
@@ -29942,7 +29933,7 @@
 		"shield_no": "18482",
 		"appt_date": "7/8/2015",
 		"recognition_count": 15,
-		"arrest_count": 159,
+		"arrest_count": 160,
 		"reports": {
 			"summary": {
 				"command": "101 PRECINCT",
@@ -30569,7 +30560,7 @@
 		"shield_no": "2711",
 		"appt_date": "4/15/2019",
 		"recognition_count": 1,
-		"arrest_count": 75,
+		"arrest_count": 76,
 		"reports": {
 			"summary": {
 				"command": "066 PRECINCT",
@@ -32973,7 +32964,7 @@
 		"shield_no": "6759",
 		"appt_date": "10/24/2018",
 		"recognition_count": 5,
-		"arrest_count": 152,
+		"arrest_count": 153,
 		"reports": {
 			"summary": {
 				"command": "123 DETECTIVE SQUAD",
@@ -37746,7 +37737,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
+				"felony": 8,
 				"misdemeanor": 12
 			},
 			"awards": []
@@ -38155,8 +38146,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 3,
-				"misdemeanor": 10
+				"felony": 4,
+				"misdemeanor": 11
 			},
 			"awards": []
 		},
@@ -39008,13 +38999,7 @@
 					"shield_no": "2580"
 				}
 			],
-			"documents": [
-				{
-					"date": "5/30/2025",
-					"url": "https://nypdonline.org/files/965374_05302025_2025020.pdf",
-					"type": "Trial Decision"
-				}
-			],
+			"documents": [],
 			"disciplineHistory": [
 				{
 					"entry": "3/15/2021 12:00:00 AM",

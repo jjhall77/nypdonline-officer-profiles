@@ -6346,7 +6346,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 43,
-				"misdemeanor": 43
+				"misdemeanor": 44
 			},
 			"awards": [
 				{
@@ -8505,7 +8505,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 8,
-				"misdemeanor": 41,
+				"misdemeanor": 43,
 				"other": 1
 			},
 			"awards": []
@@ -10425,92 +10425,6 @@
 			"awards": []
 		},
 		"command": "026 PRECINCT"
-	},
-	{
-		"taxid": 951524,
-		"full_name": "TAVARES, JOSE R",
-		"first_name": "JOSE",
-		"last_name": "TAVARES",
-		"middle_initial": "R",
-		"rank": "LIEUTENANT",
-		"shield_no": "",
-		"appt_date": "1/9/2012",
-		"recognition_count": 9,
-		"arrest_count": 242,
-		"reports": {
-			"summary": {
-				"command": "071 PRECINCT",
-				"assignment_date": "4/22/2024",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "LIEUTENANT",
-				"shield_no": "",
-				"appt_date": "1/9/2012"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "1/9/2012",
-					"shield_no": "20300"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "11/24/2020",
-					"shield_no": "5455"
-				},
-				{
-					"rank": "LIEUTENANT",
-					"date": "2/23/2024",
-					"shield_no": ""
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 16,
-				"misdemeanor": 192,
-				"violation": 34
-			},
-			"awards": [
-				{
-					"date": "1/1/2023",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "11/27/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/21/2020",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "10/23/2018",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "8/23/2018",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/9/2018",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "8/14/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/2/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "2/27/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
-		},
-		"command": "071 PRECINCT"
 	},
 	{
 		"taxid": 962832,
@@ -15054,7 +14968,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 23,
-				"misdemeanor": 81,
+				"misdemeanor": 82,
 				"violation": 1
 			},
 			"awards": []
@@ -15493,7 +15407,7 @@
 		"shield_no": "7921",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 27,
+		"arrest_count": 28,
 		"reports": {
 			"summary": {
 				"command": "028 PRECINCT",
@@ -17729,7 +17643,7 @@
 		"shield_no": "24598",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 12,
+		"arrest_count": 13,
 		"reports": {
 			"summary": {
 				"command": "075 PCT FIELD TRAINING UNIT",
@@ -18283,7 +18197,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 66
+				"misdemeanor": 67
 			},
 			"awards": []
 		},
@@ -18429,7 +18343,7 @@
 		"shield_no": "7628",
 		"appt_date": "1/6/2020",
 		"recognition_count": 5,
-		"arrest_count": 233,
+		"arrest_count": 234,
 		"reports": {
 			"summary": {
 				"command": "005 DET SQUAD",
@@ -18455,7 +18369,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 153,
+				"felony": 154,
 				"misdemeanor": 79,
 				"violation": 1
 			},
@@ -20072,7 +19986,7 @@
 		"shield_no": "1302",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 21,
+		"arrest_count": 23,
 		"reports": {
 			"summary": {
 				"command": "040 PCT FIELD TRAINING UNIT",
@@ -20238,7 +20152,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 28
+				"misdemeanor": 29
 			},
 			"awards": [
 				{
@@ -23280,7 +23194,7 @@
 		"shield_no": "13023",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 10,
+		"arrest_count": 11,
 		"reports": {
 			"summary": {
 				"command": "067 PCT FIELD TRAINING UNIT",
@@ -25096,7 +25010,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 61,
+				"felony": 62,
 				"misdemeanor": 56,
 				"violation": 2
 			},
@@ -25165,7 +25079,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 36,
-				"misdemeanor": 57
+				"misdemeanor": 58
 			},
 			"awards": []
 		},
@@ -44178,7 +44092,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 15,
+				"felony": 16,
 				"misdemeanor": 15
 			},
 			"awards": []
@@ -45941,7 +45855,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 51,
+				"felony": 53,
 				"misdemeanor": 49
 			},
 			"awards": [
@@ -49031,7 +48945,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 56,
-				"misdemeanor": 154
+				"misdemeanor": 155
 			},
 			"awards": [
 				{
@@ -65028,7 +64942,7 @@
 		"shield_no": "7435",
 		"appt_date": "1/6/2020",
 		"recognition_count": 8,
-		"arrest_count": 274,
+		"arrest_count": 275,
 		"reports": {
 			"summary": {
 				"command": "MTS DET SQUAD",
@@ -65329,7 +65243,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 9
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -66943,7 +66857,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 46,
+				"felony": 47,
 				"misdemeanor": 71,
 				"violation": 4
 			},

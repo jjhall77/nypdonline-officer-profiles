@@ -3735,7 +3735,7 @@
 		"shield_no": "20954",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 16,
 		"reports": {
 			"summary": {
 				"command": "073 PCT FIELD TRAINING UNIT",
@@ -8750,7 +8750,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 5,
+				"felony": 6,
 				"misdemeanor": 23
 			},
 			"awards": []
@@ -9669,7 +9669,7 @@
 		"shield_no": "8755",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 13,
+		"arrest_count": 14,
 		"reports": {
 			"summary": {
 				"command": "033 PRECINCT",
@@ -16300,7 +16300,7 @@
 		"shield_no": "19034",
 		"appt_date": "7/15/2022",
 		"recognition_count": 0,
-		"arrest_count": 135,
+		"arrest_count": 137,
 		"reports": {
 			"summary": {
 				"command": "PBBS COMMUNITY RESPONSE TEAM",
@@ -16321,8 +16321,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 70,
-				"misdemeanor": 63,
+				"felony": 71,
+				"misdemeanor": 64,
 				"other": 2
 			},
 			"awards": []
@@ -16543,7 +16543,7 @@
 				"infraction": 2,
 				"felony": 120,
 				"misdemeanor": 161,
-				"other": 33,
+				"other": 34,
 				"violation": 19
 			},
 			"awards": [
@@ -16860,7 +16860,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 11
+				"misdemeanor": 14
 			},
 			"awards": []
 		},
@@ -16899,7 +16899,7 @@
 			"arrests": {
 				"infraction": 5,
 				"felony": 79,
-				"misdemeanor": 194,
+				"misdemeanor": 195,
 				"violation": 11
 			},
 			"awards": [
@@ -22419,7 +22419,7 @@
 		"shield_no": "11362",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 44,
+		"arrest_count": 45,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 11",
@@ -28963,8 +28963,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 43,
-				"misdemeanor": 69
+				"felony": 48,
+				"misdemeanor": 72
 			},
 			"awards": []
 		},
@@ -32823,7 +32823,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 8
 			},
 			"awards": []
@@ -33961,7 +33961,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 45,
+				"felony": 47,
 				"misdemeanor": 179,
 				"violation": 20
 			},
@@ -36199,7 +36199,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
+				"felony": 7,
 				"misdemeanor": 26
 			},
 			"awards": []
@@ -36420,7 +36420,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 39,
+				"misdemeanor": 40,
 				"violation": 36
 			},
 			"awards": []
@@ -37611,7 +37611,7 @@
 		"arrest_count": 206,
 		"reports": {
 			"summary": {
-				"command": "TB SPECIAL OPERATIONS DIVISION",
+				"command": "TB SOD SPECIAL PROJECTS",
 				"assignment_date": "10/5/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "DETECTIVE SPECIALIST",
@@ -37653,7 +37653,7 @@
 				}
 			]
 		},
-		"command": "TB SPECIAL OPERATIONS DIVISION"
+		"command": "TB SOD SPECIAL PROJECTS"
 	},
 	{
 		"taxid": 981382,
@@ -43259,7 +43259,7 @@
 		"shield_no": "11469",
 		"appt_date": "10/24/2018",
 		"recognition_count": 1,
-		"arrest_count": 16,
+		"arrest_count": 17,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 3",
@@ -43286,7 +43286,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 11,
+				"misdemeanor": 12,
 				"violation": 2
 			},
 			"awards": [
@@ -43589,7 +43589,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 37,
+				"misdemeanor": 38,
 				"violation": 2
 			},
 			"awards": []
@@ -44008,7 +44008,7 @@
 		"shield_no": "26164",
 		"appt_date": "7/5/2017",
 		"recognition_count": 5,
-		"arrest_count": 154,
+		"arrest_count": 155,
 		"reports": {
 			"summary": {
 				"command": "094 PRECINCT",
@@ -44029,7 +44029,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 110,
+				"felony": 111,
 				"misdemeanor": 44
 			},
 			"awards": [
@@ -44067,7 +44067,7 @@
 		"shield_no": "17083",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 17,
 		"reports": {
 			"summary": {
 				"command": "052 PCT FIELD TRAINING UNIT",
@@ -45021,7 +45021,7 @@
 		"shield_no": "72",
 		"appt_date": "10/7/2019",
 		"recognition_count": 0,
-		"arrest_count": 146,
+		"arrest_count": 147,
 		"reports": {
 			"summary": {
 				"command": "041 PRECINCT",
@@ -45047,7 +45047,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 52,
+				"felony": 53,
 				"misdemeanor": 92,
 				"violation": 2
 			},
@@ -46888,7 +46888,7 @@
 		"shield_no": "",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 11,
+		"arrest_count": 13,
 		"reports": {
 			"summary": {
 				"command": "114 PRECINCT",
@@ -50299,7 +50299,7 @@
 			"arrests": {
 				"felony": 2,
 				"misdemeanor": 35,
-				"violation": 13
+				"violation": 14
 			},
 			"awards": []
 		},
@@ -57551,7 +57551,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 9,
+				"misdemeanor": 10,
 				"violation": 1
 			},
 			"awards": []
@@ -68827,7 +68827,7 @@
 		"shield_no": "30529",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 11,
+		"arrest_count": 14,
 		"reports": {
 			"summary": {
 				"command": "043 PCT FIELD TRAINING UNIT",
@@ -70476,8 +70476,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
-				"misdemeanor": 40,
+				"felony": 2,
+				"misdemeanor": 41,
 				"violation": 22
 			},
 			"awards": []
@@ -70494,7 +70494,7 @@
 		"shield_no": "9712",
 		"appt_date": "4/15/2019",
 		"recognition_count": 2,
-		"arrest_count": 95,
+		"arrest_count": 96,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 33",
@@ -70564,7 +70564,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 18,
+				"misdemeanor": 19,
 				"violation": 1
 			},
 			"awards": []
@@ -71133,8 +71133,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 36,
-				"misdemeanor": 102
+				"felony": 37,
+				"misdemeanor": 103
 			},
 			"awards": [
 				{
@@ -71689,7 +71689,7 @@
 		"shield_no": "7729",
 		"appt_date": "10/7/2019",
 		"recognition_count": 0,
-		"arrest_count": 201,
+		"arrest_count": 203,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 32",
@@ -75093,7 +75093,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 5
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -76520,7 +76520,7 @@
 		"shield_no": "24887",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 21,
+		"arrest_count": 23,
 		"reports": {
 			"summary": {
 				"command": "005 PRECINCT",
@@ -76542,7 +76542,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 5,
-				"misdemeanor": 15,
+				"misdemeanor": 17,
 				"violation": 1
 			},
 			"awards": []
@@ -77429,7 +77429,7 @@
 		"shield_no": "20052",
 		"appt_date": "7/1/2019",
 		"recognition_count": 1,
-		"arrest_count": 32,
+		"arrest_count": 34,
 		"reports": {
 			"summary": {
 				"command": "109 PRECINCT",
@@ -80847,7 +80847,7 @@
 		"shield_no": "9736",
 		"appt_date": "4/15/2019",
 		"recognition_count": 0,
-		"arrest_count": 22,
+		"arrest_count": 23,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 32",
@@ -83110,7 +83110,7 @@
 		"shield_no": "3455",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 2,
+		"arrest_count": 3,
 		"reports": {
 			"summary": {
 				"command": "PSA 2 FIELD TRAINING UNIT",
@@ -83676,7 +83676,7 @@
 		"shield_no": "17962",
 		"appt_date": "1/9/2012",
 		"recognition_count": 0,
-		"arrest_count": 41,
+		"arrest_count": 42,
 		"reports": {
 			"summary": {
 				"command": "PBMS SCOOTER TASK FORCE",
@@ -86736,7 +86736,7 @@
 		"shield_no": "27432",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 16,
 		"reports": {
 			"summary": {
 				"command": "063 PRECINCT",

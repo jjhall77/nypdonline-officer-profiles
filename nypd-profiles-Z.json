@@ -31,7 +31,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 131,
+				"misdemeanor": 133,
 				"violation": 4
 			},
 			"awards": []
@@ -5313,7 +5313,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 18,
-				"misdemeanor": 35
+				"misdemeanor": 36
 			},
 			"awards": []
 		},
@@ -8044,7 +8044,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 50,
-				"misdemeanor": 126,
+				"misdemeanor": 127,
 				"other": 3
 			},
 			"awards": []
@@ -11677,7 +11677,7 @@
 		"shield_no": "10527",
 		"appt_date": "1/6/2020",
 		"recognition_count": 1,
-		"arrest_count": 220,
+		"arrest_count": 222,
 		"reports": {
 			"summary": {
 				"command": "062 DOMESTIC VIOLENCE SQUAD",
@@ -17724,7 +17724,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 43,
-				"misdemeanor": 69
+				"misdemeanor": 71
 			},
 			"awards": [
 				{
@@ -18383,7 +18383,7 @@
 		"shield_no": "26539",
 		"appt_date": "2/24/2021",
 		"recognition_count": 0,
-		"arrest_count": 142,
+		"arrest_count": 143,
 		"reports": {
 			"summary": {
 				"command": "108 PRECINCT",

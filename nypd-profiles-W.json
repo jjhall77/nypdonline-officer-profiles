@@ -1324,8 +1324,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 26,
-				"misdemeanor": 57
+				"felony": 27,
+				"misdemeanor": 58
 			},
 			"awards": [
 				{
@@ -2605,7 +2605,7 @@
 		"shield_no": "21528",
 		"appt_date": "7/1/2019",
 		"recognition_count": 2,
-		"arrest_count": 73,
+		"arrest_count": 75,
 		"reports": {
 			"summary": {
 				"command": "077 PRECINCT",
@@ -4375,46 +4375,6 @@
 		"command": "075 PCT FIELD TRAINING UNIT"
 	},
 	{
-		"taxid": 951411,
-		"full_name": "WALL, JOSEPH W",
-		"first_name": "JOSEPH",
-		"last_name": "WALL",
-		"middle_initial": "W",
-		"rank": "SERGEANT",
-		"shield_no": "4307",
-		"appt_date": "7/6/2011",
-		"recognition_count": 22,
-		"arrest_count": 202,
-		"reports": {
-			"summary": {
-				"command": "TRANSIT DISTRICT 30",
-				"assignment_date": "10/5/2026",
-				"ethnicity": "WHITE",
-				"rank_desc": "SERGEANT",
-				"shield_no": "4307",
-				"appt_date": "7/6/2011"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/6/2011",
-					"shield_no": "20111"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "8/31/2026",
-					"shield_no": "4307"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "TRANSIT DISTRICT 30"
-	},
-	{
 		"taxid": 951412,
 		"full_name": "WALL, KURT A",
 		"first_name": "KURT",
@@ -5779,7 +5739,7 @@
 		"shield_no": "11135",
 		"appt_date": "10/7/2019",
 		"recognition_count": 0,
-		"arrest_count": 40,
+		"arrest_count": 41,
 		"reports": {
 			"summary": {
 				"command": "PBQN CITI FIELD DETAIL",
@@ -6192,8 +6152,8 @@
 		"arrest_count": 242,
 		"reports": {
 			"summary": {
-				"command": "081 DET SQUAD",
-				"assignment_date": "12/17/2024",
+				"command": "001 DET SQUAD",
+				"assignment_date": "10/23/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "3226",
@@ -6232,7 +6192,7 @@
 				}
 			]
 		},
-		"command": "081 DET SQUAD"
+		"command": "001 DET SQUAD"
 	},
 	{
 		"taxid": 959355,
@@ -8935,7 +8895,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 23,
-				"misdemeanor": 38
+				"misdemeanor": 39
 			},
 			"awards": [
 				{
@@ -13030,7 +12990,7 @@
 		"shield_no": "15972",
 		"appt_date": "4/15/2019",
 		"recognition_count": 17,
-		"arrest_count": 211,
+		"arrest_count": 215,
 		"reports": {
 			"summary": {
 				"command": "103 DOMESTIC VIOLENCE SQUAD",
@@ -13818,8 +13778,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 42,
-				"misdemeanor": 92
+				"felony": 43,
+				"misdemeanor": 94
 			},
 			"awards": [
 				{
@@ -15038,7 +14998,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 43,
-				"misdemeanor": 115
+				"misdemeanor": 116
 			},
 			"awards": [
 				{
@@ -25868,7 +25828,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 28,
-				"misdemeanor": 58,
+				"misdemeanor": 61,
 				"violation": 3
 			},
 			"awards": []
@@ -28630,7 +28590,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 31,
-				"misdemeanor": 45,
+				"misdemeanor": 46,
 				"violation": 1
 			},
 			"awards": [
@@ -29916,149 +29876,6 @@
 		"command": "IAB ZONE 2"
 	},
 	{
-		"taxid": 951438,
-		"full_name": "WIGDZINSKI, MICHAEL A",
-		"first_name": "MICHAEL",
-		"last_name": "WIGDZINSKI",
-		"middle_initial": "A",
-		"rank": "LIEUTENANT",
-		"shield_no": "",
-		"appt_date": "7/6/2011",
-		"recognition_count": 23,
-		"arrest_count": 128,
-		"reports": {
-			"summary": {
-				"command": "075 PRECINCT",
-				"assignment_date": "3/11/2024",
-				"ethnicity": "WHITE",
-				"rank_desc": "LIEUTENANT",
-				"shield_no": "",
-				"appt_date": "7/6/2011"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/6/2011",
-					"shield_no": "30021"
-				},
-				{
-					"rank": "SERGEANT",
-					"date": "5/3/2019",
-					"shield_no": "4923"
-				},
-				{
-					"rank": "LIEUTENANT",
-					"date": "2/23/2024",
-					"shield_no": ""
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"infraction": 1,
-				"felony": 51,
-				"misdemeanor": 70,
-				"violation": 6
-			},
-			"awards": [
-				{
-					"date": "8/28/2025",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "5/16/2023",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "12/21/2022",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "12/6/2022",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "9/20/2022",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "8/8/2022",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "6/27/2022",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "6/12/2022",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "4/28/2022",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "4/4/2022",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "12/15/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "10/8/2021",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "8/29/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/13/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "5/19/2021",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "3/5/2021",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "11/21/2020",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "10/18/2020",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "6/11/2018",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "1/7/2018",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "1/3/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "2/2/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "8/14/2015",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
-		},
-		"command": "075 PRECINCT"
-	},
-	{
 		"taxid": 986236,
 		"full_name": "WIGGINS, GERARD G",
 		"first_name": "GERARD",
@@ -30125,7 +29942,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 4
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -31955,7 +31772,7 @@
 		"shield_no": "24748",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 3,
+		"arrest_count": 6,
 		"reports": {
 			"summary": {
 				"command": "048 PCT FIELD TRAINING UNIT",
@@ -32091,7 +31908,7 @@
 		"shield_no": "9001",
 		"appt_date": "7/2/2018",
 		"recognition_count": 104,
-		"arrest_count": 287,
+		"arrest_count": 288,
 		"reports": {
 			"summary": {
 				"command": "067 PRECINCT",
@@ -35426,7 +35243,7 @@
 		"shield_no": "4860",
 		"appt_date": "1/6/2020",
 		"recognition_count": 10,
-		"arrest_count": 156,
+		"arrest_count": 157,
 		"reports": {
 			"summary": {
 				"command": "103RD DETECTIVE SQUAD",
@@ -37965,7 +37782,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 14
+				"misdemeanor": 15
 			},
 			"awards": []
 		},
@@ -39330,7 +39147,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 9,
-				"felony": 82,
+				"felony": 83,
 				"misdemeanor": 129,
 				"violation": 4
 			},
@@ -44171,7 +43988,7 @@
 		"shield_no": "3699",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 17,
 		"reports": {
 			"summary": {
 				"command": "047 PCT FIELD TRAINING UNIT",
@@ -51992,8 +51809,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 16,
-				"misdemeanor": 29
+				"felony": 17,
+				"misdemeanor": 30
 			},
 			"awards": []
 		},
@@ -54031,7 +53848,7 @@
 		"shield_no": "10855",
 		"appt_date": "1/6/2016",
 		"recognition_count": 18,
-		"arrest_count": 415,
+		"arrest_count": 416,
 		"reports": {
 			"summary": {
 				"command": "113 DOMESTIC VIOLENCE SQUAD",
@@ -54769,7 +54586,7 @@
 		"shield_no": "1747",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 5,
+		"arrest_count": 7,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 5",
@@ -55663,8 +55480,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 54,
-				"misdemeanor": 93
+				"felony": 56,
+				"misdemeanor": 95
 			},
 			"awards": [
 				{

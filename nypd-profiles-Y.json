@@ -4524,7 +4524,7 @@
 		"shield_no": "22354",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 9,
+		"arrest_count": 12,
 		"reports": {
 			"summary": {
 				"command": "TIMES SQUARE FIELD TRAINING UNIT",
@@ -6352,7 +6352,7 @@
 		"shield_no": "21928",
 		"appt_date": "4/30/2025",
 		"recognition_count": 0,
-		"arrest_count": 28,
+		"arrest_count": 29,
 		"reports": {
 			"summary": {
 				"command": "009 PRECINCT",
@@ -7368,7 +7368,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 28,
+				"felony": 29,
 				"misdemeanor": 45,
 				"violation": 1
 			},
@@ -7432,7 +7432,7 @@
 		"shield_no": "31882",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 19,
+		"arrest_count": 20,
 		"reports": {
 			"summary": {
 				"command": "040 PCT FIELD TRAINING UNIT",
@@ -8703,7 +8703,7 @@
 		"shield_no": "7902",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 3,
+		"arrest_count": 4,
 		"reports": {
 			"summary": {
 				"command": "PSA 2 FIELD TRAINING UNIT",
@@ -8763,7 +8763,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 51,
+				"misdemeanor": 56,
 				"violation": 2
 			},
 			"awards": [
@@ -9859,7 +9859,7 @@
 		"shield_no": "16033",
 		"appt_date": "12/17/2025",
 		"recognition_count": 0,
-		"arrest_count": 3,
+		"arrest_count": 4,
 		"reports": {
 			"summary": {
 				"command": "060 PCT FIELD TRAINING UNIT",
@@ -11105,7 +11105,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 20,
+				"felony": 21,
 				"misdemeanor": 34
 			},
 			"awards": []
@@ -12237,7 +12237,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 44,
-				"misdemeanor": 53
+				"misdemeanor": 54
 			},
 			"awards": []
 		},
