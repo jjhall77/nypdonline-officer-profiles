@@ -1358,7 +1358,7 @@
 		"shield_no": "16614",
 		"appt_date": "1/6/2020",
 		"recognition_count": 2,
-		"arrest_count": 55,
+		"arrest_count": 56,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 1",
@@ -1501,7 +1501,7 @@
 		"shield_no": "7043",
 		"appt_date": "1/17/2023",
 		"recognition_count": 0,
-		"arrest_count": 155,
+		"arrest_count": 156,
 		"reports": {
 			"summary": {
 				"command": "060 PRECINCT",
@@ -1523,7 +1523,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 71,
-				"misdemeanor": 84
+				"misdemeanor": 85
 			},
 			"awards": []
 		},
@@ -1684,7 +1684,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 8,
-				"misdemeanor": 29
+				"misdemeanor": 30
 			},
 			"awards": []
 		},
@@ -3766,7 +3766,7 @@
 		"shield_no": "5649",
 		"appt_date": "5/8/2024",
 		"recognition_count": 0,
-		"arrest_count": 44,
+		"arrest_count": 47,
 		"reports": {
 			"summary": {
 				"command": "006 PRECINCT",
@@ -5333,7 +5333,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 22
+				"misdemeanor": 23
 			},
 			"awards": [
 				{
@@ -8286,7 +8286,7 @@
 		"shield_no": "11473",
 		"appt_date": "10/7/2019",
 		"recognition_count": 0,
-		"arrest_count": 221,
+		"arrest_count": 222,
 		"reports": {
 			"summary": {
 				"command": "081 DOMESTIC VIOLENCE SQUAD",
@@ -10006,7 +10006,7 @@
 		"shield_no": "13274",
 		"appt_date": "7/9/2013",
 		"recognition_count": 1,
-		"arrest_count": 93,
+		"arrest_count": 95,
 		"reports": {
 			"summary": {
 				"command": "061 PRECINCT",
@@ -12824,7 +12824,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 31
+				"misdemeanor": 33
 			},
 			"awards": []
 		},
@@ -13822,7 +13822,7 @@
 		"shield_no": "25015",
 		"appt_date": "7/5/2023",
 		"recognition_count": 0,
-		"arrest_count": 30,
+		"arrest_count": 31,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 3",
@@ -13844,7 +13844,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 21
+				"misdemeanor": 22
 			},
 			"awards": []
 		},
@@ -14292,7 +14292,7 @@
 		"shield_no": "14026",
 		"appt_date": "1/10/2018",
 		"recognition_count": 0,
-		"arrest_count": 32,
+		"arrest_count": 33,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 34",
