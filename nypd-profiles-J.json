@@ -6823,7 +6823,7 @@
 			"arrests": {
 				"felony": 122,
 				"misdemeanor": 197,
-				"other": 66,
+				"other": 67,
 				"violation": 1
 			},
 			"awards": [
@@ -16861,7 +16861,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 101,
+				"misdemeanor": 102,
 				"violation": 4
 			},
 			"awards": []
@@ -17523,8 +17523,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 9,
-				"misdemeanor": 33
+				"felony": 10,
+				"misdemeanor": 34
 			},
 			"awards": []
 		},
@@ -18119,7 +18119,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 17,
-				"misdemeanor": 57,
+				"misdemeanor": 58,
 				"violation": 1
 			},
 			"awards": []
@@ -22035,7 +22035,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 91,
+				"felony": 92,
 				"misdemeanor": 152,
 				"other": 1,
 				"violation": 2
@@ -34992,7 +34992,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 139,
+				"felony": 142,
 				"misdemeanor": 98
 			},
 			"awards": [
@@ -35420,8 +35420,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 34,
-				"misdemeanor": 43
+				"felony": 36,
+				"misdemeanor": 44
 			},
 			"awards": [
 				{
@@ -42386,7 +42386,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 18
+				"misdemeanor": 19
 			},
 			"awards": []
 		},
@@ -43343,13 +43343,7 @@
 				"shield_no": "19107",
 				"appt_date": "4/22/2026"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "4/22/2026",
-					"shield_no": "19107"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
@@ -44726,7 +44720,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 16,
+				"felony": 17,
 				"misdemeanor": 46
 			},
 			"awards": [
@@ -44891,7 +44885,7 @@
 			],
 			"arrests": {
 				"infraction": 2,
-				"felony": 493,
+				"felony": 495,
 				"misdemeanor": 222,
 				"violation": 3
 			},

@@ -858,7 +858,7 @@
 		"shield_no": "620",
 		"appt_date": "1/17/2023",
 		"recognition_count": 0,
-		"arrest_count": 10,
+		"arrest_count": 11,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 20",
@@ -3120,7 +3120,7 @@
 		"shield_no": "16426",
 		"appt_date": "7/19/2024",
 		"recognition_count": 1,
-		"arrest_count": 80,
+		"arrest_count": 85,
 		"reports": {
 			"summary": {
 				"command": "103 PRECINCT",
@@ -3142,7 +3142,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 22,
-				"misdemeanor": 55,
+				"misdemeanor": 60,
 				"other": 1,
 				"violation": 2
 			},
@@ -4512,7 +4512,7 @@
 		"shield_no": "5391",
 		"appt_date": "1/6/2020",
 		"recognition_count": 22,
-		"arrest_count": 127,
+		"arrest_count": 128,
 		"reports": {
 			"summary": {
 				"command": "INTEL CIS FIO PROGRAM",
@@ -4804,7 +4804,7 @@
 		"shield_no": "18104",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 10,
+		"arrest_count": 11,
 		"reports": {
 			"summary": {
 				"command": "040 PCT FIELD TRAINING UNIT",
@@ -4826,7 +4826,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -6096,7 +6096,7 @@
 		"shield_no": "12400",
 		"appt_date": "10/25/2023",
 		"recognition_count": 3,
-		"arrest_count": 66,
+		"arrest_count": 67,
 		"reports": {
 			"summary": {
 				"command": "034 PRECINCT",
@@ -8226,7 +8226,7 @@
 		"shield_no": "7645",
 		"appt_date": "10/25/2023",
 		"recognition_count": 2,
-		"arrest_count": 79,
+		"arrest_count": 80,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 2",
