@@ -46,7 +46,7 @@
 		"shield_no": "4258",
 		"appt_date": "7/3/2024",
 		"recognition_count": 1,
-		"arrest_count": 29,
+		"arrest_count": 30,
 		"reports": {
 			"summary": {
 				"command": "034 PRECINCT",
@@ -3137,7 +3137,7 @@
 		"shield_no": "26805",
 		"appt_date": "7/7/2021",
 		"recognition_count": 3,
-		"arrest_count": 109,
+		"arrest_count": 110,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -5383,7 +5383,7 @@
 		"shield_no": "15973",
 		"appt_date": "10/19/2022",
 		"recognition_count": 5,
-		"arrest_count": 82,
+		"arrest_count": 84,
 		"reports": {
 			"summary": {
 				"command": "HOUSING PSA 5",
@@ -8224,7 +8224,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 56,
+				"felony": 57,
 				"misdemeanor": 38
 			},
 			"awards": [

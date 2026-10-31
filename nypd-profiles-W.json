@@ -1919,7 +1919,7 @@
 		"shield_no": "13659",
 		"appt_date": "10/25/2023",
 		"recognition_count": 1,
-		"arrest_count": 99,
+		"arrest_count": 100,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -2311,7 +2311,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 43,
-				"misdemeanor": 49
+				"misdemeanor": 51
 			},
 			"awards": [
 				{
@@ -2918,8 +2918,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 7,
-				"misdemeanor": 12
+				"felony": 8,
+				"misdemeanor": 13
 			},
 			"awards": []
 		},
@@ -2957,7 +2957,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 30,
+				"felony": 31,
 				"misdemeanor": 101
 			},
 			"awards": []
@@ -8837,7 +8837,7 @@
 		"shield_no": "1100",
 		"appt_date": "10/15/2021",
 		"recognition_count": 0,
-		"arrest_count": 95,
+		"arrest_count": 96,
 		"reports": {
 			"summary": {
 				"command": "113 PRECINCT",
@@ -8859,7 +8859,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 24,
-				"misdemeanor": 70,
+				"misdemeanor": 71,
 				"violation": 1
 			},
 			"awards": []
@@ -10580,7 +10580,7 @@
 		"shield_no": "10280",
 		"appt_date": "7/7/2021",
 		"recognition_count": 17,
-		"arrest_count": 147,
+		"arrest_count": 148,
 		"reports": {
 			"summary": {
 				"command": "007 PRECINCT",
@@ -11450,7 +11450,7 @@
 		"shield_no": "4828",
 		"appt_date": "7/13/2021",
 		"recognition_count": 4,
-		"arrest_count": 183,
+		"arrest_count": 184,
 		"reports": {
 			"summary": {
 				"command": "067 DET SQUAD",
@@ -14048,7 +14048,7 @@
 		"shield_no": "25926",
 		"appt_date": "2/24/2021",
 		"recognition_count": 37,
-		"arrest_count": 212,
+		"arrest_count": 213,
 		"reports": {
 			"summary": {
 				"command": "PBSI COMMUNITY RESPONSE TEAM",
@@ -20832,6 +20832,14 @@
 			},
 			"awards": [
 				{
+					"date": "2/11/2026",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/18/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "2/15/2023",
 					"name": "MERITORIOUS POLICE DUTY"
 				},
@@ -21500,7 +21508,7 @@
 		"shield_no": "1730",
 		"appt_date": "10/15/2021",
 		"recognition_count": 2,
-		"arrest_count": 65,
+		"arrest_count": 67,
 		"reports": {
 			"summary": {
 				"command": "079 PRECINCT",
@@ -31145,7 +31153,7 @@
 		"shield_no": "26684",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 20,
+		"arrest_count": 21,
 		"reports": {
 			"summary": {
 				"command": "047 PCT FIELD TRAINING UNIT",
@@ -33073,7 +33081,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 73,
+				"felony": 75,
 				"misdemeanor": 93,
 				"other": 1,
 				"violation": 1
@@ -43954,7 +43962,7 @@
 		"shield_no": "28725",
 		"appt_date": "10/30/2024",
 		"recognition_count": 1,
-		"arrest_count": 17,
+		"arrest_count": 18,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -43992,35 +44000,6 @@
 			]
 		},
 		"command": "068 PRECINCT"
-	},
-	{
-		"taxid": 942718,
-		"full_name": "WISSERT, JOHN P",
-		"first_name": "JOHN",
-		"last_name": "WISSERT",
-		"middle_initial": "P",
-		"rank": "POLICE OFFICER",
-		"shield_no": "20029",
-		"appt_date": "7/10/2006",
-		"recognition_count": 5,
-		"arrest_count": 166,
-		"reports": {
-			"summary": {
-				"command": "110 PRECINCT",
-				"assignment_date": "3/19/2013",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "20029",
-				"appt_date": "7/10/2006"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "110 PRECINCT"
 	},
 	{
 		"taxid": 940864,
@@ -45602,7 +45581,7 @@
 		"shield_no": "5994",
 		"appt_date": "7/9/2007",
 		"recognition_count": 1,
-		"arrest_count": 278,
+		"arrest_count": 279,
 		"reports": {
 			"summary": {
 				"command": "NARC BORO BROOKLYN SOUTH MAJOR CASE UNIT",
@@ -47643,7 +47622,7 @@
 		"shield_no": "746",
 		"appt_date": "1/17/2024",
 		"recognition_count": 3,
-		"arrest_count": 43,
+		"arrest_count": 44,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -48236,7 +48215,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 69,
-				"misdemeanor": 114,
+				"misdemeanor": 117,
 				"violation": 12
 			},
 			"awards": [
@@ -48575,7 +48554,7 @@
 		"shield_no": "13999",
 		"appt_date": "4/13/2022",
 		"recognition_count": 0,
-		"arrest_count": 38,
+		"arrest_count": 39,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -49766,7 +49745,7 @@
 		"shield_no": "1330",
 		"appt_date": "8/20/2025",
 		"recognition_count": 0,
-		"arrest_count": 16,
+		"arrest_count": 19,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
@@ -51169,7 +51148,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 121,
+				"felony": 124,
 				"misdemeanor": 81
 			},
 			"awards": [
@@ -51821,8 +51800,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 19,
-				"misdemeanor": 32
+				"felony": 22,
+				"misdemeanor": 33
 			},
 			"awards": []
 		},
@@ -53427,8 +53406,8 @@
 		"arrest_count": 174,
 		"reports": {
 			"summary": {
-				"command": "103 PRECINCT",
-				"assignment_date": "1/8/2026",
+				"command": "QUEENS SOUTH GRAND LARCENY SQD",
+				"assignment_date": "10/28/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "25338",
@@ -53484,7 +53463,7 @@
 				}
 			]
 		},
-		"command": "103 PRECINCT"
+		"command": "QUEENS SOUTH GRAND LARCENY SQD"
 	},
 	{
 		"taxid": 963337,
@@ -56094,7 +56073,7 @@
 		"shield_no": "27517",
 		"appt_date": "7/16/2021",
 		"recognition_count": 0,
-		"arrest_count": 18,
+		"arrest_count": 19,
 		"reports": {
 			"summary": {
 				"command": "060 PRECINCT",
@@ -57487,6 +57466,11 @@
 				{
 					"rank": "CAPTAIN",
 					"date": "12/22/2023",
+					"shield_no": ""
+				},
+				{
+					"rank": "DEPUTY INSPECTOR",
+					"date": "10/30/2026",
 					"shield_no": ""
 				}
 			],
