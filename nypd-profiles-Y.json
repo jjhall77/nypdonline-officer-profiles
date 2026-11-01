@@ -590,41 +590,6 @@
 		"command": "077 PCT FIELD TRAINING UNIT"
 	},
 	{
-		"taxid": 987046,
-		"full_name": "YAKUBOV, MAKSUDJON",
-		"first_name": "MAKSUDJON",
-		"last_name": "YAKUBOV",
-		"middle_initial": "",
-		"rank": "POLICE OFFICER",
-		"shield_no": "18197",
-		"appt_date": "7/22/2026",
-		"recognition_count": 0,
-		"arrest_count": 0,
-		"reports": {
-			"summary": {
-				"command": "RTS RECRUITS",
-				"assignment_date": "7/22/2026",
-				"ethnicity": "WHITE",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "18197",
-				"appt_date": "7/22/2026"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/22/2026",
-					"shield_no": "18197"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "RTS RECRUITS"
-	},
-	{
 		"taxid": 987813,
 		"full_name": "YAKUBOV, SHOKHRUKH",
 		"first_name": "SHOKHRUKH",
@@ -3141,7 +3106,7 @@
 		"shield_no": "1768",
 		"appt_date": "12/29/2021",
 		"recognition_count": 2,
-		"arrest_count": 191,
+		"arrest_count": 193,
 		"reports": {
 			"summary": {
 				"command": "115TH DET SQUAD",
@@ -4020,7 +3985,7 @@
 		"shield_no": "7933",
 		"appt_date": "1/9/2013",
 		"recognition_count": 1,
-		"arrest_count": 235,
+		"arrest_count": 237,
 		"reports": {
 			"summary": {
 				"command": "BRONX TRANSIT CRIMES SQUAD",
@@ -4046,7 +4011,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 55,
+				"felony": 57,
 				"misdemeanor": 167,
 				"violation": 13
 			},
@@ -4134,6 +4099,46 @@
 			"awards": []
 		},
 		"command": "TRANSIT DISTRICT 20"
+	},
+	{
+		"taxid": 980979,
+		"full_name": "YAU, ANTHONY",
+		"first_name": "ANTHONY",
+		"last_name": "YAU",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "31924",
+		"appt_date": "10/30/2024",
+		"recognition_count": 0,
+		"arrest_count": 48,
+		"reports": {
+			"summary": {
+				"command": "EXTENDED LEAVE SERVICES GROUP",
+				"assignment_date": "8/11/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "31924",
+				"appt_date": "10/30/2024"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "10/30/2024",
+					"shield_no": "31924"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 14,
+				"misdemeanor": 32,
+				"other": 1,
+				"violation": 1
+			},
+			"awards": []
+		},
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 937769,
@@ -4555,41 +4560,6 @@
 			"awards": []
 		},
 		"command": "TRANSIT DISTRICT 3"
-	},
-	{
-		"taxid": 987048,
-		"full_name": "YE, WILSON",
-		"first_name": "WILSON",
-		"last_name": "YE",
-		"middle_initial": "",
-		"rank": "POLICE OFFICER",
-		"shield_no": "18747",
-		"appt_date": "7/22/2026",
-		"recognition_count": 0,
-		"arrest_count": 0,
-		"reports": {
-			"summary": {
-				"command": "RTS RECRUITS",
-				"assignment_date": "7/22/2026",
-				"ethnicity": "ASIAN",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "18747",
-				"appt_date": "7/22/2026"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/22/2026",
-					"shield_no": "18747"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 951454,
@@ -5963,7 +5933,7 @@
 		"shield_no": "20500",
 		"appt_date": "12/29/2021",
 		"recognition_count": 7,
-		"arrest_count": 164,
+		"arrest_count": 166,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",

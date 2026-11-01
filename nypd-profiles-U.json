@@ -4701,7 +4701,7 @@
 		"rank": "DETECTIVE 3RD GRADE",
 		"shield_no": "3629",
 		"appt_date": "1/9/2013",
-		"recognition_count": 14,
+		"recognition_count": 20,
 		"arrest_count": 126,
 		"reports": {
 			"summary": {
@@ -7058,7 +7058,7 @@
 		"shield_no": "4259",
 		"appt_date": "7/8/2015",
 		"recognition_count": 21,
-		"arrest_count": 719,
+		"arrest_count": 721,
 		"reports": {
 			"summary": {
 				"command": "047 PRECINCT",
@@ -7085,7 +7085,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 342,
-				"misdemeanor": 377
+				"misdemeanor": 379
 			},
 			"awards": [
 				{
@@ -8206,7 +8206,7 @@
 		"shield_no": "5431",
 		"appt_date": "12/29/2020",
 		"recognition_count": 1,
-		"arrest_count": 39,
+		"arrest_count": 41,
 		"reports": {
 			"summary": {
 				"command": "066 PRECINCT",
@@ -8227,8 +8227,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 11,
-				"misdemeanor": 26,
+				"felony": 12,
+				"misdemeanor": 27,
 				"violation": 2
 			},
 			"awards": [
