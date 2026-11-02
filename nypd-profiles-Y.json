@@ -590,6 +590,41 @@
 		"command": "077 PCT FIELD TRAINING UNIT"
 	},
 	{
+		"taxid": 987046,
+		"full_name": "YAKUBOV, MAKSUDJON",
+		"first_name": "MAKSUDJON",
+		"last_name": "YAKUBOV",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "18197",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "WHITE",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "18197",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "18197"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 987813,
 		"full_name": "YAKUBOV, SHOKHRUKH",
 		"first_name": "SHOKHRUKH",
@@ -3985,7 +4020,7 @@
 		"shield_no": "7933",
 		"appt_date": "1/9/2013",
 		"recognition_count": 1,
-		"arrest_count": 237,
+		"arrest_count": 235,
 		"reports": {
 			"summary": {
 				"command": "BRONX TRANSIT CRIMES SQUAD",
@@ -4560,6 +4595,41 @@
 			"awards": []
 		},
 		"command": "TRANSIT DISTRICT 3"
+	},
+	{
+		"taxid": 987048,
+		"full_name": "YE, WILSON",
+		"first_name": "WILSON",
+		"last_name": "YE",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "18747",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "18747",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "18747"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 951454,

@@ -2615,7 +2615,7 @@
 		"rank": "SERGEANT",
 		"shield_no": "5400",
 		"appt_date": "1/6/2016",
-		"recognition_count": 2,
+		"recognition_count": 3,
 		"arrest_count": 81,
 		"reports": {
 			"summary": {
@@ -7731,7 +7731,7 @@
 		"shield_no": "17782",
 		"appt_date": "1/6/2016",
 		"recognition_count": 1,
-		"arrest_count": 49,
+		"arrest_count": 50,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 30",
@@ -7972,7 +7972,7 @@
 		"shield_no": "12173",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 30,
+		"arrest_count": 31,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 3",
@@ -12863,6 +12863,70 @@
 		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
+		"taxid": 969713,
+		"full_name": "GARCIA, ADRIAN G",
+		"first_name": "ADRIAN",
+		"last_name": "GARCIA",
+		"middle_initial": "G",
+		"rank": "POLICE OFFICER",
+		"shield_no": "17294",
+		"appt_date": "11/2/2020",
+		"recognition_count": 6,
+		"arrest_count": 150,
+		"reports": {
+			"summary": {
+				"command": "007 DOMESTIC VIOLENCE SQUAD",
+				"assignment_date": "10/15/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "17294",
+				"appt_date": "11/2/2020"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "11/2/2020",
+					"shield_no": "17294"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 61,
+				"misdemeanor": 88,
+				"violation": 1
+			},
+			"awards": [
+				{
+					"date": "5/18/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/17/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/26/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/2/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/16/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/8/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "007 DOMESTIC VIOLENCE SQUAD"
+	},
+	{
 		"taxid": 980541,
 		"full_name": "GARCIA, ALBA R",
 		"first_name": "ALBA",
@@ -16023,7 +16087,7 @@
 		"shield_no": "4299",
 		"appt_date": "1/6/2016",
 		"recognition_count": 33,
-		"arrest_count": 230,
+		"arrest_count": 232,
 		"reports": {
 			"summary": {
 				"command": "NARC BORO BRONX SOUTH",
@@ -18116,7 +18180,7 @@
 		"shield_no": "11965",
 		"appt_date": "1/6/2016",
 		"recognition_count": 5,
-		"arrest_count": 190,
+		"arrest_count": 191,
 		"reports": {
 			"summary": {
 				"command": "116 PRECINCT",
@@ -20902,7 +20966,7 @@
 		"shield_no": "7709",
 		"appt_date": "12/29/2020",
 		"recognition_count": 1,
-		"arrest_count": 92,
+		"arrest_count": 93,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 2 BRONX",
@@ -22574,7 +22638,7 @@
 		"shield_no": "1362",
 		"appt_date": "10/7/2015",
 		"recognition_count": 17,
-		"arrest_count": 303,
+		"arrest_count": 304,
 		"reports": {
 			"summary": {
 				"command": "094 DET SQUAD",
@@ -24455,7 +24519,7 @@
 		"shield_no": "2749",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 129,
+		"arrest_count": 130,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 30",
@@ -24636,7 +24700,7 @@
 		"shield_no": "3607",
 		"appt_date": "7/9/2013",
 		"recognition_count": 2,
-		"arrest_count": 146,
+		"arrest_count": 147,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",
@@ -25834,7 +25898,7 @@
 		"shield_no": "25756",
 		"appt_date": "7/5/2023",
 		"recognition_count": 2,
-		"arrest_count": 108,
+		"arrest_count": 109,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 1",
@@ -26430,7 +26494,7 @@
 		"last_name": "GARRETT",
 		"middle_initial": "T",
 		"rank": "POLICE OFFICER",
-		"shield_no": "",
+		"shield_no": "19147",
 		"appt_date": "7/22/2026",
 		"recognition_count": 0,
 		"arrest_count": 0,
@@ -32326,7 +32390,13 @@
 					"shield_no": "314"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "1/13/2026",
+					"url": "https://nypdonline.org/files/955148_01132026_2026006.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [
 				{
 					"entry": "10/28/2024 12:00:00 AM",
@@ -35467,7 +35537,12 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"infraction": 1,
+				"felony": 7,
+				"misdemeanor": 70,
+				"violation": 2
+			},
 			"awards": []
 		},
 		"command": "048 PRECINCT"
@@ -38951,7 +39026,13 @@
 					"shield_no": "4324"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "11/10/2021",
+					"url": "https://nypdonline.org/files/957619_11102021_2021071.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -42014,7 +42095,7 @@
 		"rank": "DETECTIVE 3RD GRADE",
 		"shield_no": "1146",
 		"appt_date": "7/8/2015",
-		"recognition_count": 12,
+		"recognition_count": 13,
 		"arrest_count": 126,
 		"reports": {
 			"summary": {
@@ -47640,7 +47721,7 @@
 		"shield_no": "3663",
 		"appt_date": "7/8/2015",
 		"recognition_count": 16,
-		"arrest_count": 237,
+		"arrest_count": 238,
 		"reports": {
 			"summary": {
 				"command": "BRONX TRANSIT CRIMES SQUAD",
@@ -50370,7 +50451,7 @@
 		"last_name": "GILLAN",
 		"middle_initial": "G",
 		"rank": "POLICE OFFICER",
-		"shield_no": "19926",
+		"shield_no": "2133",
 		"appt_date": "7/22/2026",
 		"recognition_count": 0,
 		"arrest_count": 0,
@@ -50380,7 +50461,7 @@
 				"assignment_date": "7/22/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
-				"shield_no": "19926",
+				"shield_no": "2133",
 				"appt_date": "7/22/2026"
 			},
 			"ranks": [
@@ -51145,7 +51226,7 @@
 		"shield_no": "4838",
 		"appt_date": "1/8/2014",
 		"recognition_count": 27,
-		"arrest_count": 398,
+		"arrest_count": 399,
 		"reports": {
 			"summary": {
 				"command": "FINANCIAL CRIMES TASK FORCE",
@@ -53710,7 +53791,7 @@
 		"shield_no": "14866",
 		"appt_date": "1/7/2015",
 		"recognition_count": 2,
-		"arrest_count": 48,
+		"arrest_count": 49,
 		"reports": {
 			"summary": {
 				"command": "111 PRECINCT",
@@ -54363,8 +54444,8 @@
 		"first_name": "LEONEL",
 		"last_name": "GIRON",
 		"middle_initial": "O",
-		"rank": "POLICE OFFICER",
-		"shield_no": "21368",
+		"rank": "SERGEANT",
+		"shield_no": "1539",
 		"appt_date": "10/7/2015",
 		"recognition_count": 4,
 		"arrest_count": 88,
@@ -55259,7 +55340,7 @@
 		"shield_no": "6207",
 		"appt_date": "7/8/2015",
 		"recognition_count": 7,
-		"arrest_count": 337,
+		"arrest_count": 340,
 		"reports": {
 			"summary": {
 				"command": "120 DETECTIVE SQUAD",
@@ -56255,7 +56336,7 @@
 		"shield_no": "17069",
 		"appt_date": "1/7/2015",
 		"recognition_count": 10,
-		"arrest_count": 227,
+		"arrest_count": 228,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 34",
@@ -60231,8 +60312,8 @@
 		"arrest_count": 14,
 		"reports": {
 			"summary": {
-				"command": "006 PRECINCT",
-				"assignment_date": "10/13/2025",
+				"command": "AVIATION UNIT",
+				"assignment_date": "10/28/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "SERGEANT",
 				"shield_no": "1736",
@@ -60268,7 +60349,7 @@
 				}
 			]
 		},
-		"command": "006 PRECINCT"
+		"command": "AVIATION UNIT"
 	},
 	{
 		"taxid": 956683,
@@ -75155,7 +75236,7 @@
 		"reports": {
 			"summary": {
 				"command": "OEEO INVESTIGATIONS UNIT",
-				"assignment_date": "8/2/2026",
+				"assignment_date": "10/31/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "2211",
@@ -80426,7 +80507,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 4
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -82771,7 +82852,7 @@
 		"shield_no": "5203",
 		"appt_date": "12/29/2020",
 		"recognition_count": 6,
-		"arrest_count": 263,
+		"arrest_count": 265,
 		"reports": {
 			"summary": {
 				"command": "INTEL CIS FIO PROGRAM",
@@ -82840,7 +82921,7 @@
 		"shield_no": "5885",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 115,
+		"arrest_count": 116,
 		"reports": {
 			"summary": {
 				"command": "005 PRECINCT",
@@ -87170,7 +87251,7 @@
 		"shield_no": "10076",
 		"appt_date": "7/9/2014",
 		"recognition_count": 2,
-		"arrest_count": 196,
+		"arrest_count": 197,
 		"reports": {
 			"summary": {
 				"command": "060 DOMESTIC VIOLENCE SQUAD",
@@ -88493,7 +88574,7 @@
 		"shield_no": "4676",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 131,
+		"arrest_count": 133,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 2 BRONX",
@@ -98402,7 +98483,7 @@
 		"shield_no": "2848",
 		"appt_date": "7/9/2014",
 		"recognition_count": 1,
-		"arrest_count": 193,
+		"arrest_count": 194,
 		"reports": {
 			"summary": {
 				"command": "112 PRECINCT",
@@ -102194,7 +102275,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 6
+				"misdemeanor": 7
 			},
 			"awards": []
 		},
@@ -105674,7 +105755,7 @@
 		"shield_no": "20396",
 		"appt_date": "7/5/2023",
 		"recognition_count": 2,
-		"arrest_count": 53,
+		"arrest_count": 55,
 		"reports": {
 			"summary": {
 				"command": "073 PRECINCT",
@@ -106006,7 +106087,12 @@
 					]
 				}
 			],
-			"arrests": {},
+			"arrests": {
+				"felony": 4,
+				"misdemeanor": 48,
+				"other": 1,
+				"violation": 10
+			},
 			"awards": [
 				{
 					"date": "7/3/2019",
@@ -106730,7 +106816,7 @@
 		"shield_no": "11825",
 		"appt_date": "7/9/2014",
 		"recognition_count": 4,
-		"arrest_count": 240,
+		"arrest_count": 242,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 34",
@@ -106786,7 +106872,7 @@
 		"shield_no": "762",
 		"appt_date": "10/12/2021",
 		"recognition_count": 3,
-		"arrest_count": 33,
+		"arrest_count": 35,
 		"reports": {
 			"summary": {
 				"command": "109 PRECINCT",
@@ -107043,7 +107129,7 @@
 		"last_name": "GUERRA",
 		"middle_initial": "A",
 		"rank": "POLICE OFFICER",
-		"shield_no": "",
+		"shield_no": "19150",
 		"appt_date": "7/22/2026",
 		"recognition_count": 0,
 		"arrest_count": 0,
@@ -107053,7 +107139,7 @@
 				"assignment_date": "7/22/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
-				"shield_no": "19150",
+				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
 			"ranks": [
@@ -107705,7 +107791,7 @@
 		"last_name": "GUERRERO",
 		"middle_initial": "M",
 		"rank": "POLICE OFFICER",
-		"shield_no": "",
+		"shield_no": "22946",
 		"appt_date": "7/22/2026",
 		"recognition_count": 0,
 		"arrest_count": 0,
@@ -110748,7 +110834,7 @@
 		"rank": "SERGEANT",
 		"shield_no": "653",
 		"appt_date": "1/6/2016",
-		"recognition_count": 17,
+		"recognition_count": 31,
 		"arrest_count": 176,
 		"reports": {
 			"summary": {
@@ -112300,8 +112386,17 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 14,
+				"misdemeanor": 43,
+				"violation": 4
+			},
+			"awards": [
+				{
+					"date": "4/19/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "116 DOMESTIC VIOLENCE SQUAD"
 	},
@@ -117773,7 +117868,7 @@
 		"shield_no": "5662",
 		"appt_date": "7/6/2010",
 		"recognition_count": 2,
-		"arrest_count": 100,
+		"arrest_count": 101,
 		"reports": {
 			"summary": {
 				"command": "001 PRECINCT",
@@ -118627,7 +118722,7 @@
 		"shield_no": "27000",
 		"appt_date": "1/7/2015",
 		"recognition_count": 3,
-		"arrest_count": 246,
+		"arrest_count": 247,
 		"reports": {
 			"summary": {
 				"command": "PBMN COMMUNITY RESPONSE TEAM",
@@ -119162,7 +119257,7 @@
 		"last_name": "GUTIERREZ",
 		"middle_initial": "K",
 		"rank": "POLICE OFFICER",
-		"shield_no": "",
+		"shield_no": "8021",
 		"appt_date": "7/22/2026",
 		"recognition_count": 0,
 		"arrest_count": 0,
@@ -120496,7 +120591,18 @@
 					"shield_no": "15714"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "4/15/2020",
+					"url": "https://nypdonline.org/files/948589_04152020_2020044.pdf",
+					"type": "Trial Decision"
+				},
+				{
+					"date": "9/29/2017",
+					"url": "https://nypdonline.org/files/948589_09292017_2017092.pdf",
+					"type": "Trial Decision"
+				}
+			],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {

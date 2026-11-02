@@ -1857,7 +1857,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 75,
+				"felony": 79,
 				"misdemeanor": 117,
 				"violation": 1
 			},
@@ -10179,7 +10179,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 103,
+				"felony": 104,
 				"misdemeanor": 133,
 				"violation": 1
 			},
@@ -52623,7 +52623,9 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"misdemeanor": 1
+			},
 			"awards": []
 		},
 		"command": "075 PCT FIELD TRAINING UNIT"
@@ -55289,7 +55291,7 @@
 				"assignment_date": "7/22/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
-				"shield_no": "19166",
+				"shield_no": "",
 				"appt_date": "7/22/2026"
 			},
 			"ranks": [
@@ -57707,7 +57709,7 @@
 		"reports": {
 			"summary": {
 				"command": "PATROL BORO QUEENS NORTH",
-				"assignment_date": "10/27/2026",
+				"assignment_date": "8/19/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "7178",
@@ -68063,7 +68065,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 16,
-				"misdemeanor": 46,
+				"misdemeanor": 47,
 				"violation": 2
 			},
 			"awards": [

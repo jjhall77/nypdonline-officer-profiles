@@ -15653,6 +15653,14 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "6/2/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/20/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
 					"date": "9/4/2023",
 					"name": "MERITORIOUS POLICE DUTY"
 				}
@@ -62516,7 +62524,7 @@
 				"assignment_date": "7/22/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "POLICE OFFICER",
-				"shield_no": "",
+				"shield_no": "19168",
 				"appt_date": "7/22/2026"
 			},
 			"ranks": [
@@ -94835,8 +94843,8 @@
 		"arrest_count": 145,
 		"reports": {
 			"summary": {
-				"command": "FAMILY ASSISTANCE SECTION",
-				"assignment_date": "10/28/2026",
+				"command": "104 PRECINCT",
+				"assignment_date": "4/8/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -94920,7 +94928,7 @@
 				}
 			]
 		},
-		"command": "FAMILY ASSISTANCE SECTION"
+		"command": "104 PRECINCT"
 	},
 	{
 		"taxid": 979303,

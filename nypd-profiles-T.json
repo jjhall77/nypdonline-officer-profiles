@@ -22277,7 +22277,7 @@
 		"reports": {
 			"summary": {
 				"command": "FIREARMS & TACTICS SECTION",
-				"assignment_date": "10/25/2026",
+				"assignment_date": "7/27/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "1752",
@@ -41284,7 +41284,7 @@
 				"assignment_date": "7/22/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
-				"shield_no": "",
+				"shield_no": "19301",
 				"appt_date": "7/22/2026"
 			},
 			"ranks": [
@@ -67457,7 +67457,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 4,
+				"felony": 5,
 				"misdemeanor": 46,
 				"violation": 7
 			},

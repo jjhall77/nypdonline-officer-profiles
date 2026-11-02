@@ -3132,8 +3132,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "24830",
 		"appt_date": "1/6/2020",
-		"recognition_count": 8,
-		"arrest_count": 152,
+		"recognition_count": 9,
+		"arrest_count": 153,
 		"reports": {
 			"summary": {
 				"command": "114 PRECINCT",
@@ -5388,8 +5388,8 @@
 		"first_name": "CONRAD",
 		"last_name": "NARCISSE",
 		"middle_initial": "A",
-		"rank": "DETECTIVE 2ND GRADE",
-		"shield_no": "7317",
+		"rank": "SERGEANT",
+		"shield_no": "1207",
 		"appt_date": "1/14/2009",
 		"recognition_count": 17,
 		"arrest_count": 298,
@@ -8900,7 +8900,7 @@
 		"shield_no": "1596",
 		"appt_date": "7/6/2011",
 		"recognition_count": 0,
-		"arrest_count": 106,
+		"arrest_count": 107,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 32",
@@ -10033,7 +10033,7 @@
 		"shield_no": "15934",
 		"appt_date": "1/7/2015",
 		"recognition_count": 0,
-		"arrest_count": 436,
+		"arrest_count": 440,
 		"reports": {
 			"summary": {
 				"command": "044 DOMESTIC VIOLENCE SQUAD",
@@ -13906,7 +13906,7 @@
 		"shield_no": "17301",
 		"appt_date": "4/24/2024",
 		"recognition_count": 0,
-		"arrest_count": 26,
+		"arrest_count": 28,
 		"reports": {
 			"summary": {
 				"command": "090 PRECINCT",
@@ -14646,8 +14646,8 @@
 		"first_name": "FREDRICK",
 		"last_name": "NELSON",
 		"middle_initial": "B",
-		"rank": "POLICE OFFICER",
-		"shield_no": "1590",
+		"rank": "SERGEANT",
+		"shield_no": "1794",
 		"appt_date": "7/6/2010",
 		"recognition_count": 21,
 		"arrest_count": 543,
@@ -15706,7 +15706,7 @@
 		"last_name": "NELSON",
 		"middle_initial": "J",
 		"rank": "POLICE OFFICER",
-		"shield_no": "",
+		"shield_no": "19192",
 		"appt_date": "7/22/2026",
 		"recognition_count": 0,
 		"arrest_count": 0,
@@ -22455,7 +22455,7 @@
 		"shield_no": "4461",
 		"appt_date": "12/29/2020",
 		"recognition_count": 8,
-		"arrest_count": 183,
+		"arrest_count": 185,
 		"reports": {
 			"summary": {
 				"command": "069 DET SQUAD",
@@ -26151,7 +26151,7 @@
 		"shield_no": "6275",
 		"appt_date": "7/9/2014",
 		"recognition_count": 3,
-		"arrest_count": 91,
+		"arrest_count": 92,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 11",
@@ -33428,7 +33428,7 @@
 		"shield_no": "3744",
 		"appt_date": "10/7/2015",
 		"recognition_count": 3,
-		"arrest_count": 284,
+		"arrest_count": 287,
 		"reports": {
 			"summary": {
 				"command": "045 DET SQUAD",
@@ -33682,7 +33682,7 @@
 		"shield_no": "5966",
 		"appt_date": "7/6/2011",
 		"recognition_count": 9,
-		"arrest_count": 322,
+		"arrest_count": 323,
 		"reports": {
 			"summary": {
 				"command": "047 DET SQUAD",
@@ -35060,7 +35060,7 @@
 		"shield_no": "25866",
 		"appt_date": "7/21/2008",
 		"recognition_count": 1,
-		"arrest_count": 199,
+		"arrest_count": 200,
 		"reports": {
 			"summary": {
 				"command": "010 DOMESTIC VIOLENCE SQUAD",

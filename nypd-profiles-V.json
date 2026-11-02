@@ -18494,7 +18494,7 @@
 				"command": "COD DISCOVERY LIAISON UNIT",
 				"assignment_date": "8/25/2021",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "DETECTIVE SPECIALIST",
+				"rank_desc": "DETECTIVE 2ND GRADE",
 				"shield_no": "444",
 				"appt_date": "7/9/2007"
 			},
@@ -48775,7 +48775,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 340,
+				"felony": 341,
 				"misdemeanor": 500,
 				"other": 3,
 				"violation": 91

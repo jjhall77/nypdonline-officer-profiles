@@ -6618,12 +6618,7 @@
 				"felony": 1,
 				"misdemeanor": 7
 			},
-			"awards": [
-				{
-					"date": "1/15/2022",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"awards": []
 		},
 		"command": "BUILDING MAINTENANCE SECT"
 	},
@@ -10268,13 +10263,7 @@
 					"shield_no": "2122"
 				}
 			],
-			"documents": [
-				{
-					"date": "3/28/2025",
-					"url": "https://nypdonline.org/files/948639_03282025_2025012.pdf",
-					"type": "Trial Decision"
-				}
-			],
+			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -18440,13 +18429,7 @@
 					"shield_no": "3675"
 				}
 			],
-			"documents": [
-				{
-					"date": "4/14/2020",
-					"url": "https://nypdonline.org/files/951522_04142020_2020036.pdf",
-					"type": "Trial Decision"
-				}
-			],
+			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -39358,10 +39341,7 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 21,
-				"misdemeanor": 23
-			},
+			"arrests": {},
 			"awards": [
 				{
 					"date": "1/4/2024",
@@ -45318,7 +45298,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 3
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -72969,6 +72949,11 @@
 					"rank": "DETECTIVE",
 					"date": "5/27/2022",
 					"shield_no": "4680"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "10/30/2026",
+					"shield_no": "1357"
 				}
 			],
 			"documents": [],
@@ -88298,10 +88283,7 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 2,
-				"misdemeanor": 6
-			},
+			"arrests": {},
 			"awards": []
 		},
 		"command": "010 PRECINCT"
@@ -99878,16 +99860,7 @@
 				"felony": 15,
 				"misdemeanor": 31
 			},
-			"awards": [
-				{
-					"date": "3/15/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "7/27/2016",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"awards": []
 		},
 		"command": "TRANSIT DISTRICT 23"
 	},
@@ -101292,13 +101265,7 @@
 					"shield_no": "2140"
 				}
 			],
-			"documents": [
-				{
-					"date": "8/14/2023",
-					"url": "https://nypdonline.org/files/960275_08142023_2023048.pdf",
-					"type": "Trial Decision"
-				}
-			],
+			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -118364,7 +118331,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 11,
+				"misdemeanor": 13,
 				"violation": 1
 			},
 			"awards": []

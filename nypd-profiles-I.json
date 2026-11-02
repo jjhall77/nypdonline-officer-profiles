@@ -3113,6 +3113,30 @@
 			},
 			"awards": [
 				{
+					"date": "5/17/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/21/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/22/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/24/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/1/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/20/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "7/14/2023",
 					"name": "MERITORIOUS POLICE DUTY"
 				}
@@ -4241,7 +4265,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 4
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
