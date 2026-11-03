@@ -336,11 +336,11 @@
 		"arrest_count": 52,
 		"reports": {
 			"summary": {
-				"command": "076 PRECINCT",
-				"assignment_date": "5/8/2019",
+				"command": "UNIFORMED PROMOTIONS TRN UNIT",
+				"assignment_date": "10/30/2026",
 				"ethnicity": "ASIAN",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "1519",
+				"rank_desc": "SERGEANT",
+				"shield_no": "3160",
 				"appt_date": "1/10/2018"
 			},
 			"ranks": [
@@ -377,7 +377,7 @@
 				}
 			]
 		},
-		"command": "076 PRECINCT"
+		"command": "UNIFORMED PROMOTIONS TRN UNIT"
 	},
 	{
 		"taxid": 943970,
@@ -1252,6 +1252,41 @@
 		"command": "010 PRECINCT"
 	},
 	{
+		"taxid": 987044,
+		"full_name": "XU, MATTHEW",
+		"first_name": "MATTHEW",
+		"last_name": "XU",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "16965",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "16965",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "16965"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
+	},
+	{
 		"taxid": 983943,
 		"full_name": "XU, YAN",
 		"first_name": "YAN",
@@ -1283,7 +1318,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 2
+				"misdemeanor": 3
 			},
 			"awards": []
 		},
@@ -1339,6 +1374,41 @@
 			"awards": []
 		},
 		"command": "IAB GROUP 32"
+	},
+	{
+		"taxid": 987045,
+		"full_name": "XUE, YUKI X",
+		"first_name": "YUKI",
+		"last_name": "XUE",
+		"middle_initial": "X",
+		"rank": "POLICE OFFICER",
+		"shield_no": "6240",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "RTS RECRUITS",
+				"assignment_date": "7/22/2026",
+				"ethnicity": "ASIAN",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "6240",
+				"appt_date": "7/22/2026"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/22/2026",
+					"shield_no": "6240"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 948160,
