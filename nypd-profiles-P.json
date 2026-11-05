@@ -809,8 +809,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 27,
-				"misdemeanor": 35
+				"felony": 28,
+				"misdemeanor": 36
 			},
 			"awards": [
 				{
@@ -1480,8 +1480,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 13,
-				"misdemeanor": 66,
+				"felony": 14,
+				"misdemeanor": 68,
 				"violation": 2
 			},
 			"awards": []
@@ -6270,7 +6270,7 @@
 			"arrests": {
 				"felony": 143,
 				"misdemeanor": 102,
-				"other": 37,
+				"other": 38,
 				"violation": 1
 			},
 			"awards": [
@@ -8045,7 +8045,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 27
+				"misdemeanor": 28
 			},
 			"awards": [
 				{
@@ -8807,7 +8807,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 26,
-				"misdemeanor": 44
+				"misdemeanor": 47
 			},
 			"awards": []
 		},
@@ -8943,7 +8943,7 @@
 		"shield_no": "9181",
 		"appt_date": "10/15/2021",
 		"recognition_count": 7,
-		"arrest_count": 139,
+		"arrest_count": 140,
 		"reports": {
 			"summary": {
 				"command": "AUTO CRIME UNIT",
@@ -10467,7 +10467,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 60,
-				"misdemeanor": 114,
+				"misdemeanor": 124,
 				"violation": 3
 			},
 			"awards": []
@@ -11158,7 +11158,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 11
+				"misdemeanor": 12
 			},
 			"awards": []
 		},
@@ -14977,7 +14977,7 @@
 		"shield_no": "7923",
 		"appt_date": "1/31/2025",
 		"recognition_count": 1,
-		"arrest_count": 10,
+		"arrest_count": 11,
 		"reports": {
 			"summary": {
 				"command": "104 PRECINCT",
@@ -20521,8 +20521,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 14,
-				"misdemeanor": 24
+				"felony": 16,
+				"misdemeanor": 25
 			},
 			"awards": []
 		},
@@ -22119,7 +22119,128 @@
 				"felony": 120,
 				"misdemeanor": 104
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "11/12/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/23/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/4/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/17/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/13/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/22/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/19/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/13/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/23/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/7/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/4/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/28/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/15/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/13/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/11/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/31/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/16/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/28/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/8/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/29/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/10/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/28/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/26/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/14/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/14/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/15/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/30/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/8/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/8/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/20/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "061 PRECINCT"
 	},
@@ -24200,7 +24321,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 12,
-				"misdemeanor": 40
+				"misdemeanor": 42
 			},
 			"awards": []
 		},
@@ -25146,7 +25267,7 @@
 		"shield_no": "5224",
 		"appt_date": "1/9/2012",
 		"recognition_count": 20,
-		"arrest_count": 391,
+		"arrest_count": 392,
 		"reports": {
 			"summary": {
 				"command": "BKLYN TRANSIT CRIMES SQUAD",
@@ -25478,8 +25599,8 @@
 		"arrest_count": 35,
 		"reports": {
 			"summary": {
-				"command": "COMMUNITY AFFAIRS SECTION",
-				"assignment_date": "7/21/2026",
+				"command": "YOUTH STRATEGIES DIVISION",
+				"assignment_date": "11/2/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "13029",
@@ -25506,7 +25627,7 @@
 				}
 			]
 		},
-		"command": "COMMUNITY AFFAIRS SECTION"
+		"command": "YOUTH STRATEGIES DIVISION"
 	},
 	{
 		"taxid": 963200,
@@ -27842,7 +27963,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 28,
+				"misdemeanor": 29,
 				"violation": 1
 			},
 			"awards": []
@@ -28056,7 +28177,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 43,
+				"felony": 44,
 				"misdemeanor": 40
 			},
 			"awards": []
@@ -29082,7 +29203,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 16,
-				"misdemeanor": 47
+				"misdemeanor": 48
 			},
 			"awards": []
 		},
@@ -30769,7 +30890,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 282,
+				"misdemeanor": 284,
 				"violation": 31
 			},
 			"awards": [
@@ -31688,7 +31809,8 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 4
+				"misdemeanor": 5,
+				"violation": 1
 			},
 			"awards": []
 		},
@@ -33907,8 +34029,8 @@
 		"first_name": "OLIVER",
 		"last_name": "PEDRAGA",
 		"middle_initial": "A",
-		"rank": "POLICE OFFICER",
-		"shield_no": "12806",
+		"rank": "DETECTIVE 3RD GRADE",
+		"shield_no": "1341",
 		"appt_date": "7/2/2018",
 		"recognition_count": 3,
 		"arrest_count": 48,
@@ -33926,6 +34048,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "7/2/2018",
 					"shield_no": "12806"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "10/30/2026",
+					"shield_no": "1341"
 				}
 			],
 			"documents": [],
@@ -34335,8 +34462,58 @@
 					"type": "Trial Decision"
 				}
 			],
-			"disciplineHistory": [],
-			"discipline": [],
+			"disciplineHistory": [
+				{
+					"entry": "2/3/2016 12:00:00 AM",
+					"charges_count": 1
+				},
+				{
+					"entry": "3/24/2017 12:00:00 AM",
+					"charges_count": 2
+				},
+				{
+					"entry": "6/12/2018 12:00:00 AM",
+					"charges_count": 1
+				}
+			],
+			"discipline": [
+				{
+					"charges": [
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "WRONGFULLY USED FORCE, IN THAT WITHOUT POLICE NECESSITY, SAID OFFICER PUNCHED A PERSON KNOWN TO THE DEPARTMENT SEVERAL TIMES.",
+							"group_id": "1",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (33 day(s) ), VACATION DAYS (40 day(s) )"
+						}
+					]
+				},
+				{
+					"charges": [
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "WHILE OFF-DUTY,  SAID POLICE OFFICER  THREATENED",
+							"group_id": "2",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (33 day(s) ), VACATION DAYS (40 day(s) )"
+						},
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "WHILE OFF-DUTY,  DID FAIL AND NEGLECT TO PROPERLY SAFEGUARD HIS OFF-DUTY FIREARM",
+							"group_id": "2",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (33 day(s) ), VACATION DAYS (40 day(s) )"
+						}
+					]
+				},
+				{
+					"charges": [
+						{
+							"disposition": "PLEADED GUILTY",
+							"description": "DID FAIL AND NEGLECT TO RESIDE WITHIN THE CITY OF NEW YORK OR THE COUNTIES OF WESTCHESTER, ROCKLAND, ORANGE, PUTNAM, NASSAU OR SUFFOLK, AS REQUIRED, TO WIT: SAID POLICE OFFICER WAS RESIDING IN NEW JERSEY",
+							"group_id": "3",
+							"penalty": "DISMISSAL PROBATION (12 month(s) ), PRE-TRIAL SUSPENSION DAYS (33 day(s) ), VACATION DAYS (40 day(s) )"
+						}
+					]
+				}
+			],
 			"arrests": {
 				"infraction": 1,
 				"felony": 19,
@@ -37008,7 +37185,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 2,
-				"misdemeanor": 5
+				"misdemeanor": 6
 			},
 			"awards": []
 		},
@@ -37353,7 +37530,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 2,
+				"felony": 3,
 				"misdemeanor": 4
 			},
 			"awards": []
@@ -37968,7 +38145,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 14,
-				"misdemeanor": 36
+				"misdemeanor": 38
 			},
 			"awards": []
 		},
@@ -39304,7 +39481,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 27,
+				"felony": 28,
 				"misdemeanor": 30
 			},
 			"awards": []
@@ -40173,7 +40350,7 @@
 		"shield_no": "20134",
 		"appt_date": "10/11/2016",
 		"recognition_count": 0,
-		"arrest_count": 116,
+		"arrest_count": 117,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 4 QUEENS",
@@ -40349,8 +40526,8 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 4,
-				"misdemeanor": 19,
-				"violation": 1
+				"misdemeanor": 20,
+				"violation": 2
 			},
 			"awards": []
 		},
@@ -42246,7 +42423,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 33,
+				"felony": 35,
 				"misdemeanor": 64
 			},
 			"awards": []
@@ -42354,7 +42531,12 @@
 				"felony": 14,
 				"misdemeanor": 26
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "6/21/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "114 PRECINCT"
 	},
@@ -42825,7 +43007,7 @@
 		"shield_no": "796",
 		"appt_date": "7/8/2015",
 		"recognition_count": 25,
-		"arrest_count": 256,
+		"arrest_count": 257,
 		"reports": {
 			"summary": {
 				"command": "042 DET SQUAD",
@@ -44964,7 +45146,7 @@
 		"shield_no": "12771",
 		"appt_date": "10/7/2019",
 		"recognition_count": 1,
-		"arrest_count": 170,
+		"arrest_count": 171,
 		"reports": {
 			"summary": {
 				"command": "023 DOMESTIC VIOLENCE SQUAD",
@@ -46011,7 +46193,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 34,
-				"misdemeanor": 101
+				"misdemeanor": 102
 			},
 			"awards": []
 		},
@@ -48903,14 +49085,6 @@
 		"recognition_count": 2,
 		"arrest_count": 43,
 		"reports": {
-			"summary": {
-				"command": "120 PRECINCT",
-				"assignment_date": "5/9/2024",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "27971",
-				"appt_date": "4/26/2023"
-			},
 			"ranks": [
 				{
 					"rank": "POLICE OFFICER",
@@ -48935,8 +49109,7 @@
 					"name": "EXCELLENT POLICE DUTY"
 				}
 			]
-		},
-		"command": "120 PRECINCT"
+		}
 	},
 	{
 		"taxid": 967248,
@@ -54417,6 +54590,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
+				"infraction": 1,
 				"felony": 14,
 				"misdemeanor": 28
 			},
@@ -54922,8 +55096,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 12,
-				"misdemeanor": 15
+				"felony": 13,
+				"misdemeanor": 18
 			},
 			"awards": []
 		},
@@ -60013,7 +60187,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 11,
-				"misdemeanor": 112,
+				"misdemeanor": 115,
 				"other": 1,
 				"violation": 1
 			},
@@ -63514,8 +63688,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 16,
-				"misdemeanor": 15
+				"felony": 18,
+				"misdemeanor": 16
 			},
 			"awards": []
 		},
@@ -63635,8 +63809,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "11602",
 		"appt_date": "10/11/2016",
-		"recognition_count": 6,
-		"arrest_count": 271,
+		"recognition_count": 9,
+		"arrest_count": 272,
 		"reports": {
 			"summary": {
 				"command": "105 PRECINCT",
@@ -67800,7 +67974,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 15,
+				"felony": 16,
 				"misdemeanor": 98,
 				"violation": 3
 			},
@@ -68881,7 +69055,7 @@
 		"shield_no": "22225",
 		"appt_date": "10/11/2016",
 		"recognition_count": 2,
-		"arrest_count": 74,
+		"arrest_count": 75,
 		"reports": {
 			"summary": {
 				"command": "060 PRECINCT",
@@ -71922,7 +72096,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 36,
-				"misdemeanor": 122,
+				"misdemeanor": 123,
 				"violation": 1
 			},
 			"awards": []
@@ -74851,7 +75025,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 17,
+				"misdemeanor": 18,
 				"violation": 4
 			},
 			"awards": []
@@ -75128,7 +75302,13 @@
 					"shield_no": "25060"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "11/4/2026",
+					"url": "https://nypdonline.org/files/Pierre_11032026.pdf",
+					"type": "Deviation Letter"
+				}
+			],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -76121,7 +76301,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 38,
-				"misdemeanor": 52,
+				"misdemeanor": 53,
 				"other": 1
 			},
 			"awards": []
@@ -77643,7 +77823,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 67,
+				"felony": 69,
 				"misdemeanor": 53
 			},
 			"awards": []
@@ -77872,7 +78052,20 @@
 				"felony": 13,
 				"misdemeanor": 34
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "6/27/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/7/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/29/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "111 PRECINCT"
 	},
@@ -80399,6 +80592,10 @@
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
+					"date": "8/3/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
 					"date": "10/24/2024",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -80984,7 +81181,7 @@
 		"shield_no": "11704",
 		"appt_date": "10/7/2019",
 		"recognition_count": 9,
-		"arrest_count": 77,
+		"arrest_count": 79,
 		"reports": {
 			"summary": {
 				"command": "QN AUTO LARCENY UNIT",
@@ -85457,7 +85654,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 7
+				"misdemeanor": 9
 			},
 			"awards": []
 		},
@@ -86497,7 +86694,7 @@
 		"shield_no": "23794",
 		"appt_date": "1/6/2020",
 		"recognition_count": 2,
-		"arrest_count": 112,
+		"arrest_count": 113,
 		"reports": {
 			"summary": {
 				"command": "068 PRECINCT",
@@ -87511,8 +87708,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 29,
-				"misdemeanor": 65
+				"felony": 30,
+				"misdemeanor": 66
 			},
 			"awards": [
 				{
@@ -87555,10 +87752,18 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 17,
-				"misdemeanor": 48,
+				"misdemeanor": 50,
 				"violation": 1
 			},
 			"awards": [
+				{
+					"date": "4/6/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/30/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "9/4/2023",
 					"name": "MERITORIOUS POLICE DUTY"
@@ -87638,7 +87843,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 4,
-				"misdemeanor": 11
+				"misdemeanor": 13
 			},
 			"awards": []
 		},
@@ -93207,7 +93412,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 32,
-				"misdemeanor": 32
+				"misdemeanor": 33
 			},
 			"awards": [
 				{
@@ -94194,7 +94399,7 @@
 		"shield_no": "6655",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 89,
+		"arrest_count": 90,
 		"reports": {
 			"summary": {
 				"command": "079 PRECINCT",
@@ -96164,7 +96369,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 68
+				"misdemeanor": 69
 			},
 			"awards": [
 				{
@@ -98546,7 +98751,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 12,
-				"misdemeanor": 31
+				"misdemeanor": 33
 			},
 			"awards": []
 		},
@@ -99033,8 +99238,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 109,
-				"misdemeanor": 219,
+				"felony": 110,
+				"misdemeanor": 220,
 				"violation": 7
 			},
 			"awards": [
@@ -100296,7 +100501,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 4
+				"misdemeanor": 5
 			},
 			"awards": []
 		},
@@ -103216,7 +103421,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 6
+				"misdemeanor": 8
 			},
 			"awards": []
 		},
@@ -103973,8 +104178,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 334,
-				"misdemeanor": 161,
+				"felony": 336,
+				"misdemeanor": 162,
 				"violation": 1
 			},
 			"awards": [
@@ -104469,7 +104674,7 @@
 		"shield_no": "2156",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 15,
+		"arrest_count": 16,
 		"reports": {
 			"summary": {
 				"command": "107 PRECINCT",
@@ -105040,7 +105245,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 7,
-				"misdemeanor": 9
+				"misdemeanor": 10
 			},
 			"awards": []
 		},
@@ -105643,7 +105848,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 17,
+				"misdemeanor": 18,
 				"violation": 1
 			},
 			"awards": []
@@ -110387,7 +110592,8 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 10,
-				"misdemeanor": 23
+				"misdemeanor": 24,
+				"violation": 1
 			},
 			"awards": []
 		},
