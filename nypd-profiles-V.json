@@ -5050,7 +5050,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 28,
-				"misdemeanor": 21
+				"misdemeanor": 22
 			},
 			"awards": [
 				{
@@ -50041,22 +50041,13 @@
 		"recognition_count": 11,
 		"arrest_count": 5,
 		"reports": {
-			"summary": {
-				"command": "CRIMINAL INTELLIGENCE SECTION",
-				"assignment_date": "8/30/2010",
-				"ethnicity": "WHITE",
-				"rank_desc": "DEPUTY CHIEF",
-				"shield_no": "",
-				"appt_date": "2/28/1994"
-			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		},
-		"command": "CRIMINAL INTELLIGENCE SECTION"
+		}
 	},
 	{
 		"taxid": 943932,

@@ -58919,7 +58919,12 @@
 				"felony": 5,
 				"misdemeanor": 19
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "8/15/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "061 PRECINCT"
 	},
@@ -67325,8 +67330,8 @@
 		"arrest_count": 386,
 		"reports": {
 			"summary": {
-				"command": "072 DET SQUAD",
-				"assignment_date": "12/16/2022",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
+				"assignment_date": "10/17/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "4033",
@@ -67389,7 +67394,7 @@
 				}
 			]
 		},
-		"command": "072 DET SQUAD"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 943374,
@@ -87080,7 +87085,24 @@
 				"misdemeanor": 66,
 				"other": 3
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "8/30/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/10/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/9/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/9/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "WARRANT SECTION"
 	},
@@ -87252,7 +87274,7 @@
 			},
 			"awards": []
 		},
-		"command": "050 PRECINCT"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 973962,
@@ -88017,7 +88039,44 @@
 				"felony": 90,
 				"misdemeanor": 110
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "5/13/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/21/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/1/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/7/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/9/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/25/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/8/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/25/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "3/23/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "061 PRECINCT"
 	},
@@ -95921,13 +95980,22 @@
 		"recognition_count": 2,
 		"arrest_count": 164,
 		"reports": {
+			"summary": {
+				"command": "BOMB SQUAD",
+				"assignment_date": "5/18/2009",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 1ST GRADE",
+				"shield_no": "4591",
+				"appt_date": "7/2/2001"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {},
 			"awards": []
-		}
+		},
+		"command": "BOMB SQUAD"
 	},
 	{
 		"taxid": 967783,
@@ -104690,8 +104758,8 @@
 		"arrest_count": 242,
 		"reports": {
 			"summary": {
-				"command": "UNIFORMED PROMOTIONS TRN UNIT",
-				"assignment_date": "9/28/2026",
+				"command": "040 PRECINCT",
+				"assignment_date": "11/2/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "294",
@@ -104734,7 +104802,7 @@
 				}
 			]
 		},
-		"command": "UNIFORMED PROMOTIONS TRN UNIT"
+		"command": "040 PRECINCT"
 	},
 	{
 		"taxid": 981104,
@@ -110793,7 +110861,20 @@
 				"felony": 17,
 				"misdemeanor": 29
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "4/12/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/12/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/13/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "105 PRECINCT"
 	},
@@ -114022,7 +114103,44 @@
 				"misdemeanor": 81,
 				"violation": 2
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "11/7/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/5/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/13/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/14/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/12/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/26/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/2/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/29/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/9/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "061 PRECINCT"
 	},
@@ -114494,8 +114612,8 @@
 				"command": "IAB COMMAND CENTER",
 				"assignment_date": "11/24/2025",
 				"ethnicity": "BLACK",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "12284",
+				"rank_desc": "DETECTIVE 3RD GRADE",
+				"shield_no": "778",
 				"appt_date": "1/9/2012"
 			},
 			"ranks": [
@@ -128492,7 +128610,12 @@
 				"felony": 5,
 				"misdemeanor": 6
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "11/5/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "TRANSIT DISTRICT 4"
 	},
