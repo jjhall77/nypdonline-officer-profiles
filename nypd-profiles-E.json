@@ -8695,7 +8695,7 @@
 		"shield_no": "26720",
 		"appt_date": "12/29/2021",
 		"recognition_count": 3,
-		"arrest_count": 156,
+		"arrest_count": 157,
 		"reports": {
 			"summary": {
 				"command": "PBQS COMMUNITY RESPONSE TEAM",
@@ -8717,7 +8717,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 29,
-				"misdemeanor": 125,
+				"misdemeanor": 126,
 				"violation": 2
 			},
 			"awards": [
@@ -12979,7 +12979,7 @@
 		"shield_no": "11345",
 		"appt_date": "1/29/2025",
 		"recognition_count": 0,
-		"arrest_count": 22,
+		"arrest_count": 25,
 		"reports": {
 			"summary": {
 				"command": "062 PRECINCT",
@@ -13210,8 +13210,8 @@
 		"first_name": "NOAH",
 		"last_name": "ELROWMEIM",
 		"middle_initial": "H",
-		"rank": "POLICE OFFICER",
-		"shield_no": "18849",
+		"rank": "SERGEANT",
+		"shield_no": "1406",
 		"appt_date": "7/1/2019",
 		"recognition_count": 2,
 		"arrest_count": 84,
@@ -13496,7 +13496,7 @@
 		"shield_no": "4304",
 		"appt_date": "10/18/2017",
 		"recognition_count": 3,
-		"arrest_count": 106,
+		"arrest_count": 107,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 3 BROOKLYN",
@@ -14126,7 +14126,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 21,
+				"felony": 22,
 				"misdemeanor": 24,
 				"other": 1,
 				"violation": 2
@@ -15254,7 +15254,7 @@
 		"shield_no": "31307",
 		"appt_date": "12/29/2021",
 		"recognition_count": 1,
-		"arrest_count": 201,
+		"arrest_count": 202,
 		"reports": {
 			"summary": {
 				"command": "072 PRECINCT",
@@ -15276,7 +15276,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 75,
-				"misdemeanor": 126
+				"misdemeanor": 127
 			},
 			"awards": [
 				{
@@ -15731,7 +15731,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "16194",
 		"appt_date": "10/25/2023",
-		"recognition_count": 0,
+		"recognition_count": 2,
 		"arrest_count": 35,
 		"reports": {
 			"summary": {
@@ -15852,7 +15852,7 @@
 		"shield_no": "26626",
 		"appt_date": "2/24/2021",
 		"recognition_count": 1,
-		"arrest_count": 101,
+		"arrest_count": 102,
 		"reports": {
 			"summary": {
 				"command": "044 PRECINCT",
@@ -15875,7 +15875,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 21,
-				"misdemeanor": 79
+				"misdemeanor": 80
 			},
 			"awards": [
 				{
@@ -17621,7 +17621,7 @@
 		"shield_no": "497",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 12,
+		"arrest_count": 13,
 		"reports": {
 			"summary": {
 				"command": "026 PRECINCT",
@@ -21258,8 +21258,8 @@
 		"first_name": "GABRIEL",
 		"last_name": "ESPADAS",
 		"middle_initial": "E",
-		"rank": "POLICE OFFICER",
-		"shield_no": "25293",
+		"rank": "DETECTIVE SPECIALIST",
+		"shield_no": "1393",
 		"appt_date": "2/24/2021",
 		"recognition_count": 6,
 		"arrest_count": 421,
@@ -21268,8 +21268,8 @@
 				"command": "AUTO CRIME UNIT",
 				"assignment_date": "3/21/2026",
 				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "25293",
+				"rank_desc": "DETECTIVE SPECIALIST",
+				"shield_no": "1393",
 				"appt_date": "2/24/2021"
 			},
 			"ranks": [
@@ -21277,6 +21277,11 @@
 					"rank": "POLICE OFFICER",
 					"date": "2/24/2021",
 					"shield_no": "25293"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "10/30/2026",
+					"shield_no": "1393"
 				}
 			],
 			"documents": [],
@@ -26323,8 +26328,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 61,
-				"misdemeanor": 128
+				"felony": 62,
+				"misdemeanor": 130
 			},
 			"awards": [
 				{
@@ -29328,7 +29333,7 @@
 		"shield_no": "9313",
 		"appt_date": "4/28/2021",
 		"recognition_count": 1,
-		"arrest_count": 161,
+		"arrest_count": 162,
 		"reports": {
 			"summary": {
 				"command": "028 DOMESTIC VIOLENCE SQUAD",
@@ -29350,7 +29355,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 57,
-				"misdemeanor": 104
+				"misdemeanor": 105
 			},
 			"awards": [
 				{
@@ -31497,7 +31502,7 @@
 		"shield_no": "25881",
 		"appt_date": "7/7/2021",
 		"recognition_count": 0,
-		"arrest_count": 128,
+		"arrest_count": 133,
 		"reports": {
 			"summary": {
 				"command": "115 PRECINCT",
@@ -31518,8 +31523,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 74,
-				"misdemeanor": 54
+				"felony": 75,
+				"misdemeanor": 58
 			},
 			"awards": []
 		},
@@ -32320,7 +32325,7 @@
 		"shield_no": "1325",
 		"appt_date": "7/9/2014",
 		"recognition_count": 0,
-		"arrest_count": 250,
+		"arrest_count": 251,
 		"reports": {
 			"summary": {
 				"command": "094 DET SQUAD",

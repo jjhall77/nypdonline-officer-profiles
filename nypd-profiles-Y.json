@@ -3195,7 +3195,7 @@
 		"shield_no": "645",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 25,
+		"arrest_count": 26,
 		"reports": {
 			"summary": {
 				"command": "104 PRECINCT",
@@ -4487,7 +4487,7 @@
 		"shield_no": "29487",
 		"appt_date": "7/5/2023",
 		"recognition_count": 0,
-		"arrest_count": 48,
+		"arrest_count": 49,
 		"reports": {
 			"summary": {
 				"command": "114 PRECINCT",
@@ -6460,21 +6460,11 @@
 				"shield_no": "6060",
 				"appt_date": "7/8/2008"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/8/2008",
-					"shield_no": "6060"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 46,
-				"misdemeanor": 222,
-				"violation": 9
-			},
+			"arrests": {},
 			"awards": []
 		},
 		"command": "PBQN CITI FIELD DETAIL"
@@ -7648,7 +7638,7 @@
 		"shield_no": "19584",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 16,
+		"arrest_count": 17,
 		"reports": {
 			"summary": {
 				"command": "066 PRECINCT",
@@ -9728,7 +9718,7 @@
 		"shield_no": "21486",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 25,
+		"arrest_count": 26,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 20",
@@ -10413,7 +10403,7 @@
 		"shield_no": "18924",
 		"appt_date": "7/3/2024",
 		"recognition_count": 0,
-		"arrest_count": 43,
+		"arrest_count": 44,
 		"reports": {
 			"summary": {
 				"command": "030 PRECINCT",

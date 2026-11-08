@@ -1952,7 +1952,12 @@
 				"felony": 30,
 				"misdemeanor": 122
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "1/6/2026",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "STRATEGIC RESP GRP 4 QUEENS"
 	},

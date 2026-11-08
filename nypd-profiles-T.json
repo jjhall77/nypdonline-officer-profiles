@@ -11934,7 +11934,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 6,
-				"misdemeanor": 28
+				"misdemeanor": 30
 			},
 			"awards": []
 		},
@@ -21830,7 +21830,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 34,
-				"misdemeanor": 50,
+				"misdemeanor": 51,
 				"violation": 6
 			},
 			"awards": [
@@ -40519,7 +40519,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 27,
-				"misdemeanor": 69
+				"misdemeanor": 70
 			},
 			"awards": [
 				{
