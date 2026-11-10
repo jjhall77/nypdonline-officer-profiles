@@ -422,7 +422,16 @@
 				"misdemeanor": 96,
 				"violation": 1
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "12/21/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/11/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "025 PRECINCT"
 	},
@@ -4021,7 +4030,7 @@
 		"shield_no": "7933",
 		"appt_date": "1/9/2013",
 		"recognition_count": 1,
-		"arrest_count": 237,
+		"arrest_count": 238,
 		"reports": {
 			"summary": {
 				"command": "BRONX TRANSIT CRIMES SQUAD",
@@ -4704,7 +4713,7 @@
 		"shield_no": "4758",
 		"appt_date": "1/7/2015",
 		"recognition_count": 0,
-		"arrest_count": 253,
+		"arrest_count": 254,
 		"reports": {
 			"summary": {
 				"command": "114TH DET SQUAD",

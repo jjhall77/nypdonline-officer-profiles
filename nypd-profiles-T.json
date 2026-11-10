@@ -2721,7 +2721,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 17,
-				"misdemeanor": 27
+				"misdemeanor": 28
 			},
 			"awards": [
 				{
@@ -4051,7 +4051,7 @@
 		"rank": "SERGEANT",
 		"shield_no": "4049",
 		"appt_date": "1/8/2014",
-		"recognition_count": 2,
+		"recognition_count": 6,
 		"arrest_count": 42,
 		"reports": {
 			"summary": {
@@ -9441,7 +9441,7 @@
 		"shield_no": "5380",
 		"appt_date": "1/7/2015",
 		"recognition_count": 1,
-		"arrest_count": 186,
+		"arrest_count": 187,
 		"reports": {
 			"summary": {
 				"command": "INTEL CIS FIO PROGRAM",
@@ -19346,7 +19346,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "541",
 		"appt_date": "7/6/2010",
-		"recognition_count": 1,
+		"recognition_count": 2,
 		"arrest_count": 126,
 		"reports": {
 			"summary": {
@@ -24282,7 +24282,7 @@
 		"shield_no": "20214",
 		"appt_date": "7/8/2015",
 		"recognition_count": 3,
-		"arrest_count": 62,
+		"arrest_count": 64,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 30",
@@ -28336,7 +28336,7 @@
 		"shield_no": "3960",
 		"appt_date": "1/9/2013",
 		"recognition_count": 1,
-		"arrest_count": 314,
+		"arrest_count": 316,
 		"reports": {
 			"summary": {
 				"command": "044 DET SQUAD",
@@ -28910,7 +28910,7 @@
 		"shield_no": "2463",
 		"appt_date": "7/6/2010",
 		"recognition_count": 0,
-		"arrest_count": 210,
+		"arrest_count": 211,
 		"reports": {
 			"summary": {
 				"command": "050 PRECINCT",
@@ -28933,7 +28933,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 51,
-				"misdemeanor": 157,
+				"misdemeanor": 158,
 				"other": 1
 			},
 			"awards": []
@@ -30064,8 +30064,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 130,
-				"misdemeanor": 174
+				"felony": 131,
+				"misdemeanor": 176
 			},
 			"awards": [
 				{
@@ -33401,7 +33401,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 75,
-				"misdemeanor": 57,
+				"misdemeanor": 58,
 				"other": 1,
 				"violation": 1
 			},
@@ -34271,20 +34271,11 @@
 				"shield_no": "21134",
 				"appt_date": "10/30/2024"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "10/30/2024",
-					"shield_no": "21134"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 3,
-				"misdemeanor": 11
-			},
+			"arrests": {},
 			"awards": []
 		},
 		"command": "072 PRECINCT"
@@ -36978,7 +36969,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 43,
+				"felony": 44,
 				"misdemeanor": 66
 			},
 			"awards": [
@@ -37254,7 +37245,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 103,
+				"felony": 105,
 				"misdemeanor": 123,
 				"violation": 1
 			},
@@ -37859,7 +37850,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 86,
-				"misdemeanor": 99,
+				"misdemeanor": 100,
 				"other": 2,
 				"violation": 1
 			},
@@ -39643,7 +39634,7 @@
 		"shield_no": "7575",
 		"appt_date": "7/9/2013",
 		"recognition_count": 2,
-		"arrest_count": 184,
+		"arrest_count": 185,
 		"reports": {
 			"summary": {
 				"command": "001 DOMESTIC VIOLENCE SQUAD",
@@ -45967,7 +45958,7 @@
 		"shield_no": "21838",
 		"appt_date": "1/10/2018",
 		"recognition_count": 9,
-		"arrest_count": 127,
+		"arrest_count": 129,
 		"reports": {
 			"summary": {
 				"command": "HIGHWAY UNIT 5",
@@ -46932,7 +46923,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 12,
-				"misdemeanor": 39,
+				"misdemeanor": 40,
 				"violation": 3
 			},
 			"awards": []
@@ -51268,7 +51259,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 111,
+				"felony": 114,
 				"misdemeanor": 55,
 				"violation": 2
 			},
@@ -52988,7 +52979,7 @@
 		"rank": "DETECTIVE 3RD GRADE",
 		"shield_no": "3627",
 		"appt_date": "7/9/2013",
-		"recognition_count": 46,
+		"recognition_count": 74,
 		"arrest_count": 322,
 		"reports": {
 			"summary": {
@@ -54695,7 +54686,7 @@
 		"shield_no": "6285",
 		"appt_date": "7/8/2008",
 		"recognition_count": 22,
-		"arrest_count": 459,
+		"arrest_count": 461,
 		"reports": {
 			"summary": {
 				"command": "047 DET SQUAD",
@@ -56285,45 +56276,6 @@
 		"command": "TRAINING BUREAU"
 	},
 	{
-		"taxid": 980241,
-		"full_name": "TRIEU, PRESTON H",
-		"first_name": "PRESTON",
-		"last_name": "TRIEU",
-		"middle_initial": "H",
-		"rank": "POLICE OFFICER",
-		"shield_no": "7835",
-		"appt_date": "7/3/2024",
-		"recognition_count": 0,
-		"arrest_count": 20,
-		"reports": {
-			"summary": {
-				"command": "007 PRECINCT",
-				"assignment_date": "9/19/2025",
-				"ethnicity": "ASIAN",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "7835",
-				"appt_date": "7/3/2024"
-			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "7/3/2024",
-					"shield_no": "7835"
-				}
-			],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {
-				"felony": 1,
-				"misdemeanor": 18,
-				"violation": 1
-			},
-			"awards": []
-		},
-		"command": "007 PRECINCT"
-	},
-	{
 		"taxid": 957226,
 		"full_name": "TRIGUENO, ALYSSA M",
 		"first_name": "ALYSSA",
@@ -57867,7 +57819,8 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 2
+				"misdemeanor": 2,
+				"violation": 1
 			},
 			"awards": []
 		},
@@ -61665,7 +61618,7 @@
 		"shield_no": "4546",
 		"appt_date": "7/9/2013",
 		"recognition_count": 26,
-		"arrest_count": 374,
+		"arrest_count": 375,
 		"reports": {
 			"summary": {
 				"command": "115TH DET SQUAD",
@@ -64601,7 +64554,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 69,
-				"misdemeanor": 90
+				"misdemeanor": 91
 			},
 			"awards": [
 				{
@@ -65464,7 +65417,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1,
+				"felony": 2,
 				"misdemeanor": 4
 			},
 			"awards": []
@@ -66415,7 +66368,7 @@
 		"shield_no": "4456",
 		"appt_date": "10/12/2021",
 		"recognition_count": 0,
-		"arrest_count": 75,
+		"arrest_count": 76,
 		"reports": {
 			"summary": {
 				"command": "010 PRECINCT",
