@@ -4185,8 +4185,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "014 PCT-MIDTOWN SO. PCT",
-				"assignment_date": "11/10/2026",
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "14947",
@@ -4205,7 +4205,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "014 PCT-MIDTOWN SO. PCT"
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 944529,
@@ -6011,8 +6011,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "041 PRECINCT",
-				"assignment_date": "11/10/2026",
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "12696",
@@ -6031,7 +6031,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "041 PRECINCT"
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 985466,
@@ -6046,8 +6046,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "RTS RECRUITS",
-				"assignment_date": "4/22/2026",
+				"command": "034 PRECINCT",
+				"assignment_date": "11/10/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "20371",
@@ -6066,7 +6066,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "RTS RECRUITS"
+		"command": "034 PRECINCT"
 	},
 	{
 		"taxid": 977515,
@@ -11178,8 +11178,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "040 PRECINCT",
-				"assignment_date": "11/10/2026",
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "10659",
@@ -11198,7 +11198,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "040 PRECINCT"
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 951710,
@@ -11624,8 +11624,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "042 PRECINCT",
-				"assignment_date": "11/10/2026",
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "10456",
@@ -11644,7 +11644,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "042 PRECINCT"
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 971043,
@@ -12714,8 +12714,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "070 PRECINCT",
-				"assignment_date": "11/10/2026",
+				"command": "RTS RECRUITS",
+				"assignment_date": "4/22/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "12307",
@@ -12734,7 +12734,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "070 PRECINCT"
+		"command": "RTS RECRUITS"
 	},
 	{
 		"taxid": 982257,
@@ -16030,8 +16030,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "RTS RECRUITS",
-				"assignment_date": "4/22/2026",
+				"command": "025 PRECINCT",
+				"assignment_date": "11/10/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "14954",
@@ -16050,7 +16050,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "RTS RECRUITS"
+		"command": "025 PRECINCT"
 	},
 	{
 		"taxid": 956622,
@@ -16249,7 +16249,36 @@
 				"misdemeanor": 78,
 				"violation": 1
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "12/23/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/31/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/1/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "9/5/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/26/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/10/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/5/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
 		},
 		"command": "046 PRECINCT"
 	},
@@ -19885,8 +19914,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "RTS RECRUITS",
-				"assignment_date": "4/22/2026",
+				"command": "040 PRECINCT",
+				"assignment_date": "11/10/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "15149",
@@ -19905,7 +19934,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "RTS RECRUITS"
+		"command": "040 PRECINCT"
 	},
 	{
 		"taxid": 978485,
@@ -28873,8 +28902,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "RTS RECRUITS",
-				"assignment_date": "4/22/2026",
+				"command": "034 PRECINCT",
+				"assignment_date": "11/10/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "21357",
@@ -28893,7 +28922,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "RTS RECRUITS"
+		"command": "034 PRECINCT"
 	},
 	{
 		"taxid": 975270,
@@ -29475,7 +29504,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 33,
+				"felony": 34,
 				"misdemeanor": 43
 			},
 			"awards": []
@@ -33110,8 +33139,8 @@
 		"arrest_count": 0,
 		"reports": {
 			"summary": {
-				"command": "RTS RECRUITS",
-				"assignment_date": "4/22/2026",
+				"command": "083 PRECINCT",
+				"assignment_date": "11/10/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "21360",
@@ -33130,7 +33159,7 @@
 			"arrests": {},
 			"awards": []
 		},
-		"command": "RTS RECRUITS"
+		"command": "083 PRECINCT"
 	},
 	{
 		"taxid": 977883,
