@@ -15624,8 +15624,8 @@
 		"arrest_count": 44,
 		"reports": {
 			"summary": {
-				"command": "TB ANTI TERRORISM UNIT",
-				"assignment_date": "10/15/2026",
+				"command": "EXTENDED LEAVE SERVICES GROUP",
+				"assignment_date": "11/6/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "15656",
@@ -15675,7 +15675,7 @@
 				}
 			]
 		},
-		"command": "TB ANTI TERRORISM UNIT"
+		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
 	{
 		"taxid": 983414,
@@ -27915,7 +27915,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 94,
+				"felony": 95,
 				"misdemeanor": 41
 			},
 			"awards": [
@@ -50662,8 +50662,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 69,
-				"misdemeanor": 211,
+				"felony": 71,
+				"misdemeanor": 214,
 				"violation": 3
 			},
 			"awards": [
@@ -51346,7 +51346,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 24
+				"misdemeanor": 26
 			},
 			"awards": []
 		},
@@ -66613,7 +66613,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 433,
+				"felony": 434,
 				"misdemeanor": 521,
 				"other": 1,
 				"violation": 7
@@ -88754,8 +88754,16 @@
 			},
 			"awards": [
 				{
+					"date": "12/5/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
 					"date": "6/6/2023",
 					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/26/2022",
+					"name": "MERITORIOUS POLICE DUTY"
 				},
 				{
 					"date": "8/20/2022",
