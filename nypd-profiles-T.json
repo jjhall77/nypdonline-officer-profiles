@@ -6645,6 +6645,138 @@
 		"command": "075 PRECINCT"
 	},
 	{
+		"taxid": 948706,
+		"full_name": "TAORMINA, MICHAEL S",
+		"first_name": "MICHAEL",
+		"last_name": "TAORMINA",
+		"middle_initial": "S",
+		"rank": "LIEUTENANT",
+		"shield_no": "",
+		"appt_date": "7/6/2010",
+		"recognition_count": 18,
+		"arrest_count": 88,
+		"reports": {
+			"summary": {
+				"command": "111 PRECINCT",
+				"assignment_date": "4/17/2023",
+				"ethnicity": "WHITE",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
+				"appt_date": "7/6/2010"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "7/6/2010",
+					"shield_no": "11078"
+				},
+				{
+					"rank": "POLICE OFFICER",
+					"date": "11/9/2011",
+					"shield_no": "13435"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "4/28/2017",
+					"shield_no": "580"
+				},
+				{
+					"rank": "SERGEANT",
+					"date": "5/23/2017",
+					"shield_no": "1499"
+				},
+				{
+					"rank": "LIEUTENANT",
+					"date": "3/31/2023",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 10,
+				"misdemeanor": 64,
+				"violation": 14
+			},
+			"awards": [
+				{
+					"date": "7/1/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "2/8/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/17/2024",
+					"name": "COMMENDATION"
+				},
+				{
+					"date": "10/5/2023",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/20/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "1/31/2020",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/27/2019",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "8/8/2019",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/8/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "8/19/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "7/20/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "6/16/2018",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "12/22/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "4/14/2016",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/19/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/25/2015",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "6/24/2014",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/16/2011",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
+		},
+		"command": "111 PRECINCT"
+	},
+	{
 		"taxid": 968833,
 		"full_name": "TAOUSSE, JAMAL",
 		"first_name": "JAMAL",
@@ -7417,7 +7549,7 @@
 		"shield_no": "6740",
 		"appt_date": "7/9/2013",
 		"recognition_count": 0,
-		"arrest_count": 112,
+		"arrest_count": 113,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 1 MANHATTAN",
@@ -9306,7 +9438,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 27,
+				"felony": 29,
 				"misdemeanor": 133,
 				"violation": 27
 			},
@@ -20326,7 +20458,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 35,
+				"misdemeanor": 36,
 				"violation": 1
 			},
 			"awards": [
@@ -20376,7 +20508,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 88,
-				"misdemeanor": 131
+				"misdemeanor": 132
 			},
 			"awards": [
 				{
@@ -33266,12 +33398,20 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 75,
+				"felony": 76,
 				"misdemeanor": 58,
 				"other": 1,
 				"violation": 1
 			},
 			"awards": [
+				{
+					"date": "12/26/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "10/19/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "1/24/2022",
 					"name": "EXCELLENT POLICE DUTY"
@@ -34508,8 +34648,8 @@
 		"arrest_count": 97,
 		"reports": {
 			"summary": {
-				"command": "WAREHOUSE SYSTEM",
-				"assignment_date": "3/25/2019",
+				"command": "OPERATIONS DIVISION",
+				"assignment_date": "11/14/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "1261",
@@ -34533,7 +34673,7 @@
 			},
 			"awards": []
 		},
-		"command": "WAREHOUSE SYSTEM"
+		"command": "OPERATIONS DIVISION"
 	},
 	{
 		"taxid": 977681,
@@ -37083,7 +37223,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 105,
+				"felony": 106,
 				"misdemeanor": 123,
 				"violation": 1
 			},
@@ -38054,7 +38194,16 @@
 				"misdemeanor": 114,
 				"violation": 3
 			},
-			"awards": []
+			"awards": [
+				{
+					"date": "6/20/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "9/16/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "023 PRECINCT"
 	},
@@ -39472,7 +39621,7 @@
 		"shield_no": "7575",
 		"appt_date": "7/9/2013",
 		"recognition_count": 2,
-		"arrest_count": 185,
+		"arrest_count": 190,
 		"reports": {
 			"summary": {
 				"command": "001 DOMESTIC VIOLENCE SQUAD",
@@ -44384,8 +44533,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 138,
-				"misdemeanor": 138
+				"felony": 139,
+				"misdemeanor": 139
 			},
 			"awards": [
 				{
@@ -44481,7 +44630,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 130,
+				"felony": 131,
 				"misdemeanor": 61
 			},
 			"awards": [
@@ -45812,7 +45961,7 @@
 		"shield_no": "21838",
 		"appt_date": "1/10/2018",
 		"recognition_count": 9,
-		"arrest_count": 129,
+		"arrest_count": 131,
 		"reports": {
 			"summary": {
 				"command": "HIGHWAY UNIT 5",
@@ -46903,7 +47052,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 116,
-				"misdemeanor": 103,
+				"misdemeanor": 104,
 				"violation": 11
 			},
 			"awards": [
@@ -58189,6 +58338,10 @@
 			},
 			"awards": [
 				{
+					"date": "2/9/2025",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
 					"date": "1/14/2015",
 					"name": "MERITORIOUS POLICE DUTY"
 				}
@@ -62333,7 +62486,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 1,
-				"misdemeanor": 29,
+				"misdemeanor": 30,
 				"violation": 2
 			},
 			"awards": []
@@ -63206,7 +63359,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 9,
-				"misdemeanor": 78,
+				"misdemeanor": 79,
 				"violation": 2
 			},
 			"awards": [

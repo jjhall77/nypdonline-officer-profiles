@@ -722,86 +722,8 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"infraction": 2,
-				"felony": 176,
-				"misdemeanor": 139,
-				"violation": 2
-			},
-			"awards": [
-				{
-					"date": "1/17/2024",
-					"name": "COMMENDATION"
-				},
-				{
-					"date": "1/17/2024",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "7/20/2023",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "7/6/2022",
-					"name": "COMMENDATION"
-				},
-				{
-					"date": "4/30/2022",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "3/30/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/18/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/4/2021",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/12/2020",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/11/2020",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/8/2020",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "6/7/2020",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "5/6/2020",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "4/10/2020",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/9/2019",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/1/2019",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "1/1/2019",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "2/8/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"arrests": {},
+			"awards": []
 		},
 		"command": "113TH DET SQUAD"
 	},
@@ -2371,8 +2293,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 25,
-				"misdemeanor": 50
+				"felony": 28,
+				"misdemeanor": 51
 			},
 			"awards": [
 				{
@@ -5062,7 +4984,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 33,
+				"misdemeanor": 34,
 				"violation": 3
 			},
 			"awards": [
@@ -11579,7 +11501,7 @@
 		"shield_no": "28288",
 		"appt_date": "7/7/2021",
 		"recognition_count": 14,
-		"arrest_count": 149,
+		"arrest_count": 150,
 		"reports": {
 			"summary": {
 				"command": "PBXN NEIGHBORHOOD SAFETY TEAM",
@@ -12816,7 +12738,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 66,
+				"felony": 68,
 				"misdemeanor": 104,
 				"violation": 1
 			},
@@ -13690,35 +13612,6 @@
 			]
 		},
 		"command": "BOMB SQUAD"
-	},
-	{
-		"taxid": 959111,
-		"full_name": "RAMIREZ, JAVIER",
-		"first_name": "JAVIER",
-		"last_name": "RAMIREZ",
-		"middle_initial": "",
-		"rank": "SERGEANT",
-		"shield_no": "1916",
-		"appt_date": "7/8/2015",
-		"recognition_count": 2,
-		"arrest_count": 50,
-		"reports": {
-			"summary": {
-				"command": "005 PRECINCT",
-				"assignment_date": "12/24/2025",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "SERGEANT",
-				"shield_no": "1916",
-				"appt_date": "7/8/2015"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "005 PRECINCT"
 	},
 	{
 		"taxid": 975754,
@@ -18460,8 +18353,8 @@
 		"arrest_count": 104,
 		"reports": {
 			"summary": {
-				"command": "STATEN ISLAND COURT SECTION",
-				"assignment_date": "4/25/2022",
+				"command": "OPERATIONS DIVISION",
+				"assignment_date": "11/14/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "12596",
@@ -18505,7 +18398,7 @@
 				}
 			]
 		},
-		"command": "STATEN ISLAND COURT SECTION"
+		"command": "OPERATIONS DIVISION"
 	},
 	{
 		"taxid": 957066,
@@ -23926,7 +23819,7 @@
 		"shield_no": "4944",
 		"appt_date": "1/8/2014",
 		"recognition_count": 43,
-		"arrest_count": 230,
+		"arrest_count": 231,
 		"reports": {
 			"summary": {
 				"command": "WARRANT SECTION",
@@ -28651,7 +28544,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 3,
-				"felony": 372,
+				"felony": 375,
 				"misdemeanor": 269,
 				"violation": 12
 			},
@@ -34000,7 +33893,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 22,
-				"misdemeanor": 121
+				"misdemeanor": 122
 			},
 			"awards": [
 				{
@@ -39847,7 +39740,7 @@
 		"shield_no": "5212",
 		"appt_date": "7/9/2014",
 		"recognition_count": 6,
-		"arrest_count": 145,
+		"arrest_count": 146,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 1 MANHATTAN",
@@ -41744,6 +41637,44 @@
 			]
 		},
 		"command": "QUALITY ASSURANCE SECTION"
+	},
+	{
+		"taxid": 973698,
+		"full_name": "RENDON, JIMMY",
+		"first_name": "JIMMY",
+		"last_name": "RENDON",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "23807",
+		"appt_date": "12/29/2021",
+		"recognition_count": 0,
+		"arrest_count": 58,
+		"reports": {
+			"summary": {
+				"command": "049 PRECINCT",
+				"assignment_date": "9/8/2023",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "23807",
+				"appt_date": "12/29/2021"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "12/29/2021",
+					"shield_no": "23807"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 20,
+				"misdemeanor": 38
+			},
+			"awards": []
+		},
+		"command": "049 PRECINCT"
 	},
 	{
 		"taxid": 947942,
@@ -51753,7 +51684,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 222,
+				"misdemeanor": 224,
 				"violation": 15
 			},
 			"awards": [
@@ -52719,7 +52650,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 61,
-				"misdemeanor": 97
+				"misdemeanor": 98
 			},
 			"awards": [
 				{
@@ -56616,6 +56547,10 @@
 				"violation": 26
 			},
 			"awards": [
+				{
+					"date": "9/16/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "1/22/2021",
 					"name": "MERITORIOUS POLICE DUTY"
@@ -61624,8 +61559,8 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "24966",
 		"appt_date": "7/9/2007",
-		"recognition_count": 0,
-		"arrest_count": 0,
+		"recognition_count": 5,
+		"arrest_count": 136,
 		"reports": {
 			"summary": {
 				"command": "HARBOR UNIT",
@@ -67339,35 +67274,6 @@
 		"command": "DETECTIVE BUREAU"
 	},
 	{
-		"taxid": 984831,
-		"full_name": "RIVERA, GABRIEL E",
-		"first_name": "GABRIEL",
-		"last_name": "RIVERA",
-		"middle_initial": "E",
-		"rank": "POLICE OFFICER",
-		"shield_no": "6711",
-		"appt_date": "12/17/2025",
-		"recognition_count": 0,
-		"arrest_count": 3,
-		"reports": {
-			"summary": {
-				"command": "025 PCT FIELD TRAINING UNIT",
-				"assignment_date": "9/30/2026",
-				"ethnicity": "HISPANIC",
-				"rank_desc": "POLICE OFFICER",
-				"shield_no": "6711",
-				"appt_date": "12/17/2025"
-			},
-			"ranks": [],
-			"documents": [],
-			"disciplineHistory": [],
-			"discipline": [],
-			"arrests": {},
-			"awards": []
-		},
-		"command": "025 PCT FIELD TRAINING UNIT"
-	},
-	{
 		"taxid": 965458,
 		"full_name": "RIVERA, GEORGE A",
 		"first_name": "GEORGE",
@@ -68626,7 +68532,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 136,
+				"felony": 137,
 				"misdemeanor": 133,
 				"violation": 7
 			},
@@ -76422,7 +76328,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 57,
+				"felony": 58,
 				"misdemeanor": 33,
 				"violation": 7
 			},
@@ -77137,6 +77043,41 @@
 			]
 		},
 		"command": "BRONX COURT SECTION"
+	},
+	{
+		"taxid": 987823,
+		"full_name": "ROBERTS, CARLOS A",
+		"first_name": "CARLOS",
+		"last_name": "ROBERTS",
+		"middle_initial": "A",
+		"rank": "LIEUTENANT",
+		"shield_no": "",
+		"appt_date": "7/11/2005",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"summary": {
+				"command": "045 PRECINCT",
+				"assignment_date": "11/14/2026",
+				"ethnicity": "BLACK",
+				"rank_desc": "LIEUTENANT",
+				"shield_no": "",
+				"appt_date": "7/11/2005"
+			},
+			"ranks": [
+				{
+					"rank": "LIEUTENANT",
+					"date": "6/24/2022",
+					"shield_no": ""
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		},
+		"command": "045 PRECINCT"
 	},
 	{
 		"taxid": 937391,
@@ -79607,7 +79548,7 @@
 			"arrests": {
 				"infraction": 4,
 				"felony": 45,
-				"misdemeanor": 146,
+				"misdemeanor": 148,
 				"violation": 6
 			},
 			"awards": [
@@ -81582,8 +81523,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 47,
-				"misdemeanor": 77
+				"felony": 49,
+				"misdemeanor": 78
 			},
 			"awards": []
 		},
@@ -84898,7 +84839,7 @@
 		"shield_no": "3097",
 		"appt_date": "10/19/2022",
 		"recognition_count": 4,
-		"arrest_count": 82,
+		"arrest_count": 84,
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 3 BROOKLYN",
@@ -94480,7 +94421,7 @@
 		"shield_no": "12593",
 		"appt_date": "7/9/2013",
 		"recognition_count": 2,
-		"arrest_count": 315,
+		"arrest_count": 317,
 		"reports": {
 			"summary": {
 				"command": "052 DOMESTIC VIOLENCE SQUAD",
@@ -98449,6 +98390,7 @@
 			"arrests": {
 				"felony": 19,
 				"misdemeanor": 62,
+				"other": 2,
 				"violation": 9
 			},
 			"awards": []
@@ -99771,7 +99713,7 @@
 		"shield_no": "5376",
 		"appt_date": "1/7/2008",
 		"recognition_count": 4,
-		"arrest_count": 332,
+		"arrest_count": 333,
 		"reports": {
 			"summary": {
 				"command": "CRIMINAL INTELLIGENCE SECTION",
@@ -100738,7 +100680,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 27,
-				"misdemeanor": 71
+				"misdemeanor": 72
 			},
 			"awards": []
 		},
@@ -100818,7 +100760,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 32,
+				"felony": 33,
 				"misdemeanor": 57
 			},
 			"awards": [
@@ -101564,7 +101506,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 36,
-				"misdemeanor": 60
+				"misdemeanor": 61
 			},
 			"awards": [
 				{
@@ -109476,7 +109418,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 40,
-				"misdemeanor": 56
+				"misdemeanor": 57
 			},
 			"awards": [
 				{
@@ -110679,7 +110621,7 @@
 		"reports": {
 			"summary": {
 				"command": "OPERATIONS UNIT",
-				"assignment_date": "8/14/2026",
+				"assignment_date": "11/12/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "5989",
@@ -115154,45 +115096,8 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 46,
-				"misdemeanor": 197,
-				"violation": 1
-			},
-			"awards": [
-				{
-					"date": "9/17/2022",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "3/26/2022",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "12/22/2020",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "12/9/2020",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "8/7/2020",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "7/26/2019",
-					"name": "MERITORIOUS POLICE DUTY"
-				},
-				{
-					"date": "11/23/2018",
-					"name": "EXCELLENT POLICE DUTY"
-				},
-				{
-					"date": "7/25/2017",
-					"name": "EXCELLENT POLICE DUTY"
-				}
-			]
+			"arrests": {},
+			"awards": []
 		},
 		"command": "EMER SERV SQ 04"
 	},
@@ -117448,7 +117353,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 104,
-				"misdemeanor": 211,
+				"misdemeanor": 212,
 				"violation": 3
 			},
 			"awards": []
@@ -121422,7 +121327,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 70,
-				"misdemeanor": 118
+				"misdemeanor": 119
 			},
 			"awards": [
 				{
@@ -121919,7 +121824,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 4,
-				"misdemeanor": 32
+				"misdemeanor": 33
 			},
 			"awards": []
 		},
@@ -130254,7 +130159,7 @@
 		"rank": "LIEUTENANT",
 		"shield_no": "",
 		"appt_date": "7/9/2013",
-		"recognition_count": 58,
+		"recognition_count": 59,
 		"arrest_count": 113,
 		"reports": {
 			"summary": {
@@ -134182,7 +134087,7 @@
 		"reports": {
 			"summary": {
 				"command": "OPERATIONS UNIT",
-				"assignment_date": "8/14/2026",
+				"assignment_date": "11/12/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "7286",
@@ -141407,8 +141312,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 13,
-				"misdemeanor": 72,
+				"felony": 14,
+				"misdemeanor": 73,
 				"violation": 1
 			},
 			"awards": []
@@ -143036,7 +142941,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 104,
+				"felony": 105,
 				"misdemeanor": 103,
 				"violation": 30
 			},

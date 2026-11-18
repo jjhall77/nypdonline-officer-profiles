@@ -1611,6 +1611,10 @@
 			},
 			"awards": [
 				{
+					"date": "11/18/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
 					"date": "9/9/2021",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -7166,8 +7170,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 344,
-				"misdemeanor": 379,
+				"felony": 345,
+				"misdemeanor": 382,
 				"other": 1
 			},
 			"awards": [

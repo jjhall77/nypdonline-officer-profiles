@@ -7217,7 +7217,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 69,
-				"misdemeanor": 68,
+				"misdemeanor": 69,
 				"violation": 1
 			},
 			"awards": [
@@ -7388,8 +7388,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 191,
-				"misdemeanor": 87,
+				"felony": 193,
+				"misdemeanor": 89,
 				"other": 1
 			},
 			"awards": [
@@ -8587,8 +8587,8 @@
 		"arrest_count": 128,
 		"reports": {
 			"summary": {
-				"command": "LSSD ELECTRONICS SECTION",
-				"assignment_date": "10/27/2025",
+				"command": "OPERATIONS DIVISION",
+				"assignment_date": "11/14/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "11887",
@@ -8640,7 +8640,7 @@
 				}
 			]
 		},
-		"command": "LSSD ELECTRONICS SECTION"
+		"command": "OPERATIONS DIVISION"
 	},
 	{
 		"taxid": 969878,
@@ -8807,8 +8807,8 @@
 		"arrest_count": 90,
 		"reports": {
 			"summary": {
-				"command": "EXTENDED LEAVE SERVICES GROUP",
-				"assignment_date": "5/30/2025",
+				"command": "IN-SERVICE TRAINING SECTION",
+				"assignment_date": "11/14/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "SERGEANT",
 				"shield_no": "5548",
@@ -8850,7 +8850,7 @@
 				}
 			]
 		},
-		"command": "EXTENDED LEAVE SERVICES GROUP"
+		"command": "IN-SERVICE TRAINING SECTION"
 	},
 	{
 		"taxid": 956822,
@@ -24999,7 +24999,7 @@
 		"shield_no": "1160",
 		"appt_date": "7/9/2014",
 		"recognition_count": 1,
-		"arrest_count": 327,
+		"arrest_count": 328,
 		"reports": {
 			"summary": {
 				"command": "DRUG ENFORCEMENT TASK FORCE",
@@ -26182,6 +26182,10 @@
 				"violation": 3
 			},
 			"awards": [
+				{
+					"date": "9/15/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "6/10/2020",
 					"name": "EXCELLENT POLICE DUTY"
@@ -28331,7 +28335,7 @@
 		"shield_no": "5561",
 		"appt_date": "7/9/2014",
 		"recognition_count": 0,
-		"arrest_count": 236,
+		"arrest_count": 240,
 		"reports": {
 			"summary": {
 				"command": "048 DOMESTIC VIOLENCE SQUAD",
@@ -30477,7 +30481,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 36,
-				"misdemeanor": 51,
+				"misdemeanor": 53,
 				"other": 1,
 				"violation": 1
 			},
@@ -31055,7 +31059,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "7949",
 		"appt_date": "7/2/2018",
-		"recognition_count": 1,
+		"recognition_count": 4,
 		"arrest_count": 139,
 		"reports": {
 			"summary": {
@@ -39694,8 +39698,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 74,
-				"misdemeanor": 125
+				"felony": 75,
+				"misdemeanor": 126
 			},
 			"awards": []
 		},
@@ -40089,7 +40093,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 54,
-				"misdemeanor": 229,
+				"misdemeanor": 230,
 				"other": 1,
 				"violation": 20
 			},
@@ -47657,7 +47661,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 63,
+				"felony": 64,
 				"misdemeanor": 88,
 				"violation": 1
 			},
@@ -56541,7 +56545,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 20,
+				"felony": 21,
 				"misdemeanor": 16
 			},
 			"awards": []
@@ -59858,6 +59862,63 @@
 		"command": "CHIEF OF DEPARTMENT"
 	},
 	{
+		"taxid": 943490,
+		"full_name": "LIPINSKI, WOJCIECH",
+		"first_name": "WOJCIECH",
+		"last_name": "LIPINSKI",
+		"middle_initial": "",
+		"rank": "DETECTIVE 1ST GRADE",
+		"shield_no": "4740",
+		"appt_date": "1/10/2007",
+		"recognition_count": 3,
+		"arrest_count": 84,
+		"reports": {
+			"summary": {
+				"command": "INTERNAL AFFAIRS BUREAU",
+				"assignment_date": "2/19/2020",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 1ST GRADE",
+				"shield_no": "4740",
+				"appt_date": "1/10/2007"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2007",
+					"shield_no": "17416"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "12/23/2013",
+					"shield_no": "4740"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"felony": 8,
+				"misdemeanor": 71,
+				"violation": 5
+			},
+			"awards": [
+				{
+					"date": "12/23/2008",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "3/24/2008",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "11/19/2007",
+					"name": "EXCELLENT POLICE DUTY"
+				}
+			]
+		},
+		"command": "INTERNAL AFFAIRS BUREAU"
+	},
+	{
 		"taxid": 961893,
 		"full_name": "LIPKE, HUNNA I",
 		"first_name": "HUNNA",
@@ -60049,10 +60110,14 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 106,
+				"felony": 107,
 				"misdemeanor": 113
 			},
 			"awards": [
+				{
+					"date": "9/15/2022",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "2/23/2020",
 					"name": "EXCELLENT POLICE DUTY"
@@ -60064,6 +60129,10 @@
 				{
 					"date": "11/4/2018",
 					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/23/2016",
+					"name": "MERITORIOUS POLICE DUTY"
 				}
 			]
 		},
@@ -61052,6 +61121,10 @@
 				"violation": 1
 			},
 			"awards": [
+				{
+					"date": "6/24/2024",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
 				{
 					"date": "12/29/2022",
 					"name": "EXCELLENT POLICE DUTY"
@@ -63636,7 +63709,7 @@
 		"shield_no": "1654",
 		"appt_date": "7/9/2013",
 		"recognition_count": 0,
-		"arrest_count": 476,
+		"arrest_count": 477,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 32",
@@ -69330,7 +69403,7 @@
 		"shield_no": "8094",
 		"appt_date": "1/8/2014",
 		"recognition_count": 4,
-		"arrest_count": 139,
+		"arrest_count": 140,
 		"reports": {
 			"summary": {
 				"command": "TB ANTI TERRORISM UNIT",
@@ -70635,7 +70708,7 @@
 		"shield_no": "27603",
 		"appt_date": "10/30/2024",
 		"recognition_count": 0,
-		"arrest_count": 59,
+		"arrest_count": 60,
 		"reports": {
 			"summary": {
 				"command": "120 PRECINCT",
@@ -70881,7 +70954,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 2,
-				"felony": 114,
+				"felony": 116,
 				"misdemeanor": 108,
 				"violation": 22
 			},
@@ -71169,6 +71242,10 @@
 			"awards": [
 				{
 					"date": "7/28/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "10/9/2024",
 					"name": "EXCELLENT POLICE DUTY"
 				}
 			]
@@ -73512,8 +73589,8 @@
 		"arrest_count": 12,
 		"reports": {
 			"summary": {
-				"command": "BROOKLYN COURT SECTION",
-				"assignment_date": "5/18/2026",
+				"command": "018 PCT-MIDTOWN NO. PCT",
+				"assignment_date": "11/9/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "27632",
@@ -73540,7 +73617,7 @@
 				}
 			]
 		},
-		"command": "BROOKLYN COURT SECTION"
+		"command": "018 PCT-MIDTOWN NO. PCT"
 	},
 	{
 		"taxid": 951935,
@@ -79476,7 +79553,7 @@
 		"reports": {
 			"summary": {
 				"command": "OPERATIONS UNIT",
-				"assignment_date": "8/14/2026",
+				"assignment_date": "11/12/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "DETECTIVE 2ND GRADE",
 				"shield_no": "4747",
@@ -82378,8 +82455,8 @@
 		"arrest_count": 142,
 		"reports": {
 			"summary": {
-				"command": "106 PRECINCT",
-				"assignment_date": "5/18/2026",
+				"command": "OPERATIONS DIVISION",
+				"assignment_date": "11/14/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -82426,7 +82503,7 @@
 				}
 			]
 		},
-		"command": "106 PRECINCT"
+		"command": "OPERATIONS DIVISION"
 	},
 	{
 		"taxid": 983444,
@@ -83753,21 +83830,11 @@
 				"shield_no": "29931",
 				"appt_date": "12/29/2021"
 			},
-			"ranks": [
-				{
-					"rank": "POLICE OFFICER",
-					"date": "12/29/2021",
-					"shield_no": "29931"
-				}
-			],
+			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {
-				"felony": 9,
-				"misdemeanor": 12,
-				"violation": 5
-			},
+			"arrests": {},
 			"awards": []
 		},
 		"command": "TB ANTI TERRORISM UNIT"
@@ -86246,7 +86313,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 34,
+				"felony": 36,
 				"misdemeanor": 75,
 				"violation": 1
 			},
@@ -86852,7 +86919,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 56,
-				"misdemeanor": 131
+				"misdemeanor": 132
 			},
 			"awards": [
 				{
@@ -94121,7 +94188,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 99,
-				"misdemeanor": 130,
+				"misdemeanor": 131,
 				"violation": 3
 			},
 			"awards": [
@@ -97871,7 +97938,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 141,
+				"felony": 142,
 				"misdemeanor": 29
 			},
 			"awards": [
@@ -98448,7 +98515,7 @@
 		"shield_no": "6169",
 		"appt_date": "7/9/2014",
 		"recognition_count": 3,
-		"arrest_count": 362,
+		"arrest_count": 368,
 		"reports": {
 			"summary": {
 				"command": "NARC BORO BRONX SOUTH",
@@ -100931,8 +100998,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 102,
-				"misdemeanor": 221
+				"felony": 103,
+				"misdemeanor": 224
 			},
 			"awards": []
 		},
