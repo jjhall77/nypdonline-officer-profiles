@@ -18820,7 +18820,7 @@
 		"reports": {
 			"summary": {
 				"command": "OPERATIONS UNIT",
-				"assignment_date": "8/14/2026",
+				"assignment_date": "11/12/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "19513",
@@ -38432,8 +38432,8 @@
 		"arrest_count": 85,
 		"reports": {
 			"summary": {
-				"command": "HARBOR UNIT SUMMER DETAIL",
-				"assignment_date": "10/17/2026",
+				"command": "TRANSIT DISTRICT 1",
+				"assignment_date": "11/16/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "4278",
@@ -38461,7 +38461,7 @@
 			},
 			"awards": []
 		},
-		"command": "HARBOR UNIT SUMMER DETAIL"
+		"command": "TRANSIT DISTRICT 1"
 	},
 	{
 		"taxid": 986650,
@@ -64498,8 +64498,8 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 4,
-				"felony": 75,
-				"misdemeanor": 120,
+				"felony": 76,
+				"misdemeanor": 121,
 				"violation": 5
 			},
 			"awards": [
@@ -95374,6 +95374,10 @@
 				},
 				{
 					"date": "5/15/2024",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "5/8/2024",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{

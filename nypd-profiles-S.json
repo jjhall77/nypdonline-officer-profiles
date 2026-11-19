@@ -5720,8 +5720,25 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
-			"awards": []
+			"arrests": {
+				"felony": 11,
+				"misdemeanor": 11,
+				"violation": 3
+			},
+			"awards": [
+				{
+					"date": "9/27/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
+					"date": "4/21/2022",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "12/1/2021",
+					"name": "MERITORIOUS POLICE DUTY"
+				}
+			]
 		},
 		"command": "EXTENDED LEAVE SERVICES GROUP"
 	},
@@ -8470,7 +8487,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 20,
-				"misdemeanor": 160,
+				"misdemeanor": 162,
 				"violation": 5
 			},
 			"awards": []
@@ -13471,8 +13488,8 @@
 		"arrest_count": 103,
 		"reports": {
 			"summary": {
-				"command": "OPERATIONS DIVISION",
-				"assignment_date": "11/14/2026",
+				"command": "CRIMINAL INTELLIGENCE SECTION",
+				"assignment_date": "7/29/2024",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "DETECTIVE 3RD GRADE",
 				"shield_no": "7486",
@@ -13544,7 +13561,7 @@
 				}
 			]
 		},
-		"command": "OPERATIONS DIVISION"
+		"command": "CRIMINAL INTELLIGENCE SECTION"
 	},
 	{
 		"taxid": 987695,
@@ -64657,7 +64674,7 @@
 		"reports": {
 			"summary": {
 				"command": "QUALITY ASSURANCE SECTION",
-				"assignment_date": "11/15/2026",
+				"assignment_date": "8/17/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SGT SPECIAL ASSIGN",
 				"shield_no": "2540",
@@ -80535,7 +80552,7 @@
 		"reports": {
 			"summary": {
 				"command": "OPERATIONS UNIT",
-				"assignment_date": "8/14/2026",
+				"assignment_date": "11/12/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "17972",
@@ -105590,8 +105607,8 @@
 		"arrest_count": 59,
 		"reports": {
 			"summary": {
-				"command": "AUTO POUNDS",
-				"assignment_date": "9/11/2023",
+				"command": "OPERATIONS DIVISION",
+				"assignment_date": "11/14/2026",
 				"ethnicity": "ASIAN",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "21003",
@@ -105615,7 +105632,7 @@
 			},
 			"awards": []
 		},
-		"command": "AUTO POUNDS"
+		"command": "OPERATIONS DIVISION"
 	},
 	{
 		"taxid": 983820,
@@ -108326,7 +108343,13 @@
 					"shield_no": "9410"
 				}
 			],
-			"documents": [],
+			"documents": [
+				{
+					"date": "11/16/2026",
+					"url": "https://nypdonline.org/files/Singh_11162026.pdf",
+					"type": "Deviation Letter"
+				}
+			],
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
@@ -166573,8 +166596,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 60,
-				"misdemeanor": 100
+				"felony": 61,
+				"misdemeanor": 106
 			},
 			"awards": [
 				{

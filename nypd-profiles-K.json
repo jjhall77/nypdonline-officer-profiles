@@ -1857,7 +1857,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 81,
+				"felony": 82,
 				"misdemeanor": 119,
 				"violation": 1
 			},
@@ -2775,7 +2775,7 @@
 		"shield_no": "5925",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 55,
+		"arrest_count": 54,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 30",
@@ -4581,6 +4581,26 @@
 		"command": "INTELLIGENCE DIVISION"
 	},
 	{
+		"taxid": 986621,
+		"full_name": "KAMAL, ABID",
+		"first_name": "ABID",
+		"last_name": "KAMAL",
+		"middle_initial": "",
+		"rank": "POLICE OFFICER",
+		"shield_no": "8410",
+		"appt_date": "7/22/2026",
+		"recognition_count": 0,
+		"arrest_count": 0,
+		"reports": {
+			"ranks": [],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {},
+			"awards": []
+		}
+	},
+	{
 		"taxid": 987414,
 		"full_name": "KAMAL, SHIFUL",
 		"first_name": "SHIFUL",
@@ -5970,7 +5990,7 @@
 		"shield_no": "3275",
 		"appt_date": "12/29/2020",
 		"recognition_count": 6,
-		"arrest_count": 110,
+		"arrest_count": 108,
 		"reports": {
 			"summary": {
 				"command": "QN AUTO LARCENY UNIT",
@@ -6118,7 +6138,7 @@
 		"shield_no": "1395",
 		"appt_date": "1/6/2016",
 		"recognition_count": 1,
-		"arrest_count": 85,
+		"arrest_count": 84,
 		"reports": {
 			"summary": {
 				"command": "TRANSIT DISTRICT 23",
@@ -15042,7 +15062,7 @@
 		"rank": "SERGEANT",
 		"shield_no": "1713",
 		"appt_date": "10/7/2015",
-		"recognition_count": 22,
+		"recognition_count": 21,
 		"arrest_count": 153,
 		"reports": {
 			"summary": {
@@ -16719,7 +16739,7 @@
 		"shield_no": "3834",
 		"appt_date": "7/8/2015",
 		"recognition_count": 4,
-		"arrest_count": 329,
+		"arrest_count": 328,
 		"reports": {
 			"summary": {
 				"command": "063 DET SQUAD",
@@ -23548,7 +23568,7 @@
 		"shield_no": "4442",
 		"appt_date": "4/28/2021",
 		"recognition_count": 2,
-		"arrest_count": 196,
+		"arrest_count": 193,
 		"reports": {
 			"summary": {
 				"command": "047 DOMESTIC VIOLENCE SQUAD",
@@ -28291,7 +28311,7 @@
 		"shield_no": "9398",
 		"appt_date": "12/29/2020",
 		"recognition_count": 0,
-		"arrest_count": 86,
+		"arrest_count": 85,
 		"reports": {
 			"summary": {
 				"command": "102 PRECINCT",
@@ -34401,7 +34421,7 @@
 		"shield_no": "334",
 		"appt_date": "1/6/2016",
 		"recognition_count": 5,
-		"arrest_count": 259,
+		"arrest_count": 258,
 		"reports": {
 			"summary": {
 				"command": "QUEENS TRANSIT CRIMES SQUAD",
@@ -46254,7 +46274,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "30419",
 		"appt_date": "12/29/2021",
-		"recognition_count": 2,
+		"recognition_count": 1,
 		"arrest_count": 30,
 		"reports": {
 			"summary": {
@@ -50766,7 +50786,7 @@
 			"arrests": {
 				"infraction": 1,
 				"felony": 31,
-				"misdemeanor": 83,
+				"misdemeanor": 84,
 				"violation": 1
 			},
 			"awards": [
@@ -56843,7 +56863,7 @@
 		"rank": "SERGEANT",
 		"shield_no": "1362",
 		"appt_date": "7/13/2016",
-		"recognition_count": 4,
+		"recognition_count": 0,
 		"arrest_count": 64,
 		"reports": {
 			"summary": {
@@ -59664,8 +59684,8 @@
 		"arrest_count": 62,
 		"reports": {
 			"summary": {
-				"command": "PATROL BORO BKLYN SOUTH",
-				"assignment_date": "6/23/2025",
+				"command": "COD DISCOVERY LIAISON UNIT",
+				"assignment_date": "11/9/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3982",
@@ -59714,7 +59734,7 @@
 				}
 			]
 		},
-		"command": "PATROL BORO BKLYN SOUTH"
+		"command": "COD DISCOVERY LIAISON UNIT"
 	},
 	{
 		"taxid": 972053,
@@ -60286,7 +60306,7 @@
 		"rank": "POLICE OFFICER",
 		"shield_no": "25091",
 		"appt_date": "7/6/2011",
-		"recognition_count": 5,
+		"recognition_count": 4,
 		"arrest_count": 116,
 		"reports": {
 			"summary": {
@@ -66235,6 +66255,52 @@
 		"command": "052 PCT FIELD TRAINING UNIT"
 	},
 	{
+		"taxid": 944100,
+		"full_name": "KWALWASSER, SEAN R",
+		"first_name": "SEAN",
+		"last_name": "KWALWASSER",
+		"middle_initial": "R",
+		"rank": "DETECTIVE 2ND GRADE",
+		"shield_no": "1438",
+		"appt_date": "1/23/2007",
+		"recognition_count": 0,
+		"arrest_count": 135,
+		"reports": {
+			"summary": {
+				"command": "CEIS METRO SAFE STREETS TF",
+				"assignment_date": "12/18/2024",
+				"ethnicity": "WHITE",
+				"rank_desc": "DETECTIVE 2ND GRADE",
+				"shield_no": "1438",
+				"appt_date": "1/23/2007"
+			},
+			"ranks": [
+				{
+					"rank": "POLICE OFFICER",
+					"date": "1/10/2007",
+					"shield_no": "21377"
+				},
+				{
+					"rank": "DETECTIVE",
+					"date": "11/3/2014",
+					"shield_no": "1438"
+				}
+			],
+			"documents": [],
+			"disciplineHistory": [],
+			"discipline": [],
+			"arrests": {
+				"infraction": 3,
+				"felony": 32,
+				"misdemeanor": 91,
+				"other": 3,
+				"violation": 6
+			},
+			"awards": []
+		},
+		"command": "CEIS METRO SAFE STREETS TF"
+	},
+	{
 		"taxid": 961874,
 		"full_name": "KWAN, JASON",
 		"first_name": "JASON",
@@ -67302,7 +67368,7 @@
 		"shield_no": "14855",
 		"appt_date": "7/13/2016",
 		"recognition_count": 2,
-		"arrest_count": 193,
+		"arrest_count": 192,
 		"reports": {
 			"summary": {
 				"command": "070 PRECINCT",

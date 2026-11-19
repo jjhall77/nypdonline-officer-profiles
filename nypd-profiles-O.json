@@ -9918,7 +9918,7 @@
 		"rank": "DEPUTY INSPECTOR",
 		"shield_no": "",
 		"appt_date": "7/6/2010",
-		"recognition_count": 199,
+		"recognition_count": 201,
 		"arrest_count": 173,
 		"reports": {
 			"summary": {
@@ -9965,6 +9965,14 @@
 				"violation": 3
 			},
 			"awards": [
+				{
+					"date": "8/24/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "2/21/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
 				{
 					"date": "10/22/2024",
 					"name": "EXCELLENT POLICE DUTY"
@@ -26752,8 +26760,8 @@
 		"arrest_count": 517,
 		"reports": {
 			"summary": {
-				"command": "BXN AUTO LARCENY UNIT",
-				"assignment_date": "8/20/2026",
+				"command": "BXS AUTO LARCENY UNIT",
+				"assignment_date": "11/18/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "SERGEANT",
 				"shield_no": "3482",
@@ -26943,7 +26951,7 @@
 				}
 			]
 		},
-		"command": "BXN AUTO LARCENY UNIT"
+		"command": "BXS AUTO LARCENY UNIT"
 	},
 	{
 		"taxid": 919517,

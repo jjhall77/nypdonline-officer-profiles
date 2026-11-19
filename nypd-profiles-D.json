@@ -7857,7 +7857,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 52,
+				"felony": 53,
 				"misdemeanor": 49
 			},
 			"awards": [
@@ -15119,6 +15119,14 @@
 		"recognition_count": 0,
 		"arrest_count": 0,
 		"reports": {
+			"summary": {
+				"command": "081 PRECINCT",
+				"assignment_date": "11/10/2026",
+				"ethnicity": "HISPANIC",
+				"rank_desc": "POLICE OFFICER",
+				"shield_no": "10622",
+				"appt_date": "4/22/2026"
+			},
 			"ranks": [],
 			"documents": [],
 			"disciplineHistory": [],
@@ -62830,7 +62838,7 @@
 		"reports": {
 			"summary": {
 				"command": "STRATEGIC RESP GRP 2 BRONX",
-				"assignment_date": "8/14/2026",
+				"assignment_date": "11/12/2026",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "14078",
@@ -96893,7 +96901,7 @@
 			"arrests": {
 				"infraction": 2,
 				"felony": 230,
-				"misdemeanor": 76,
+				"misdemeanor": 79,
 				"violation": 21
 			},
 			"awards": [

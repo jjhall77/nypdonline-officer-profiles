@@ -29505,7 +29505,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 99,
+				"felony": 105,
 				"misdemeanor": 41
 			},
 			"awards": [
@@ -40311,8 +40311,8 @@
 		"arrest_count": 109,
 		"reports": {
 			"summary": {
-				"command": "OPERATIONS DIVISION",
-				"assignment_date": "11/14/2026",
+				"command": "CRITICAL RESPONSE COMMAND",
+				"assignment_date": "5/22/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "LIEUTENANT",
 				"shield_no": "",
@@ -40363,7 +40363,7 @@
 				}
 			]
 		},
-		"command": "OPERATIONS DIVISION"
+		"command": "CRITICAL RESPONSE COMMAND"
 	},
 	{
 		"taxid": 980688,
@@ -141909,6 +141909,10 @@
 			},
 			"awards": [
 				{
+					"date": "3/15/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
 					"date": "6/16/2022",
 					"name": "EXCELLENT POLICE DUTY"
 				},
@@ -162934,7 +162938,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 11,
-				"misdemeanor": 75,
+				"misdemeanor": 76,
 				"violation": 21
 			},
 			"awards": [
@@ -172866,7 +172870,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 32,
+				"felony": 33,
 				"misdemeanor": 91,
 				"violation": 2
 			},

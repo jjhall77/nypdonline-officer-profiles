@@ -2729,6 +2729,10 @@
 			},
 			"awards": [
 				{
+					"date": "12/30/2023",
+					"name": "MERITORIOUS POLICE DUTY"
+				},
+				{
 					"date": "11/21/2022",
 					"name": "EXCELLENT POLICE DUTY"
 				}
@@ -34648,8 +34652,8 @@
 		"arrest_count": 97,
 		"reports": {
 			"summary": {
-				"command": "OPERATIONS DIVISION",
-				"assignment_date": "11/14/2026",
+				"command": "WAREHOUSE SYSTEM",
+				"assignment_date": "3/25/2019",
 				"ethnicity": "HISPANIC",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "1261",
@@ -34673,7 +34677,7 @@
 			},
 			"awards": []
 		},
-		"command": "OPERATIONS DIVISION"
+		"command": "WAREHOUSE SYSTEM"
 	},
 	{
 		"taxid": 977681,
@@ -39211,8 +39215,8 @@
 		"arrest_count": 139,
 		"reports": {
 			"summary": {
-				"command": "CITYWIDE TRAFFIC TF",
-				"assignment_date": "1/24/2024",
+				"command": "OPERATIONS DIVISION",
+				"assignment_date": "11/14/2026",
 				"ethnicity": "WHITE",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "8450",
@@ -39236,7 +39240,7 @@
 			},
 			"awards": []
 		},
-		"command": "CITYWIDE TRAFFIC TF"
+		"command": "OPERATIONS DIVISION"
 	},
 	{
 		"taxid": 939586,

@@ -19132,8 +19132,8 @@
 		"arrest_count": 137,
 		"reports": {
 			"summary": {
-				"command": "AUTO POUNDS",
-				"assignment_date": "11/14/2026",
+				"command": "WAREHOUSE SYSTEM",
+				"assignment_date": "2/9/2026",
 				"ethnicity": "BLACK",
 				"rank_desc": "POLICE OFFICER",
 				"shield_no": "24936",
@@ -19169,7 +19169,7 @@
 				}
 			]
 		},
-		"command": "AUTO POUNDS"
+		"command": "WAREHOUSE SYSTEM"
 	},
 	{
 		"taxid": 958724,
