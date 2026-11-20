@@ -9721,7 +9721,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 3
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -25038,8 +25038,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 130,
-				"misdemeanor": 84,
+				"felony": 133,
+				"misdemeanor": 87,
 				"violation": 1
 			},
 			"awards": [
@@ -29634,7 +29634,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 6,
+				"felony": 7,
 				"misdemeanor": 8
 			},
 			"awards": []
@@ -45575,7 +45575,8 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"felony": 1
+				"felony": 1,
+				"misdemeanor": 1
 			},
 			"awards": []
 		},
@@ -49970,7 +49971,9 @@
 			"documents": [],
 			"disciplineHistory": [],
 			"discipline": [],
-			"arrests": {},
+			"arrests": {
+				"misdemeanor": 1
+			},
 			"awards": []
 		},
 		"command": "067 PCT FIELD TRAINING UNIT"
@@ -50077,7 +50080,7 @@
 			"discipline": [],
 			"arrests": {
 				"infraction": 1,
-				"felony": 70,
+				"felony": 71,
 				"misdemeanor": 127
 			},
 			"awards": []
@@ -79018,7 +79021,7 @@
 			"disciplineHistory": [],
 			"discipline": [],
 			"arrests": {
-				"misdemeanor": 3
+				"misdemeanor": 4
 			},
 			"awards": []
 		},
@@ -91584,6 +91587,10 @@
 				},
 				{
 					"date": "7/11/2025",
+					"name": "EXCELLENT POLICE DUTY"
+				},
+				{
+					"date": "7/9/2025",
 					"name": "EXCELLENT POLICE DUTY"
 				},
 				{
@@ -105681,7 +105688,7 @@
 			"discipline": [],
 			"arrests": {
 				"felony": 3,
-				"misdemeanor": 8
+				"misdemeanor": 9
 			},
 			"awards": []
 		},
